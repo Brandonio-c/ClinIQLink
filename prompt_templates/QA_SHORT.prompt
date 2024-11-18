@@ -1,0 +1,9 @@
+Forget everything previously known. Based only on the information provided in the following paragraph, create a factual question with a precise answer that a General Practitioner would know. The question should ask for specific details, and the answer should be short, accurate, and no more than 50 words. The response should reflect solely the information from the paragraph, without any external assumptions. Provide the response in the following format: question followed by a concise answer.
+
+
+Response format:
+Question: [Question]
+Answer: [Answer (no more than 50 words)]
+
+Information:
+{paragraph_text}

@@ -1,0 +1,9 @@
+Forget everything previously known. Using only the information provided in the following paragraph, create a true/false question that can be answered with either "True" or "False." The question should be fact-based and grounded exclusively in the content given below, ignoring any other knowledge. Provide the response in the following format: question followed by the answer ("True" or "False").
+
+
+Response format:
+Question: [Question]
+Answer: [True/False]
+
+Information:
+{paragraph_text}

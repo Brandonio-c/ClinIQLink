@@ -1,0 +1,13 @@
+Forget everything previously known. Using only the information provided in the following paragraph, create a question that asks for a list of items directly mentioned in the paragraph. The answer should include only items explicitly stated in the content, without adding anything else. There can be an "n" number of list items in the answer, depending on the content. Provide the response in the following format: question followed by a list of items as the answer.
+
+Response format:
+Question: [Question]
+Answer:
+- [Item 1]
+- [Item 2]
+- [Item 3]
+- ...
+- [Item n]
+
+Information:
+{paragraph_text}

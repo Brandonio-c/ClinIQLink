@@ -1,0 +1,14 @@
+Forget everything previously known. Based only on the information provided in the following paragraph, create a multiple-choice question with four answer options (A, B, C, D). Only one of the options should be correct. The question and answer should reflect solely the information from the paragraph, without any external assumptions. Provide the response in the following format: question with four answer options (A, B, C, and D), and indicate the correct answer by listing the letter (A, B, C, or D).
+
+Response format:
+Question: [Question]
+Answer:
+Options:
+A: [Option A]
+B: [Option B]
+C: [Option C]
+D: [Option D]
+Answer: [Correct Answer (A, B, C, or D)]
+
+Information:
+{paragraph_text}
