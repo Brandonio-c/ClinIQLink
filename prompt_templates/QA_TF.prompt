@@ -1,9 +1,16 @@
-Forget everything previously known. Using only the information provided in the following paragraph, create a true/false question that can be answered with either "True" or "False." The question should be fact-based and grounded exclusively in the content given below, ignoring any other knowledge. Provide the response in the following format: question followed by the answer ("True" or "False").
+Forget everything previously known. You are required to generate a **factual True/False question** based only on the information in the paragraph below. The question must be **clear, precise, and directly verifiable** from the text, avoiding any assumptions or external knowledge.
 
+### **Instructions**
+- The **statement must be factual** and based solely on the provided paragraph.
+- The **statement should be either true or false**, without ambiguity.
+- The **answer must be explicitly verifiable** from the paragraph.
+- Avoid opinion-based, speculative, or subjective statements.
 
-Response format:
-Question: [Question]
-Answer: [True/False]
+### **Response Format**
+<startofQAtext>
+**Statement:** [Generate a clear True/False statement based on the paragraph]  
+**Answer:** [True or False]  
+<endofQAtext>
 
-Information:
+### **Information Source**
 {paragraph_text}

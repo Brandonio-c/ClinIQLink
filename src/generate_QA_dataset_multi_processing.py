@@ -2,7 +2,7 @@
 QADatasetGenerator
 
 Author: Brandon Colelough
-Date Last Edited: 2025-02-03
+Date Last Edited: 2025-01-28
 License: MIT
 
 Description:
@@ -33,11 +33,16 @@ from enum import Enum
 import time
 from datetime import datetime
 import threading
+import multiprocessing
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
+# import torch.distributed as dist
+from torch.nn.parallel import DistributedDataParallel as DDP
+from accelerate import dispatch_model, infer_auto_device_map
 from torch.nn.utils.rnn import pad_sequence
-
-# from transformers.utils.logging import set_verbosity_debug
-# set_verbosity_debug()
-
+from transformers.utils.logging import set_verbosity_debug
+set_verbosity_debug()
+#adding to fix: "Disabling tokenizer parallelism, we're using DataLoader multithreading already" suggests the Hugging Face tokenizer might be blocking parallelism.
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 class QAType(Enum):
     TRUE_FALSE = "tf"
@@ -47,7 +52,7 @@ class QAType(Enum):
     MULTI_HOP = "multi_hop"  # New question type
 
 class QADatasetGenerator:
-    def __init__(self, preprocessed_csv, llama3_model_path, output_dir, max_new_tokens, max_sequence_length, checkpoint, max_entries=None, start_paragraph=0, debugging=False, debugging_verbose=False):
+    def __init__(self, preprocessed_csv, llama3_model_path, output_dir, max_new_tokens, max_sequence_length, checkpoint, max_entries=None, debugging=False):
         """
         Initializes the QADatasetGenerator with necessary paths and models.
 
@@ -63,7 +68,6 @@ class QADatasetGenerator:
             - The QA pipeline model for text generation
             - The prompt templates for generating different question types
         """
-        self.start_paragraph = start_paragraph 
 
         # Automatically detect GPU and set the device
         self.device = torch.device(f"cuda:{torch.cuda.current_device()}" if torch.cuda.is_available() else "cpu")
@@ -72,11 +76,10 @@ class QADatasetGenerator:
         self.init_start_time = datetime.now()
         print(f"[DEBUG] Initialization started at: {self.init_start_time.strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
 
-        self.name = Path(preprocessed_csv).stem
         self.preprocessed_csv = Path(preprocessed_csv)
         self.llama3_model_path = llama3_model_path
-        self.output_dir = Path(output_dir) / self.name
-        self.output_dir.mkdir(parents=True, exist_ok=True)  # Ensure directory exists
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
         self.max_new_tokens = max_new_tokens
         self.max_sequence_length = max_sequence_length
         # Load NER model (SpaCy) and sentence embedding model (Hugging Face)
@@ -96,6 +99,9 @@ class QADatasetGenerator:
         self.tokenizer = transformers.AutoTokenizer.from_pretrained(llama3_model_path, padding_side="left", truncation=True, model_max_length=self.max_sequence_length)
         self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
+        # Initialize Distributed Training
+        # dist.init_process_group(backend="nccl")  # Set up multi-GPU communication
+
         self.model = transformers.AutoModelForCausalLM.from_pretrained(
                     llama3_model_path, 
                     torch_dtype=torch.bfloat16,  # Use bfloat16 as specified
@@ -108,20 +114,36 @@ class QADatasetGenerator:
         
         # Ensure padding token is set
         self.model.config.pad_token_id = self.tokenizer.eos_token_id   
+
+        # Move the model to the correct device
+        # self.model.to(torch.cuda.current_device())
+        # self.tokenizer.to(torch.cuda.current_device())
+
+        
+        # if torch.cuda.is_available():
+        #     self.model.to(f"cuda:{torch.cuda.current_device()}")
+
+        # torch.cuda.empty_cache()  # Free up memory
+
+        # Wrap the model with DistributedDataParallel (DDP)
+        #device_map = infer_auto_device_map(self.model, max_memory={0: "80GB", 1: "80GB"}, dtype=torch.bfloat16)
+        # device_map = infer_auto_device_map(self.model)
+        # self.model = dispatch_model(self.model, device_map=device_map)
  
         self.qa_pipeline = pipeline(
                                     "text-generation",
-                                    model=self.model,
+                                    model=self.model.module if hasattr(self.model, "module") else self.model,  # Ensure compatibility with DDP
                                     tokenizer=self.tokenizer,
-                                    #device=self.device,  
-                                    truncation=True,
-                                    #batch_size=1,  # Reduce batch size for memory efficiency
-                                    max_new_tokens=self.max_new_tokens,
-                                    pad_token_id=self.tokenizer.eos_token_id,
+                                    truncation=True,  # Enable truncation
+                                    #device=self.device,
+                                    batch_size=4,  # Adjust batch size based on available VRAM - A100 GPUs have enough memory to handle batch size 16-32
+                                    max_new_tokens=self.max_new_tokens,  # Set the maximum token length to 2048
+                                    pad_token_id=self.tokenizer.eos_token_id,  # Explicitly set padding token
                                     return_tensors="pt",
-                                    torch_dtype=torch.bfloat16,  # Use bfloat16 to reduce memory overhead
+                                    # device=torch.cuda.current_device()
                                 )
         
+        # Define generation arguments
         # Define generation arguments
         self.generation_args = {
             #"max_new_tokens": 400,  # Limit the number of new tokens per response
@@ -153,7 +175,6 @@ class QADatasetGenerator:
         self.max_entries = max_entries
         self.save_every = checkpoint
         self.debugging=debugging
-        self.debugging_verbose = debugging_verbose
 
         self.qa_counts = {  # Initialize counters for each QA type
             QAType.SHORT: 0,
@@ -164,6 +185,9 @@ class QADatasetGenerator:
         }
 
         self.balance_threshold = 10 # the above two variables are used to balance the number of QA quesiton types are made / distributed. 
+
+        if self.debugging:
+            print("Debugging enabled!", flush=True)
 
         # Print initialization duration
         self.init_end_time = datetime.now()
@@ -211,7 +235,7 @@ class QADatasetGenerator:
             sentence_count = len(list(doc.sents))
 
             if word_count < 15 or sentence_count < 2:
-                if self.debugging_verbose:
+                if self.debugging:
                     print(f"[DEBUG] Processing paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn}) NOT INFORMATIVE - Word count and / or sentence count too low. Word count: {word_count}, Sentence count: {sentence_count}", flush=True)
                 return False  # Too short or simple
             
@@ -226,14 +250,14 @@ class QADatasetGenerator:
             "supporting information", "recommended readings", "learning objectives", "key terms"
             ]
             if any(keyword in paragraph_text.lower() for keyword in irrelevant_keywords):
-                if self.debugging_verbose:
+                if self.debugging:
                     found_keywords = [keyword for keyword in irrelevant_keywords if keyword in paragraph_text.lower()]
                     print(f"[DEBUG] Paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn}) NOT INFORMATIVE - Found irrelevant keyword(s): {', '.join(found_keywords)}", flush=True)
                 return False  # Contains irrelevant metadata
             
             """ # Detect tables, figures, and metadata
             if re.search(r"(\d+\.\d+|Fig\.|Table|•)", paragraph_text):
-                if self.debugging_verbose:
+                if self.debugging:
                     match = re.search(r"(\d+\.\d+|Fig\.|Table|•)", paragraph_text)
                     print(f"Paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn}) NOT INFORMATIVE - Found pattern match: '{match.group(0)}'", flush=True)
                 return False """
@@ -242,7 +266,7 @@ class QADatasetGenerator:
             entities = [ent.label_ for ent in doc.ents]
             entity_density = len(entities) / word_count
             if entity_density < 0.01:  # Less than 1% of words are entities - Tunable parameter TODO - Play around with this to determine what is a good threshhold 
-                if self.debugging_verbose:
+                if self.debugging:
                     print(
                             f"[DEBUG] Paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn}) NOT INFORMATIVE - "
                             f"Entity Density too low. Word count: {word_count}, Entities found: {len(entities)}, "
@@ -269,7 +293,7 @@ class QADatasetGenerator:
             embedding_variance = torch.var(sentence_embeddings_tensor).item()
 
             if embedding_variance > 0.5:
-                if self.debugging_verbose:
+                if self.debugging:
                     print(
                         f"[DEBUG] Paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn}) NOT INFORMATIVE - "
                         f"High embedding variance. Variance: {embedding_variance:.3f}, "
@@ -300,7 +324,7 @@ class QADatasetGenerator:
         start_marker = "<startofQAtext>"
         end_marker = "<endofQAtext>"
 
-        if self.debugging_verbose:
+        if self.debugging:
             print(f"\n[DEBUG] Extracting text between markers (Occurrence: {occurrence})...", flush=True)
             print(f"[DEBUG] Raw response text (first 500 chars): {response_text[:500]}", flush=True)
 
@@ -309,7 +333,7 @@ class QADatasetGenerator:
         start_indices = [i for i in range(len(response_text)) if response_text.startswith(start_marker, i)]
         end_indices = [i for i in range(len(response_text)) if response_text.startswith(end_marker, i)]
 
-        if self.debugging_verbose:
+        if self.debugging:
             print(f"[DEBUG] Start marker indices: {start_indices}", flush=True)
             print(f"[DEBUG] End marker indices: {end_indices}", flush=True)
 
@@ -319,12 +343,12 @@ class QADatasetGenerator:
             end_index = end_indices[occurrence - 1]
             extracted_text = response_text[start_index:end_index].strip()
 
-            if self.debugging_verbose:
+            if self.debugging:
                 print(f"[DEBUG] Extracted text (first 300 chars): {extracted_text[:300]}", flush=True)
 
             return extracted_text
         else:
-            if self.debugging_verbose:
+            if self.debugging:
                 print(f"[WARNING] Start or end marker occurrence {occurrence} not found in the generated output!", flush=True)
             return None
        
@@ -341,9 +365,9 @@ class QADatasetGenerator:
         """
         # Prepare the prompt for the short-answer QA
         prompt = self.QA_SHORT_template.replace("{paragraph_text}", paragraph_text)
-        if self.debugging_verbose:
+        if self.debugging:
             print("[DEBUG] - Prompt used to generate short answer QA sets", flush=True)
-            print(prompt, flush=True)
+            print(prompt)
         try:
             tokenized_input = self.tokenizer(prompt, return_tensors="pt")
             input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
@@ -363,43 +387,26 @@ class QADatasetGenerator:
                                             num_return_sequences=1,  # Generates only one response
                                             **self.generation_args  # Passes additional generation arguments
                                         )
-            if self.debugging_verbose:
+            if self.debugging:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
-                print(response[0]["generated_text"], flush=True)
+                print(response[0]["generated_text"])
 
             qa_text = response[0]["generated_text"]
 
             # Ensure the correct field is passed as `response_text`
             extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
-            if not extracted_text:
-                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
-                return None
+            if "not found" in extracted_text:
+                print(f"[WARNING] Markers not found in response: {qa_text}", flush=True)
+            
 
-            # Debugging: print extracted text before processing
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
+            # Split the generated text into question and answer
+            if "\nAnswer:" in extracted_text:
+                qa_parts = extracted_text.split("\nAnswer:", 1)
+                question = qa_parts[0].strip()  # Text before "Answer:" is the question
+                answer = qa_parts[1].strip()  # Text after "Answer:" is the answer
 
-            # Define a regex pattern to extract question and answer reliably
-            qa_pattern = re.compile(
-                r"\*\*Question:\*\*\s*(?P<question>.*?)\s*\*\*Answer:\*\*\s*(?P<answer>.*)",
-                re.DOTALL
-            )
-
-            # Match against extracted text
-            match = qa_pattern.search(extracted_text)
-
-            if match:
-                question = match.group("question").strip()
-                answer = match.group("answer").strip()
-
-                # Ensure the answer is properly formatted (remove unwanted trailing text)
-                answer = re.split(r"(\n|\s{2,})", answer)[0].strip()  # Keep only the first sentence/phrase
-
-                if self.debugging_verbose:
-                    print(f"[DEBUG] Extracted Question: {question}", flush=True)
-                    print(f"[DEBUG] Extracted Answer: {answer}", flush=True)
-
+                # Return the structured QA pair
                 return {
                     "question": question,
                     "answer": answer,
@@ -409,7 +416,6 @@ class QADatasetGenerator:
             else:
                 print(f"[ERROR] Invalid QA format found in short answer QA: {qa_text}", flush=True)
                 return None
-
 
         except Exception as e:
             print(f"[ERROR] Error generating short-answer QA: {e}", flush=True)
@@ -429,7 +435,7 @@ class QADatasetGenerator:
 
         # Prepare the prompt for the true/false QA
         prompt = self.QA_TF_template.replace("{paragraph_text}", paragraph_text)
-        if self.debugging_verbose:
+        if self.debugging:
             print("[DEBUG] - Prompt used to generate TF QA sets", flush=True)
             print(prompt, flush=True)
 
@@ -452,58 +458,37 @@ class QADatasetGenerator:
                                             num_return_sequences=1,  # Generates only one response
                                             **self.generation_args  # Passes additional generation arguments
                                         )
-            if self.debugging_verbose:
+            if self.debugging:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
-                print(response[0]["generated_text"], flush=True)
+                print(response[0]["generated_text"])
 
             qa_text = response[0]["generated_text"]
 
             # Ensure the correct field is passed as `response_text`
             extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
+            if "not found" in extracted_text:
+                print(f"[WARNING] Markers not found in response: {qa_text}", flush=True)
 
-            if not extracted_text:
-                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
-                return None
+            # Split the generated text into question and answer
+            if "\nAnswer:" in extracted_text:
+                qa_parts = extracted_text.split("\nAnswer:", 1)
+                question = qa_parts[0].strip()  # Text before "Answer:" is the question
+                generated_answer = qa_parts[1].strip()  # Text after "Answer:" is the answer
 
-            # Debugging: Print extracted text before processing
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
-
-            # Define regex pattern to reliably extract the statement and answer
-            qa_pattern = re.compile(
-                r"\*\*Statement:\*\*\s*(?P<statement>.*?)\s*"
-                r"\*\*Answer:\*\*\s*(?P<answer>\bTrue\b|\bFalse\b)",
-                re.DOTALL | re.IGNORECASE
-            )
-
-            # Match against extracted text
-            match = qa_pattern.search(extracted_text)
-
-            if match:
-                statement = match.group("statement").strip()
-                answer = match.group("answer").capitalize()  # Normalize case (True/False)
-
-                # Debugging output
-                if self.debugging_verbose:
-                    print(f"[DEBUG] Extracted Statement: {statement}", flush=True)
-                    print(f"[DEBUG] Extracted Answer: {answer}", flush=True)
-
-                return {
-                    "question": statement,  # Treating "Statement" as the question
-                    "answer": answer,
-                    "type": "true_false",
-                    "source": source_info
-                }
+                # Validate the generated answer matches the chosen "True" or "False"
+                if generated_answer in ["True", "False"]:
+                    return {
+                        "question": question,
+                        "answer": generated_answer,
+                        "type": "true_false",
+                        "source": source_info
+                    }
+                else:
+                    print(f"[ERROR] Generated answer mismatch: {generated_answer}", flush=True)
+                    return None
             else:
                 print(f"[ERROR] Invalid QA format found in TF paragraph: {qa_text}", flush=True)
-
-                # Additional debugging for incorrect formatting
-                if "**Statement:**" not in extracted_text:
-                    print("[DEBUG] Missing '**Statement:**' field.", flush=True)
-                if "**Answer:**" not in extracted_text:
-                    print("[DEBUG] Missing '**Answer:**' field.", flush=True)
-                
                 return None
 
         except Exception as e:
@@ -523,7 +508,7 @@ class QADatasetGenerator:
         """
         # Prepare the prompt using the QA_LIST_template
         prompt = self.QA_LIST_template.replace("{paragraph_text}", paragraph_text)
-        if self.debugging_verbose:
+        if self.debugging:
             print("[DEBUG] - Prompt used to generate list QA sets", flush=True)
             print(prompt, flush=True)
 
@@ -546,81 +531,38 @@ class QADatasetGenerator:
                                             num_return_sequences=1,  # Generates only one response
                                             **self.generation_args  # Passes additional generation arguments
                                         )
-            if self.debugging_verbose:
+            if self.debugging:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
-                print(response[0]["generated_text"], flush=True)
+                print(response[0]["generated_text"])
 
             qa_text = response[0]["generated_text"]
 
             # Ensure the correct field is passed as `response_text`
             extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
+            if "not found" in extracted_text:
+                print(f"[WARNING] Markers not found in response: {qa_text}", flush=True)
 
-            if not extracted_text:
-                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
-                return None
+            # Validate and split the response into question and answer
+            if "\nAnswer:" in extracted_text:
+                qa_parts = extracted_text.split("\nAnswer:", 1)
+                question = qa_parts[0].strip()  # Text before "Answer:" is the question
+                answer = qa_parts[1].strip()  # Text after "Answer:" is the answer
 
-            # Debugging: Print extracted text before processing
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
-
-            # Define regex pattern to reliably extract question, options list, and answer list
-            qa_pattern = re.compile(
-                r"\*\*Question:\*\*\s*(?P<question>.*?)\s*"
-                r"\*\*Options:\*\*\s*(?P<options>(?:- .+\n?)+)?"
-                r"\*\*Answer:\*\*\s*(?P<answer>(?:- .+\n?)+)?",
-                re.DOTALL
-            )
-
-            # Match against extracted text
-            match = qa_pattern.search(extracted_text)
-
-            if match:
-                question = match.group("question").strip()
-
-                # Extract and normalize options list
-                options_text = match.group("options") or ""
-                options = [opt.strip("- ").strip() for opt in options_text.split("\n") if opt.strip()]
-
-                # Extract and normalize answer list
-                answer_text = match.group("answer") or ""
-                answer_list = [ans.strip("- ").strip() for ans in answer_text.split("\n") if ans.strip()]
-
-                # Debugging output
-                if self.debugging_verbose:
-                    print(f"[DEBUG] Extracted Question: {question}", flush=True)
-                    print(f"[DEBUG] Extracted Options: {options}", flush=True)
-                    print(f"[DEBUG] Extracted Answer List: {answer_list}", flush=True)
-
-                # Validate extracted lists
-                if not options:
-                    print(f"[ERROR] Missing options in extracted QA: {extracted_text}", flush=True)
+                # Ensure the answer is a list format (e.g., comma-separated or bullet points)
+                if re.search(r"(•|,|;|\n)", answer):  # Match common list delimiters or line breaks
+                    return {
+                        "question": question,
+                        "answer": answer,
+                        "type": "list",
+                        "source": source_info
+                    }
+                else:
+                    print(f"[ERROR] Invalid list format in generated answer: {answer}", flush=True)
                     return None
-                if not answer_list:
-                    print(f"[ERROR] Missing answer list in extracted QA: {extracted_text}", flush=True)
-                    return None
-
-                return {
-                    "question": question,
-                    "options": options,
-                    "answer": answer_list,
-                    "type": "list",
-                    "source": source_info
-                }
             else:
                 print(f"[ERROR] Invalid QA format found in LIST question: {qa_text}", flush=True)
-                
-                # Additional debugging for incorrect formatting
-                if "**Question:**" not in extracted_text:
-                    print("[DEBUG] Missing '**Question:**' field.", flush=True)
-                if "**Options:**" not in extracted_text:
-                    print("[DEBUG] Missing '**Options:**' field.", flush=True)
-                if "**Answer:**" not in extracted_text:
-                    print("[DEBUG] Missing '**Answer:**' field.", flush=True)
-                
                 return None
-
-
 
         except Exception as e:
             print(f"[ERROR] Error generating list QA: {e}", flush=True)
@@ -640,7 +582,7 @@ class QADatasetGenerator:
 
         # Prepare the MC-specific prompt
         prompt = self.QA_MC_template.replace("{paragraph_text}", paragraph_text)
-        if self.debugging_verbose:
+        if self.debugging:
             print("[DEBUG] - Prompt used to generate MC QA sets", flush=True)
             print(prompt, flush=True)
         try:
@@ -662,148 +604,51 @@ class QADatasetGenerator:
                                                 num_return_sequences=1,  # Generates only one response
                                                 **self.generation_args  # Passes additional generation arguments
                                             )
-            if self.debugging_verbose:
+            if self.debugging:
                     print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                     print("[DEBUG]", flush=True)
-                    print(response[0]["generated_text"], flush=True)
+                    print(response[0]["generated_text"])
 
             qa_text = response[0]["generated_text"]
 
             # Ensure the correct field is passed as `response_text`
             extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
+            if "not found" in extracted_text:
+                print(f"[WARNING] Markers not found in response: {qa_text}", flush=True)
 
-            if not extracted_text:
-                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
+            # Split the generated response into the question, correct answer, and distractors
+            qa_parts = re.split(r"\n(A|B|C|D):", extracted_text)  # Split at multiple-choice options (A, B, C, D)
+            if len(qa_parts) < 5:  # Ensure the response contains at least one question and four options
+                print(f"[ERROR] Invalid MC format: {qa_text}", flush=True)
                 return None
 
-            # Debugging: Print extracted text before processing
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted text before processing:\n{extracted_text}\n", flush=True)
+            question = qa_parts[0].strip()  # The text before the first option is the question
+            options = {  # The rest are options
+                "A": qa_parts[2].strip(),
+                "B": qa_parts[4].strip(),
+                "C": qa_parts[6].strip(),
+                "D": qa_parts[8].strip()
+            }
 
-            # Extract the question
-            question_match = re.search(r"\*\*Question:\*\*\s*(.*?)\s*(?=\*\*Options:\*\*)", extracted_text, re.DOTALL)
-            if not question_match:
-                # Try finding "Question" in a more relaxed way
-                question_match = re.search(r"Question:\s*(.*?)\s*(?=\*\*Options:\*\*|Options:)", extracted_text, re.DOTALL)
+            # Identify the correct answer (assumed to be marked in the template or pipeline response)
+            correct_option = None
+            for key, option in options.items():
+                if "[Correct]" in option:  # Assume correct answer is marked with [Correct]
+                    correct_option = key
+                    options[key] = option.replace("[Correct]", "").strip()  # Remove marker from correct option
 
-            if not question_match:
-                print("[ERROR] Failed to locate the '**Question:**' field in extracted text.", flush=True)
-                print(f"[DEBUG] Full Extracted Text:\n{extracted_text}", flush=True)
+            if not correct_option:
+                print(f"[ERROR] No correct option identified in: {qa_text}", flush=True)
                 return None
 
-            question = question_match.group(1).strip()
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted Question: {question}", flush=True)
-
-            # Extract the options block
-            options_match = re.search(r"\*\*Options:\*\*\s*(.*?)\s*(?=\*\*Answer:\*\*)", extracted_text, re.DOTALL)
-            if not options_match:
-                # Try a more relaxed pattern if strict formatting is missing
-                options_match = re.search(r"Options:\s*(.*?)\s*(?=\*\*Answer:\*\*|Answer:)", extracted_text, re.DOTALL)
-
-            if not options_match:
-                print("[ERROR] Failed to locate the '**Options:**' section in extracted text.", flush=True)
-                print(f"[DEBUG] Full Extracted Text:\n{extracted_text}", flush=True)
-                return None
-
-            options_block = options_match.group(1).strip()
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted Options Block:\n{options_block}\n", flush=True)
-
-            # Extract the answer
-            answer_match = re.search(r"\*\*Answer:\*\*\s*([ABCD])", extracted_text)
-            if not answer_match:
-                # Try a more relaxed pattern if strict formatting is missing
-                answer_match = re.search(r"Answer:\s*([ABCD])", extracted_text)
-
-            if not answer_match:
-                print("[ERROR] Failed to locate the '**Answer:**' field in extracted text.", flush=True)
-                print(f"[DEBUG] Full Extracted Text:\n{extracted_text}", flush=True)
-                return None
-
-            correct_answer = answer_match.group(1).strip()
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted Correct Answer: {correct_answer}", flush=True)
-
-            # Parse individual options using multiple extraction methods
-            options = {}
-
-            # Primary regex method (structured extraction)
-            option_patterns = [
-                (r"A[:.]?\s*(.*?)\s*(?=\nB[:.]?)", "A"),
-                (r"B[:.]?\s*(.*?)\s*(?=\nC[:.]?)", "B"),
-                (r"C[:.]?\s*(.*?)\s*(?=\nD[:.]?)", "C"),
-                (r"D[:.]?\s*(.*?)$", "D")
-            ]
-
-            for pattern, label in option_patterns:
-                match = re.search(pattern, options_block, re.DOTALL)
-                if match:
-                    options[label] = match.group(1).strip()
-
-            # Fallback 1: If primary regex fails, attempt line-by-line parsing
-            if len(options) < 4:
-                if self.debugging_verbose:
-                    print(f"[WARNING] Standard regex extraction failed, attempting line-based extraction...", flush=True)
-
-                lines = options_block.split("\n")
-                temp_options = {}
-                for line in lines:
-                    line = line.strip()
-                    if line.startswith("A:") or line.startswith("A."):
-                        temp_options["A"] = line[2:].strip()
-                    elif line.startswith("B:") or line.startswith("B."):
-                        temp_options["B"] = line[2:].strip()
-                    elif line.startswith("C:") or line.startswith("C."):
-                        temp_options["C"] = line[2:].strip()
-                    elif line.startswith("D:") or line.startswith("D."):
-                        temp_options["D"] = line[2:].strip()
-
-                if len(temp_options) == 4:
-                    options = temp_options
-
-            # Fallback 2: If still missing options, try extracting based on newlines
-            if len(options) < 4:
-                if self.debugging_verbose:
-                    print(f"[WARNING] Line-based extraction failed, attempting newline splitting...", flush=True)
-
-                option_lines = [line.strip() for line in options_block.split("\n") if line.strip()]
-                if len(option_lines) >= 4:
-                    options = {
-                        "A": option_lines[0][2:].strip(),
-                        "B": option_lines[1][2:].strip(),
-                        "C": option_lines[2][2:].strip(),
-                        "D": option_lines[3][2:].strip(),
-                    }
-
-            # Final Validation
-            if len(options) != 4:
-                print(f"[ERROR] Incorrect number of options extracted. Expected 4, found {len(options)}.", flush=True)
-                print(f"[DEBUG] Extracted Options: {options}", flush=True)
-                return None
-
-            if correct_answer not in options:
-                print(f"[ERROR] Correct answer '{correct_answer}' is not among the extracted options.", flush=True)
-                print(f"[DEBUG] Extracted Options: {options}", flush=True)
-                return None
-
-            # Debugging output for final parsed MC question
-            if self.debugging_verbose:
-                print(f"[DEBUG] Final Parsed Multiple-Choice QA Pair:", flush=True)
-                print(f"  Question: {question}", flush=True)
-                for key, value in options.items():
-                    print(f"  {key}: {value}", flush=True)
-                print(f"  Correct Answer: {correct_answer}\n", flush=True)
-
-            # Return the extracted MC question
+            # Return the structured QA pair
             return {
                 "question": question,
                 "options": options,
-                "correct_answer": correct_answer,
+                "correct_answer": correct_option,
                 "type": "multiple_choice",
                 "source": source_info
             }
-
         except Exception as e:
             print(f"[ERROR] Error generating MC QA: {e}", flush=True)
             return None
@@ -821,7 +666,7 @@ class QADatasetGenerator:
         """
         # Prepare the prompt for the multi-hop QA
         prompt = self.QA_MULTI_HOP_template.replace("{paragraph_text}", paragraph_text)
-        if self.debugging_verbose:
+        if self.debugging:
             print("[DEBUG] - Prompt used to generate multi-hop QA sets", flush=True)
             print(prompt, flush=True)
 
@@ -844,12 +689,6 @@ class QADatasetGenerator:
                 num_return_sequences=1,
                 **self.generation_args,
             )
-
-            if self.debugging_verbose:
-                    print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
-                    print("[DEBUG]", flush=True)
-                    print(response[0]["generated_text"], flush=True)
-
             qa_text = response[0]["generated_text"]
 
             # Ensure the correct field is passed as `response_text`
@@ -857,40 +696,15 @@ class QADatasetGenerator:
             if "not found" in extracted_text:
                 print(f"[WARNING] Markers not found in response: {qa_text}", flush=True)
 
-            # Debugging: Print extracted text before processing
-            if self.debugging_verbose:
-                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
+            # Parse the extracted text into question, answer, and reasoning
+            if "\nAnswer:" in extracted_text and "\nReasoning:" in extracted_text:
+                qa_parts = extracted_text.split("\nAnswer:", 1)
+                question = qa_parts[0].strip()
+                answer_and_reasoning = qa_parts[1].split("\nReasoning:", 1)
+                answer = answer_and_reasoning[0].strip()
+                reasoning = answer_and_reasoning[1].strip()
 
-            # Define regex pattern to match Question, Answer, and Reasoning
-            qa_pattern = re.compile(
-                r"\*\*Question:\*\*\s*(?P<question>.*?)\s*"
-                r"\*\*Answer:\*\*\s*(?P<answer>.*?)\s*"
-                r"\*\*Reasoning:\*\*\s*(?P<reasoning>.*)",
-                re.DOTALL
-            )
-
-            # Match against extracted text
-            match = qa_pattern.search(extracted_text)
-
-            if match:
-                question = match.group("question").strip().replace("**", "")  # Remove ** formatting
-                answer = match.group("answer").strip().replace("**", "")
-                reasoning = match.group("reasoning").strip().replace("**", "")
-
-                # Check for missing fields explicitly
-                missing_fields = []
-                if not question:
-                    missing_fields.append("Question")
-                if not answer:
-                    missing_fields.append("Answer")
-                if not reasoning:
-                    missing_fields.append("Reasoning")
-
-                if missing_fields:
-                    print(f"[ERROR] Missing fields in extracted QA: {', '.join(missing_fields)}", flush=True)
-                    print(f"[DEBUG] Extracted QA content:\n{extracted_text}", flush=True)
-                    return None
-
+                # Return the structured QA pair
                 return {
                     "question": question,
                     "answer": answer,
@@ -899,33 +713,106 @@ class QADatasetGenerator:
                     "source": source_info,
                 }
             else:
-                # Provide more detailed error information
-                print(f"[ERROR] Invalid QA format detected.", flush=True)
-                
-                # Check if Question is missing
-                if "Question:" not in extracted_text:
-                    print("[DEBUG] 'Question:' keyword not found in extracted text.", flush=True)
-
-                # Check if Answer is missing
-                if "Answer:" not in extracted_text:
-                    print("[DEBUG] 'Answer:' keyword not found in extracted text.", flush=True)
-
-                # Check if Reasoning is missing
-                reasoning_keywords = ["Reasoning:", "Step 1:", "Explanation:", "Steps:"]
-                if not any(keyword in extracted_text for keyword in reasoning_keywords):
-                    print(f"[DEBUG] No valid reasoning section found. Expected one of: {reasoning_keywords}", flush=True)
-
-                # Print the extracted text for debugging
-                print(f"[DEBUG] Full extracted text:\n{extracted_text}", flush=True)
-                
+                print(f"[ERROR] Invalid QA format found in multi-hop QA: {extracted_text}", flush=True)
                 return None
-
 
         except Exception as e:
             print(f"[ERROR] Error generating multi-hop QA: {e}", flush=True)
             return None
         
-    def process_paragraph(self, paragraph, isbn):
+    def generate_qa_for_type(self, paragraph_text, question_type, source_info):
+        """
+        Generates a QA pair using the appropriate function based on the question type.
+
+        Parameters:
+            paragraph_text (str): The paragraph to generate a question from.
+            question_type (QAType): The type of question to generate.
+            source_info (dict): Metadata about the paragraph.
+
+        Returns:
+            dict or None: Generated QA pair
+        """
+        if self.debugging:
+            print(f"[DEBUG] Generating QA for type: {question_type.value} | Paragraph ID: {source_info.get('paragraph_id', 'Unknown')}", flush=True)
+
+        # # Force model execution on the correct device
+        # torch.cuda.set_device(self.device)  
+
+        qa_pair = None
+
+        if question_type == QAType.SHORT:
+            if self.debugging:
+                print(f"[DEBUG] Generating short answer QA...", flush=True)
+            qa_pair = self.generate_short_answer_QA(paragraph_text, source_info)
+
+        elif question_type == QAType.TRUE_FALSE:
+            if self.debugging:
+                print(f"[DEBUG] Generating True/False QA...", flush=True)
+            qa_pair = self.generate_TF_QA(paragraph_text, source_info)
+
+        elif question_type == QAType.LIST:
+            if self.debugging:
+                print(f"[DEBUG] Generating List QA...", flush=True)
+            qa_pair = self.generate_list_QA(paragraph_text, source_info)
+
+        elif question_type == QAType.MULTIPLE_CHOICE:
+            if self.debugging:
+                print(f"[DEBUG] Generating Multiple Choice QA...", flush=True)
+            qa_pair = self.generate_MC_QA(paragraph_text, source_info)
+
+        elif question_type == QAType.MULTI_HOP:
+            if self.debugging:
+                print(f"[DEBUG] Generating Multi-Hop QA...", flush=True)
+            qa_pair = self.generate_multi_hop_QA(paragraph_text, source_info)
+
+        if self.debugging:
+            print(f"[DEBUG] QA Generation Result: {qa_pair if qa_pair else 'No QA generated'}", flush=True)
+
+        return qa_pair
+
+
+    def generate_qa_batch(self, paragraphs, question_types, sources):
+        """
+        Generates QA pairs in batches while calling the specific QA function for each question type.
+
+        Parameters:
+            paragraphs (list): List of paragraph texts.
+            question_types (list): List of corresponding question types.
+            sources (list): List of metadata dictionaries for each paragraph.
+
+        Returns:
+            None (QA pairs are stored directly in their respective lists)
+        """
+        if self.debugging:
+            print(f"[DEBUG] Starting QA batch generation for {len(paragraphs)} paragraphs...", flush=True)
+
+        results = []
+        for para, q_type, source in zip(paragraphs, question_types, sources):
+            results.append(self.generate_qa_for_type(para, q_type, source)) 
+
+        # Debug collected QA pairs
+        if self.debugging:
+            print(f"[DEBUG] Completed QA batch generation. Collected {len(results)} QA pairs.", flush=True)
+
+        # Store QA pairs properly
+        for qa_pair in results:
+            if qa_pair:
+                if qa_pair["type"] == "short_answer":
+                    self.short_QA_pairs.append(qa_pair)
+                elif qa_pair["type"] == "true_false":
+                    self.TF_QA_pairs.append(qa_pair)
+                elif qa_pair["type"] == "list":
+                    self.list_QA_pairs.append(qa_pair)
+                elif qa_pair["type"] == "multiple_choice":
+                    self.MC_QA_pairs.append(qa_pair)
+                elif qa_pair["type"] == "multi_hop":
+                    self.multi_hop_QA_pairs.append(qa_pair)
+
+        if self.debugging:
+            print(f"[DEBUG] QA pairs stored - Short: {len(self.short_QA_pairs)}, TF: {len(self.TF_QA_pairs)}, "
+                f"List: {len(self.list_QA_pairs)}, MC: {len(self.MC_QA_pairs)}, Multi-Hop: {len(self.multi_hop_QA_pairs)}", flush=True)
+
+    def process_paragraph(self, paragraph):
         """
         Processes a single paragraph to determine if it's informative.
         
@@ -937,7 +824,7 @@ class QADatasetGenerator:
         """
         paragraph_text = paragraph.get("Text", "")
         source_info = {
-            "isbn": isbn,
+            "isbn": paragraph.get("ISBN", "Unknown ISBN"),
             "paragraph_id": paragraph.get("Paragraph ID", "Unknown ID"),
             "page": paragraph.get("Page", "Unknown Page")
         }
@@ -946,6 +833,97 @@ class QADatasetGenerator:
         is_informative = self.is_content_informative(paragraph_text, i=0, total_paragraphs=1, title="Unknown", isbn="Unknown")
 
         return is_informative, paragraph_text, source_info
+    
+    def generate_qa_pairs_v2(self, data, batch_size=4, num_workers=8):
+        """
+        Generates QA pairs for each paragraph in each book entry in batches while maintaining prompt-specific functions.
+
+        Parameters:
+            data (list): List of dictionaries with metadata and file paths for each book.
+            batch_size (int): Number of paragraphs to process in parallel.
+            num_workers (int): Number of CPU workers for parallel preprocessing.
+        """
+        total_entries = len(data)
+        process_start_time = time.time()
+
+        if self.debugging:
+            print(f"[DEBUG] Starting QA generation for {total_entries} books...", flush=True)
+
+        with ThreadPoolExecutor(max_workers=num_workers) as pool:
+            for index, entry in enumerate(data, start=1):
+                json_file_path = (self.preprocessed_csv.parent / entry["JSON File"]).resolve()
+
+                try:
+                    if self.debugging:
+                        print(f"\n[DEBUG] Processing book {index}/{total_entries} - {json_file_path}", flush=True)
+
+                    with open(json_file_path, "r", encoding="utf-8") as json_file:
+                        book_data = json.load(json_file)
+
+                    isbn = book_data.get("ISBN", "Unknown ISBN")
+                    title = book_data.get("Title", "Unknown Title")
+                    paragraphs = book_data.get("Paragraphs", [])
+
+                    total_paragraphs = min(len(paragraphs), self.max_entries or len(paragraphs))
+
+                    if self.debugging:
+                        print(f"[DEBUG] Found {total_paragraphs} paragraphs in book: {title} (ISBN: {isbn})", flush=True)
+
+                    # Process paragraphs in parallel
+                    batch_paragraphs = []
+                    batch_sources = []
+
+                    # Step 1: **Parallel Preprocessing**
+                    results = list(pool.map(self.process_paragraph, paragraphs[:total_paragraphs]))
+
+                    for i, (is_informative, paragraph_text, source_info) in enumerate(results):
+                        if not is_informative:
+                            continue
+
+                        batch_paragraphs.append(paragraph_text)
+                        batch_sources.append(source_info)
+
+                        # Process a batch when full
+                        if len(batch_paragraphs) >= batch_size or i == total_paragraphs - 1:
+                            if self.debugging:
+                                print(f"[DEBUG] Processing batch of {len(batch_paragraphs)} paragraphs...", flush=True)
+
+                            # Step 2: **Parallel Question Type Classification**
+                            question_types = list(pool.map(self.determine_question_type_v3, batch_paragraphs))
+
+                            # Step 3: **Parallel QA Generation Using Prompt-Specific Functions**
+                            self.generate_qa_batch(batch_paragraphs, question_types, batch_sources)
+
+                            # Reset batch lists
+                            batch_paragraphs, batch_sources = [], []
+
+                            if i % self.save_every == 0:
+                                self.save_qa_pairs(isbn)
+                                if self.debugging:
+                                    print(f"[DEBUG] Saved QA pairs after {i} paragraphs.", flush=True)
+
+                    # Final save after processing the book
+                    self.save_qa_pairs(isbn)
+
+                    if self.debugging:
+                        print(f"[DEBUG] Processed book {index}/{total_entries}: {title} (ISBN: {isbn})", flush=True)
+
+                except Exception as e:
+                    print(f"[ERROR] Error with file {json_file_path}: {e}", flush=True)
+
+        process_end_time = time.time()
+        if self.debugging:
+            print(f"[DEBUG] Total processing time: {process_end_time - process_start_time:.2f} seconds", flush=True)
+
+        # Free up GPU memory
+        torch.cuda.empty_cache()
+        torch.cuda.synchronize()
+        print("[DEBUG] CUDA memory cleared successfully.", flush=True)
+
+        # Properly destroy the NCCL process group
+        if dist.is_initialized():
+            dist.destroy_process_group()
+            print("[DEBUG] Process group destroyed successfully.", flush=True)
     
     def generate_qa_pairs(self, data):
         """
@@ -962,84 +940,154 @@ class QADatasetGenerator:
         if self.debugging:
             print(f"[DEBUG] Starting QA generation for {total_entries} books...", flush=True)
 
-        for index, entry in enumerate(data, start=1):
+        for index, entry in enumerate(data, start=1):  # Enumerate to track the current entry index
+            # Join the relative path with the directory of `preprocessed_csv` to form an absolute path
             json_file_path = (self.preprocessed_csv.parent / entry["JSON File"]).resolve()
 
             try:
                 if self.debugging:
                     print(f"\n[DEBUG] Processing book {index}/{total_entries} - {json_file_path}", flush=True)
-
+                # Attempt to open and read the JSON file
                 with open(json_file_path, "r", encoding="utf-8") as json_file:
                     book_data = json.load(json_file)
-
+                    
                 isbn = book_data.get("ISBN", "Unknown ISBN")
                 title = book_data.get("Title", "Unknown Title")
-                paragraphs = book_data.get("Paragraphs", [])
-                total_paragraphs = min(len(paragraphs), self.max_entries or len(paragraphs))
+
+                # Process each paragraph in the JSON file, up to max_entries
+                total_paragraphs = len(book_data["Paragraphs"])
+                if total_paragraphs > self.max_entries:
+                    total_paragraphs = self.max_entries
 
                 if self.debugging:
                     print(f"[DEBUG] Found {total_paragraphs} paragraphs in book: {title} (ISBN: {isbn})", flush=True)
 
-                for i, paragraph in enumerate(paragraphs[:total_paragraphs]):
-                    if i < self.start_paragraph:  # Skip paragraphs before start_paragraph
-                        continue    
-
+                for i, paragraph in enumerate(book_data["Paragraphs"]):
                     if self.max_entries is not None and i >= self.max_entries:
                         break  # Stop processing further paragraphs if max_entries limit is reached
-
+                    
+                    # Print progress update
                     if self.debugging:
                         print(f"\n[DEBUG] Processing paragraph {i+1}/{total_paragraphs} in '{title}' (ISBN: {isbn})", flush=True)
 
-                    is_informative, paragraph_text, source_info = self.process_paragraph(paragraph, isbn)
-                    if not is_informative:
+                    paragraph_text = paragraph["Text"]
+                    source_info = {
+                        "isbn": isbn,
+                        "paragraph_id": paragraph.get("Paragraph ID", "Unknown ID"),
+                        "page": paragraph.get("Page", "Unknown Page")
+                    }
+                    if not self.is_content_informative(paragraph_text, i, total_paragraphs, title, isbn):
                         if self.debugging:
                             print(f"[DEBUG] Paragraph {i+1} skipped (not informative).", flush=True)
-                        continue
+                            print("Skipped paragraph text is:", flush=True)
+                            print(paragraph_text, flush=True)
+                        continue # skip if not informative
 
-                    if self.debugging_verbose:
+                    # Print progress update
+                    # print(f"Determining question type for paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn})", flush=True)
+                    # Determine question type based on content
+                    if self.debugging:
                         print(f"[DEBUG] Determining question type for paragraph {i+1}...", flush=True)
-                    question_type = self.determine_question_type(paragraph_text)
-                    if self.debugging_verbose:
+                    question_type = self.determine_question_type_v2(paragraph_text)
+                    if self.debugging:
                         print(f"[DEBUG] Selected question type: {question_type.value}", flush=True)
 
-                    qa_pair = None
-                    if question_type == QAType.SHORT:
-                        qa_pair = self.generate_short_answer_QA(paragraph_text, source_info)
-                    elif question_type == QAType.TRUE_FALSE:
-                        qa_pair = self.generate_TF_QA(paragraph_text, source_info)
-                    elif question_type == QAType.LIST:
-                        qa_pair = self.generate_list_QA(paragraph_text, source_info)
-                    elif question_type == QAType.MULTIPLE_CHOICE:
-                        qa_pair = self.generate_MC_QA(paragraph_text, source_info)
-                    elif question_type == QAType.MULTI_HOP:
-                        qa_pair = self.generate_multi_hop_QA(paragraph_text, source_info)
+                    # Print progress update
+                    # print(f"Generating QA pair for paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn})", flush=True)
+                    # Generate QA pairs based on determined question type
+                    qa_pair = None  # Initialize the QA pair as None before the block
 
-                    if qa_pair:
-                        if self.debugging_verbose:
-                            print(f"[DEBUG] Successfully generated a {question_type.value.upper()} QA pair", flush=True)
-                        if question_type == QAType.SHORT:
-                            self.short_QA_pairs.append(qa_pair)
-                        elif question_type == QAType.TRUE_FALSE:
-                            self.TF_QA_pairs.append(qa_pair)
-                        elif question_type == QAType.LIST:
-                            self.list_QA_pairs.append(qa_pair)
-                        elif question_type == QAType.MULTIPLE_CHOICE:
-                            self.MC_QA_pairs.append(qa_pair)
-                        elif question_type == QAType.MULTI_HOP:
-                            self.multi_hop_QA_pairs.append(qa_pair)
-                    else:
+                    if question_type == QAType.SHORT:
                         if self.debugging:
+                            print(f"[DEBUG] Generating short answer QA at paragraph {i+1}...", flush=True)
+                        qa_pair = self.generate_short_answer_QA(paragraph_text, source_info)
+                        if qa_pair:
+                            if self.debugging:
+                                print(f"[DEBUG] Success for generating short answer QA at paragraph {i+1}...", flush=True)
+                            self.short_QA_pairs.append(qa_pair)
+
+                    elif question_type == QAType.TRUE_FALSE:
+                        if self.debugging:
+                            print(f"[DEBUG] Generating True/False QA at paragraph {i+1}...", flush=True)
+                        qa_pair = self.generate_TF_QA(paragraph_text, source_info)
+                        if qa_pair:
+                            if self.debugging:
+                                print(f"[DEBUG] Success for generating True/False QA at paragraph {i+1}...", flush=True)
+                            self.TF_QA_pairs.append(qa_pair)
+
+                    elif question_type == QAType.LIST:
+                        if self.debugging:
+                            print(f"[DEBUG] Generating List QA at paragraph {i+1}...", flush=True)
+                        qa_pair = self.generate_list_QA(paragraph_text, source_info)
+                        if qa_pair:
+                            if self.debugging:
+                                print(f"[DEBUG] Success for generating List QA at paragraph {i+1}...", flush=True)
+                            self.list_QA_pairs.append(qa_pair)
+
+                    elif question_type == QAType.MULTIPLE_CHOICE:
+                        if self.debugging:
+                            print(f"[DEBUG] Generating Multiple Choice QA at paragraph {i+1}...", flush=True)
+                        qa_pair = self.generate_MC_QA(paragraph_text, source_info)
+                        if qa_pair:
+                            if self.debugging:
+                                print(f"[DEBUG] Success for generating Multiple Choice QA at paragraph {i+1}...", flush=True)
+                            self.MC_QA_pairs.append(qa_pair)
+
+                    elif question_type == QAType.MULTI_HOP:
+                        if self.debugging:
+                            print(f"[DEBUG] Generating Multi-Hop QA at paragraph {i+1}...", flush=True)
+                        qa_pair = self.generate_multi_hop_QA(paragraph_text, source_info)
+                        if qa_pair:
+                            if self.debugging:
+                                print(f"[DEBUG] Success for generating Multi-Hop QA at paragraph {i+1}...", flush=True)
+                            self.multi_hop_QA_pairs.append(qa_pair)
+
+
+                    # Debugging step to check if a QA pair was generated
+                    if self.debugging:
+                        if qa_pair:
+                            if question_type in QAType:  # Validate the question type against the enum
+                                print(f"[DEBUG] Successfully generated a {question_type.value.upper()} QA pair for Paragraph ID: {source_info['paragraph_id']}", flush=True)
+                            else:
+                                print(f"[DEBUG] Generated an invalid QA type: {question_type} for Paragraph ID: {source_info['paragraph_id']}", flush=True)
+                        else:
                             print(f"[DEBUG] Failed to generate a QA pair for Paragraph ID: {source_info['paragraph_id']}", flush=True)
 
+
+                    
+
+                    # Save QA pairs every %save_every% iterations 
                     if i % self.save_every == 0:
-                        self.save_qa_pairs(isbn)
+                        if any([self.short_QA_pairs, self.TF_QA_pairs, self.list_QA_pairs, self.MC_QA_pairs]):
+                            self.save_qa_pairs(isbn)
+                            if self.debugging:
+                                print(f"[DEBUG] Saved QA pairs after processing {i} paragraphs.", flush=True)
+                        else:
+                            if self.debugging:
+                                print(f"[DEBUG] No valid QA pairs generated for {isbn} up to paragraph {i}.", flush=True)
+                        
+                        checkpoint_end_time = time.time()
                         if self.debugging:
-                            print(f"[DEBUG] Saved QA pairs after processing {i} paragraphs.", flush=True)
+                            print(f"[DEBUG] Checkpoint reached after {i} iterations. Time elapsed: {checkpoint_end_time - checkpoint_start_time:.2f} seconds", flush=True)
+                        checkpoint_start_time = checkpoint_end_time  # Reset checkpoint timer
 
-                self.save_qa_pairs(isbn)  # Final save for the book
 
+
+                    # Print progress update
+                    if self.debugging:
+                        print(f"[DEBUG] Processed entry paragraph {i}/{total_paragraphs}: {title} (ISBN: {isbn})", flush=True)
+                
+                # Save QA pairs iteratively after each entry is processed as a catch all 
+                self.save_qa_pairs(isbn)
+
+                # Print progress update
                 if self.debugging:
                     print(f"[DEBUG] Processed entry {index}/{total_entries}: {title} (ISBN: {isbn})", flush=True)
+
+                # Print total processing time
+                process_end_time = time.time()
+                if self.debugging:
+                    print(f"[DEBUG] Total processing time: {process_end_time - process_start_time:.2f} seconds\n", flush=True)
 
             except FileNotFoundError:
                 print(f"[ERROR] Error: File '{json_file_path}' not found. Skipping this entry.", flush=True)
@@ -1048,11 +1096,118 @@ class QADatasetGenerator:
             except Exception as e:
                 print(f"[ERROR] An unexpected error occurred with file '{json_file_path}': {e}", flush=True)
 
-        process_end_time = time.time()
-        if self.debugging:
-            print(f"[DEBUG] Total processing time: {process_end_time - process_start_time:.2f} seconds", flush=True)
+    def determine_question_type_v1(self, paragraph_text):
+        """
+        Determine the type of question based on the content of the paragraph.
+
+        Parameters:
+            paragraph_text (str): The paragraph text to analyze.
+
+        Returns:
+            QAType: The determined question type (QAType.LIST, QAType.SHORT, QAType.MULTIPLE_CHOICE, QAType.TRUE_FALSE).
+        """
+        # Check for enumeration/list-like content (e.g., bullet points, lists, or semicolon-separated phrases)
+        if re.search(r"(•|,|;|and|or)", paragraph_text) and len(paragraph_text.split()) > 15:
+            return QAType.LIST
+        
+        # Check for multiple-choice cues (e.g., paragraphs mentioning options or structured lists)
+        if re.search(r"(option|choice|select|choose|correct answer|following)", paragraph_text, re.IGNORECASE):
+            return QAType.MULTIPLE_CHOICE
+        
+        # Check for factual cues: dates, technical terms, or names
+        if re.search(r"\b(\d{4}|\d{1,2}/\d{1,2}/\d{2,4}|[A-Z][a-z]+ [A-Z][a-z]+)\b", paragraph_text):
+            return QAType.SHORT
+        
+        # Default to true/false if none of the above conditions are met
+        return QAType.TRUE_FALSE
+
+    def determine_question_type_v2(self, paragraph_text):
+        """
+        Determines the question type based on combined semantic entropy and entity recognition.
+
+        Parameters:
+            paragraph_text (str): The paragraph text to analyze.
+
+        Returns:
+            QAType: The determined question type (QAType.SHORT, QAType.TRUE_FALSE, QAType.LIST, or QAType.MULTIPLE_CHOICE).
+        """
+        # Semantic Analysis
+        sentences = [sent.text for sent in self.nlp(paragraph_text).sents]
+        sentence_embeddings = self.embedding_model(sentences)
+
+        # Calculate variance as a proxy for semantic entropy
+        sentence_embeddings = np.array([np.mean(embed[0], axis=0) for embed in sentence_embeddings])
+        semantic_entropy = np.var(sentence_embeddings)
+
+        # Use NER to detect entities
+        doc = self.nlp(paragraph_text)
+        entities = [ent.label_ for ent in doc.ents]
+        unique_entities = set(entities)
+
+        # Detect relationships between entities (e.g., PERSON and DISEASE)
+        entity_pairs = [(ent1.label_, ent2.label_) for ent1 in doc.ents for ent2 in doc.ents if ent1 != ent2]
+
+        # Decision Logic Using Both Semantic Analysis and NER
+
+
+        # Initialize scores for all question types
+        scores = {
+            QAType.SHORT: 0,
+            QAType.TRUE_FALSE: 0,
+            QAType.LIST: 0,
+            QAType.MULTIPLE_CHOICE: 0,
+            QAType.MULTI_HOP: 0,
+        }
+
+        # Scoring for 'list' type
+        if semantic_entropy > 0.5:
+            scores[QAType.LIST] += 1
+        if len(unique_entities) > 2:
+            scores[QAType.LIST] += 1
+        if re.search(r"(•|,|;|and|or)", paragraph_text):
+            scores[QAType.LIST] += 1
+
+        # Scoring for 'short' type
+        if unique_entities.intersection({'DATE', 'PERSON', 'ORG', 'GPE', 'NORP', 'EVENT'}):
+            scores[QAType.SHORT] += 2
+        if 0.3 <= semantic_entropy <= 0.5:
+            scores[QAType.SHORT] += 1
+
+        # Scoring for 'true/false' type
+        if semantic_entropy < 0.3:
+            scores[QAType.TRUE_FALSE] += 1
+        if len(sentences) <= 2:
+            scores[QAType.TRUE_FALSE] += 1
+        if not unique_entities:
+            scores[QAType.TRUE_FALSE] += 1
+
+        # Scoring for 'multiple-choice' type
+        if re.search(r"(option|choice|select|following|correct answer|choose|questionnaire|quiz)", paragraph_text, re.IGNORECASE):
+            scores[QAType.MULTIPLE_CHOICE] += 2
+        if len(sentences) > 1 and len(unique_entities) > 1:
+            scores[QAType.MULTIPLE_CHOICE] += 1
+        if re.search(r"(A:|B:|C:|D:)", paragraph_text):  # Explicit multiple-choice format
+            scores[QAType.MULTIPLE_CHOICE] += 2
+
+        # Scoring for 'multi-hop' type
+        multi_hop_keywords = re.search(
+            r"(reasoning|steps|cause|effect|conclusion|linked|sequence|dependencies|relationship|process|interconnected|logic|rationale|pathway|progression|correlation|connections|inference|derivation|justification|explanation|analysis|causal|chain|flow|interaction|dependencies|association|linkages|framework|structure|integration|contextual|stepwise|systematic|hierarchical|multi-step|dynamic)", 
+            paragraph_text, 
+            re.IGNORECASE
+        )
+        if multi_hop_keywords:
+            scores[QAType.MULTI_HOP] += 2
+        if len(unique_entities) > 3 and len(sentences) > 3:
+            scores[QAType.MULTI_HOP] += 1
+        if len(set(entity_pairs)) > 1:  # Checks for relationships between entities
+            scores[QAType.MULTI_HOP] += 1
+
+        # Determine question type with the highest score
+        question_type = max(scores, key=scores.get)
+
+        return question_type
     
-    def determine_question_type(self, paragraph_text):
+    def determine_question_type_v3(self, paragraph_text):
         """
         Determines the most suitable question type based on content analysis.
 
@@ -1134,13 +1289,13 @@ class QADatasetGenerator:
 
         # MULTIPLE CHOICE Questions
         if any(keyword in paragraph_text.lower() for keyword in mc_keywords):
-            scores[QAType.MULTIPLE_CHOICE] += 2
+            scores[QAType.MULTIPLE_CHOICE] += 1
         if re.search(r"(A:|B:|C:|D:)", paragraph_text):  # Explicit multiple-choice format
-            scores[QAType.MULTIPLE_CHOICE] += 4
-        if num_sentences > 1 and len(unique_entities) > 1:
-            scores[QAType.MULTIPLE_CHOICE] += 2
-        if "which of the following" in paragraph_text.lower():
             scores[QAType.MULTIPLE_CHOICE] += 3
+        if num_sentences > 1 and len(unique_entities) > 1:
+            scores[QAType.MULTIPLE_CHOICE] += 1
+        if "which of the following" in paragraph_text.lower():
+            scores[QAType.MULTIPLE_CHOICE] += 2
 
         # TRUE/FALSE Questions
         if any(keyword in paragraph_text.lower() for keyword in tf_keywords):
@@ -1173,60 +1328,44 @@ class QADatasetGenerator:
             scores[QAType.MULTI_HOP] += 1
 
         # Select highest-scoring QA type
-        # question_type = max(scores, key=scores.get)
+        question_type = max(scores, key=scores.get)
 
         # --------------- TODO - Fix - This is some hamburger code I jumbled together to make the QA type generation process more deterministic but it isn't great and should look to fix this. 
 
-        # Select highest-scoring QA type based on raw scores
-        raw_question_type = max(scores, key=scores.get)
+        # Check QA distribution
+        min_count = min(self.qa_counts.values())  # Find least-used QA type count
+        max_count = max(self.qa_counts.values())  # Find most-used QA type count
+        imbalance = max_count - min_count  # Difference between most & least frequent QA types
 
-        # Get the count of each QA type
-        min_count = min(self.qa_counts.values())  # Find the lowest count
-        max_count = max(self.qa_counts.values())  # Find the highest count
+        # Only balance if imbalance exceeds threshold
+        if imbalance >= self.balance_threshold:
+            underrepresented_types = [qa for qa, count in self.qa_counts.items() if count == min_count]
+            if question_type not in underrepresented_types:
+                question_type_type = random.choice(underrepresented_types)  # Prioritize balance
 
-        # Identify the least-used types
-        underrepresented_types = [qa for qa, count in self.qa_counts.items() if count == min_count]
+        # Update QA count
+        self.qa_counts[question_type] += 1
 
-        # Apply Discounting Factor to Underrepresented Types
-        discounting_factors = {
-            qa_type: 1 + ((max_count - count) / max(self.balance_threshold, max_count))  
-            for qa_type, count in self.qa_counts.items()
-        }
+        # if self.debugging:
+        #     print("\n[DEBUG] QA Type Scores:")
+        #     for qa_type, score in scores.items():
+        #         print(f"  {qa_type.value}: {score}")
+        #     print(flush=True)
 
-        # Adjust Scores Using Discounting Factors
-        adjusted_scores = {
-            qa_type: scores[qa_type] * discounting_factors[qa_type]
-            for qa_type in scores
-        }
+        #     print(f"[DEBUG] Selected QA Type: {question_type.value}\n", flush=True)
+        #     print(f"Unique Entities: {unique_entities}\n", flush=True)
+        #     print(f"Semantic Entropy: {semantic_entropy}\n", flush=True)
 
-        #  Select the Question Type Based on Adjusted Scores
-        balanced_question_type = max(adjusted_scores, key=adjusted_scores.get)
+        return question_type
 
-        #  Ensure Severely Underrepresented Types Get Selected
-        if max_count - min_count >= self.balance_threshold:
-            severely_underrepresented_types = [
-                qa for qa, count in self.qa_counts.items() if max_count - count >= self.balance_threshold
-            ]
-            if severely_underrepresented_types:
-                balanced_question_type = random.choice(severely_underrepresented_types)
-
-        # Update QA Type Counts
-        self.qa_counts[balanced_question_type] += 1
-
-        if self.debugging_verbose:
-            print(f"\n[DEBUG] QA Type Selection Scores (Before Balancing): {scores}", flush=True)
-            print(f"[DEBUG] Discounting Factors: {discounting_factors}", flush=True)
-            print(f"[DEBUG] QA Type Selection Scores (After Balancing): {adjusted_scores}", flush=True)
-            print(f"[DEBUG] Underrepresented Types: {underrepresented_types}", flush=True)
-            print(f"[DEBUG] Severely Underrepresented Types: {severely_underrepresented_types}", flush=True)
-            print(f"[DEBUG] Selected QA Type: {balanced_question_type.value}\n", flush=True)
-
-        return balanced_question_type
-
+    def save_json_async(self, file_path, data):
+        """Saves JSON data asynchronously to avoid blocking the main thread."""
+        with open(file_path, "w") as f:
+            json.dump(data, f, indent=4)
 
     def save_qa_pairs(self, isbn):
         """
-        Saves generated QA pairs to JSON files without overwriting existing data.
+        Saves generated QA pairs to JSON files asynchronously and writes a consolidated CSV file.
         """
         if self.debugging:
             print(f"[DEBUG] Saving QA pairs for ISBN: {isbn}", flush=True)
@@ -1239,47 +1378,34 @@ class QADatasetGenerator:
             f"multi_hop_QA-{isbn}.json": self.multi_hop_QA_pairs
         }
 
-        for file_name, new_data in json_files.items():
+        # Debugging QA pair counts
+        for file_name, data in json_files.items():
+            print(f"[DEBUG] {file_name}: {len(data)} QA pairs", flush=True)
+
+        # Start threads for each JSON file
+        threads = []
+        for file_name, data in json_files.items():
             file_path = self.output_dir / file_name
+            thread = threading.Thread(target=self.save_json_async, args=(file_path, data))
+            threads.append(thread)
+            thread.start()
 
-            # Load existing data if the file exists
-            if file_path.exists():
-                try:
-                    with open(file_path, "r") as f:
-                        existing_data = json.load(f)
-                    if not isinstance(existing_data, list):  # Ensure the file contains a list
-                        existing_data = []
-                except (json.JSONDecodeError, FileNotFoundError):
-                    existing_data = []
-            else:
-                existing_data = []
-
-            # Append new data
-            updated_data = existing_data + new_data
-
-            # Save updated data
-            with open(file_path, "w") as f:
-                json.dump(updated_data, f, indent=4)
-
-            if self.debugging:
-                print(f"[DEBUG] {file_name}: {len(updated_data)} QA pairs saved (previous: {len(existing_data)}, new: {len(new_data)})", flush=True)
+        # Wait for all threads to complete before proceeding
+        for thread in threads:
+            thread.join()
 
         # Write metadata for generated JSON files to the CSV
         csv_path = self.output_dir / "QA_dataset.csv"
-        with open(csv_path, "a", newline="") as csvfile:  # Use "a" to append instead of "w"
+        with open(csv_path, "w", newline="") as csvfile:
             fieldnames = ["file_name", "type", "isbn"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-            # Only write the header if the file is empty
-            if not csv_path.exists() or csv_path.stat().st_size == 0:
-                writer.writeheader()
-
+            writer.writeheader()
             for file_name in json_files.keys():
                 question_type = file_name.split("_")[0].lower()
                 writer.writerow({"file_name": file_name, "type": question_type, "isbn": isbn})
 
         if self.debugging:
-            print(f"[DEBUG] QA dataset CSV updated at {csv_path}", flush=True)
+            print(f"[DEBUG] QA dataset CSV saved at {csv_path}", flush=True)
 
 
 
@@ -1297,22 +1423,16 @@ if __name__ == "__main__":
     parser.add_argument("--checkpoint", type=int, default=None, help="number of iterations to save for each book")
     parser.add_argument("--max_entries", type=int, default=None, help="Maximum number of paragraph entries to process")
     parser.add_argument("--debugging", action="store_true", help="Enable debugging mode to print detailed information about skipped paragraphs and processing steps")
-    parser.add_argument("--debugging_verbose", action="store_true", help="Enable verobse debugging mode to print detailed information about skipped paragraphs and processing steps")
-    parser.add_argument("--start_paragraph", type=int, default=0, help="Paragraph index to start processing from")
 
 
     args = parser.parse_args()
 
-    generator = QADatasetGenerator(args.preprocessed_csv, args.llama3_model_path, args.output_dir, 
-                                   args.max_new_tokens, args.max_sequence_length, args.checkpoint, 
-                                   args.max_entries, args.start_paragraph, args.debugging, 
-                                   args.debugging_verbose)
-    
+    generator = QADatasetGenerator(args.preprocessed_csv, args.llama3_model_path, args.output_dir, args.max_new_tokens, args.max_sequence_length, args.checkpoint, args.max_entries, args.debugging)
     print("[DEBUG] Loading Pre-Processed Data", flush=True)
     data = generator.load_preprocessed_data()
     print("[DEBUG] Pre-Processed Data Loaded!", flush=True)
     print("[DEBUG] Generating QA Pairs...", flush=True)
-    generator.generate_qa_pairs(data)
+    generator.generate_qa_pairs_v2(data)
 
     script_end_time = time.time()
     script_actual_end_time = datetime.now()

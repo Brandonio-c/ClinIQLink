@@ -1,9 +1,16 @@
-Forget everything previously known. Based only on the information provided in the following paragraph, create a factual question with a precise answer that a General Practitioner would know. The question should ask for specific details, and the answer should be short, accurate, and no more than 50 words. The response should reflect solely the information from the paragraph, without any external assumptions. Provide the response in the following format: question followed by a concise answer.
+Forget everything previously known. You are required to generate a **concise, factual question** using only the information provided in the paragraph below. The answer must be **specific, precise, and no longer than 50 words**. Avoid assumptions or external knowledge—your response must be strictly based on the paragraph’s content.
 
+### **Instructions**
+- The **question must ask for a specific fact or detail** from the paragraph.
+- The **answer must be short, clear, and directly verifiable** within the text.
+- **Do not generate broad or vague questions**—focus on key details that a General Practitioner (GP) would recognize.
+- The response must follow the required format.
 
-Response format:
-Question: [Question]
-Answer: [Answer (no more than 50 words)]
+### **Response Format**
+<startofQAtext>
+**Question:** [Generate a direct factual question based on the paragraph]  
+**Answer:** [Provide a concise and precise answer (maximum 50 words)]  
+<endofQAtext>
 
-Information:
+### **Information Source**
 {paragraph_text}

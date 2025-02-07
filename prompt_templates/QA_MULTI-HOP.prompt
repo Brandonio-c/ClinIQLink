@@ -1,0 +1,22 @@
+Forget everything previously known. You are an expert in multi-step logical reasoning. Based **only** on the provided paragraph(s), generate a multi-hop question and its answer. Your reasoning **must be broken into explicit, stepwise inferences** that lead logically to the final answer.
+
+### **Instructions**
+- The **question must require reasoning across multiple facts or concepts**.
+- The **reasoning must be structured as a sequential process**, where each step builds on the previous.
+- **Each reasoning step should introduce a new fact, entity, or logical inference** to construct a well-supported conclusion.
+- Avoid direct answers. The **response must be a multi-step inference**.
+
+### **Response Format**
+<startofQAtext>
+**Question:** [Generate a multi-hop question that requires multiple inference steps]
+**Answer:** [Provide the final answer, derived strictly from logical reasoning]
+**Reasoning:**
+Step 1: [Extract the first key fact or entity that contributes to answering the question.]
+Step 2: [Introduce a second fact or relationship that connects with Step 1.]
+Step 3: [Continue identifying additional steps as needed, logically building toward the answer.]
+...
+Step n: [Synthesize all previous reasoning steps into a coherent conclusion, leading to the answer.]
+<endofQAtext>
+
+### **Information Source**
+{paragraph_text}

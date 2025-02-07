@@ -2,6 +2,8 @@
 experiments
 data
 *.out 
+GPT-api_key_tester.sh
+GPT-api_key_tester.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,866 @@
+[
+    {
+        "question": "What property makes iodine particularly useful for creating contrast in radiographic studies?",
+        "options": {
+            "A": "Its ability to dissolve easily in water",
+            "B": "Its low atomic mass which allows it to penetrate deep tissues",
+            "C": "Its relatively high atomic mass allowing it to markedly attenuate X-rays",
+            "D": "Its tendency to accumulate in fatty tissues"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p9-para1",
+            "page": 9
+        }
+    },
+    {
+        "question": "What type of radiation does Magnetic Resonance Imaging (MRI) use?",
+        "options": {
+            "A": "Electromagnetic Radiation",
+            "B": "Ionizing Radiation",
+            "C": "No Ionizing Radiation",
+            "D": "High Frequency Gamma Rays"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p10-para1",
+            "page": 10
+        }
+    },
+    {
+        "question": "What kind of joints link adjacent bones together by fibrous connective tissue?",
+        "options": {
+            "A": "Cartilaginous joints",
+            "B": "Fibrous joints",
+            "C": "artilaginous joints\nB: Fibrous joints\nC: Synovial joints",
+            "D": "Solid joints"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p22-para1",
+            "page": 22
+        }
+    },
+    {
+        "question": "What type of tissue does the dermis consist of?",
+        "options": {
+            "A": "Stratified squamous epithelial tissue",
+            "B": "Loose avascular connective tissue",
+            "C": "Dense vascular connective tissue",
+            "D": "ense vascular connective tissue\nD: Epithelial and fat-containing tissue"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p26-para1",
+            "page": 26
+        }
+    },
+    {
+        "question": "What characteristic feature do valves in veins typically exhibit?",
+        "options": {
+            "A": "They always occur singly as unpaired structures.",
+            "B": "They are found predominantly in central rather than peripheral veins.",
+            "C": "They facilitate blood flow towards the heart through usually paired cusps.",
+            "D": "Their presence is not necessary for proper venous function regardless of location."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p28-para1",
+            "page": 28
+        }
+    },
+    {
+        "question": "What does a dermatome specifically refer to?",
+        "options": {
+            "A": "An area of skin supplied by two adjacent spinal nerves.",
+            "B": "An area of skin supplied by a single spinal cord level or, on one side, by a single spinal nerve.",
+            "C": "A group of muscles controlled by a set of spinal nerves.",
+            "D": "A type of spinal nerve responsible for both sensory and motor functions."
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p36-para1",
+            "page": 36
+        }
+    },
+    {
+        "question": "Which spinal nerve segments predominantly control muscles moving the elbow?",
+        "options": {
+            "A": "Mainly C4 and C5",
+            "B": "Mainly C3 and C4",
+            "C": "4 and C5  \nB: Mainly C3 and C4  \nC: Mainly C6 and C7",
+            "D": "Mainly C2 and C3"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p37-para1",
+            "page": 37
+        }
+    },
+    {
+        "question": "What characteristic defines how most individual muscles receive neural input?",
+        "options": {
+            "A": "They are typically innervated by more than two distinct cranial nerves.",
+            "B": "They are primarily controlled by a solitary spinal cord level.",
+            "C": "They often require the coordination of just one type of sensory feedback.",
+            "D": "They are commonly innervated by more than one spinal cord level."
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p38-para1",
+            "page": 38
+        }
+    },
+    {
+        "question": "According to the passage, what typically happens during referred pain?",
+        "options": {
+            "A": "Pain is perceived exactly where it originates without misinterpretation by the CNS.",
+            "B": "Sensory information from a highly sensitive area is mistaken for originating from a less sensitive area.",
+            "C": "NS.  \nB: Sensory information from a highly sensitive area is mistaken for originating from a less sensitive area.  \nC: Pain from a region like the gut is interpreted as coming from the skin at the same spinal cord level because both areas have similar sensory outputs.",
+            "D": "Pain from a region innervated by the visceral part of the nervous system is interpreted as coming from a region innervated by the somatic part of the nervous system at the same spinal cord level."
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p49-para1",
+            "page": 49
+        }
+    },
+    {
+        "question": "What range of anterior rami contributes to the formation of the Lumbar Plexus?",
+        "options": {
+            "A": "C1 to C4",
+            "B": "C5 to T1",
+            "C": "1 to C4\nB: C5 to T1\nC: L1 to L4",
+            "D": "L4 to S4"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p50-para1",
+            "page": 50
+        }
+    },
+    {
+        "question": "What shape does the vertebral foramen have according to the given description?",
+        "options": {
+            "A": "Square",
+            "B": "Triangular",
+            "C": "Round",
+            "D": "Oval"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p68-para1",
+            "page": 68
+        }
+    },
+    {
+        "question": "What percentage of individuals have spina bifida occulta according to the given text?",
+        "options": {
+            "A": "Less than 5%",
+            "B": "Up to 8%",
+            "C": "As many as 10%",
+            "D": "More than 15%"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p73-para1",
+            "page": 73
+        }
+    },
+    {
+        "question": "What typically characterizes the development of idiopathic scoliosis?",
+        "options": {
+            "A": "Presence of other developmental abnormalities",
+            "B": "Initial axial rotation altering mechanical forces affecting vertebral growth plates",
+            "C": "Direct impact from bone tumors or spinal cord injuries",
+            "D": "irect impact from bone tumors or spinal cord injuries  \nD: Weakness in muscles such as seen in muscular dystrophy"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p75-para1",
+            "page": 75
+        }
+    },
+    {
+        "question": "What typically identifies the L5 vertebra?",
+        "options": {
+            "A": "Its unique shape among the lumbar vertebrae",
+            "B": "The presence of the iliolumbar ligament running from its transverse process to the iliac crest",
+            "C": "Being located at the bottom of the lumbar spine closest to the coccyx",
+            "D": "Having the largest diameter compared to other lumbar vertebrae"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p77-para1",
+            "page": 77
+        }
+    },
+    {
+        "question": "What type of tissue do the ligamenta flava mainly consist of?",
+        "options": {
+            "A": "Collagen fibers",
+            "B": "Elastic tissue",
+            "C": "ollagen fibers\nB: Elastic tissue\nC: Muscular tissue",
+            "D": "Nervous tissue"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p82-para1",
+            "page": 82
+        }
+    },
+    {
+        "question": "What generally supplies the anterior spinal artery?",
+        "options": {
+            "A": "Posterior spinal arteries",
+            "B": "Segmental spinal arteries through radiculomedullary branches",
+            "C": "Vertebral body itself",
+            "D": "Subclavian artery"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p103-para1",
+            "page": 103
+        }
+    },
+    {
+        "question": "What term describes paralysis resulting from an injury to the spinal cord below the level of T1?",
+        "options": {
+            "A": "Quadriplegia or Tetraplegia",
+            "B": "Paraparesis",
+            "C": "Hemiplegia",
+            "D": "Paraplegia"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p106-para1",
+            "page": 106
+        }
+    },
+    {
+        "question": "What occurs to the nerves after the termination of the spinal cord at the L1 level?",
+        "options": {
+            "A": "They merge into the brainstem.",
+            "B": "They form the sciatic nerve immediately.",
+            "C": "They continue as part of the cauda equina.",
+            "D": "They stop functioning altogether."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p109-para1",
+            "page": 109
+        }
+    },
+    {
+        "question": "Where does the spinal cord terminate in adults according to the given text?",
+        "options": {
+            "A": "At the level of the disc between vertebrae T12 and L1",
+            "B": "Around the level of the disc between vertebrae LI and LII",
+            "C": "At the base of the spine near the coccyx",
+            "D": "Between the levels of L3 and L4"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p110-para1",
+            "page": 110
+        }
+    },
+    {
+        "question": "What part of the human body contains both sensory and motor neurons?",
+        "options": {
+            "A": "Brainstem",
+            "B": "rainstem\nB: Frontal Lobe",
+            "C": "Spinal Ganglion",
+            "D": "Adrenal Gland"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p112-para1",
+            "page": 112
+        }
+    },
+    {
+        "question": "Which part of the body contains the external occipital protuberance?",
+        "options": {
+            "A": "Scapula",
+            "B": "Ilium",
+            "C": "Skull",
+            "D": "Femur"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p117-para1",
+            "page": 117
+        }
+    },
+    {
+        "question": "What passes between visceral & parietal pleuras?",
+        "options": {
+            "A": "Air that we breathe out",
+            "B": "Blood vessels supplying other organs besides the lungs",
+            "C": "Nerves going to abdominal muscles",
+            "D": "Blood vessels supplying lungs"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p132-para1",
+            "page": 132
+        }
+    },
+    {
+        "question": "What happens after the blood becomes oxygenated within the pulmonary circuit before it returns to the left side of the heart?",
+        "options": {
+            "A": "It directly proceeds to enter systemic circulation without returning to the heart first",
+            "B": "It gets further filtered by the kidneys for purification purposes",
+            "C": "It returns to the left atrium (LA), marking its entry point into the left side of the heart",
+            "D": "It mixes with more deoxygenated blood coming from other parts of the body"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p136-para1",
+            "page": 136
+        }
+    },
+    {
+        "question": "Through what primary route does lymphatic and venous drainage occur from the lateral and superior aspects of the breast?",
+        "options": {
+            "A": "Directly into the abdomen",
+            "B": "Alongside the sternum via parasternal nodes",
+            "C": "Into the axilla via various nodes including pectoral group, central, apical, and interpectoral nodes",
+            "D": "irectly into the abdomen\nB: Alongside the sternum via parasternal nodes\nC: Into the axilla via various nodes including pectoral group, central, apical, and interpectoral nodes\nD: Exclusively through the internal thoracic artery"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p142-para1",
+            "page": 142
+        }
+    },
+    {
+        "question": "What type of movement can occur at the necks of the ribs due to the function of the costovertebral joints and related ligaments?",
+        "options": {
+            "A": "Only rotation around their longitudinal axis",
+            "B": "Both rotation around their longitudinal axes and ascending/descending relative to the vertebral column",
+            "C": "Neither rotation nor ascent/descent but sliding along the spine",
+            "D": "Purely translation without rotation"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p150-para1",
+            "page": 150
+        }
+    },
+    {
+        "question": "What happens when a sufficient number of consecutive ribs are fractured due to severe trauma?",
+        "options": {
+            "A": "Full lung expansion occurs normally without issue",
+            "B": "Ventilation becomes severely compromised requiring immediate surgery",
+            "C": "A portion of the chest wall can become detached, leading to paradoxical movement during respiration",
+            "D": "All intercostal muscles lose function permanently"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p154-para1",
+            "page": 154
+        }
+    },
+    {
+        "question": "What primarily supplies the arterial blood to the thoracic wall?",
+        "options": {
+            "A": "Only the Anterior Intercostal Artery",
+            "B": "Both Posterior and Anterior Intercostal Arteries",
+            "C": "Just the Musculophrenic Artery",
+            "D": "Exclusively the Supreme Inter-costal Artery"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p157-para1",
+            "page": 157
+        }
+    },
+    {
+        "question": "What type of approach provides direct access to the heart, including coronary arteries and valves, pericardium, great vessels, anterior mediastinum, and thymus?",
+        "options": {
+            "A": "Lateral thoracotomy",
+            "B": "Median sternotomy",
+            "C": "Partial sternotomy limited to the xiphoid process",
+            "D": "Supraclavicular incision"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p162-para1",
+            "page": 162
+        }
+    },
+    {
+        "question": "What specific structure(s) does the mediastinal part of the parietal pleura cover according to the text?",
+        "options": {
+            "A": "Only the heart",
+            "B": "Structures within the root of the lung",
+            "C": "The mediastinum",
+            "D": "Both the heart and the trachea specifically"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p167-para1",
+            "page": 167
+        }
+    },
+    {
+        "question": "What is unique about how the lobar bronchus to the superior lobe branches off compared between the right and left sides?",
+        "options": {
+            "A": "On both sides, the branching occurs outside the lung near the root.",
+            "B": "Only on the left side does the lobar bronchus branch off before reaching the hilum.",
+            "C": "The branching pattern for the lobar bronchus to the superior lobe differs significantly between the right and left lungs regarding its location relative to the pulmonary artery.",
+            "D": "Both lungs have their lobar bronchi to the superior lobe branching inside the lung but differ in relation to the main bronchus's path."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p171-para1",
+            "page": 171
+        }
+    },
+    {
+        "question": "What anatomical feature characterizes the posterior wall of the trachea?",
+        "options": {
+            "A": "It is composed mainly of bone tissue",
+            "B": "It contains discontinuous elongated plates of cartilage",
+            "C": "It is composed mainly of smooth muscle",
+            "D": "It includes several lymph nodes for immune function"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p174-para1",
+            "page": 174
+        }
+    },
+    {
+        "question": "What is the primary purpose of using narrow cross-sectional slices in High-Resolution Computed Tomography (HRCT) of the lungs?",
+        "options": {
+            "A": "To enable faster scanning times without compromising image quality",
+            "B": "To reduce radiation exposure during the scan process",
+            "C": "To allow detailed visualization of the lung's interstitial tissue",
+            "D": "To improve detection rates of vascular diseases within the lungs"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p182-para1",
+            "page": 182
+        }
+    },
+    {
+        "question": "What feature divides the mediastinum into the superior and inferior parts?",
+        "options": {
+            "A": "Pericardial Sac",
+            "B": "Diaphragm",
+            "C": "Transverse Plane Extending From Strenal Angle To Intervertebral Disc Between Vertebrae T4 And T5",
+            "D": "iaphragm  \nC: Transverse Plane Extending From Strenal Angle To Intervertebral Disc Between Vertebrae T4 And T5   \nD: Thoracic Aperture"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p185-para1",
+            "page": 185
+        }
+    },
+    {
+        "question": "What carries somatic sensation (pain) from the parietal pericardium?",
+        "options": {
+            "A": "Vagus nerve",
+            "B": "Phrenic nerves via somatic afferent fibers",
+            "C": "Sympathetic trunks",
+            "D": "Internal thoracic arteries"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p189-para1",
+            "page": 189
+        }
+    },
+    {
+        "question": "Through what structure does blood pass from the right atrium into the right ventricle?",
+        "options": {
+            "A": "Tricuspid Valve",
+            "B": "Pulmonary Valve",
+            "C": "Right Atrioventricular Orifice",
+            "D": "Mitral Valve"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p197-para1",
+            "page": 197
+        }
+    },
+    {
+        "question": "What structure consists of three semilunar cusps with free edges projecting upward into the lumen of the pulmonary trunk?",
+        "options": {
+            "A": "Pulmonary artery",
+            "B": "Tricuspid valve",
+            "C": "Left atrium",
+            "D": "Pulmonary valve"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p199-para1",
+            "page": 199
+        }
+    },
+    {
+        "question": "Which part of the heart does the posterior interventricular branch primarily supply blood to?",
+        "options": {
+            "A": "Both Ventricles",
+            "B": "oth Ventricles\nB: Only the Right Ventricle",
+            "C": "Only the Left Ventricle",
+            "D": "Neither the Right nor Left Ventricle"
+        },
+        "correct_answer": "A",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p206-para1",
+            "page": 206
+        }
+    },
+    {
+        "question": "What does the autonomic division of the peripheral nervous system regulate regarding the heart?",
+        "options": {
+            "A": "Only the heart's electrical activity",
+            "B": "Heart rate, force of contraction, and blood pressure",
+            "C": "Force of each contraction and cardiac output but not heart rate",
+            "D": "Hear t rate, force of each contraction, and cardiac output"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p212-para1",
+            "page": 212
+        }
+    },
+    {
+        "question": "What are the main sources contributing to the formation of the cardiac plexus?",
+        "options": {
+            "A": "Only the sympathetic nervous system",
+            "B": "Both the parasympathetic and sympathetic systems",
+            "C": "Only the parasympathetic nervous system",
+            "D": "Neither the parasympathetic nor sympathetic systems"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p214-para1",
+            "page": 214
+        }
+    },
+    {
+        "question": "What major blood vessel that arises from the arch of the aorta does give off two counterparts - one going to each side of the body?",
+        "options": {
+            "A": "Right subclavian artery giving off the left subclavian artery",
+            "B": "Brachiocephalic vein splitting into left and right portions",
+            "C": "Arch of the aorta itself dividing into left and right parts",
+            "D": "Common Carotid Artery branching out into the left and right sides"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p219-para1",
+            "page": 219
+        }
+    },
+    {
+        "question": "What does NOT pass behind the root of the right lung as described?",
+        "options": {
+            "A": "Brachiocephalic trunk",
+            "B": "rachiocephalic trunk  \nB: Esophagus",
+            "C": "Trachea",
+            "D": "Arch of the azygos vein"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p225-para1",
+            "page": 225
+        }
+    },
+    {
+        "question": "What percentage of people survive when there's an early diagnosis of esophageal rupture?",
+        "options": {
+            "A": "Up to 50%",
+            "B": "Up to 30%",
+            "C": "Up to 40%",
+            "D": "Up to 65%"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p231-para1",
+            "page": 231
+        }
+    },
+    {
+        "question": "What happens at the T4/T5 vertebral level according to the text?",
+        "options": {
+            "A": "The descending aorta begins.",
+            "B": "The costal cartilage of rib I articulates with the sternum.",
+            "C": "Several key anatomical transitions occur including the end of the ascending aorta and beginning of its arch.",
+            "D": "The superior vena cava connects directly into the pulmonary artery."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p238-para1",
+            "page": 238
+        }
+    },
+    {
+        "question": "Where does the oblique fissure begin according to the given anatomical description?",
+        "options": {
+            "A": "At the level of the spine of vertebra TVI",
+            "B": "Near the spine of vertebra TIII",
+            "C": "At the level of the spine of vertebra TIV",
+            "D": "Along the contour of rib VI"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p243-para1",
+            "page": 243
+        }
+    },
+    {
+        "question": "What does the blockage of the right coronary artery typically lead to?",
+        "options": {
+            "A": "Myocardial Infarction primarily affecting the posterior part of the heart",
+            "B": "Associated disorders of cardiac rhythm due to its supply to critical nodes",
+            "C": "Immediate failure of both the sinoatrial and atrioventricular nodes without symptoms",
+            "D": "Pulmonary Edema solely through direct damage to lung tissue"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p246-para1",
+            "page": 246
+        }
+    },
+    {
+        "question": "What happens when there's a tear in the intima layer during an aortic dissection?",
+        "options": {
+            "A": "It heals immediately without further complications.",
+            "B": "The tear does not affect other parts of the aortic wall.",
+            "C": "The tear in the intima extends into the media and peels it away, forming a channel within the wall of the vessel.",
+            "D": "Blood leaks out completely from the aorta causing immediate death."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p252-para1",
+            "page": 252
+        }
+    },
+    {
+        "question": "What provides primary support for visceral organs that are located outside of the area covered by the diaphragm?",
+        "options": {
+            "A": "Thoracic cage",
+            "B": "Muscular walls of the abdomen",
+            "C": "Peritoneal cavity itself",
+            "D": "Mesentery attached directly to vertebrae"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p259-para1",
+            "page": 259
+        }
+    },
+    {
+        "question": "What types of biological processes do the organs housed by the abdominal cavity support?",
+        "options": {
+            "A": "Only metabolic processes",
+            "B": "Metabolic, digestive, and other related physiological activities",
+            "C": "Exclusively respiratory functions",
+            "D": "Primarily circulatory system operations"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p260-para1",
+            "page": 260
+        }
+    },
+    {
+        "question": "At what approximate vertebral levels do the origins of the celiac, superior mesenteric, and inferior mesenteric arteries occur?",
+        "options": {
+            "A": "Upper border of L1 for celiac, middle of L2 for superior mesenteric, and L3 for inferior mesenteric",
+            "B": "Lower border of T12 for celiac, upper border of L1 for superior mesenteric, and L5 for inferior mesenteric",
+            "C": "Upper border of L1 for celiac, lower border of L1 for superior mesenteric, and L3 for inferior mesenteric",
+            "D": "Middle of L2 for celiac, lower border of L1 for superior mesenteric, and S1 for inferior mesenteric"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p274-para1",
+            "page": 274
+        }
+    },
+    {
+        "question": "What happens when there's blockage of the hepatic portal vein or vascular channels within the liver?",
+        "options": {
+            "A": "Blood directly returns to the heart without enlargement of connecting vessels.",
+            "B": "lood directly returns to the heart without enlargement of connecting vessels.\nB: Vessels that interconnect the portal and caval systems remain unchanged.",
+            "C": "Vessels that interconnect the portal and caval systems can become greatly enlarged and tortuous, facilitating blood flow back to the heart via the caval system.",
+            "D": "All blood flow stops completely due to lack of alternative pathways."
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p278-para1",
+            "page": 278
+        }
+    },
+    {
+        "question": "What type of view does the robotic system provide to the surgeon during robot-assisted laparoscopic surgery?",
+        "options": {
+            "A": "2D View",
+            "B": "3D View",
+            "C": "Real-time X-ray imaging",
+            "D": "View\nB: 3D View\nC: Real-time X-ray imaging\nD: Enhanced ultrasound visualization"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p282-para1",
+            "page": 282
+        }
+    },
+    {
+        "question": "What is the sequence of the abdominal muscles when moving from superficial to deep?",
+        "options": {
+            "A": "Transversus abdominis, Internal Oblique, External Oblique",
+            "B": "External Oblique, Transversus Abdominis, Internal Oblique",
+            "C": "External Oblique, Internal Oblique, Transversus Abdominis",
+            "D": "Internal Oblique, External Oblique, Transversus Abdominis"
+        },
+        "correct_answer": "C",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p287-para1",
+            "page": 287
+        }
+    },
+    {
+        "question": "What structure does the apex of the superficial inguinal ring's triangular opening point towards?",
+        "options": {
+            "A": "Inferiorly towards the pubic symphysis",
+            "B": "Superiorly and laterally",
+            "C": "Towards the femoral artery and vein",
+            "D": "Medially towards the pubic crest"
+        },
+        "correct_answer": "B",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p298-para1",
+            "page": 298
+        }
+    },
+    {
+        "question": "What structure is specifically identified as being present in women?",
+        "options": {
+            "A": "External oblique aponeurosis",
+            "B": "Genital branch of genitofemoral nerve",
+            "C": "Spermatic cord",
+            "D": "Round ligament of uterus"
+        },
+        "correct_answer": "D",
+        "type": "multiple_choice",
+        "source": {
+            "isbn": "978-0323393041",
+            "paragraph_id": "978-0323393041-p302-para1",
+            "page": 302
+        }
+    }
+]

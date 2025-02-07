@@ -1,13 +1,27 @@
-Forget everything previously known. Using only the information provided in the following paragraph, create a question that asks for a list of items directly mentioned in the paragraph. The answer should include only items explicitly stated in the content, without adding anything else. There can be an "n" number of list items in the answer, depending on the content. Provide the response in the following format: question followed by a list of items as the answer.
+Forget everything previously known. You are required to generate **a factual list-based question and its corresponding answer** using only the information provided in the paragraph below. The answer **must strictly contain items explicitly mentioned in the paragraph**, with no assumptions or additions.
 
-Response format:
-Question: [Question]
-Answer:
-- [Item 1]
-- [Item 2]
-- [Item 3]
-- ...
-- [Item n]
+### **Instructions**
+- The **question must ask for a list of items, concepts, steps, or components** directly found in the text.
+- The **list items must be explicitly stated in the content** (do not infer or generate new items).
+- Ensure that **all provided answers are verifiable within the paragraph**.
 
-Information:
+### **Response Format**
+<startofQAtext>
+**Question:** [Generate a question that asks for a list of items found in the paragraph]
+**Options:**  
+- [Option 1]  
+- [Option 2]  
+- [Option 3]  
+- ...  
+- [Option n]  
+
+**Answer:**  
+- [Answer 1]  
+- [Answer 2]  
+- [Answer 3]  
+- ...  
+- [Answer n]  
+<endofQAtext>
+
+### **Information Source**
 {paragraph_text}
