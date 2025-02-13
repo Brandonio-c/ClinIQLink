@@ -1,22 +1,36 @@
-Forget everything previously known. You are an expert in multi-step logical reasoning. Based **only** on the provided paragraph(s), generate a multi-hop question and its answer. Your reasoning **must be broken into explicit, stepwise inferences** that lead logically to the final answer.
+Forget everything previously known. You are an expert in multi-step logical reasoning. Based **only** on the provided paragraph(s), generate a **multi-hop question with an incorrect answer**. Your reasoning **must be broken into explicit, stepwise inferences**, and **one reasoning step must contain a false inference**, leading to an incorrect final answer.  
 
-### **Instructions**
-- The **question must require reasoning across multiple facts or concepts**.
-- The **reasoning must be structured as a sequential process**, where each step builds on the previous.
-- **Each reasoning step should introduce a new fact, entity, or logical inference** to construct a well-supported conclusion.
-- Avoid direct answers. The **response must be a multi-step inference**.
+### **General Instructions**  
+- Base every question and answer solely on the information provided in the paragraph.  
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.  
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.  
+- Use clear, precise language so that every detail in the reasoning is directly verifiable from the paragraph.  
+- Adhere strictly to the required response format for the specific QA type.  
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.  
 
-### **Response Format**
-<startofQAtext>
-**Question:** [Generate a multi-hop question that requires multiple inference steps]
-**Answer:** [Provide the final answer, derived strictly from logical reasoning]
-**Reasoning:**
-Step 1: [Extract the first key fact or entity that contributes to answering the question.]
-Step 2: [Introduce a second fact or relationship that connects with Step 1.]
-Step 3: [Continue identifying additional steps as needed, logically building toward the answer.]
-...
-Step n: [Synthesize all previous reasoning steps into a coherent conclusion, leading to the answer.]
-<endofQAtext>
+### **Specific Instructions**  
+- Formulate a **complex, multi-step question** that requires reasoning across multiple facts, entities, or relationships explicitly stated in the paragraph. The question must not be answerable using a single direct fact.  
+- Structure the question so that the **answer emerges only through logical progression**, requiring at least two reasoning steps. Each step should rely on prior facts while introducing new ones.  
+- **Introduce a deliberate but plausible false inference at one step in the reasoning chain.** This incorrect inference should appear logically structured but ultimately lead to a **wrong answer**.  
+- The **false inference must be identifiable**, meaning it should contradict the provided paragraph, but the reasoning chain should otherwise appear well-formed.  
+- **The incorrect answer must be consistent with the flawed reasoning**—it should appear justified based on the false inference but should be verifiably incorrect when compared to the source paragraph.  
+- Format the reasoning in a structured **Step 1 → Step 2 → Step 3** format, ensuring each step logically follows from the previous one, with the incorrect inference naturally embedded in the sequence.  
+- **The false inference should not be overly obvious**—it should be subtly misleading rather than blatantly incorrect, making it challenging but detectable for critical readers.  
+- Avoid nonsensical or irrelevant false inferences; the incorrect reasoning step should still relate to the overall logical progression of the question.  
 
-### **Information Source**
+### **Response Format**  
+<startofQAtext>  
+**Question:** [Generate a multi-hop question that requires multiple inference steps]  
+**Answer:** [Provide the final (incorrect) answer, derived strictly from flawed reasoning]  
+**Reasoning:**  
+Step 1: [Extract the first key fact or entity that contributes to answering the question.]  
+Step 2: [Introduce a second fact or relationship that connects with Step 1.]  
+Step 3: [Introduce a **false but plausible inference** that slightly deviates from the paragraph’s facts.]  
+Step 4: [Continue building toward the incorrect conclusion based on the false inference.]  
+Step n: [Synthesize all previous reasoning steps into a coherent but incorrect conclusion, leading to the wrong answer.]  
+<endofQAtext>  
+
+### **Information Source**  
 {paragraph_text}

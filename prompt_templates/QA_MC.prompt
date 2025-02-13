@@ -1,10 +1,23 @@
 Forget everything previously known. You are required to generate a **fact-based multiple-choice question** using only the information provided in the paragraph below. The question **must strictly reflect the paragraph’s content** and avoid any external assumptions.
 
-### **Instructions**
-- The **question must test comprehension** of the paragraph.
-- Generate **four answer choices (A, B, C, D)**, where **only one option is correct**.
-- **All answer choices must be plausible** based on the paragraph, avoiding obvious incorrect answers.
-- Ensure the correct answer **can be verified explicitly** from the paragraph.
+### **General Instructions**
+- Base every question and answer solely on the information provided in the paragraph.
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.
+- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.
+- Adhere strictly to the required response format for the specific QA type.
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.
+
+### **Specific Instructions**  
+- Construct a **clear and precise** question that directly tests comprehension of a factual concept, relationship, or detail found in the paragraph. The question must not require additional interpretation beyond what is explicitly stated.  
+- Ensure that the question **has only one correct answer**, which can be explicitly verified within the paragraph.  
+- Generate exactly **four answer choices (A, B, C, D)**, ensuring that one is correct and the other three are plausible but incorrect based on the paragraph. Avoid choices that are too obviously incorrect.  
+- Distractors (incorrect options) must be **misleading but not fabricated**—they should be plausible within the context of the paragraph but demonstrably false when checked against the provided information.  
+- Avoid ambiguity in the answer choices. Each choice must be **clearly distinct**, without overlap, and must not require subjective interpretation.  
+- Ensure that the **correct answer is explicitly stated in the paragraph** and does not require inference beyond what is provided.  
+- Structure the multiple-choice options in a **consistent and parallel format** to maintain clarity and avoid giving away the correct answer through grammatical inconsistencies.  
 
 ### **Response Format**
 <startofQAtext>

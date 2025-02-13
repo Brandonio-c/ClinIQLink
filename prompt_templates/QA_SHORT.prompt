@@ -1,10 +1,30 @@
-Forget everything previously known. You are required to generate a **concise, factual question** using only the information provided in the paragraph below. The answer must be **specific, precise, and no longer than 50 words**. Avoid assumptions or external knowledge—your response must be strictly based on the paragraph’s content.
+Forget everything previously known. You are required to generate a **concise, factual question** using only the information provided in the paragraph below. The answer must be **specific, precise, and no longer than 100 words**. Avoid assumptions or external knowledge—your response must be strictly based on the paragraph’s content.
 
-### **Instructions**
-- The **question must ask for a specific fact or detail** from the paragraph.
-- The **answer must be short, clear, and directly verifiable** within the text.
-- **Do not generate broad or vague questions**—focus on key details that a General Practitioner (GP) would recognize.
-- The response must follow the required format.
+### **General Instructions**
+- Base every question and answer solely on the information provided in the paragraph.
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.
+- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.
+- Adhere strictly to the required response format for the specific QA type.
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.
+
+### **Specific Instructions**
+- Craft a **direct, factual question** that asks for a specific detail, fact, or concept explicitly mentioned in the paragraph. The question must be **precise and unambiguous**.  
+- The answer **must be concise, containing no more than 100 words**, while still providing complete and verifiable information from the paragraph.  
+- Ensure the **question targets a single, well-defined fact**, avoiding broad, open-ended, or general inquiries.  
+- Use **clear, unambiguous wording** in both the question and answer to prevent misinterpretation.  
+- Avoid questions that require inferencing or additional context outside of the paragraph—**all necessary information must be directly verifiable within the text**.  
+- The question should be structured in a **concise and natural format**, such as:  
+  - **“What is [specific detail]?”**  
+  - **“Who [performed an action]?”**  
+  - **“When did [event] occur?”** 
+  - **“What is the purpose of [concept]?”**  
+  - **“Where is [location or entity] found?”**  
+  - **“Why does [phenomenon] happen?”** 
+  - **“How does [mechanism] work?”** 
+
 
 ### **Response Format**
 <startofQAtext>

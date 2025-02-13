@@ -1,0 +1,44 @@
+Forget everything previously known. You are an expert in multi-step logical reasoning. Based **only** on the provided paragraph(s), generate a **multi-hop question with an incorrect answer**. Your reasoning **must be broken into explicit, stepwise inferences**, and **one reasoning step must contain a false but plausible inference**, leading to an incorrect final answer. Additionally, clearly **identify which step contains the incorrect inference** and explain why it is incorrect.  
+
+### **General Instructions**  
+- Base every question and answer solely on the information provided in the paragraph.  
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.  
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.  
+- Use clear, precise language so that every detail in the reasoning is directly verifiable from the paragraph.  
+- Adhere strictly to the required response format for the specific QA type.  
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.  
+
+### **Specific Instructions**  
+- Formulate a **complex, multi-step question** that requires reasoning across multiple facts, entities, or relationships explicitly stated in the paragraph. The question must not be answerable using a single direct fact.  
+- Structure the question so that the **answer emerges only through logical progression**, requiring at least two reasoning steps. Each step should rely on prior facts while introducing new ones.  
+- **Introduce a deliberate but plausible false inference at any step in the reasoning chain.** This incorrect inference should be subtly misleading but must ultimately lead to a **wrong answer**.  
+- The **false inference must be identifiable**, meaning it should contradict the provided paragraph but appear logically consistent within the reasoning steps.  
+- The **incorrect inference can occur at any point** in the reasoning chain—it may be introduced early, in the middle, or near the final step leading to the conclusion.  
+- **All other reasoning steps should be correct** except for the one containing the false inference, maintaining an otherwise valid logical progression.  
+- **The incorrect answer must be logically justified based on the flawed reasoning**, meaning that the answer should be what a reader would conclude if they followed the incorrect step.  
+- Format the reasoning in a structured **Step 1 → Step 2 → Step 3 → ... → Step n** format, ensuring the false inference is seamlessly embedded within the logical flow.  
+- **Avoid making the false inference overly obvious**—it should be subtly misleading rather than blatantly incorrect, making it challenging but detectable for critical readers.  
+- The false inference must be relevant to the question—**do not introduce arbitrary errors or unrelated falsehoods**. Instead, subtly distort a relationship, misinterpret a fact, or introduce a small but impactful factual error.  
+- **Explicitly identify which step contains the incorrect inference** in a separate section labeled `Incorrect Reasoning Step`.  
+- Clearly **explain why the identified step is incorrect** and what the correct inference should have been.  
+
+### **Response Format**  
+<startofQAtext>  
+**Question:** [Generate a multi-hop question that requires multiple inference steps]  
+**Answer:** [Provide the final (incorrect) answer, derived strictly from flawed reasoning]  
+**Reasoning:**  
+Step 1: [Extract the first key fact or entity that contributes to answering the question.]  
+Step 2: [Introduce a second fact or relationship that connects with Step 1.]  
+Step 3: [Introduce a **false but plausible inference** at any point in the reasoning process.]  
+Step 4: [Continue building toward the incorrect conclusion based on the false inference.]  
+Step n: [Synthesize all previous reasoning steps into a coherent but incorrect conclusion, leading to the wrong answer.]  
+
+**Incorrect Reasoning Step:**  
+- **Step X** contains the incorrect inference.  
+- **Explanation:** [Describe why this step is incorrect and what the correct inference should have been based on the paragraph.]  
+<endofQAtext>  
+
+### **Information Source**  
+{paragraph_text}  

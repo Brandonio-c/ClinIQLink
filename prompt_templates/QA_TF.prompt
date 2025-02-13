@@ -1,10 +1,38 @@
 Forget everything previously known. You are required to generate a **factual True/False question** based only on the information in the paragraph below. The question must be **clear, precise, and directly verifiable** from the text, avoiding any assumptions or external knowledge.
 
-### **Instructions**
-- The **statement must be factual** and based solely on the provided paragraph.
-- The **statement should be either true or false**, without ambiguity.
-- The **answer must be explicitly verifiable** from the paragraph.
-- Avoid opinion-based, speculative, or subjective statements.
+### **General Instructions**
+- Base every question and answer solely on the information provided in the paragraph.
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.
+- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.
+- Adhere strictly to the required response format for the specific QA type.
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.
+
+### **Specific Instructions**  
+- Formulate a **clear, factual statement** that can be **objectively determined as either true or false** based **solely** on the information within the paragraph.  
+- The statement **must not contain any ambiguity, inference, or interpretation**—its truth value must be explicitly verifiable from the paragraph.  
+- **Ensure that both true and false statements are reasonable** within the context of the paragraph—avoid statements that are trivially false or implausible.  
+- **Avoid subjective, opinion-based, or speculative statements**—the statement should be purely factual.  
+- **The statement should be structured as a direct factual claim**, such as:  
+  - “[Entity] is responsible for [specific action].”  
+  - “[Concept] is defined as [specific definition].”  
+  - “[Process] occurs in [specific location].”  
+  - “[Event] took place in [year or place].”  
+  - “[Action] leads to [specific outcome].”  
+  - “[Statement] is true/false.”  
+  - “[Measurement] is equal to [specific value].”  
+  - “[Law/Theory] explains [scientific phenomenon].”  
+  - “[Organism/Group] exhibits [specific characteristic or behavior].”  
+  - “[Chemical reaction] produces [specific substance].”  
+  - “[Anatomical structure] performs [specific function].”  
+  - “[Technology] is used for [specific application].”  
+  - “[Historical figure] contributed to [specific achievement].”  
+  - “[Material] is composed of [specific elements or compounds].”  
+  - “[Medical condition] is characterized by [specific symptoms].”  
+  - “[Instrument] is used to measure [specific property].”  
+- The **answer must be either 'True' or 'False'**, and the determination must be directly supported by the paragraph.  
 
 ### **Response Format**
 <startofQAtext>

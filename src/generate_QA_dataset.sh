@@ -5,7 +5,7 @@
 #SBATCH --ntasks-per-node=2                                                     # Number of tasks per node
 #SBATCH --cpus-per-task=32                                                      # Number of CPUs per task
 #SBATCH --mem=164G                                                              # Request Ram memory per node
-#SBATCH --time=10:00:00                                                         # 10 hours 0 minutes for testing
+#SBATCH --time=48:00:00                                                         # 48 hours 
 #SBATCH --job-name=generate_qa_dataset_llama3-3_70B                                          # Set job name
 #SBATCH --output=generate_qa_dataset_llama3-3_70B.out                                        # Output file name
 #SBATCH --error=generate_qa_dataset_llama3-3_70B.err                                         # set error file name 
@@ -43,10 +43,11 @@ OUTPUT_DIR="$BASEDIR/QA_dataset"
 PREPROCESSED_DATA_CSV="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink/preprocessed_dataset/978-0323393041.csv"
 MODEL_PATH="/data/coleloughbc/LLAMA-3-2/HF_Converted_llama-3-3_70B_instruct_HF"
 MAX_ENTRIES=10000  # Set to desired number or leave blank for all
-MAX_NEW_TOKENS=1024
-MAX_SEQUENCE_LENGTH=1024
-CHECKPOINT=50
-START_PARAGRAPH=301  # Change this value to resume from a specific paragraph
+MAX_SEQUENCE_LENGTH=2048
+MAX_NEW_TOKENS=1024  # (or adjust dynamically so prompt + generated tokens ≤ 2048)
+MODEL_MAX_LENGTH=131072 
+CHECKPOINT=25
+START_PARAGRAPH=1  # Change this value to resume from a specific paragraph
 
 
 # Run the Python script with specified arguments
@@ -60,6 +61,7 @@ echo "Starting QA dataset generation..."
     --checkpoint ${CHECKPOINT:-} \
     --max_entries ${MAX_ENTRIES:-} \
     --max_sequence_length ${MAX_SEQUENCE_LENGTH:-} \
+    --model_max_length ${MODEL_MAX_LENGTH:-} \
     --start_paragraph ${START_PARAGRAPH:-} \
     --debugging
 

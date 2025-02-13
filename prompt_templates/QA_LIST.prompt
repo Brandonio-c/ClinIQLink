@@ -1,9 +1,21 @@
 Forget everything previously known. You are required to generate **a factual list-based question and its corresponding answer** using only the information provided in the paragraph below. The answer **must strictly contain items explicitly mentioned in the paragraph**, with no assumptions or additions.
 
-### **Instructions**
-- The **question must ask for a list of items, concepts, steps, or components** directly found in the text.
-- The **list items must be explicitly stated in the content** (do not infer or generate new items).
-- Ensure that **all provided answers are verifiable within the paragraph**.
+### **General Instructions**
+- Base every question and answer solely on the information provided in the paragraph.
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.
+- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.
+- Adhere strictly to the required response format for the specific QA type.
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.
+
+### **Specific Instructions**
+- Formulate a **clear and direct** question that explicitly asks for a **list of items, concepts, steps, or components** found in the paragraph. The question should not imply the need for interpretation or synthesis beyond what is explicitly stated.  
+- Ensure that the **question is structured as a request for a complete list**, avoiding partial lists or open-ended phrasing. Instead, use specific wording such as **"What are all the [items] mentioned in the paragraph?"**  
+- Extract all **distinct, explicitly mentioned list items** from the paragraph. Do not generate additional list items based on inferred information.  
+- Format the **Options** section as a bullet-point list, including **all relevant items from the paragraph**, even if some are incorrect or extraneous.  
+- Construct the **Answer** section as a bullet-point list, containing **only the correct subset of items** that accurately answer the question. The answer list must **exactly match the items stated in the paragraph** without omissions or modifications.  
 
 ### **Response Format**
 <startofQAtext>

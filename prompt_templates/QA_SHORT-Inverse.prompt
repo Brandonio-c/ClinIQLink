@@ -1,0 +1,38 @@
+Forget everything previously known. You are required to generate a **concise, factual question** using only the information provided in the paragraph below. The answer must be **specific, precise, and no longer than 100 words**. However, the answer must be **false** while still appearing plausible based on the paragraph’s content. The incorrect answer should be subtly misleading but **must contain a specific factual error that contradicts the paragraph**. The goal is to produce a short-answer QA pair where the **question is valid, but the answer is incorrect due to a deliberate but reasonable-seeming mistake**.  
+
+### **General Instructions**  
+- Base every question and answer solely on the information provided in the paragraph.  
+- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.  
+- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.  
+- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.  
+- Adhere strictly to the required response format for the specific QA type.  
+- Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
+- Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.  
+
+### **Specific Instructions**  
+- Formulate a **concise, direct factual question** that asks about a **specific detail, fact, or concept explicitly mentioned in the paragraph**. The question should be clear, unambiguous, and structured naturally.  
+- The **answer must be false**, meaning that it **contradicts a verifiable fact in the paragraph** while still appearing reasonable.  
+- **The false answer should introduce a plausible but incorrect piece of information**, such as:  
+  - Altering a numerical value (e.g., changing a date, percentage, or measurement).  
+  - Swapping related terms, categories, or entities (e.g., misidentifying a person, place, or process).  
+  - Stating an incorrect cause-effect relationship.  
+  - Providing a mistaken location, classification, or function.  
+- **Avoid overly obvious errors or nonsensical answers**—the false answer should be misleading but **subtle enough to seem credible**.  
+- **Explicitly identify why the answer is incorrect** by including an `Incorrect Answer Explanation` section that states:  
+  - **What the false answer is**  
+  - **Why it is incorrect**  
+  - **What the correct answer should be**  
+
+### **Response Format**  
+<startofQAtext>  
+**Question:** [Generate a direct factual question based on the paragraph]  
+**Answer:** [Provide a concise but incorrect answer (maximum 100 words)]  
+
+**Incorrect Answer Explanation:**  
+- **False Answer Given:** [Restate the incorrect answer]  
+- **Why It Is Incorrect:** [Explain the factual error and provide the correct answer based on the paragraph]  
+<endofQAtext>  
+
+### **Information Source**  
+{paragraph_text}  

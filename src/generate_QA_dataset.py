@@ -38,16 +38,18 @@ from torch.nn.utils.rnn import pad_sequence
 # from transformers.utils.logging import set_verbosity_debug
 # set_verbosity_debug()
 
-
 class QAType(Enum):
     TRUE_FALSE = "tf"
     MULTIPLE_CHOICE = "mc"
     SHORT = "short"
     LIST = "list"
-    MULTI_HOP = "multi_hop"  # New question type
+    MULTI_HOP = "multi_hop"
+    MULTI_HOP_INVERSE = "multi_hop_inverse"  # New QA type for multi-hop inverse
+    SHORT_INVERSE = "short_inverse"  # New QA type for short inverse
+
 
 class QADatasetGenerator:
-    def __init__(self, preprocessed_csv, llama3_model_path, output_dir, max_new_tokens, max_sequence_length, checkpoint, max_entries=None, start_paragraph=0, debugging=False, debugging_verbose=False):
+    def __init__(self, preprocessed_csv, llama3_model_path, output_dir, max_new_tokens, max_sequence_length, model_max_length, checkpoint, max_entries=None, start_paragraph=0, debugging=False, debugging_verbose=False):
         """
         Initializes the QADatasetGenerator with necessary paths and models.
 
@@ -79,6 +81,11 @@ class QADatasetGenerator:
         self.output_dir.mkdir(parents=True, exist_ok=True)  # Ensure directory exists
         self.max_new_tokens = max_new_tokens
         self.max_sequence_length = max_sequence_length
+        self.max_entries = max_entries
+        self.model_max_length = model_max_length
+
+        #settings for NER used in determining if sentnece is informative 
+
         # Load NER model (SpaCy) and sentence embedding model (Hugging Face)
         self.nlp = spacy.load("en_core_web_sm", disable=["parser", "tagger"])
         # Add missing pipeline components only if they are not already present
@@ -92,8 +99,21 @@ class QADatasetGenerator:
             self.nlp.add_pipe("sentencizer")  # Ensures sentence segmentation
 
         self.embedding_model = pipeline("feature-extraction", model="sentence-transformers/all-MiniLM-L6-v2", device=self.device)
-        self.max_entries = max_entries
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained(llama3_model_path, padding_side="left", truncation=True, model_max_length=self.max_sequence_length)
+
+        #settings for NER used in determining if sentnece is informative 
+
+        # LLama 3.3. 70B params 
+        # self.tokenizer = transformers.AutoTokenizer.from_pretrained(llama3_model_path, padding_side="left", truncation=True, model_max_length=self.max_sequence_length)
+        # self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
+        self.tokenizer = transformers.AutoTokenizer.from_pretrained(
+                                                            llama3_model_path,
+                                                            padding_side="left",
+                                                            model_max_length=self.model_max_length,  
+                                                            trust_remote_code=True,   # Ensures custom tokenizers work
+                                                        )
+
+        # Ensure padding token is correctly set
+        self.tokenizer.pad_token = self.tokenizer.eos_token
         self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
         self.model = transformers.AutoModelForCausalLM.from_pretrained(
@@ -105,34 +125,89 @@ class QADatasetGenerator:
                     # offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
                     # offload_state_dict=True, # Helps in managing large models across multiple GPUs
                     ).eval()  # Put model in inference mode to reduce overhead by disabling gradient computation.
-        
+
+        if self.model.config.max_position_embeddings < 131072:
+            print(f"[WARNING] Model's max_position_embeddings ({self.model.config.max_position_embeddings}) is less than expected (131072). Overriding.")
+            self.model.config.max_position_embeddings = 131072
         # Ensure padding token is set
-        self.model.config.pad_token_id = self.tokenizer.eos_token_id   
+        self.model.config.pad_token_id = self.tokenizer.eos_token_id
  
         self.qa_pipeline = pipeline(
                                     "text-generation",
                                     model=self.model,
                                     tokenizer=self.tokenizer,
+                                    max_length=self.max_sequence_length,  # set to 2048 (practical prompt length, original setup used 2 A100 GPU's)
                                     #device=self.device,  
                                     truncation=True,
                                     #batch_size=1,  # Reduce batch size for memory efficiency
-                                    max_new_tokens=self.max_new_tokens,
+                                    max_new_tokens=self.max_new_tokens,     # set to 1024 tokens generated (again for practical prompt length, original setup used 2 A100 GPU's)
                                     pad_token_id=self.tokenizer.eos_token_id,
                                     return_tensors="pt",
-                                    torch_dtype=torch.bfloat16,  # Use bfloat16 to reduce memory overhead
+                                    torch_dtype=torch.bfloat16,  # Use bfloat16 to reduce memory overhead  
                                 )
         
         # Define generation arguments
         self.generation_args = {
-            #"max_new_tokens": 400,  # Limit the number of new tokens per response
-            "return_full_text": False,  # Exclude the input text from the response
-            "temperature": 0.7,  # Balance between determinism and creativity
-            "do_sample": True,   # Enable sampling for varied responses
-            "top_k": 50,         # Consider the top 50 tokens for diversity
-            "top_p": 0.9,        # Nucleus sampling for balanced output quality
-            "repetition_penalty": 1.2,  # Penalize repetition for natural responses
-            "eos_token_id": self.tokenizer.eos_token_id,  # Use the model's EOS token
-        }
+                                #"max_new_tokens": 400,  # Limit the number of new tokens per response
+                                "return_full_text": False,  # Exclude the input text from the response
+                                "temperature": 0.7,  # Balance between determinism and creativity
+                                "do_sample": True,   # Enable sampling for varied responses
+                                "top_k": 50,         # Consider the top 50 tokens for diversity
+                                "top_p": 0.9,        # Nucleus sampling for balanced output quality
+                                "repetition_penalty": 1.2,  # Penalize repetition for natural responses
+                                "eos_token_id": self.tokenizer.eos_token_id,  # Use the model's EOS token
+                                }   
+        
+        if self.debugging:
+            print("\n=== MODEL PARAMETER DEBUGGING START ===")
+
+            # Tokenizer Debugging
+            print("Loading tokenizer parameters...")
+
+            print("\n[Tokenizer Configuration]")
+            print(f"Tokenizer class: {type(self.tokenizer)}")
+            print(f"Model max length: {self.tokenizer.model_max_length}")
+            print(f"Padding side: {self.tokenizer.padding_side}")
+            print(f"Pad token: {self.tokenizer.pad_token}")
+            print(f"Pad token ID: {self.tokenizer.pad_token_id}")
+            print(f"EOS token ID: {self.tokenizer.eos_token_id}")
+            print(f"BOS token ID: {self.tokenizer.bos_token_id}")
+            print(f"Vocab size: {self.tokenizer.vocab_size}")
+
+            # Tokenizing a long input to confirm truncation behavior
+            test_text = "This is a test sentence. " * 500  # Create a long sequence
+            tokens = self.tokenizer(test_text, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+
+
+            print(f"Tokenized sequence length: {tokens['input_ids'].shape[1]}")
+            if tokens["input_ids"].shape[1] > self.tokenizer.model_max_length:
+                print("ERROR: Tokenized sequence exceeds model_max_length!")
+
+            # Model Debugging
+            print("\nLoading model parameters...")
+
+            print("\n[Model Configuration]")
+            print(f"Model class: {type(self.model)}")
+            print(f"Max position embeddings: {self.model.config.max_position_embeddings}")
+            print(f"Hidden size: {self.model.config.hidden_size}")
+            print(f"Number of attention heads: {self.model.config.num_attention_heads}")
+            print(f"Number of hidden layers: {self.model.config.num_hidden_layers}")
+            print(f"Intermediate size: {self.model.config.intermediate_size}")
+            print(f"Rope scaling: {self.model.config.rope_scaling}")
+            print(f"Rope theta: {self.model.config.rope_theta}")
+            print(f"Vocabulary size: {self.model.config.vocab_size}")
+            print(f"Model dtype: {self.model.config.torch_dtype}")
+
+            # Verify model max position embeddings
+            if self.model.config.max_position_embeddings < 8192:
+                print("WARNING: Model max_position_embeddings is unexpectedly low!")
+
+            # Check if model supports higher token limits
+            print("\nChecking if model parameters allow long sequences...")
+            if self.model.config.max_position_embeddings < 131072:
+                print(f"ERROR: Model max position ({self.model.config.max_position_embeddings}) is lower than expected (131072).")
+            
+
 
         
         # Load prompt templates
@@ -142,6 +217,9 @@ class QADatasetGenerator:
         self.QA_LIST_template = self.load_prompt_template(self.prompt_templates_dir / "QA_LIST.prompt")
         self.QA_TF_template = self.load_prompt_template(self.prompt_templates_dir / "QA_TF.prompt")
         self.QA_MULTI_HOP_template = self.load_prompt_template(self.prompt_templates_dir / "QA_MULTI-HOP.prompt")
+        self.QA_MULTI_HOP_INVERSE_template = self.load_prompt_template(self.prompt_templates_dir / "QA_MULTI-HOP-Inverse.prompt")
+        self.QA_SHORT_INVERSE_template = self.load_prompt_template(self.prompt_templates_dir / "QA_SHORT-Inverse.prompt")
+
 
         
         # Initialize containers for each type of QA pair
@@ -150,6 +228,8 @@ class QADatasetGenerator:
         self.list_QA_pairs = []
         self.MC_QA_pairs = []
         self.multi_hop_QA_pairs = []
+        self.multi_hop_inverse_QA_pairs = []  # Stores multi-hop inverse QA pairs
+        self.short_inverse_QA_pairs = []  # Stores short-answer inverse QA pairs
         self.max_entries = max_entries
         self.save_every = checkpoint
         self.debugging=debugging
@@ -161,6 +241,8 @@ class QADatasetGenerator:
             QAType.LIST: 0,
             QAType.MULTIPLE_CHOICE: 0,
             QAType.MULTI_HOP: 0,
+            QAType.SHORT_INVERSE: 0,
+            QAType.MULTI_HOP_INVERSE: 0,
         }
 
         self.balance_threshold = 10 # the above two variables are used to balance the number of QA quesiton types are made / distributed. 
@@ -345,24 +427,36 @@ class QADatasetGenerator:
             print("[DEBUG] - Prompt used to generate short answer QA sets", flush=True)
             print(prompt, flush=True)
         try:
-            tokenized_input = self.tokenizer(prompt, return_tensors="pt")
-            input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
+            #tokenize the prompt (with truncation enabled, but without forcing a max_length) to measure its length.
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
 
+            # If the prompt is too long, reduce it to reserve tokens for generation.
             if input_length > self.max_sequence_length:
-                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Truncating!", flush=True)
-                prompt = self.tokenizer.decode(
-                            self.tokenizer(prompt, return_tensors="pt", max_length=self.max_sequence_length, truncation=True)["input_ids"][0], 
-                            skip_special_tokens=True
-                        )
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Reducing prompt to allow room for output.", flush=True)
+                # Reserve self.max_new_tokens tokens for output.
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                # Re-tokenize with the allowed prompt length.
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                # Decode back to text so that the prompt is now shortened.
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
 
-            # Generate response using the QA pipeline
+            # Now compute how many tokens are available for generation.
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline with the dynamically computed new-token limit.
             response = self.qa_pipeline(
-                                            prompt, 
-                                            max_new_tokens=self.max_new_tokens,  # Ensures the response adheres to max_new_tokens
-                                            truncation=True,  # Ensures long inputs are truncated properly
-                                            num_return_sequences=1,  # Generates only one response
-                                            **self.generation_args  # Passes additional generation arguments
-                                        )
+                                        prompt,
+                                        max_new_tokens=dynamic_max_new_tokens,
+                                        truncation=True,
+                                        num_return_sequences=1,
+                                        **self.generation_args
+                                    )
+           
             if self.debugging_verbose:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
@@ -414,6 +508,140 @@ class QADatasetGenerator:
         except Exception as e:
             print(f"[ERROR] Error generating short-answer QA: {e}", flush=True)
             return None
+        
+    def generate_short_inverse_QA(self, paragraph_text, source_info):
+        """
+        Generates a short-answer inverse QA pair (with a false answer) from a paragraph.
+
+        Parameters:
+            paragraph_text (str): The paragraph text to generate a question from.
+            source_info (dict): Metadata about the paragraph's source.
+
+        Returns:
+            dict or None: A dictionary with question-answer data or None if not generated.
+        """
+        # Prepare the prompt for the short-answer inverse QA
+        prompt = self.QA_SHORT_INVERSE_template.replace("{paragraph_text}", paragraph_text)
+        if self.debugging_verbose:
+            print("[DEBUG] - Prompt used to generate short inverse QA sets", flush=True)
+            print(prompt, flush=True)
+
+        try:
+            # Tokenize the prompt to measure its length
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
+
+            # If the prompt is too long, reduce it to reserve tokens for generation
+            if input_length > self.max_sequence_length:
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Adjusting.", flush=True)
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
+
+            # Calculate available tokens for generation
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline
+            response = self.qa_pipeline(
+                prompt,
+                max_new_tokens=dynamic_max_new_tokens,
+                truncation=True,
+                num_return_sequences=1,
+                **self.generation_args
+            )
+
+            if self.debugging_verbose:
+                print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
+                print(response[0]["generated_text"], flush=True)
+
+            qa_text = response[0]["generated_text"]
+
+            # Extract text between markers
+            extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
+            if not extracted_text:
+                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
+                return None
+
+            # Debugging: Print extracted text before processing
+            if self.debugging_verbose:
+                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
+
+            # Define regex pattern to extract Question, Incorrect Answer, Explanation, and Correct Answer
+            qa_pattern = re.compile(
+                r"\*\*Question:\*\*\s*(?P<question>.*?)\s*"
+                r"\*\*Answer:\*\*\s*(?P<answer>.*?)\s*"
+                r"\*\*Incorrect Answer Explanation:\*\*\s*"
+                r"- \*\*False Answer Given:\*\* (?P<false_answer>.*?)\s*"
+                r"- \*\*Why It Is Incorrect:\*\* (?P<explanation>.*?)\s*"
+                r"- \*\*Correct Answer:\*\* (?P<correct_answer>.*)",
+                re.DOTALL
+            )
+
+            # Match against extracted text
+            match = qa_pattern.search(extracted_text)
+
+            if match:
+                question = match.group("question").strip()
+                answer = match.group("answer").strip()
+                false_answer = match.group("false_answer").strip()
+                incorrect_explanation = match.group("explanation").strip()
+                correct_answer = match.group("correct_answer").strip()
+
+                # Ensure all fields are present
+                missing_fields = []
+                if not question:
+                    missing_fields.append("Question")
+                if not answer:
+                    missing_fields.append("Answer")
+                if not false_answer:
+                    missing_fields.append("False Answer Given")
+                if not incorrect_explanation:
+                    missing_fields.append("Explanation for Incorrect Answer")
+                if not correct_answer:
+                    missing_fields.append("Correct Answer")
+
+                if missing_fields:
+                    print(f"[ERROR] Missing fields in extracted short inverse QA: {', '.join(missing_fields)}", flush=True)
+                    print(f"[DEBUG] Extracted QA content:\n{extracted_text}", flush=True)
+                    return None
+
+                return {
+                    "question": question,
+                    "answer": answer,
+                    "false_answer": false_answer,
+                    "incorrect_explanation": incorrect_explanation,
+                    "correct_answer": correct_answer,
+                    "type": "short_inverse",
+                    "source": source_info
+                }
+            else:
+                print(f"[ERROR] Invalid QA format in short inverse QA.", flush=True)
+                
+                # Additional debugging for incorrect formatting
+                if "**Question:**" not in extracted_text:
+                    print("[DEBUG] 'Question:' keyword not found in extracted text.", flush=True)
+                if "**Answer:**" not in extracted_text:
+                    print("[DEBUG] 'Answer:' keyword not found in extracted text.", flush=True)
+                if "**Incorrect Answer Explanation:**" not in extracted_text:
+                    print("[DEBUG] 'Incorrect Answer Explanation:' keyword not found in extracted text.", flush=True)
+                if "**False Answer Given:**" not in extracted_text:
+                    print("[DEBUG] 'False Answer Given:' keyword not found in extracted text.", flush=True)
+                if "**Why It Is Incorrect:**" not in extracted_text:
+                    print("[DEBUG] 'Why It Is Incorrect:' keyword not found in extracted text.", flush=True)
+                if "**Correct Answer:**" not in extracted_text:
+                    print("[DEBUG] 'Correct Answer:' keyword not found in extracted text.", flush=True)
+
+                print(f"[DEBUG] Full extracted text:\n{extracted_text}", flush=True)
+                return None
+
+        except Exception as e:
+            print(f"[ERROR] Error generating short inverse QA: {e}", flush=True)
+            return None
+
 
     def generate_TF_QA(self, paragraph_text, source_info):
         """
@@ -434,24 +662,37 @@ class QADatasetGenerator:
             print(prompt, flush=True)
 
         try:
-            tokenized_input = self.tokenizer(prompt, return_tensors="pt")
-            input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
+            #tokenize the prompt (with truncation enabled, but without forcing a max_length) to measure its length.
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
 
+            # If the prompt is too long, reduce it to reserve tokens for generation.
             if input_length > self.max_sequence_length:
-                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Truncating!", flush=True)
-                prompt = self.tokenizer.decode(
-                            self.tokenizer(prompt, return_tensors="pt", max_length=self.max_sequence_length, truncation=True)["input_ids"][0], 
-                            skip_special_tokens=True
-                        )
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Reducing prompt to allow room for output.", flush=True)
+                # Reserve self.max_new_tokens tokens for output.
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                # Re-tokenize with the allowed prompt length.
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                # Decode back to text so that the prompt is now shortened.
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
 
-            # Generate response using the QA pipeline
+            # Now compute how many tokens are available for generation.
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline with the dynamically computed new-token limit.
             response = self.qa_pipeline(
-                                            prompt, 
-                                            max_new_tokens=self.max_new_tokens,  # Ensures the response adheres to max_new_tokens
-                                            truncation=True,  # Ensures long inputs are truncated properly
-                                            num_return_sequences=1,  # Generates only one response
-                                            **self.generation_args  # Passes additional generation arguments
-                                        )
+                                        prompt,
+                                        max_new_tokens=dynamic_max_new_tokens,
+                                        truncation=True,
+                                        num_return_sequences=1,
+                                        **self.generation_args
+                                    )
+           
+
             if self.debugging_verbose:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
@@ -528,24 +769,36 @@ class QADatasetGenerator:
             print(prompt, flush=True)
 
         try:
-            tokenized_input = self.tokenizer(prompt, return_tensors="pt")
-            input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
+            #tokenize the prompt (with truncation enabled, but without forcing a max_length) to measure its length.
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
 
+            # If the prompt is too long, reduce it to reserve tokens for generation.
             if input_length > self.max_sequence_length:
-                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Truncating!", flush=True)
-                prompt = self.tokenizer.decode(
-                            self.tokenizer(prompt, return_tensors="pt", max_length=self.max_sequence_length, truncation=True)["input_ids"][0], 
-                            skip_special_tokens=True
-                        )
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Reducing prompt to allow room for output.", flush=True)
+                # Reserve self.max_new_tokens tokens for output.
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                # Re-tokenize with the allowed prompt length.
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                # Decode back to text so that the prompt is now shortened.
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
 
-            # Generate response using the QA pipeline
+            # Now compute how many tokens are available for generation.
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline with the dynamically computed new-token limit.
             response = self.qa_pipeline(
-                                            prompt, 
-                                            max_new_tokens=self.max_new_tokens,  # Ensures the response adheres to max_new_tokens
-                                            truncation=True,  # Ensures long inputs are truncated properly
-                                            num_return_sequences=1,  # Generates only one response
-                                            **self.generation_args  # Passes additional generation arguments
-                                        )
+                                        prompt,
+                                        max_new_tokens=dynamic_max_new_tokens,
+                                        truncation=True,
+                                        num_return_sequences=1,
+                                        **self.generation_args
+                                    )
+
             if self.debugging_verbose:
                 print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                 print("[DEBUG]", flush=True)
@@ -644,24 +897,36 @@ class QADatasetGenerator:
             print("[DEBUG] - Prompt used to generate MC QA sets", flush=True)
             print(prompt, flush=True)
         try:
-            tokenized_input = self.tokenizer(prompt, return_tensors="pt")
-            input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
+            #tokenize the prompt (with truncation enabled, but without forcing a max_length) to measure its length.
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
 
+            # If the prompt is too long, reduce it to reserve tokens for generation.
             if input_length > self.max_sequence_length:
-                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Truncating!", flush=True)
-                prompt = self.tokenizer.decode(
-                            self.tokenizer(prompt, return_tensors="pt", max_length=self.max_sequence_length, truncation=True)["input_ids"][0], 
-                            skip_special_tokens=True
-                        )
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Reducing prompt to allow room for output.", flush=True)
+                # Reserve self.max_new_tokens tokens for output.
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                # Re-tokenize with the allowed prompt length.
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                # Decode back to text so that the prompt is now shortened.
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
 
-            # Run the QA pipeline
+            # Now compute how many tokens are available for generation.
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline with the dynamically computed new-token limit.
             response = self.qa_pipeline(
-                                                prompt, 
-                                                max_new_tokens=self.max_new_tokens,  # Ensures the response adheres to max_new_tokens
-                                                truncation=True,  # Ensures long inputs are truncated properly
-                                                num_return_sequences=1,  # Generates only one response
-                                                **self.generation_args  # Passes additional generation arguments
-                                            )
+                                        prompt,
+                                        max_new_tokens=dynamic_max_new_tokens,
+                                        truncation=True,
+                                        num_return_sequences=1,
+                                        **self.generation_args
+                                    )
+           
             if self.debugging_verbose:
                     print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                     print("[DEBUG]", flush=True)
@@ -808,6 +1073,8 @@ class QADatasetGenerator:
             print(f"[ERROR] Error generating MC QA: {e}", flush=True)
             return None
 
+    
+
     def generate_multi_hop_QA(self, paragraph_text, source_info):
         """
         Generates a multi-hop QA pair from a paragraph.
@@ -826,25 +1093,36 @@ class QADatasetGenerator:
             print(prompt, flush=True)
 
         try:
-            tokenized_input = self.tokenizer(prompt, return_tensors="pt")
-            input_length = tokenized_input["input_ids"].shape[1]  # Get sequence length
+            #tokenize the prompt (with truncation enabled, but without forcing a max_length) to measure its length.
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
 
+            # If the prompt is too long, reduce it to reserve tokens for generation.
             if input_length > self.max_sequence_length:
-                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Truncating!", flush=True)
-                prompt = self.tokenizer.decode(
-                            self.tokenizer(prompt, return_tensors="pt", max_length=self.max_sequence_length, truncation=True)["input_ids"][0], 
-                            skip_special_tokens=True
-                        )
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Reducing prompt to allow room for output.", flush=True)
+                # Reserve self.max_new_tokens tokens for output.
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                # Re-tokenize with the allowed prompt length.
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                # Decode back to text so that the prompt is now shortened.
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
 
-            # Generate response using the QA pipeline
+            # Now compute how many tokens are available for generation.
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline with the dynamically computed new-token limit.
             response = self.qa_pipeline(
-                prompt,
-                max_new_tokens=self.max_new_tokens,
-                truncation=True,
-                num_return_sequences=1,
-                **self.generation_args,
-            )
-
+                                        prompt,
+                                        max_new_tokens=dynamic_max_new_tokens,
+                                        truncation=True,
+                                        num_return_sequences=1,
+                                        **self.generation_args
+                                    )
+           
             if self.debugging_verbose:
                     print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
                     print("[DEBUG]", flush=True)
@@ -920,10 +1198,133 @@ class QADatasetGenerator:
                 
                 return None
 
-
         except Exception as e:
             print(f"[ERROR] Error generating multi-hop QA: {e}", flush=True)
             return None
+        
+    def generate_multi_hop_inverse_QA(self, paragraph_text, source_info):
+        """
+        Generates a multi-hop inverse QA pair (with a false answer) from a paragraph.
+
+        Parameters:
+            paragraph_text (str): The paragraph text to generate a question from.
+            source_info (dict): Metadata about the paragraph's source.
+
+        Returns:
+            dict or None: A dictionary with question-answer data or None if not generated.
+        """
+        # Prepare the prompt for multi-hop inverse QA
+        prompt = self.QA_MULTI_HOP_INVERSE_template.replace("{paragraph_text}", paragraph_text)
+        if self.debugging_verbose:
+            print("[DEBUG] - Prompt used to generate multi-hop inverse QA sets", flush=True)
+            print(prompt, flush=True)
+
+        try:
+            # Tokenize the prompt to measure its length
+            tokenized_input = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=self.max_sequence_length)
+            input_length = tokenized_input["input_ids"].shape[1]
+
+            # If the prompt is too long, reduce it to reserve tokens for generation
+            if input_length > self.max_sequence_length:
+                print(f"[WARNING] Input length {input_length} exceeds max allowed ({self.max_sequence_length}). Adjusting.", flush=True)
+                allowed_prompt_length = self.max_sequence_length - self.max_new_tokens
+                tokenized_input = self.tokenizer(prompt, return_tensors="pt", max_length=allowed_prompt_length, truncation=True)
+                input_length = tokenized_input["input_ids"].shape[1]
+                prompt = self.tokenizer.decode(tokenized_input["input_ids"][0], skip_special_tokens=True)
+
+            # Calculate available tokens for generation
+            available_tokens = self.max_sequence_length - input_length
+            dynamic_max_new_tokens = min(self.max_new_tokens, available_tokens)
+            if available_tokens < self.max_new_tokens:
+                print(f"[WARNING] Only {available_tokens} tokens available for generation (prompt length: {input_length}).", flush=True)
+
+            # Generate the response using the QA pipeline
+            response = self.qa_pipeline(
+                prompt,
+                max_new_tokens=dynamic_max_new_tokens,
+                truncation=True,
+                num_return_sequences=1,
+                **self.generation_args
+            )
+
+            if self.debugging_verbose:
+                print(f"[DEBUG] Pipeline raw output: {response}", flush=True)
+                print(response[0]["generated_text"], flush=True)
+
+            qa_text = response[0]["generated_text"]
+
+            # Extract text between markers
+            extracted_text = self.extract_text_between_markers(qa_text, occurrence=1)
+            if not extracted_text:
+                print(f"[ERROR] No valid QA content extracted from: {qa_text}", flush=True)
+                return None
+
+            # Debugging: Print extracted text before processing
+            if self.debugging_verbose:
+                print(f"[DEBUG] Extracted text:\n{extracted_text}\n", flush=True)
+
+            # Define regex pattern to extract Question, False Answer, Reasoning, and Incorrect Step
+            qa_pattern = re.compile(
+                r"\*\*Question:\*\*\s*(?P<question>.*?)\s*"
+                r"\*\*Answer:\*\*\s*(?P<answer>.*?)\s*"
+                r"\*\*Reasoning:\*\*\s*(?P<reasoning>.*?)\s*"
+                r"\*\*Incorrect Reasoning Step:\*\*\s*(?P<incorrect_step>.*)",
+                re.DOTALL
+            )
+
+            # Match against extracted text
+            match = qa_pattern.search(extracted_text)
+
+            if match:
+                question = match.group("question").strip()
+                answer = match.group("answer").strip()
+                reasoning = match.group("reasoning").strip()
+                incorrect_step = match.group("incorrect_step").strip()
+
+                # Ensure all fields are present
+                missing_fields = []
+                if not question:
+                    missing_fields.append("Question")
+                if not answer:
+                    missing_fields.append("Answer")
+                if not reasoning:
+                    missing_fields.append("Reasoning")
+                if not incorrect_step:
+                    missing_fields.append("Incorrect Reasoning Step")
+
+                if missing_fields:
+                    print(f"[ERROR] Missing fields in extracted multi-hop inverse QA: {', '.join(missing_fields)}", flush=True)
+                    print(f"[DEBUG] Extracted QA content:\n{extracted_text}", flush=True)
+                    return None
+
+                return {
+                    "question": question,
+                    "answer": answer,
+                    "reasoning": reasoning,
+                    "incorrect_reasoning_step": incorrect_step,
+                    "type": "multi_hop_inverse",
+                    "source": source_info
+                }
+            else:
+                print(f"[ERROR] Invalid QA format in multi-hop inverse QA.", flush=True)
+                
+                # Additional debugging for incorrect formatting
+                if "**Question:**" not in extracted_text:
+                    print("[DEBUG] 'Question:' keyword not found in extracted text.", flush=True)
+                if "**Answer:**" not in extracted_text:
+                    print("[DEBUG] 'Answer:' keyword not found in extracted text.", flush=True)
+                if "**Reasoning:**" not in extracted_text:
+                    print("[DEBUG] 'Reasoning:' keyword not found in extracted text.", flush=True)
+                if "**Incorrect Reasoning Step:**" not in extracted_text:
+                    print("[DEBUG] 'Incorrect Reasoning Step:' keyword not found in extracted text.", flush=True)
+
+                print(f"[DEBUG] Full extracted text:\n{extracted_text}", flush=True)
+                return None
+
+        except Exception as e:
+            print(f"[ERROR] Error generating multi-hop inverse QA: {e}", flush=True)
+            return None
+
         
     def process_paragraph(self, paragraph, isbn):
         """
@@ -1013,6 +1414,10 @@ class QADatasetGenerator:
                         qa_pair = self.generate_MC_QA(paragraph_text, source_info)
                     elif question_type == QAType.MULTI_HOP:
                         qa_pair = self.generate_multi_hop_QA(paragraph_text, source_info)
+                    elif question_type == QAType.MULTI_HOP_INVERSE:
+                        qa_pair = self.generate_multi_hop_inverse_QA(paragraph_text, source_info)
+                    elif question_type == QAType.SHORT_INVERSE:
+                        qa_pair = self.generate_short_inverse_QA(paragraph_text, source_info)
 
                     if qa_pair:
                         if self.debugging_verbose:
@@ -1027,6 +1432,11 @@ class QADatasetGenerator:
                             self.MC_QA_pairs.append(qa_pair)
                         elif question_type == QAType.MULTI_HOP:
                             self.multi_hop_QA_pairs.append(qa_pair)
+                        elif question_type == QAType.MULTI_HOP_INVERSE:
+                            self.multi_hop_inverse_QA_pairs.append(qa_pair)  # New inverse multi-hop QA pair
+                        elif question_type == QAType.SHORT_INVERSE:
+                            self.short_inverse_QA_pairs.append(qa_pair)  # New inverse short-answer QA pair
+                        
                     else:
                         if self.debugging:
                             print(f"[DEBUG] Failed to generate a QA pair for Paragraph ID: {source_info['paragraph_id']}", flush=True)
@@ -1119,9 +1529,11 @@ class QADatasetGenerator:
             QAType.LIST: 0,
             QAType.MULTIPLE_CHOICE: 0,
             QAType.MULTI_HOP: 0,
+            QAType.SHORT_INVERSE: 0,  # New inverse short-answer QA type
+            QAType.MULTI_HOP_INVERSE: 0,  # New inverse multi-hop QA type
         }
 
-        
+
         # LIST-Type Questions
         if any(keyword in paragraph_text.lower() for keyword in list_keywords):
             scores[QAType.LIST] += 1
@@ -1172,25 +1584,85 @@ class QADatasetGenerator:
         if semantic_entropy > 0.5:
             scores[QAType.MULTI_HOP] += 1
 
+        # SHORT_INVERSE Questions (False Short Answers)
+        if scores[QAType.SHORT] > 0:  # If a short-answer question is likely, add inverse variation
+            scores[QAType.SHORT_INVERSE] = scores[QAType.SHORT]  # Equal probability as SHORT
+
+        # MULTI_HOP_INVERSE Questions (False Multi-Hop Answers)
+        if scores[QAType.MULTI_HOP] > 0:  # If a multi-hop question is likely, add inverse variation
+            scores[QAType.MULTI_HOP_INVERSE] = scores[QAType.MULTI_HOP]  # Equal probability as MULTI_HOP
+
+
         # Select highest-scoring QA type
         # question_type = max(scores, key=scores.get)
 
         # --------------- TODO - Fix - This is some hamburger code I jumbled together to make the QA type generation process more deterministic but it isn't great and should look to fix this. 
 
-        # Select highest-scoring QA type based on raw scores
-        raw_question_type = max(scores, key=scores.get)
+        # # Get the count of each QA type
+        # min_count = min(self.qa_counts.values())  # Find the lowest count
+        # max_count = max(self.qa_counts.values())  # Find the highest count
 
-        # Get the count of each QA type
-        min_count = min(self.qa_counts.values())  # Find the lowest count
-        max_count = max(self.qa_counts.values())  # Find the highest count
+        # # Identify the least-used types
+        # underrepresented_types = [qa for qa, count in self.qa_counts.items() if count == min_count]
 
-        # Identify the least-used types
-        underrepresented_types = [qa for qa, count in self.qa_counts.items() if count == min_count]
+        # # Apply Discounting Factor to Underrepresented Types
+        # discounting_factors = {
+        #     qa_type: 1 + ((max_count - count) / max(self.balance_threshold, max_count))  
+        #     for qa_type, count in self.qa_counts.items()
+        # }
 
-        # Apply Discounting Factor to Underrepresented Types
+        # # Adjust Scores Using Discounting Factors
+        # adjusted_scores = {
+        #     qa_type: scores[qa_type] * discounting_factors[qa_type]
+        #     for qa_type in scores
+        # }
+
+        # #  Select the Question Type Based on Adjusted Scores
+        # balanced_question_type = max(adjusted_scores, key=adjusted_scores.get)
+
+        # #  Ensure Severely Underrepresented Types Get Selected
+        # if max_count - min_count >= self.balance_threshold:
+        #     severely_underrepresented_types = [
+        #         qa for qa, count in self.qa_counts.items() if max_count - count >= self.balance_threshold
+        #     ]
+        #     if severely_underrepresented_types:
+        #         balanced_question_type = random.choice(severely_underrepresented_types)
+
+        # # Update QA Type Counts
+        # self.qa_counts[balanced_question_type] += 1
+
+        # Group question types into 5 main categories (treat inverse types as their equivalent)
+        # Group question types into 5 main categories (treat inverse types as their equivalent)
+        grouped_counts = {
+            "short": self.qa_counts[QAType.SHORT] + self.qa_counts[QAType.SHORT_INVERSE],
+            "true_false": self.qa_counts[QAType.TRUE_FALSE],
+            "list": self.qa_counts[QAType.LIST],
+            "multiple_choice": self.qa_counts[QAType.MULTIPLE_CHOICE],
+            "multi_hop": self.qa_counts[QAType.MULTI_HOP] + self.qa_counts[QAType.MULTI_HOP_INVERSE],
+        }
+
+        # Find the lowest and highest counts among grouped categories
+        min_count = min(grouped_counts.values())
+        max_count = max(grouped_counts.values())
+
+        # Identify underrepresented and severely underrepresented types
+        underrepresented_categories = [category for category, count in grouped_counts.items() if count == min_count]
+        severely_underrepresented_categories = [
+            category for category, count in grouped_counts.items() if max_count - count >= self.balance_threshold
+        ]
+
+        # Apply Discounting Factor to Encourage Balance
         discounting_factors = {
-            qa_type: 1 + ((max_count - count) / max(self.balance_threshold, max_count))  
-            for qa_type, count in self.qa_counts.items()
+            qa_type: 1 + ((max_count - grouped_counts[category]) / max(self.balance_threshold, max_count))
+            for qa_type, category in {
+                QAType.SHORT: "short",
+                QAType.SHORT_INVERSE: "short",
+                QAType.TRUE_FALSE: "true_false",
+                QAType.LIST: "list",
+                QAType.MULTIPLE_CHOICE: "multiple_choice",
+                QAType.MULTI_HOP: "multi_hop",
+                QAType.MULTI_HOP_INVERSE: "multi_hop",
+            }.items()
         }
 
         # Adjust Scores Using Discounting Factors
@@ -1199,26 +1671,33 @@ class QADatasetGenerator:
             for qa_type in scores
         }
 
-        #  Select the Question Type Based on Adjusted Scores
+        # Select the Question Type Based on Adjusted Scores
         balanced_question_type = max(adjusted_scores, key=adjusted_scores.get)
 
-        #  Ensure Severely Underrepresented Types Get Selected
-        if max_count - min_count >= self.balance_threshold:
-            severely_underrepresented_types = [
-                qa for qa, count in self.qa_counts.items() if max_count - count >= self.balance_threshold
-            ]
-            if severely_underrepresented_types:
-                balanced_question_type = random.choice(severely_underrepresented_types)
+        # If a category is severely underrepresented, force selection from it
+        if severely_underrepresented_categories:
+            eligible_types = [qa for qa, cat in {
+                QAType.SHORT: "short",
+                QAType.SHORT_INVERSE: "short",
+                QAType.TRUE_FALSE: "true_false",
+                QAType.LIST: "list",
+                QAType.MULTIPLE_CHOICE: "multiple_choice",
+                QAType.MULTI_HOP: "multi_hop",
+                QAType.MULTI_HOP_INVERSE: "multi_hop",
+            }.items() if cat in severely_underrepresented_categories]
+
+            balanced_question_type = random.choice(eligible_types)
 
         # Update QA Type Counts
         self.qa_counts[balanced_question_type] += 1
+
 
         if self.debugging_verbose:
             print(f"\n[DEBUG] QA Type Selection Scores (Before Balancing): {scores}", flush=True)
             print(f"[DEBUG] Discounting Factors: {discounting_factors}", flush=True)
             print(f"[DEBUG] QA Type Selection Scores (After Balancing): {adjusted_scores}", flush=True)
-            print(f"[DEBUG] Underrepresented Types: {underrepresented_types}", flush=True)
-            print(f"[DEBUG] Severely Underrepresented Types: {severely_underrepresented_types}", flush=True)
+            print(f"[DEBUG] Underrepresented Types: {underrepresented_categories}", flush=True)
+            print(f"[DEBUG] Severely Underrepresented Types: {severely_underrepresented_categories}", flush=True)
             print(f"[DEBUG] Selected QA Type: {balanced_question_type.value}\n", flush=True)
 
         return balanced_question_type
@@ -1236,7 +1715,9 @@ class QADatasetGenerator:
             f"TF_QA-{isbn}.json": self.TF_QA_pairs,
             f"list_QA-{isbn}.json": self.list_QA_pairs,
             f"MC_QA-{isbn}.json": self.MC_QA_pairs,
-            f"multi_hop_QA-{isbn}.json": self.multi_hop_QA_pairs
+            f"multi_hop_QA-{isbn}.json": self.multi_hop_QA_pairs,
+            f"multi_hop_inverse_QA-{isbn}.json": self.multi_hop_inverse_QA_pairs,  # New inverse multi-hop
+            f"short_inverse_QA-{isbn}.json": self.short_inverse_QA_pairs  # New inverse short-answer
         }
 
         for file_name, new_data in json_files.items():
@@ -1293,7 +1774,8 @@ if __name__ == "__main__":
     parser.add_argument("llama3_model_path", help="Path to the LLaMA3 model")
     parser.add_argument("output_dir", help="Directory to save the generated QA files")
     parser.add_argument("--max_new_tokens", type=int, default=1024, help="Maximum length for input and output tokens") #default is 2048 as that is max allowed for LLama 3-1 7B
-    parser.add_argument("--max_sequence_length", type=int, default=1024, help="Maximum length for input and output tokens") #default is 2048 as that is max allowed for LLama 3-1 7B
+    parser.add_argument("--max_sequence_length", type=int, default=2048, help="Maximum length for input and output tokens") #default is 2048 as that is max allowed for LLama 3-1 7B
+    parser.add_argument("--model_max_length", type=int, default=131072, help="Maximum length for input and output tokens") #default is 2048 as that is max allowed for LLama 3-1 7B
     parser.add_argument("--checkpoint", type=int, default=None, help="number of iterations to save for each book")
     parser.add_argument("--max_entries", type=int, default=None, help="Maximum number of paragraph entries to process")
     parser.add_argument("--debugging", action="store_true", help="Enable debugging mode to print detailed information about skipped paragraphs and processing steps")
@@ -1304,7 +1786,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     generator = QADatasetGenerator(args.preprocessed_csv, args.llama3_model_path, args.output_dir, 
-                                   args.max_new_tokens, args.max_sequence_length, args.checkpoint, 
+                                   args.max_new_tokens, args.max_sequence_length, args.model_max_length, args.checkpoint, 
                                    args.max_entries, args.start_paragraph, args.debugging, 
                                    args.debugging_verbose)
     
