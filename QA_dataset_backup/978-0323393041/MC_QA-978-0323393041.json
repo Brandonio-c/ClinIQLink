@@ -1,0 +1,1474 @@
+[
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Right gastric artery",
+            "B": "Splenic artery proper",
+            "C": "Left gastroepiploic artery",
+            "D": "Superior mesenteric artery"
+        },
+        "question": "What artery primarily supplies blood to the spleen?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 359,
+            "paragraph_id": "978-0323393041-p359-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Iliac crest",
+            "B": "Costal margin",
+            "C": "ostal margin\nC: Inguinal ligament",
+            "D": "Pubic tubercle"
+        },
+        "question": "What serves as the boundary separating the abdominal wall from the thoracic wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 409,
+            "paragraph_id": "978-0323393041-p409-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Deep Fascia",
+            "B": "Superficial Fascia",
+            "C": "Extraperitoneal Fascia",
+            "D": "eep Fascia\nB: Superficial Fascia\nC: Extraperitoneal Fascia\nD: Endothoracic Fascia"
+        },
+        "question": "What type of fascia lies just deep to and is attached to the dermis of the skin?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 26,
+            "paragraph_id": "978-0323393041-p26-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Upper three-quarters",
+            "B": "Lower two-thirds",
+            "C": "Entire length",
+            "D": "Lower one-quarter"
+        },
+        "question": "What portion of the rectus abdominis muscle lacks complete enclosure by the rectus sheath?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 290,
+            "paragraph_id": "978-0323393041-p290-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of a scapular bone",
+            "B": "Attachment point of the iliolumbar ligaments",
+            "C": "Connection to the rib cage via costal cartilage",
+            "D": "Association with Sprengel's shoulder deformity"
+        },
+        "question": "What typically identifies the fifth lumbar vertebra?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 77,
+            "paragraph_id": "978-0323393041-p77-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It connects directly to the spleen via the splenorenal ligament.",
+            "B": "It merges with the bile duct forming the hepatic artery.",
+            "C": "It turns inferiorly before merging with another duct.",
+            "D": "It terminates by emptying into the stomach."
+        },
+        "question": "What happens to the pancreatic duct once it reaches the head of the pancreas?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 341,
+            "paragraph_id": "978-0323393041-p341-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It increases the effectiveness of the pacemaker over time due to better positioning relative to the subclavius muscle.",
+            "B": "After many years of shoulder movement, the subclavius muscle's stress could potentially cause no issues to the wire.",
+            "C": "The subclavius muscle might stress and break the wire, leading to pacemaker failure.",
+            "D": "The placement near the subclavius muscle ensures the wire remains intact despite extensive shoulder movements."
+        },
+        "question": "What happens if the wire from the pacemaker pierces the axillary vein directly next to the subclavius muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 251,
+            "paragraph_id": "978-0323393041-p251-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Foregut and Hindgut respectively",
+            "B": "Midgut and Foregut respectively",
+            "C": "Midgut and Hindgut respectively",
+            "D": "Hindgut and Foregut respectively"
+        },
+        "question": "What parts do the Superior Mesenteric Artery and the Inferior Mesenteric Artery primarily supply?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 395,
+            "paragraph_id": "978-0323393041-p395-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Size of the superficial inguinal ring is smaller in men compared to women.",
+            "B": "Structures passing through the inguinal canal differ significantly; in men, they relate primarily to the connection between the abdomen and the testis.",
+            "C": "Positioning of the deep inguinal ring varies greatly between genders, being closer to the ASIS in females.",
+            "D": "Females lack the superficial inguinal ring altogether, having instead a different pathway for the round ligament of the uterus."
+        },
+        "question": "What is the primary difference between the location of anatomical features associated with the inguinal canal in men versus those in women?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 410,
+            "paragraph_id": "978-0323393041-p410-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "That portion of bone marrow served by nerves originating at different levels of the spine",
+            "B": "An anatomical site where two or more spinal nerves intersect",
+            "C": "The area of skin supplied by a single spinal nerve or spinal cord level",
+            "D": "Those regions of muscle tissue primarily controlled by cranial nerves"
+        },
+        "question": "What defines a clinically significant dermatome?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 38,
+            "paragraph_id": "978-0323393041-p38-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Spinal cord level S3 to S5",
+            "B": "Spinal cord level L2 to S2",
+            "C": "Spinal cord level S2 to S4",
+            "D": "Spinal cord level L1"
+        },
+        "question": "What dermatome level primarily innervates the anterior regions of the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 441,
+            "paragraph_id": "978-0323393041-p441-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Right atrium, pulmonary arteries, left ventricle, and left auricle",
+            "B": "Pulmonary veins, right atrium, left ventricle, and left auricle",
+            "C": "Venae cavae, pulmonary arteries, tricuspid valve, and mitral valve",
+            "D": "Left ventricle, right atrium, pulmonary veins, and venae cavae"
+        },
+        "question": "What anatomical structures form the borders of the heart?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 186,
+            "paragraph_id": "978-0323393041-p186-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Rectus abdominis",
+            "B": "Pectoralis minor",
+            "C": "Interspinales",
+            "D": "Serratus anterior"
+        },
+        "question": "What muscles attach between the spinous processes of adjacent vertebrae?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 117,
+            "paragraph_id": "978-0323393041-p117-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It produces enzymes to aid digestion.",
+            "B": "It filters waste products from blood.",
+            "C": "It houses and safeguards various vital structures including parts of the digestive system.",
+            "D": "It synthesizes hormones essential for metabolism regulation."
+        },
+        "question": "What function does the rib cage serve concerning the protection of internal organs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 260,
+            "paragraph_id": "978-0323393041-p260-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Superior aspect",
+            "B": "Inferior aspect",
+            "C": "Posterior wall",
+            "D": "Anterior surface"
+        },
+        "question": "What area of the heart do inferior myocardial infarctions mainly impact?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 247,
+            "paragraph_id": "978-0323393041-p247-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ascending aorta, Arch of aorta, Thoracic aorta, Superior vena cava",
+            "B": "Pulmonary arteries, trachea, left and right main bronchi",
+            "C": "Thymus gland, manubrium of sternum, diaphragm, heart valves",
+            "D": "Brachiocephalic veins, left common carotid artery, left subclavian artery, trachea"
+        },
+        "question": "What structures pass through the thoracic cavity along with the esophagus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 217,
+            "paragraph_id": "978-0323393041-p217-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 50%",
+            "B": "Up to 60% but less than 70%",
+            "C": "Up to 55%",
+            "D": "Up to 65%"
+        },
+        "question": "What percentage increase in the survival rate of esophageal rupture cases has occurred due to early diagnosis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 231,
+            "paragraph_id": "978-0323393041-p231-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "An area of skin where two spinal nerves meet",
+            "B": "That portion of a skeletal muscle innervated by a single spinal cord level",
+            "C": "An area of skin supplied by a single spinal cord level",
+            "D": "Where a spinal nerve divides into sensory and motor branches"
+        },
+        "question": "What does a dermatome represent in terms of spinal anatomy?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 36,
+            "paragraph_id": "978-0323393041-p36-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Referred numbness from the skin to internal organs.",
+            "B": "Pain perception remains localized to its true source regardless of neural pathways.",
+            "C": "Sensation from areas of low sensory output is misinterpreted as originating from areas of higher sensory output.",
+            "D": "Motor functions become involuntary in regions affected by referred sensations."
+        },
+        "question": "What typically occurs due to convergence of afferents on neurons at the same spinal cord level receiving both visceral and somatic information?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 49,
+            "paragraph_id": "978-0323393041-p49-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Third costal cartilage on both sides of the sternum",
+            "B": "Second intercostal space on the left and third costal cartilage on the right side of the sternum",
+            "C": "Sixth costal cartilage at the level of the xiphoid process",
+            "D": "Midclavicular line where the lower margin ends"
+        },
+        "question": "What location marks the highest point of the heart's upper limit?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 240,
+            "paragraph_id": "978-0323393041-p240-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It drains into the inferior vena cava via long hepatic arteries",
+            "B": "It collects in several short hepatic veins that eventually drain into the inferior vena cava",
+            "C": "It returns to the heart through the pulmonary circulation",
+            "D": "It flows back into the hepatic portal vein"
+        },
+        "question": "What happens to blood after passing through the hepatic sinusoids?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 278,
+            "paragraph_id": "978-0323393041-p278-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Lower esophagus, stomach, superior part of the duodenum, and liver",
+            "B": "Rest of the duodenum, jejunum, ileum, ascending colon, and proximal two-thirds of the transverse colon",
+            "C": "Descending colon, sigmoid colon, and most of the rectum along with the rest of the transverse colon",
+            "D": "escending colon, sigmoid colon, and most of the rectum along with the rest of the transverse colon\nD: Diaphragm, pancreas, spleen"
+        },
+        "question": "What structures do the inferior mesenteric artery primarily provide with blood?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 358,
+            "paragraph_id": "978-0323393041-p358-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Low atomic mass allowing minimal attenuation of X-rays",
+            "B": "High density enabling easy visualization under low doses of radiation",
+            "C": "Relatively high atomic mass resulting in marked attenuation of X-rays",
+            "D": "Natural absorption by bone tissue facilitating skeletal imaging"
+        },
+        "question": "What characteristic makes iodine particularly suitable for use as a component of contrast agents injected into arteries or veins?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 9,
+            "paragraph_id": "978-0323393041-p9-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Only fatty tissue",
+            "B": "Fatty layer (Camper's fascia), Membranous layer (Scarpa's fascia), and superficial penile fascia",
+            "C": "amper's fascia), Membranous layer (Scarpa's fascia), and superficial penile fascia\nC: Just the membranes under the skin",
+            "D": "Both Camper's fascia and Scarpa's fascia"
+        },
+        "question": "What layers lie between the skin and the deep fascia?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 284,
+            "paragraph_id": "978-0323393041-p284-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ureter and External Iliac Artery",
+            "B": "Spermatic Cord",
+            "C": "ord  \nC: Bulbourethral Gland and Ejaculatory Ducts",
+            "D": "ucts  \nD: Prostate and Seminal Vesicles"
+        },
+        "question": "What structures pass through the superficial inguinal ring?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 478,
+            "paragraph_id": "978-0323393041-p478-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pulmonary artery and vein respectively",
+            "B": "Right and left aortic sinuses",
+            "C": "Ascending and descending aorta",
+            "D": "Superior vena cava"
+        },
+        "question": "What do the right and left coronary arteries originate from?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 202,
+            "paragraph_id": "978-0323393041-p202-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Superior vena cava and trachea",
+            "B": "Pericardial sacs within the fibrous pericardia and respective veins",
+            "C": "Diaphragm and esophagus",
+            "D": "iaphragm and esophagus  \nD: Thoracic aorta and pulmonary arteries"
+        },
+        "question": "What anatomical features do both the right and left phrenic nerves run alongside during their descent?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 227,
+            "paragraph_id": "978-0323393041-p227-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Fibrous joints",
+            "B": "Synovial joints specifically known as pivot joints",
+            "C": "Cartilaginous joints including symphyses",
+            "D": "Solid joints"
+        },
+        "question": "What type of joints allow movement around one axis that passes transversely through the joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 22,
+            "paragraph_id": "978-0323393041-p22-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Below the celiac trunk, arising from the abdominal aorta",
+            "B": "elow the celiac trunk, arising from the abdominal aorta\nB: Above the celiac trunk, branching directly from the aortic arch",
+            "C": "From the gastroduodenal artery after passing near the liver",
+            "D": "Directly from the iliac arteries"
+        },
+        "question": "What is the immediate origin of the superior mesenteric artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 355,
+            "paragraph_id": "978-0323393041-p355-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Computed Tomography",
+            "B": "Magnetic Resonance Imaging",
+            "C": "omputed Tomography\nB: Magnetic Resonance Imaging\nC: Doppler Ultrasound",
+            "D": "oppler Ultrasound\nD: Ultrasonography"
+        },
+        "question": "What diagnostic technique uses sound waves bouncing off moving structures to determine flow direction and velocity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 10,
+            "paragraph_id": "978-0323393041-p10-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Presence of severe back pain",
+            "B": "Only right-sided curvature",
+            "C": "Rotational element of one vertebra upon another",
+            "D": "Complete loss of spinal flexibility"
+        },
+        "question": "What characterizes a true scoliosis besides just the curvature?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 75,
+            "paragraph_id": "978-0323393041-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Thoracic, Lumbar, Sacral, Pelvic",
+            "B": "Only Thoracic splanchnic nerves exist",
+            "C": "Just Lumbar and Sacral splanchnic nerves",
+            "D": "Both Cranial and Spinal splanchnic nerves"
+        },
+        "question": "What types of splanchnic nerves originate from different levels of the spinal column?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 367,
+            "paragraph_id": "978-0323393041-p367-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Larger and thicker with muscle fibers running in an inferolateral direction.",
+            "B": "Smaller and thinner with most of its muscle fibers passing in a superomedial direction.",
+            "C": "Identical in size and thickness with all muscle fibers oriented similarly.",
+            "D": "Only present in the lower abdomen, unlike the external oblique."
+        },
+        "question": "Which of the following statements accurately describes how the internal oblique muscle compares to the external oblique muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 287,
+            "paragraph_id": "978-0323393041-p287-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "First and fourth lumbar veins",
+            "B": "Fifth lumbar vein",
+            "C": "Third and second lumbar veins",
+            "D": "Hepatic veins"
+        },
+        "question": "Which of the following veins typically do not drain directly into the inferior vena cava?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 398,
+            "paragraph_id": "978-0323393041-p398-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Resection of the right femur",
+            "B": "Draining a pelvic abscess by washing out the pus",
+            "C": "Removal of the gallbladder due to cholecystitis",
+            "D": "raining a pelvic abscess by washing out the pus  \nC: Removal of the gallbladder due to cholecystitis  \nD: Repairing an inguinal hernia"
+        },
+        "question": "What procedure involved draining the contents from a body cavity during the first surgical operation?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 426,
+            "paragraph_id": "978-0323393041-p426-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It disappears completely",
+            "B": "It becomes a muscle layer around the testis",
+            "C": "It forms the inguinal canal",
+            "D": "It remains as a connective tissue remnant attaching the caudal pole of the testis to the scrotum"
+        },
+        "question": "What happens to the gubernaculum after the testis descends into the scrotum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 272,
+            "paragraph_id": "978-0323393041-p272-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Peristalsis increases to eliminate the cause of inflammation faster.",
+            "B": "Peristalsis decreases until the inflammation resolves.",
+            "C": "It begins moving more rapidly than normal areas to compensate for the loss.",
+            "D": "It completely stops functioning and dies due to lack of blood supply."
+        },
+        "question": "What occurs with a portion of the bowel upon becoming inflamed?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 312,
+            "paragraph_id": "978-0323393041-p312-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It leads to varying degrees of impairment of sensory and motor function in both arms",
+            "B": "It results in death because of loss of innervation to the heart",
+            "C": "It causes varying degrees of impairment of sensory and motor function in the legs",
+            "D": "It can result in death because of loss of innervation to the diaphragm"
+        },
+        "question": "What happens if there's an injury to the spinal cord in the upper levels of the cervical vertebral column?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 106,
+            "paragraph_id": "978-0323393041-p106-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Thoracic wall",
+            "B": "Muscular walls of the abdomen",
+            "C": "Costal margin",
+            "D": "Peritoneal cavity"
+        },
+        "question": "What supports and protects abdominal viscera not covered by the domes of the diaphragm?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 259,
+            "paragraph_id": "978-0323393041-p259-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To compress the vaginal wall in women",
+            "B": "To stabilize the position of the perineal body",
+            "C": "Compresses the membranous urethra; relaxes during micturition",
+            "D": "Facilitates the closure of the rectum"
+        },
+        "question": "What is the main function of the External Urethral Sphincter?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 464,
+            "paragraph_id": "978-0323393041-p464-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Oxygenated blood to the body",
+            "B": "Deoxygenated blood to the lungs",
+            "C": "Carbon dioxide from the lungs to the heart",
+            "D": "eoxygenated blood to the lungs\nC: Carbon dioxide from the lungs to the heart\nD: Nutrients throughout the bloodstream"
+        },
+        "question": "What is carried by the right and left pulmonary arteries?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 177,
+            "paragraph_id": "978-0323393041-p177-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Superior mesenteric ganglion, Inferior mesenteric ganglion, Prevertebral plexuses, Hypogastric nerves",
+            "B": "Celiac plexus, Renal plexus, Aorticorenal ganglion, Superior hypogastric plexus",
+            "C": "eliac plexus, Renal plexus, Aorticorenal ganglion, Superior hypogastric plexus  \nC: Celiac ganglion, Inferior hypogastric plexus, Superior mesenteric ganglion, Aortic plexus",
+            "D": "Aortic plexus, Superior mesenteric ganglion, Inferior mesenteric ganglion, Celiac plexus"
+        },
+        "question": "What structures comprise the abdominal prevertebral plexus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 369,
+            "paragraph_id": "978-0323393041-p369-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Levels L3-L5",
+            "B": "Levels T10-T12",
+            "C": "Levels S2-S4",
+            "D": "Levels C6-C8"
+        },
+        "question": "What level of spinal nerves do the origins of the pudendal nerve arise from?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 442,
+            "paragraph_id": "978-0323393041-p442-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They start releasing significant amounts of oxygen.",
+            "B": "They begin producing excessive glucose.",
+            "C": "They initiate the removal of excess carbon dioxide more efficiently.",
+            "D": "They release significant amounts of hydrogen ions."
+        },
+        "question": "What effect do organs exhibit once they become severely ischemic?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 253,
+            "paragraph_id": "978-0323393041-p253-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Diaphragmatic surface, anterior surface, and two pulmonary surfaces combined with the cardiac notch",
+            "B": "Anterior surface, right pulmonary surface, left pulmonary surface, and a portion of the superior vena cava",
+            "C": "Diaphragmatic surface, anterior surface, right pulmonary surface, and left pulmonary surface",
+            "D": "iaphragmatic surface, anterior surface, and two pulmonary surfaces combined with the cardiac notch\nB: Anterior surface, right pulmonary surface, left pulmonary surface, and a portion of the superior vena cava\nC: Diaphragmatic surface, anterior surface, right pulmonary surface, and left pulmonary surface\nD: Posterior surface, anterior surface, right pulmonary surface, and left pulmonary surface"
+        },
+        "question": "What surfaces make up the sides of the heart's pyramidal shape?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 191,
+            "paragraph_id": "978-0323393041-p191-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They ascend along the abdominal wall towards the diaphragm.",
+            "B": "They become enveloped by the perineal membrane before entering the pelvic cavity.",
+            "C": "They enter the pelvic cavity and continue their path to the bladder.",
+            "D": "They merge with the gonadal arteries near the entrance to the bladder."
+        },
+        "question": "What happens to the ureters after they pass the pelvic brim?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 387,
+            "paragraph_id": "978-0323393041-p387-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "External Oblique Muscle Aponeurosis",
+            "B": "Transverse Abdominis Fascia",
+            "C": "Internal Oblique Musculature",
+            "D": "Transversalis Fascia"
+        },
+        "question": "What forms the deepest covering of the processus vaginalis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 296,
+            "paragraph_id": "978-0323393041-p296-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Fasting blood work analysis",
+            "B": "Performing a fasting ultrasound examination of the gallbladder",
+            "C": "Conducting an MRI of the entire abdomen",
+            "D": "Endoscopic examination of the stomach"
+        },
+        "question": "What is typically performed to confirm the presence of gallstones?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 347,
+            "paragraph_id": "978-0323393041-p347-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Vertebral bodies and intervertebral discs",
+            "B": "Anterior roots and posterior roots with associated spinal ganglia",
+            "C": "Pedicles of vertebrae and cauda equina",
+            "D": "Lumbosacral enlargements and cervical enlargements"
+        },
+        "question": "What parts make up each spinal nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 112,
+            "paragraph_id": "978-0323393041-p112-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Major duodenal papilla",
+            "B": "Neck of the gallbladder",
+            "C": "Ampulla or duodenal cap",
+            "D": "Head of the pancreas"
+        },
+        "question": "What is located at the junction where the superior part of the duodenum ends?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 316,
+            "paragraph_id": "978-0323393041-p316-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It divides into motor branches supplying the lower limb muscles.",
+            "B": "It terminates by dividing into two sensory branches that innervate the skin of the lower abdomen.",
+            "C": "It merges with the genitofemoral nerve to form a larger nerve trunk.",
+            "D": "It enters and terminates by dividing into two sensory branches that innervate areas including the skin overlying the root of the penis and upper scrotum in males, or mons pubis and labium majus in females."
+        },
+        "question": "What happens to the ilio-inguinal nerve once it reaches the superficial inguinal ring?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 407,
+            "paragraph_id": "978-0323393041-p407-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Segments I, II, and III",
+            "B": "Segments V, VI, VII, and VIII",
+            "C": "Segments IVa, IVb, I, II, and III",
+            "D": "Segments V, VI"
+        },
+        "question": "Which segments of the liver did the patient undergo surgical resection of?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 419,
+            "paragraph_id": "978-0323393041-p419-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately fifty percent.",
+            "B": "Thirty-five percent.",
+            "C": "Twenty percent.",
+            "D": "Ten percent."
+        },
+        "question": "What percentage of people generally exhibit characteristics of having hearts with a 'balanced' distribution of coronary circulation?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 206,
+            "paragraph_id": "978-0323393041-p206-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Part, or all, of the adult intestine moves out of the body cavity.",
+            "B": "Some part, or all, of the embryonic processus vaginalis closes off completely.",
+            "C": "The peritoneal sac enters the inguinal canal indirectly through the deep inguinal ring.",
+            "D": "An opening forms between the abdominal cavity and the urinary bladder."
+        },
+        "question": "What happens during an indirect inguinal hernia?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 303,
+            "paragraph_id": "978-0323393041-p303-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Two main parts; sacrum and coccyx",
+            "B": "Three major elements; femur, tibia, fibula",
+            "C": "Four fused sacral vertebrae along with two hip bones formed by fusing the ilium, pubis, and ischium",
+            "D": "Five individual bones; sternum, xiphoid process, and three lumbar vertebrae"
+        },
+        "question": "An adult human's bony pelvis is composed mainly of how many types of primary components?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 447,
+            "paragraph_id": "978-0323393041-p447-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pulmonary capillaries",
+            "B": "Systemic arteries",
+            "C": "Intercostal vein",
+            "D": "Inferior vena cava"
+        },
+        "question": "What specifically carries oxygen-rich blood throughout the entire human circulatory system?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 136,
+            "paragraph_id": "978-0323393041-p136-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Psoas major muscle and quadratus lumborum muscle",
+            "B": "Erector spinae muscles and intertransversarii muscles",
+            "C": "Supraspinous ligament and interspinous ligament",
+            "D": "Internal vertebral plexus of veins"
+        },
+        "question": "What runs alongside the lumbar vertebra's posterior aspect?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 109,
+            "paragraph_id": "978-0323393041-p109-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Thorax",
+            "B": "Abdomen",
+            "C": "Head and Neck",
+            "D": "Lower Limb"
+        },
+        "question": "What body region contains both cervical and brachial plexuses?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 50,
+            "paragraph_id": "978-0323393041-p50-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Involuntary movements",
+            "B": "Automatic movements",
+            "C": "Voluntary movements",
+            "D": "Reflex actions"
+        },
+        "question": "What kind of movement do skeletal muscles control?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 195,
+            "paragraph_id": "978-0323393041-p195-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Begins posteriorly at the level of the spine of vertebra TVI and then moves downward, crossing ribs III, IV, and reaching the seventh intercostal space laterally.",
+            "B": "egins posteriorly at the level of the spine of vertebra TVI and then moves downward, crossing ribs III, IV, and reaching the seventh intercostal space laterally.  \nB: Starts posteriorly at the level of the spine of vertebra TIV, moving downward across the third and sixth intercostal spaces, finally ending at rib IX laterally.",
+            "C": "Begins posteriorly at the level of the spine of vertebra TIV, passing inferiorly, crossing rib IV, the fourth intercostal space, and continuing until it reaches the contour of rib VI.",
+            "D": "Crosses vertically over the first intercostal space and ends by traversing horizontally under the second rib, never intersecting with the midaxillary line."
+        },
+        "question": "What path does the oblique fissure take according to descriptions given?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 243,
+            "paragraph_id": "978-0323393041-p243-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Lateral to the inferior epigastric vessels outside Hesselbach's triangle",
+            "B": "Medial to the inferior epigastric vessels in the inguinal triangle (Hesselbach\u2019s triangle)",
+            "C": "Inferior to the inguinal ligament beneath the conjoint tendon",
+            "D": "Superior to the rectus abdominis muscle near the anterior superior iliac spine"
+        },
+        "question": "What typically characterizes where the bulging of a direct inguinal hernia occurs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 304,
+            "paragraph_id": "978-0323393041-p304-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Liver transplant rejection rates",
+            "B": "Development of liver resection surgery",
+            "C": "Advances in radiology imaging techniques",
+            "D": "evelopment of liver resection surgery  \nC: Advances in radiology imaging techniques  \nD: Increased incidence of primary liver cancer"
+        },
+        "question": "What primarily drives the reliance on segmental anatomy of the liver in clinical practice?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 345,
+            "paragraph_id": "978-0323393041-p345-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Sensory (cutaneous) function of skin on the anterior aspect of the leg.",
+            "B": "Sensory (visceral) function of visceral afferent nerves from pelvic viscera.",
+            "C": "Motor function of Quadratus femoris and inferior gemellus.",
+            "D": "Visceral motor (sympathetic) function to stimulate digestion."
+        },
+        "question": "What function is served by the Nerve to quadratus femoris and inferior gemellus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 497,
+            "paragraph_id": "978-0323393041-p497-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Collagenic tissue",
+            "B": "Elastic tissue",
+            "C": "ollagenic tissue\nB: Elastic tissue\nC: Muscular tissue",
+            "D": "Fibrocartilaginous tissue"
+        },
+        "question": "What type of tissue do the ligamenta flava, located between the laminae of adjacent vertebrae, predominantly consist of?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 82,
+            "paragraph_id": "978-0323393041-p82-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Right vagus nerve",
+            "B": "Left vagus nerve",
+            "C": "Thyroid gland",
+            "D": "Trachea"
+        },
+        "question": "What runs alongside the left common carotid artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 219,
+            "paragraph_id": "978-0323393041-p219-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "At the level of the disc between vertebrae LIII and LIV",
+            "B": "Around the level of the disc between vertebrae LI and LII",
+            "C": "At the lower border of the SI vertebra",
+            "D": "Between the thoracic vertebrae TI and TII"
+        },
+        "question": "Where does the spinal cord terminate in adults?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 110,
+            "paragraph_id": "978-0323393041-p110-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Thicker than the walls of arteries because of more smooth muscle",
+            "B": "Thin walls, especially in the tunica media, compared to arteries",
+            "C": "Absence of valves facilitating blood flow towards the heart",
+            "D": "Presence of significant elastic fibers in the tunica media for maintaining constant blood flow"
+        },
+        "question": "What characterizes the walls of veins?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 28,
+            "paragraph_id": "978-0323393041-p28-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Square-shaped with rounded edges",
+            "B": "Triangular",
+            "C": "Circular with an oval base",
+            "D": "Rectangular"
+        },
+        "question": "What shape is the vertebral foramen described as being?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 68,
+            "paragraph_id": "978-0323393041-p68-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately two-thirds of cases manifest as invasive tumors that quickly progress to affect neighboring tissues.",
+            "B": "About half of all diagnosed cases occur before the age of fifty, making it predominantly a younger person's condition.",
+            "C": "Roughly one-third of all detected tumors are multifocal, while two-thirds present as superficial growths treatable locally.",
+            "D": "Most cases originate from benign polyps located along the inner lining of the bladder, gradually transforming over time."
+        },
+        "question": "What is unique about how Bladder Cancer typically manifests among affected individuals?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 472,
+            "paragraph_id": "978-0323393041-p472-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It drains into the abdominal region.",
+            "B": "It drains into the axilla via pectoral axillary nodes.",
+            "C": "It passes parasternally.",
+            "D": "It flows towards the arm through apical axillary nodes first."
+        },
+        "question": "What happens to lymphatic and venous drainage coming from the medial part of the breast?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 142,
+            "paragraph_id": "978-0323393041-p142-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The signal travels back to the sinoatrial node.",
+            "B": "The signal is transmitted to the ventricular musculature via the atrioventricular bundle.",
+            "C": "The atria relax while awaiting further instructions.",
+            "D": "The sinoatrial node generates another pulse prematurely."
+        },
+        "question": "What occurs immediately following the reception of the wave of excitation by the atrioventricular node?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 212,
+            "paragraph_id": "978-0323393041-p212-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Intercostal nerves descending from the lumbar plexus",
+            "B": "Cutaneous branches of the supraceliac ganglion",
+            "C": "utaneous branches of the supraceliac ganglion\nC: Supraclavicular nerves, which descend from the cervical plexus in the neck",
+            "D": "Branches of the phrenic nerve"
+        },
+        "question": "What supplies sensory innervation to the skin overlying the upper thoracic wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 162,
+            "paragraph_id": "978-0323393041-p162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the bladder and rectum",
+            "B": "Terminal parts of the gastrointestinal, urinary, and reproductive systems",
+            "C": "Just the anal canal and urethra",
+            "D": "Solely the prostate gland and seminal vesicles"
+        },
+        "question": "What structures do the pelvic floor muscles enclose and support?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 429,
+            "paragraph_id": "978-0323393041-p429-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It becomes thicker to support the birth process",
+            "B": "It stretches and tears due to pressure",
+            "C": "It disconnects from surrounding muscles temporarily",
+            "D": "It remains unchanged throughout"
+        },
+        "question": "What happens to the perineal body during childbirth?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 465,
+            "paragraph_id": "978-0323393041-p465-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Spermatozoa lose their motility.",
+            "B": "They acquire the ability to move and fertilize an egg.",
+            "C": "Their storage capacity increases.",
+            "D": "They become incapable of reproduction."
+        },
+        "question": "What happens during the passage of spermatozoa through the epididymis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 477,
+            "paragraph_id": "978-0323393041-p477-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Lower cervical and upper thoracic spinal segments",
+            "B": "Upper lumbar and lower sacral spinal segments",
+            "C": "Lower thoracic and upper lumbar spinal segments",
+            "D": "Middle thoracic and middle lumbar spinal segments"
+        },
+        "question": "What is the origin of the sympathetic nerves responsible for sexual arousal?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 500,
+            "paragraph_id": "978-0323393041-p500-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 10 liters",
+            "B": "Approximately 0.25 liters",
+            "C": "Up to 5 liters",
+            "D": "More than 20 liters"
+        },
+        "question": "What volume of air do lungs typically exchange per minute when the body is at rest?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 182,
+            "paragraph_id": "978-0323393041-p182-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Subclavian artery",
+            "B": "Supreme intercostal artery",
+            "C": "Internal thoracic arteries",
+            "D": "Costocervical trunk"
+        },
+        "question": "What do the first two posterior intercostal arteries on each side derive from?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 157,
+            "paragraph_id": "978-0323393041-p157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ischial spines and pubic symphysis",
+            "B": "Sacrococcygeal joint and the linea terminalis",
+            "C": "Linea terminalis and surrounding bone",
+            "D": "Pubic arch and the sacroiliac joints"
+        },
+        "question": "What anatomical structures form the margins of the pelvic inlet?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 446,
+            "paragraph_id": "978-0323393041-p446-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Structural abnormalities in bones",
+            "B": "Metabolic activity indicating tumor presence due to high glucose consumption",
+            "C": "Blood flow patterns throughout the brain",
+            "D": "Energy depositions in patient's tissues"
+        },
+        "question": "What is primarily detected during a Fluorodeoxyglucose-positron emission tomography (FDG-PET) scan?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 12,
+            "paragraph_id": "978-0323393041-p12-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Elbow moving muscles",
+            "B": "Shoulder moving muscles",
+            "C": "Hand flexing muscles",
+            "D": "Finger extension muscles"
+        },
+        "question": "Which muscles' movement testing helps localize lesions specifically between spinal nerve levels related to the shoulder joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 37,
+            "paragraph_id": "978-0323393041-p37-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "As few as 0.01%",
+            "B": "Up to 50%",
+            "C": "In excess of 90%",
+            "D": "As many as 10%"
+        },
+        "question": "What percentage of individuals have spina bifida occulta?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 73,
+            "paragraph_id": "978-0323393041-p73-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Visceral pleura",
+            "B": "Parietal pleura",
+            "C": "Diaphragm",
+            "D": "iaphragm\nD: Trachea"
+        },
+        "question": "What structure acts as an interface between each lung and the surrounding inner surface of the thoracic cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 132,
+            "paragraph_id": "978-0323393041-p132-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between vertebrae TI and TII",
+            "B": "etween vertebrae TI and TII\nB: Between vertebrae LI and LII",
+            "C": "Between vertebrae LII and LIII",
+            "D": "At the level of the first lumbar vertebra"
+        },
+        "question": "Where does the spinal cord typically end in adults?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 102,
+            "paragraph_id": "978-0323393041-p102-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Menstruation",
+            "B": "Ovulation",
+            "C": "Fertilization",
+            "D": "Implantation"
+        },
+        "question": "What term describes the release of mature eggs from the ovaries?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 483,
+            "paragraph_id": "978-0323393041-p483-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the gastroduodenal and superior mesenteric arteries",
+            "B": "Branches from both the gastroduodenal and superior mesenteric arteries",
+            "C": "Exclusively the hepatic and right gastro-omental arteries",
+            "D": "Solely the posterior inferior and anterior superior pancreaticoduodenal arteries"
+        },
+        "question": "What arteries provide blood supply to the duodenum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 317,
+            "paragraph_id": "978-0323393041-p317-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Paranephric fat",
+            "B": "Perinephric fat",
+            "C": "Renal fat",
+            "D": "Extraperitoneal fat"
+        },
+        "question": "What type of fat completely surrounds the kidney?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 384,
+            "paragraph_id": "978-0323393041-p384-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It lies flat with no angle at all.",
+            "B": "It angles between 40\u00b0\u201355\u00b0 backward.",
+            "C": "It angles approximately 50\u00b0\u201360\u00b0 forward.",
+            "D": "Its exact angle varies significantly among individuals."
+        },
+        "question": "What is the orientation of the pelvic inlet in relation to the horizontal plane?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 439,
+            "paragraph_id": "978-0323393041-p439-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They allow rotation along the vertical axis of the spine.",
+            "B": "They facilitate ascent and descent relative to the vertebral column.",
+            "C": "Rotation around their longitudinal axes.",
+            "D": "Movement restricted due to fixed position at the transverse processes."
+        },
+        "question": "What happens to the costovertebral joints' movement primarily in the upper ribs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 150,
+            "paragraph_id": "978-0323393041-p150-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "External intercostal muscle",
+            "B": "Internal intercostal muscle",
+            "C": "Innermost intercostal muscle",
+            "D": "Serratus anterior muscle"
+        },
+        "question": "What layer of intercostal muscle lies deepest among the three?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 153,
+            "paragraph_id": "978-0323393041-p153-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Seminal Vesicle Pouch",
+            "B": "Rectouterine Pouch",
+            "C": "Visceral Peritoneal Fold",
+            "D": "Rectovesical Pouch"
+        },
+        "question": "What anatomical feature exists between the male urinary bladder and the rectum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 492,
+            "paragraph_id": "978-0323393041-p492-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Phrenic nerve originating at spinal cord level T6",
+            "B": "Intercostal nerves arising from spinal segments T1-T12",
+            "C": "Vagus nerve derived from cranial nerve X",
+            "D": "Phrenic nerves originating at spinal cord levels C3, C4, and C5"
+        },
+        "question": "What is the primary nerve responsible for the innervation of the diaphragmatic pleura?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 168,
+            "paragraph_id": "978-0323393041-p168-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

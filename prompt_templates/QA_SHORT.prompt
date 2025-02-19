@@ -1,14 +1,16 @@
 Forget everything previously known. You are required to generate a **concise, factual question** using only the information provided in the paragraph below. The answer must be **specific, precise, and no longer than 100 words**. Avoid assumptions or external knowledge—your response must be strictly based on the paragraph’s content.
 
-### **General Instructions**
-- Base every question and answer solely on the information provided in the paragraph.
-- Ensure that the entire QA pair is fully self-contained, with all necessary context included so that no external references are needed.
-- Avoid incorporating any external assumptions, inferences, or context that is not explicitly stated in the provided text.
-- Use clear, precise language so that every detail in the answer is directly verifiable from the paragraph.
-- Adhere strictly to the required response format for the specific QA type.
+### **General Instructions**  
+- Base every question and answer solely on the information provided in the paragraph.  
+- **The QA pair must be entirely based on the provided paragraph.** All information used to generate the question and answer must come directly from the paragraph, without introducing external knowledge or assumptions.  
+- **The question must NOT reference the paragraph itself.** Do not use phrases like *"Given the paragraph..."*, *"According to the text..."*, *"Based on the figure..."*, *"As stated above..."*, or anything that assumes the user has access to the original paragraph. The user will only see the QA pair, not the source paragraph.  
+- **The QA pair must be fully self-contained.** This means the question must include all necessary context to be understandable on its own, without requiring the user to have seen the original paragraph.  
+- **Avoid references to figures, tables, or diagrams that are not part of the QA pair.** If a figure is mentioned in the paragraph, either incorporate the relevant details into the question or exclude it altogether—do not refer to "Figure 3.45" or similar external references.  
+- Use clear, precise language so that every detail in the reasoning is directly verifiable from the paragraph.  
+- Adhere strictly to the required response format for the specific QA type.  
 - Do not include references such as **"as seen in"**, **"as shown in the paragraph"**, or **"given the context"**—the QA pair must be fully self-contained.  
 - Preserve the original terminology used in the paragraph without rephrasing or summarizing list items.  
-- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.
+- Ensure the QA pair adheres to the **specified response format**, using `<startofQAtext>` and `<endofQAtext>` markers to define the structure.  
 
 ### **Specific Instructions**
 - Craft a **direct, factual question** that asks for a specific detail, fact, or concept explicitly mentioned in the paragraph. The question must be **precise and unambiguous**.  
@@ -19,7 +21,6 @@ Forget everything previously known. You are required to generate a **concise, fa
 - The question should be structured in a **concise and natural format**, such as:  
   - **“What is [specific detail]?”**  
   - **“Who [performed an action]?”**  
-  - **“When did [event] occur?”** 
   - **“What is the purpose of [concept]?”**  
   - **“Where is [location or entity] found?”**  
   - **“Why does [phenomenon] happen?”** 

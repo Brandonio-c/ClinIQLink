@@ -34,6 +34,8 @@ import time
 from datetime import datetime
 import threading
 from torch.nn.utils.rnn import pad_sequence
+import pandas as pd  # Import pandas for efficient CSV handling
+import portalocker 
 
 # from transformers.utils.logging import set_verbosity_debug
 # set_verbosity_debug()
@@ -66,6 +68,10 @@ class QADatasetGenerator:
             - The prompt templates for generating different question types
         """
         self.start_paragraph = start_paragraph 
+        self.max_entries = max_entries
+        self.save_every = checkpoint
+        self.debugging=debugging
+        self.debugging_verbose = debugging_verbose
 
         # Automatically detect GPU and set the device
         self.device = torch.device(f"cuda:{torch.cuda.current_device()}" if torch.cuda.is_available() else "cpu")
@@ -122,8 +128,8 @@ class QADatasetGenerator:
                     device_map="auto" #,  # Automatically map model to available devices (e.g., GPU/CPU)
                     # device_map="balanced"
                     # device_map="balanced_low_0" # ensures the model is evenly split across both A100 GPUs, preventing one GPU from being overloaded.
-                    # offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
-                    # offload_state_dict=True, # Helps in managing large models across multiple GPUs
+                    offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
+                    offload_state_dict=True, # Helps in managing large models across multiple GPUs
                     ).eval()  # Put model in inference mode to reduce overhead by disabling gradient computation.
 
         if self.model.config.max_position_embeddings < 131072:
@@ -136,10 +142,10 @@ class QADatasetGenerator:
                                     "text-generation",
                                     model=self.model,
                                     tokenizer=self.tokenizer,
-                                    max_length=self.max_sequence_length,  # set to 2048 (practical prompt length, original setup used 2 A100 GPU's)
-                                    #device=self.device,  
-                                    truncation=True,
-                                    #batch_size=1,  # Reduce batch size for memory efficiency
+                                    # max_length=self.max_sequence_length,  # set to 2048 (practical prompt length, original setup used 2 A100 GPU's)
+                                    # device=self.device,  
+                                    truncation=True, 
+                                    # batch_size=1,  # Reduce batch size for memory efficiency
                                     max_new_tokens=self.max_new_tokens,     # set to 1024 tokens generated (again for practical prompt length, original setup used 2 A100 GPU's)
                                     pad_token_id=self.tokenizer.eos_token_id,
                                     return_tensors="pt",
@@ -230,10 +236,7 @@ class QADatasetGenerator:
         self.multi_hop_QA_pairs = []
         self.multi_hop_inverse_QA_pairs = []  # Stores multi-hop inverse QA pairs
         self.short_inverse_QA_pairs = []  # Stores short-answer inverse QA pairs
-        self.max_entries = max_entries
-        self.save_every = checkpoint
-        self.debugging=debugging
-        self.debugging_verbose = debugging_verbose
+        
 
         self.qa_counts = {  # Initialize counters for each QA type
             QAType.SHORT: 0,
@@ -575,9 +578,8 @@ class QADatasetGenerator:
                 r"\*\*Question:\*\*\s*(?P<question>.*?)\s*"
                 r"\*\*Answer:\*\*\s*(?P<answer>.*?)\s*"
                 r"\*\*Incorrect Answer Explanation:\*\*\s*"
-                r"- \*\*False Answer Given:\*\* (?P<false_answer>.*?)\s*"
-                r"- \*\*Why It Is Incorrect:\*\* (?P<explanation>.*?)\s*"
-                r"- \*\*Correct Answer:\*\* (?P<correct_answer>.*)",
+                r"- \*\*False Answer Given:\*\*\s*(?P<false_answer>.*?)\s*"
+                r"- \*\*Why It Is Incorrect:\*\*\s*(?P<explanation>.*)",
                 re.DOTALL
             )
 
@@ -585,11 +587,10 @@ class QADatasetGenerator:
             match = qa_pattern.search(extracted_text)
 
             if match:
-                question = match.group("question").strip()
-                answer = match.group("answer").strip()
-                false_answer = match.group("false_answer").strip()
-                incorrect_explanation = match.group("explanation").strip()
-                correct_answer = match.group("correct_answer").strip()
+                question = match.group("question").strip() if match.group("question") else ""
+                answer = match.group("answer").strip() if match.group("answer") else ""
+                false_answer = match.group("false_answer").strip() if match.group("false_answer") else ""
+                incorrect_explanation = match.group("explanation").strip() if match.group("explanation") else ""
 
                 # Ensure all fields are present
                 missing_fields = []
@@ -601,11 +602,49 @@ class QADatasetGenerator:
                     missing_fields.append("False Answer Given")
                 if not incorrect_explanation:
                     missing_fields.append("Explanation for Incorrect Answer")
-                if not correct_answer:
-                    missing_fields.append("Correct Answer")
 
+                # Retry extraction for missing fields using separate regex patterns
                 if missing_fields:
-                    print(f"[ERROR] Missing fields in extracted short inverse QA: {', '.join(missing_fields)}", flush=True)
+                    print(f"[WARNING] Retrying extraction for missing fields: {', '.join(missing_fields)}", flush=True)
+
+                    if "Question" in missing_fields:
+                        question_match = re.search(r"\*\*Question:\*\*\s*(.*?)\s*(?=\*\*Answer:\*\*)", extracted_text, re.DOTALL)
+                        if question_match:
+                            question = question_match.group(1).strip()
+                            print("[DEBUG] Successfully recovered missing 'Question'", flush=True)
+
+                    if "Answer" in missing_fields:
+                        answer_match = re.search(r"\*\*Answer:\*\*\s*(.*?)\s*(?=\*\*Incorrect Answer Explanation:\*\*)", extracted_text, re.DOTALL)
+                        if answer_match:
+                            answer = answer_match.group(1).strip()
+                            print("[DEBUG] Successfully recovered missing 'Answer'", flush=True)
+
+                    if "False Answer Given" in missing_fields:
+                        false_answer_match = re.search(r"- \*\*False Answer Given:\*\*\s*(.*?)\s*(?=\- \*\*Why It Is Incorrect:\*\*)", extracted_text, re.DOTALL)
+                        if false_answer_match:
+                            false_answer = false_answer_match.group(1).strip()
+                            print("[DEBUG] Successfully recovered missing 'False Answer Given'", flush=True)
+
+                    if "Explanation for Incorrect Answer" in missing_fields:
+                        explanation_match = re.search(r"- \*\*Why It Is Incorrect:\*\*\s*(.*?)\s*(?:\n|$)", extracted_text, re.DOTALL)
+                        if explanation_match:
+                            incorrect_explanation = explanation_match.group(1).strip()
+                            print("[DEBUG] Successfully recovered missing 'Explanation for Incorrect Answer'", flush=True)
+
+                    # Re-check if all fields are now filled
+                    missing_fields = []
+                    if not question:
+                        missing_fields.append("Question")
+                    if not answer:
+                        missing_fields.append("Answer")
+                    if not false_answer:
+                        missing_fields.append("False Answer Given")
+                    if not incorrect_explanation:
+                        missing_fields.append("Explanation for Incorrect Answer")
+
+                # Final validation
+                if missing_fields:
+                    print(f"[ERROR] Still missing fields in extracted short inverse QA after retry: {', '.join(missing_fields)}", flush=True)
                     print(f"[DEBUG] Extracted QA content:\n{extracted_text}", flush=True)
                     return None
 
@@ -614,28 +653,27 @@ class QADatasetGenerator:
                     "answer": answer,
                     "false_answer": false_answer,
                     "incorrect_explanation": incorrect_explanation,
-                    "correct_answer": correct_answer,
                     "type": "short_inverse",
                     "source": source_info
                 }
             else:
                 print(f"[ERROR] Invalid QA format in short inverse QA.", flush=True)
                 
-                # Additional debugging for incorrect formatting
-                if "**Question:**" not in extracted_text:
-                    print("[DEBUG] 'Question:' keyword not found in extracted text.", flush=True)
-                if "**Answer:**" not in extracted_text:
-                    print("[DEBUG] 'Answer:' keyword not found in extracted text.", flush=True)
-                if "**Incorrect Answer Explanation:**" not in extracted_text:
-                    print("[DEBUG] 'Incorrect Answer Explanation:' keyword not found in extracted text.", flush=True)
-                if "**False Answer Given:**" not in extracted_text:
-                    print("[DEBUG] 'False Answer Given:' keyword not found in extracted text.", flush=True)
-                if "**Why It Is Incorrect:**" not in extracted_text:
-                    print("[DEBUG] 'Why It Is Incorrect:' keyword not found in extracted text.", flush=True)
-                if "**Correct Answer:**" not in extracted_text:
-                    print("[DEBUG] 'Correct Answer:' keyword not found in extracted text.", flush=True)
+                if self.debugging:
+                    # Additional debugging for incorrect formatting
+                    if "**Question:**" not in extracted_text:
+                        print("[DEBUG] 'Question:' keyword not found in extracted text.", flush=True)
+                    if "**Answer:**" not in extracted_text:
+                        print("[DEBUG] 'Answer:' keyword not found in extracted text.", flush=True)
+                    if "**Incorrect Answer Explanation:**" not in extracted_text:
+                        print("[DEBUG] 'Incorrect Answer Explanation:' keyword not found in extracted text.", flush=True)
+                    if "**False Answer Given:**" not in extracted_text:
+                        print("[DEBUG] 'False Answer Given:' keyword not found in extracted text.", flush=True)
+                    if "**Why It Is Incorrect:**" not in extracted_text:
+                        print("[DEBUG] 'Why It Is Incorrect:' keyword not found in extracted text.", flush=True)
 
-                print(f"[DEBUG] Full extracted text:\n{extracted_text}", flush=True)
+                    print(f"[DEBUG] Full extracted text:\n{extracted_text}", flush=True)
+
                 return None
 
         except Exception as e:
@@ -1406,18 +1444,25 @@ class QADatasetGenerator:
                     qa_pair = None
                     if question_type == QAType.SHORT:
                         qa_pair = self.generate_short_answer_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.SHORT] += 1
                     elif question_type == QAType.TRUE_FALSE:
                         qa_pair = self.generate_TF_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.TRUE_FALSE] += 1
                     elif question_type == QAType.LIST:
                         qa_pair = self.generate_list_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.LIST] += 1
                     elif question_type == QAType.MULTIPLE_CHOICE:
                         qa_pair = self.generate_MC_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.MULTIPLE_CHOICE] += 1
                     elif question_type == QAType.MULTI_HOP:
                         qa_pair = self.generate_multi_hop_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.MULTI_HOP] += 1
                     elif question_type == QAType.MULTI_HOP_INVERSE:
                         qa_pair = self.generate_multi_hop_inverse_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.MULTI_HOP_INVERSE] += 1
                     elif question_type == QAType.SHORT_INVERSE:
                         qa_pair = self.generate_short_inverse_QA(paragraph_text, source_info)
+                        self.qa_counts[QAType.SHORT_INVERSE] += 1
 
                     if qa_pair:
                         if self.debugging_verbose:
@@ -1593,45 +1638,6 @@ class QADatasetGenerator:
             scores[QAType.MULTI_HOP_INVERSE] = scores[QAType.MULTI_HOP]  # Equal probability as MULTI_HOP
 
 
-        # Select highest-scoring QA type
-        # question_type = max(scores, key=scores.get)
-
-        # --------------- TODO - Fix - This is some hamburger code I jumbled together to make the QA type generation process more deterministic but it isn't great and should look to fix this. 
-
-        # # Get the count of each QA type
-        # min_count = min(self.qa_counts.values())  # Find the lowest count
-        # max_count = max(self.qa_counts.values())  # Find the highest count
-
-        # # Identify the least-used types
-        # underrepresented_types = [qa for qa, count in self.qa_counts.items() if count == min_count]
-
-        # # Apply Discounting Factor to Underrepresented Types
-        # discounting_factors = {
-        #     qa_type: 1 + ((max_count - count) / max(self.balance_threshold, max_count))  
-        #     for qa_type, count in self.qa_counts.items()
-        # }
-
-        # # Adjust Scores Using Discounting Factors
-        # adjusted_scores = {
-        #     qa_type: scores[qa_type] * discounting_factors[qa_type]
-        #     for qa_type in scores
-        # }
-
-        # #  Select the Question Type Based on Adjusted Scores
-        # balanced_question_type = max(adjusted_scores, key=adjusted_scores.get)
-
-        # #  Ensure Severely Underrepresented Types Get Selected
-        # if max_count - min_count >= self.balance_threshold:
-        #     severely_underrepresented_types = [
-        #         qa for qa, count in self.qa_counts.items() if max_count - count >= self.balance_threshold
-        #     ]
-        #     if severely_underrepresented_types:
-        #         balanced_question_type = random.choice(severely_underrepresented_types)
-
-        # # Update QA Type Counts
-        # self.qa_counts[balanced_question_type] += 1
-
-        # Group question types into 5 main categories (treat inverse types as their equivalent)
         # Group question types into 5 main categories (treat inverse types as their equivalent)
         grouped_counts = {
             "short": self.qa_counts[QAType.SHORT] + self.qa_counts[QAType.SHORT_INVERSE],
@@ -1646,22 +1652,20 @@ class QADatasetGenerator:
         max_count = max(grouped_counts.values())
 
         # Identify underrepresented and severely underrepresented types
-        underrepresented_categories = [category for category, count in grouped_counts.items() if count == min_count]
-        severely_underrepresented_categories = [
-            category for category, count in grouped_counts.items() if max_count - count >= self.balance_threshold
-        ]
+        underrepresented_categories = [category for category, count in grouped_counts.items() if count <= (min_count + self.balance_threshold)]
+        severely_underrepresented_categories = [category for category, count in grouped_counts.items() if (max_count - count) >= self.balance_threshold]
 
         # Apply Discounting Factor to Encourage Balance
         discounting_factors = {
             qa_type: 1 + ((max_count - grouped_counts[category]) / max(self.balance_threshold, max_count))
             for qa_type, category in {
                 QAType.SHORT: "short",
-                QAType.SHORT_INVERSE: "short",
+                QAType.SHORT_INVERSE: "short", # because short and short inverse are grouped 
                 QAType.TRUE_FALSE: "true_false",
                 QAType.LIST: "list",
                 QAType.MULTIPLE_CHOICE: "multiple_choice",
                 QAType.MULTI_HOP: "multi_hop",
-                QAType.MULTI_HOP_INVERSE: "multi_hop",
+                QAType.MULTI_HOP_INVERSE: "multi_hop", # because multi_hop and multi_hop inverse are grouped 
             }.items()
         }
 
@@ -1678,19 +1682,24 @@ class QADatasetGenerator:
         if severely_underrepresented_categories:
             eligible_types = [qa for qa, cat in {
                 QAType.SHORT: "short",
-                QAType.SHORT_INVERSE: "short",
+                QAType.SHORT_INVERSE: "short", # because short and short inverse are grouped 
                 QAType.TRUE_FALSE: "true_false",
                 QAType.LIST: "list",
                 QAType.MULTIPLE_CHOICE: "multiple_choice",
                 QAType.MULTI_HOP: "multi_hop",
-                QAType.MULTI_HOP_INVERSE: "multi_hop",
+                QAType.MULTI_HOP_INVERSE: "multi_hop", # because multi_hop and multi_hop inverse are grouped 
             }.items() if cat in severely_underrepresented_categories]
 
             balanced_question_type = random.choice(eligible_types)
 
-        # Update QA Type Counts
-        self.qa_counts[balanced_question_type] += 1
+        # Randomly swap to the inverse type with a 50% chance
+        if balanced_question_type == QAType.SHORT and random.random() < 0.5:
+            balanced_question_type = QAType.SHORT_INVERSE
+        elif balanced_question_type == QAType.MULTI_HOP and random.random() < 0.5:
+            balanced_question_type = QAType.MULTI_HOP_INVERSE
 
+        # # Update QA Type Counts
+        # self.qa_counts[balanced_question_type] += 1
 
         if self.debugging_verbose:
             print(f"\n[DEBUG] QA Type Selection Scores (Before Balancing): {scores}", flush=True)
@@ -1703,9 +1712,69 @@ class QADatasetGenerator:
         return balanced_question_type
 
 
+    # def save_qa_pairs(self, isbn):
+    #     """
+    #     Saves generated QA pairs to JSON files without overwriting existing data.
+    #     """
+    #     if self.debugging:
+    #         print(f"[DEBUG] Saving QA pairs for ISBN: {isbn}", flush=True)
+
+    #     json_files = {
+    #         f"short_QA-{isbn}.json": self.short_QA_pairs,
+    #         f"TF_QA-{isbn}.json": self.TF_QA_pairs,
+    #         f"list_QA-{isbn}.json": self.list_QA_pairs,
+    #         f"MC_QA-{isbn}.json": self.MC_QA_pairs,
+    #         f"multi_hop_QA-{isbn}.json": self.multi_hop_QA_pairs,
+    #         f"multi_hop_inverse_QA-{isbn}.json": self.multi_hop_inverse_QA_pairs,  # New inverse multi-hop
+    #         f"short_inverse_QA-{isbn}.json": self.short_inverse_QA_pairs  # New inverse short-answer
+    #     }
+
+    #     for file_name, new_data in json_files.items():
+    #         file_path = self.output_dir / file_name
+
+    #         # Load existing data if the file exists
+    #         if file_path.exists():
+    #             try:
+    #                 with open(file_path, "r") as f:
+    #                     existing_data = json.load(f)
+    #                 if not isinstance(existing_data, list):  # Ensure the file contains a list
+    #                     existing_data = []
+    #             except (json.JSONDecodeError, FileNotFoundError):
+    #                 existing_data = []
+    #         else:
+    #             existing_data = []
+
+    #         # Append new data
+    #         updated_data = existing_data + new_data
+
+    #         # Save updated data
+    #         with open(file_path, "w") as f:
+    #             json.dump(updated_data, f, indent=4)
+
+    #         if self.debugging:
+    #             print(f"[DEBUG] {file_name}: {len(updated_data)} QA pairs saved (previous: {len(existing_data)}, new: {len(new_data)})", flush=True)
+
+    #     # Write metadata for generated JSON files to the CSV
+    #     csv_path = self.output_dir / "QA_dataset.csv"
+    #     with open(csv_path, "a", newline="") as csvfile:  # Use "a" to append instead of "w"
+    #         fieldnames = ["file_name", "type", "isbn"]
+    #         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    #         # Only write the header if the file is empty
+    #         if not csv_path.exists() or csv_path.stat().st_size == 0:
+    #             writer.writeheader()
+
+    #         for file_name in json_files.keys():
+    #             question_type = file_name.split("_")[0].lower()
+    #             writer.writerow({"file_name": file_name, "type": question_type, "isbn": isbn})
+
+    #     if self.debugging:
+    #         print(f"[DEBUG] QA dataset CSV updated at {csv_path}", flush=True)
+
     def save_qa_pairs(self, isbn):
         """
-        Saves generated QA pairs to JSON files without overwriting existing data.
+        Saves generated QA pairs to JSON files without overwriting existing data but prevents duplication.
+        Uses file locking to prevent multiple processes from accessing the same file simultaneously.
         """
         if self.debugging:
             print(f"[DEBUG] Saving QA pairs for ISBN: {isbn}", flush=True)
@@ -1716,52 +1785,80 @@ class QADatasetGenerator:
             f"list_QA-{isbn}.json": self.list_QA_pairs,
             f"MC_QA-{isbn}.json": self.MC_QA_pairs,
             f"multi_hop_QA-{isbn}.json": self.multi_hop_QA_pairs,
-            f"multi_hop_inverse_QA-{isbn}.json": self.multi_hop_inverse_QA_pairs,  # New inverse multi-hop
-            f"short_inverse_QA-{isbn}.json": self.short_inverse_QA_pairs  # New inverse short-answer
+            f"multi_hop_inverse_QA-{isbn}.json": self.multi_hop_inverse_QA_pairs,
+            f"short_inverse_QA-{isbn}.json": self.short_inverse_QA_pairs
         }
 
         for file_name, new_data in json_files.items():
             file_path = self.output_dir / file_name
 
-            # Load existing data if the file exists
+            # Load existing data and ensure it's a list
+            existing_data = []
             if file_path.exists():
                 try:
                     with open(file_path, "r") as f:
+                        portalocker.lock(f, portalocker.LOCK_SH)  # Shared lock for reading
                         existing_data = json.load(f)
-                    if not isinstance(existing_data, list):  # Ensure the file contains a list
+                        portalocker.unlock(f)
+                    if not isinstance(existing_data, list):
                         existing_data = []
                 except (json.JSONDecodeError, FileNotFoundError):
                     existing_data = []
-            else:
-                existing_data = []
 
-            # Append new data
-            updated_data = existing_data + new_data
+            # Convert existing and new data into sets using tuple representation for uniqueness
+            existing_set = {json.dumps(entry, sort_keys=True) for entry in existing_data}
+            new_set = {json.dumps(entry, sort_keys=True) for entry in new_data}
 
-            # Save updated data
-            with open(file_path, "w") as f:
-                json.dump(updated_data, f, indent=4)
+            # Find unique new QA pairs that aren't already saved
+            unique_new_data = [json.loads(entry) for entry in (new_set - existing_set)]
 
-            if self.debugging:
-                print(f"[DEBUG] {file_name}: {len(updated_data)} QA pairs saved (previous: {len(existing_data)}, new: {len(new_data)})", flush=True)
+            if unique_new_data:
+                updated_data = existing_data + unique_new_data
 
-        # Write metadata for generated JSON files to the CSV
+                # Save updated data with file lock
+                with open(file_path, "w") as f:
+                    portalocker.lock(f, portalocker.LOCK_EX)  # Exclusive lock for writing
+                    json.dump(updated_data, f, indent=4)
+                    portalocker.unlock(f)
+
+                if self.debugging:
+                    print(f"[DEBUG] {file_name}: {len(unique_new_data)} new QA pairs added (Total: {len(updated_data)})", flush=True)
+
+        # Prevent Duplicate Metadata in CSV
         csv_path = self.output_dir / "QA_dataset.csv"
-        with open(csv_path, "a", newline="") as csvfile:  # Use "a" to append instead of "w"
-            fieldnames = ["file_name", "type", "isbn"]
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-            # Only write the header if the file is empty
-            if not csv_path.exists() or csv_path.stat().st_size == 0:
-                writer.writeheader()
+        # Load existing CSV data into a DataFrame (if the file exists)
+        if csv_path.exists():
+            try:
+                with open(csv_path, "r") as csvfile:
+                    portalocker.lock(csvfile, portalocker.LOCK_SH)  # Shared lock for reading
+                    df_existing = pd.read_csv(csvfile)
+                    portalocker.unlock(csvfile)
+            except pd.errors.EmptyDataError:
+                df_existing = pd.DataFrame(columns=["file_name", "type", "isbn"])
+        else:
+            df_existing = pd.DataFrame(columns=["file_name", "type", "isbn"])
 
-            for file_name in json_files.keys():
-                question_type = file_name.split("_")[0].lower()
-                writer.writerow({"file_name": file_name, "type": question_type, "isbn": isbn})
+        # Prepare new metadata entries
+        new_metadata = pd.DataFrame([
+            {"file_name": file_name, "type": file_name.split("_")[0].lower(), "isbn": isbn}
+            for file_name in json_files.keys()
+        ])
+
+        # Merge the new metadata with the existing CSV (avoiding duplicates)
+        df_combined = pd.concat([df_existing, new_metadata]).drop_duplicates()
+
+        # Save back to CSV with file lock
+        with open(csv_path, "w") as csvfile:
+            portalocker.lock(csvfile, portalocker.LOCK_EX)  # Exclusive lock for writing
+            df_combined.to_csv(csvfile, index=False)
+            portalocker.unlock(csvfile)
 
         if self.debugging:
-            print(f"[DEBUG] QA dataset CSV updated at {csv_path}", flush=True)
+            print(f"[DEBUG] QA dataset CSV updated at {csv_path} (Unique entries: {len(df_combined)})", flush=True)
 
+        # Clear stored QA pairs after saving
+        self.clear_qa_pairs()
 
 
 if __name__ == "__main__":

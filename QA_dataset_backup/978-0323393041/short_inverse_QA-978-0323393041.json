@@ -1,0 +1,770 @@
+[
+    {
+        "answer": "A suture is classified under a symphyse.",
+        "false_answer": "A suture is classified under a symphyse.",
+        "incorrect_explanation": "According to the given text, sutures actually represent their own category among solid joints, distinct from symphyses. While both are forms of solid joints, they serve different functions; sutures connect bones of the skull, whereas symphyses involve hyaline cartilage connecting two separate bones, such as those found at the pubic symphysis or intervertebral discs.",
+        "question": "What kind of joint allows for the connection between the skull bones through sutures?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 23,
+            "paragraph_id": "978-0323393041-p23-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The human spine consists of 6 cervical, 11 thoracic, 4 lumbar, 5 sacral, and 3 coccygeal vertebrae.",
+        "false_answer": "The human spine consists of 6 cervical, 11 thoracic, 4 lumbar, 5 sacral, and 3 coccygeal vertebrae.",
+        "incorrect_explanation": "The given answer contains several inaccuracies compared to the actual composition described in the paragraph. Specifically, there are actually 7 cervical, 12 thoracic, 5 lumbar, and the rest correctly identified. Therefore, the correct answer should reflect these accurate counts according to the paragraph's description.",
+        "question": "What types and numbers of vertebrae make up the human spine?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 55,
+            "paragraph_id": "978-0323393041-p55-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The highest thoracic dermatome on the posterior back is primarily T2.",
+        "false_answer": "The highest thoracic dermatome on the posterior back is primarily T2.",
+        "incorrect_explanation": "The statement incorrectly places the primary coverage of the T2 dermatome on the posterior back instead of mentioning its extension into the upper limb and presence on the anterior chest wall, indicating confusion between anatomical locations described in the passage.",
+        "question": "What is the primary area covered by the dermatome associated with the second thoracic spinal nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 138,
+            "paragraph_id": "978-0323393041-p138-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These columns form a circular appearance around the central canal.",
+        "false_answer": "Grey matter forms a circular appearance around the central canal.",
+        "incorrect_explanation": "According to the paragraph, the grey matter actually forms a characteristic H-shaped appearance in cross-section, not a circular one. Therefore, the statement regarding a circular formation is incorrect.",
+        "question": "What is the primary structural feature formed by longitudinal columns of grey matter within the spinal cord?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 103,
+            "paragraph_id": "978-0323393041-p103-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The urethra penetrates vertically through the levator ani muscle when moving between these two areas.",
+        "false_answer": "The urethra penetrates vertically through the levator ani muscle.",
+        "incorrect_explanation": "According to the information provided, the urethra actually penetrates through a circular hiatus in the perineal membrane, not the levator ani muscle, as it moves from the pelvic cavity to the perineum. Therefore, the correct answer should involve the perineal membrane, specifically mentioning the circular hiatus within it.",
+        "question": "What structures does the urethra penetrate vertically through when passing from the pelvic cavity to the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 463,
+            "paragraph_id": "978-0323393041-p463-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pelvic viscera's sympathetic nerves primarily join the abdominal viscera pathway, following somatic nerves to reach glands and smooth muscles.",
+        "false_answer": "Pelvic viscera's sympathetic nerves primarily join the abdominal viscera pathway, following somatic nerves to reach glands and smooth muscles.",
+        "incorrect_explanation": "According to the given information, pelvic viscera actually relate to the ganglion impar, indicating a different pathway than joining the abdominal viscera pathway described for other parts of the sympathetic nervous system. The correct understanding would involve recognizing that pelvic viscera's innervation involves structures like the ganglion impar rather than stating they follow the same route as those serving abdominal viscera.",
+        "question": "What path do pelvic viscera's sympathetic nerves typically take?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 41,
+            "paragraph_id": "978-0323393041-p41-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The University of Paris was founded in 1250.",
+        "false_answer": "The University of Paris was founded in 1250.",
+        "incorrect_explanation": "This statement is incorrect because, according to the given information, the University of Paris was actually founded in 1150, making the founding year provided in the answer 100 years later than the actual event.",
+        "question": "What year was the University of Paris founded?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 159,
+            "paragraph_id": "978-0323393041-p159-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The entire heart.",
+        "false_answer": "The blockage of the left coronary artery affects the entire heart.",
+        "incorrect_explanation": "According to the provided paragraph, the left coronary artery supplies the majority of the left side of the heart, specifically dividing into the circumflex artery and the left anterior descending artery (LAD), indicating that its primary impact is on the left side rather than the entirety of the heart.",
+        "question": "What does the blockage of the left coronary artery primarily affect?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 246,
+            "paragraph_id": "978-0323393041-p246-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lumbar vertebrae are smaller compared to cervical and thoracic vertebrae.",
+        "false_answer": "Lumbar vertebrae being smaller than cervical and thoracic vertebrae.",
+        "incorrect_explanation": "According to the paragraph, what actually distinguishes lumbar vertebrae is their size; specifically, they are described as \"much larger than any other vertebrae in any other region.\" Therefore, the statement claiming they are smaller is a contradiction of the given facts. The correct distinction lies in their significant size relative to vertebrae found elsewhere along the vertebral column.",
+        "question": "What distinguishes lumbar vertebrae from cervical and thoracic vertebrae?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 374,
+            "paragraph_id": "978-0323393041-p374-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Destruction of one clinical column leads to instability, necessitating immediate surgical intervention.",
+        "false_answer": "Destruction of one clinical column leads to instability, necessitating immediate surgical intervention.",
+        "incorrect_explanation": "According to the text, destruction of one of the clinical columns is actually described as being \"usually a stable injury,\" which would require \"little more than rest and appropriate analgesia.\" Therefore, the statement given as the answer is incorrect because it inaccurately describes the typical outcome of destroying one clinical column as leading to instability needing surgery, whereas the actual recommendation leans towards conservative management rather than immediate surgical intervention.",
+        "question": "What typically occurs when there's destruction of just one of the clinical columns in the vertebral column?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 84,
+            "paragraph_id": "978-0323393041-p84-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Around the level of the disc between the LV and LVI vertebrae.",
+        "false_answer": "Around the level of the disc between the LV and LVI vertebrae.",
+        "incorrect_explanation": "The statement incorrectly identifies the vertebral level associated with the lower poles of the kidneys. According to the given information, the correct vertebral level for this anatomical landmark is actually around the disc between the LIII and LIV vertebrae, making the provided answer inaccurate regarding human anatomy.",
+        "question": "At what vertebral level do the lower poles of the kidneys typically occur?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 416,
+            "paragraph_id": "978-0323393041-p416-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The arch of the aorta ends at the vertebral level TVI/VI.",
+        "false_answer": "The arch of the aorta ends at the vertebral level TVI/VI.",
+        "incorrect_explanation": "This statement incorrectly identifies the termination point of the arch of the aorta. According to the provided information, the arch of the aorta actually ends on the left side at vertebral level T4/T5 (referred to here as TIV/V), not TVI/VI. Therefore, the correct vertebral levels should match those specified in the paragraph, indicating a typographical alteration made in generating the false answer.",
+        "question": "At what vertebral level does the arch of the aorta end?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 221,
+            "paragraph_id": "978-0323393041-p221-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "July 14, 1920",
+        "false_answer": "July 14, 1920",
+        "incorrect_explanation": "The actual date of the signing of the Treaty of Versailles was June 28, 1919, making the statement incorrect both in month and year.",
+        "question": "On what date did the signing of the Treaty of Versailles occur?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 471,
+            "paragraph_id": "978-0323393041-p471-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There are fewer neurons in the enteric nervous system than in the spinal cord.",
+        "false_answer": "There are fewer neurons in the enteric nervous system than in the spinal cord.",
+        "incorrect_explanation": "According to the given paragraph, there are actually *more* neurons in the enteric system than in the spinal cord itself, making this statement incorrect.",
+        "question": "What is unique about the number of neurons found in the enteric nervous system compared to another part of the body?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 48,
+            "paragraph_id": "978-0323393041-p48-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The smaller posterior rami collectively innervate muscles of facial expression.",
+        "false_answer": "The smaller posterior rami collectively innervate muscles of facial expression.",
+        "incorrect_explanation": "According to the paragraph, the smaller posterior rami actually collectivity innervate the back, not muscles of facial expression. Facial expressions are typically controlled by branches of the seventh cranial nerve (facial nerve), which is outside the scope described here regarding spinal nerves' functions.",
+        "question": "What parts of the human body do the smaller posterior rami of spinal nerves primarily innervate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 59,
+            "paragraph_id": "978-0323393041-p59-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The trapezius muscle originates from the transverse processes of T1-L5 vertebrae.",
+        "false_answer": "The trapezius muscle originates from the transverse processes of T1-L5 vertebrae.",
+        "incorrect_explanation": "This answer is incorrect because, contrary to stating origin from the transverse processes of T1-L5, the trapezius actually originates from the spinous processes of C7-T12, indicating both an incorrect point of attachment and vertebral level range.",
+        "question": "From which parts of the spine does the trapezius muscle originate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 88,
+            "paragraph_id": "978-0323393041-p88-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The middle mediastinum.",
+        "false_answer": "The middle mediastinum",
+        "incorrect_explanation": "According to the given information, the region described as being posterior to the body of the sternum and anterior to the pericardial sac actually refers to the anterior mediastinum, not the middle mediastinum. Therefore, the correct answer should indicate the anterior mediastinum.",
+        "question": "What is located within the region defined as being posterior to the body of the sternum and anterior to the pericardial sac?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 185,
+            "paragraph_id": "978-0323393041-p185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "L5 to S2",
+        "false_answer": "L5 to S2",
+        "incorrect_explanation": "According to Table 5.4 describing the branches of the sacral and coccygeal plexuses, the Tibial part originates specifically from spinal segments L4 to S3, which differs significantly from the provided answer.",
+        "question": "What spinal segment range does the tibial part of the sciatic nerve originate from?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 496,
+            "paragraph_id": "978-0323393041-p496-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At the level of vertebra TIX.",
+        "false_answer": "The esophagus passes through the musculature of the right crus of the diaphragm at the level of vertebra TIX.",
+        "incorrect_explanation": "According to the given information, the esophagus actually passes through the musculature of the right crus of the diaphragm at the level of vertebra TX, not TIX. Therefore, the correct statement regarding this anatomical passage point should specify vertebra TX instead.",
+        "question": "What vertebra does the esophagus pass through the musculature of the right crus of the diaphragm?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 377,
+            "paragraph_id": "978-0323393041-p377-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The body of the uterus is retroflexed on the cervix and also lies parallel to the axis of the vagina.",
+        "false_answer": "The body of the uterus being retroflexed on the cervix and lying parallel to the axis of the vagina.",
+        "incorrect_explanation": "According to the given information, the body of the uterus actually forms two key angles: it is anteflexed on the cervix and anteverted relative to the vagina, which contrasts sharply with the description of being retroflexed and parallel to the vaginal axis.",
+        "question": "What angles does the body of the uterus form when positioned relative to both the cervix and the surrounding pelvic structures?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 486,
+            "paragraph_id": "978-0323393041-p486-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary contributions to the formation of the coccygeal plexus come from the spinal segments S1, S2, and Co.",
+        "false_answer": "The primary contributions to the formation of the coccygeal plexus come from the spinal segments S1, S2, and Co.",
+        "incorrect_explanation": "According to the given information, the coccygeal plexus actually receives its main contribution from the anterior rami of S5 and Co, with a minor contribution from S4. There's no mention of significant involvement from S1 and S2 in the formation of this particular plexus.",
+        "question": "What spinal segments primarily contribute to forming the coccygeal plexus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 499,
+            "paragraph_id": "978-0323393041-p499-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The smallest cardiac veins primarily drain into the left ventricle.",
+        "false_answer": "The smallest cardiac veins primarily drain into the left ventricle.",
+        "incorrect_explanation": "According to the paragraph, the smallest cardiac veins actually drain directly into the cardiac chambers and are most numerous in the right atrium and right ventricle, occasionally found in the left atrium, and rarely associated with the left ventricle.",
+        "question": "Where do the smallest cardiac veins primarily drain?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 210,
+            "paragraph_id": "978-0323393041-p210-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ligaments connecting two adjacent vertebrae form the anterior border.",
+        "false_answer": "Ligaments connecting two adjacent vertebrae form the anterior border.",
+        "incorrect_explanation": "According to the given information, the anterior border of an intervertebral foramen is actually formed by the intervertebral disc between the vertebral bodies of the adjacent vertebrae, not by ligaments connecting them.",
+        "question": "What forms the anterior border of an intervertebral foramen?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 62,
+            "paragraph_id": "978-0323393041-p62-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The superior mesenteric artery arises from the abdominal aorta at the upper border of vertebra LII.",
+        "false_answer": "The superior mesenteric artery arises from the abdominal aorta at the upper border of vertebra LII.",
+        "incorrect_explanation": "According to the given information, the superior mesenteric artery actually arises from the abdominal aorta at the lower border of vertebra LI, not at the upper border of vertebra LII. Therefore, the correct statement regarding the origin point relative to the vertebral column is different from what was claimed.",
+        "question": "At what vertebral level does the superior mesenteric artery arise?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 274,
+            "paragraph_id": "978-0323393041-p274-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, damage within the vertebral canal is observed.",
+        "false_answer": "Damage within the vertebral canal is typically observed in patients with a psoas abscess caused by TB.",
+        "incorrect_explanation": "According to the case description, fortunately for the patient, there was no evidence of any damage within the vertebral canal, indicating this outcome is possible rather than typical.",
+        "question": "What is typically found in patients diagnosed with a psoas abscess resulting from a tuberculous infection?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 124,
+            "paragraph_id": "978-0323393041-p124-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The renal, hepatic, and splenic arteries drain to pre-aortic nodes.",
+        "false_answer": "The renal, hepatic, and splenic arteries drain to pre-aortic nodes.",
+        "incorrect_explanation": "According to the given information, it's actually the celiac trunk (related to the abdominal foregut), the superior mesenteric artery (related to the abdominal midgut), and the inferior mesenteric artery (related to the abdominal hindgut) that drain to pre-aortic nodes near their origins, not specifically the renal, hepatic, and splenic arteries.",
+        "question": "What types of arteries drain to pre-aortic nodes near their respective points of origin?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 365,
+            "paragraph_id": "978-0323393041-p365-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The sacrum.",
+        "false_answer": "The sacrum.",
+        "incorrect_explanation": "The inguinal ligament actually connects laterally to the anterior superior iliac spine, not the sacrum. According to the description, this connection occurs with the thickened reinforced free edge of the external oblique aponeurosis passing between the anterior superior iliac spine laterally and the pubic tubercle medially.",
+        "question": "What anatomical landmark does the inguinal ligament connect laterally?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 286,
+            "paragraph_id": "978-0323393041-p286-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Magnetic resonance helps primarily in assessing static conditions of the small bowel, offering detailed images of the bowel's inner structures.",
+        "false_answer": "Magnetic resonance benefits mainly in assessing static conditions of the small bowel, providing detailed images of the bowel's inner structures.",
+        "incorrect_explanation": "According to the paragraph, magnetic resonance is actually beneficial for its ability to dynamically assess bowel distension and motility in the small bowel, along with other features like wall thickening and vascularity changes, making the statement about \"static conditions\" incorrect.",
+        "question": "How does magnetic resonance assessment benefit specifically when evaluating the small bowel?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 320,
+            "paragraph_id": "978-0323393041-p320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Only the spermatic cord in men and the round ligament of the uterus in women pass through.",
+        "false_answer": "Only the spermatic cord in men and the round ligament of the uterus in women pass through.",
+        "incorrect_explanation": "The statement omits mentioning the ilio-inguinal nerve, which also passes through part of the canal, specifically exiting through the superficial inguinal ring alongside these structures. Thus, the correct understanding includes additional nerves besides just the primary gender-specific structures.",
+        "question": "What structures pass through the entire length of the inguinal canal?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 297,
+            "paragraph_id": "978-0323393041-p297-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Accumulated blood.",
+        "false_answer": "Accumulated blood.",
+        "incorrect_explanation": "The paragraph actually describes two conditions affecting lung expansion: pleural effusion caused by excess fluid accumulation and pneumothorax resulting from collected gas or air within the pleural cavity. Therefore, the correct answer regarding a condition involving accumulated gas or air is pneumothorax, making \"accumulated blood\" an inaccurate description of this scenario.",
+        "question": "What condition compromises the lung's ability to expand properly because of accumulated gas or air within the pleural space?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 170,
+            "paragraph_id": "978-0323393041-p170-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Because less force is needed to push blood upwards towards the head.",
+        "false_answer": "Less force is needed to push blood upwards towards the head.",
+        "incorrect_explanation": "According to the paragraph, more force is actually required to pump blood through the body than through the lungs, making this statement incorrect. Therefore, the correct explanation given in the paragraph is that the muscular wall of the left ventricle is thicker because it needs to handle higher pressures associated with pumping blood throughout the entire body, unlike the right ventricle which primarily deals with lower pressure circuits involving the lungs.",
+        "question": "What is the primary reason the muscular wall of the left ventricle is thicker compared to the right?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 196,
+            "paragraph_id": "978-0323393041-p196-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Radiographs show the presence of intercostal muscles between each rib.",
+        "false_answer": "Radiographs show the presence of intercostal muscles between each rib.",
+        "incorrect_explanation": "The statement incorrectly mentions \"radiographs showing intercostal muscles between each rib.\" In reality, radiographs like those depicted might focus more on structures within the lumbar spine rather than specifically highlighting intercostal muscles located elsewhere along the ribs outside the primary area of interest, which would be the lumbar vertebrae themselves. Correctly identifying what they actually depict regarding skeletal framework and regional anatomy involves noting features such as transverse processes, pedicles, spinous processes, vertebral bodies, and locations of intervertebral discs and foramina, none of which involve detailed visualization of intercostal muscle tissue via standard X-ray imaging techniques focused on bony landmarks.",
+        "question": "What does radiography typically reveal when viewing the lumbar region of the vertebral column?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 66,
+            "paragraph_id": "978-0323393041-p66-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Rib VIII",
+        "false_answer": "Rib VIII",
+        "incorrect_explanation": "According to the given anatomical description, the spleen actually lies against the diaphragm in the area of rib IX to rib X, making the statement regarding Rib VIII incorrect. Therefore, the correct ribs involved would indeed start at least one number higher.",
+        "question": "What rib does the spleen lie adjacent to?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 344,
+            "paragraph_id": "978-0323393041-p344-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ascending aorta begins.",
+        "false_answer": "The ascending aorta begins.",
+        "incorrect_explanation": "According to the provided text, it actually states that \"The ascending aorta ends and the arch of the aorta begins.\" Thus, the correct statement should reflect that the ascending aorta ends at this level, rather than beginning.",
+        "question": "What happens to the ascending aorta at the TIV/V vertebral level?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 238,
+            "paragraph_id": "978-0323393041-p238-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The released malignant cells lead to localized containment of the disease.",
+        "false_answer": "Released malignant cells leading to localized containment of the disease.",
+        "incorrect_explanation": "According to the provided information, if a surgeon accidentally releases malignant cells into the peritoneal cavity during surgery, it actually causes a significant worsening of the patient's prognosis because these cells can rapidly spread throughout the abdomen via the peritoneal cavity, not become contained locally.",
+        "question": "What occurs when a surgeon inadvertently releases malignant cells during the removal of a tumor?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 310,
+            "paragraph_id": "978-0323393041-p310-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pulmonary hyperplasia.",
+        "false_answer": "Pulmonary hyperplasia",
+        "incorrect_explanation": "The paragraph actually mentions that compression caused by these hernias leads to pulmonary *hypoplasia* (underdevelopment of the lungs) rather than hyperplasia (an increase in cell number, potentially leading to overgrowth). Thus, the correct term associated with this consequence is pulmonary hypoplasia, indicating underdevelopment of lung tissue.",
+        "question": "What condition results if Morgagni's and Bochdalek's hernias compress the developing lungs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 379,
+            "paragraph_id": "978-0323393041-p379-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The multifidus muscle originates from the spinous processes.",
+        "false_answer": "The multifidus muscle originates from the spinous processes.",
+        "incorrect_explanation": "This is incorrect because, according to the provided anatomical details, the multifidus actually originates from the transverse processes, not the spinous processes.",
+        "question": "What is the origin of the multifidus muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 99,
+            "paragraph_id": "978-0323393041-p99-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Between 5% and 7%.",
+        "false_answer": "Between 5% and 7%.",
+        "incorrect_explanation": "According to the given information, a primary testicular neoplasm actually accounts for between 1% and 2% of all malignancies in men, making the statement incorrect.",
+        "question": "What percentage of all malignancies in men does a primary testicular neoplasm account for?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 421,
+            "paragraph_id": "978-0323393041-p421-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The female urethra passes superiorly from the bladder through the abdominal cavity.",
+        "false_answer": "The female urethra passes superiorly from the bladder through the abdominal cavity.",
+        "incorrect_explanation": "According to the given information, the female urethra actually passes *inferiorly* from the bladder through the pelvic floor, not superiorly through the abdominal cavity. Therefore, the description of the path taken by the female urethra in the answer is incorrect.",
+        "question": "What path does the female urethra take?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 445,
+            "paragraph_id": "978-0323393041-p445-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Between vertebrae LII and LIII.",
+        "false_answer": "Between vertebrae LII and LIII.",
+        "incorrect_explanation": "According to the given information, the normal termination of the spinal cord in adults is actually between vertebrae LI and LII, although it might vary as high as TXII or as low as the disc between vertebrae LII and LIII.",
+        "question": "At what vertebral level does the spinal cord typically terminate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 119,
+            "paragraph_id": "978-0323393041-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Both domes reach equally high up towards the upper parts of the chest cavity.",
+        "false_answer": "That both domes reach equally high up towards the upper parts of the chest cavity.",
+        "incorrect_explanation": "According to the given information, this statement is incorrect because it's specified that the right dome is higher than the left, with the right dome specifically reaching as far as rib V. There is no mention of them being equal in height.",
+        "question": "What is notable about how the heights of the two domes formed by the diaphragm compare?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 130,
+            "paragraph_id": "978-0323393041-p130-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Near the LI vertebral level, you would find the inferior parts of the lungs.",
+        "false_answer": "Inferior parts of the lungs",
+        "incorrect_explanation": "According to the provided text, the structures actually found around the LI vertebral level include the duodenum, hilum of the kidneys, neck of the pancreas, and the origin of the superior mesenteric artery. There is no mention of lung locations relative to the LI vertebral level being specifically indicative of their inferior parts.",
+        "question": "What anatomical features can typically be found near the LI vertebral level?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 412,
+            "paragraph_id": "978-0323393041-p412-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "After supplying the sinoatrial node, the right coronary artery then terminates at the junction between the anterior and middle cardiac veins.",
+        "false_answer": "The statement claiming the right coronary artery terminates at the junction between the anterior and middle cardiac veins following the supply to the sinoatrial node.",
+        "incorrect_explanation": "According to the given anatomy description, there's no mention of termination points involving the junction of cardiac veins; rather, the focus is on arterial branching, specifically mentioning that it gives off its final major branch, the posterior interventricular branch, after passing near structures like the sinoatrial node, thus indicating the actual continuation involves significant vascular territories within the heart, particularly concerning areas supplied by this artery.",
+        "question": "What does the right coronary artery typically give rise to after supplying blood to the sinoatrial node?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 204,
+            "paragraph_id": "978-0323393041-p204-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pain from the parietal pericardium is primarily transmitted via the vagus nerve.",
+        "false_answer": "The statement claiming that pain from the parietal pericardium is primarily transmitted via the vagus nerve.",
+        "incorrect_explanation": "According to the given information, the source of somatic sensation (pain) from the parietal pericardium is actually carried by somatic afferent fibers in the phrenic nerves, not primarily through the vagus nerve. While the vagus nerve does supply the pericardium with nerves, the transmission of pain specifically is attributed to the phrenic nerves.",
+        "question": "What is the primary route through which pain sensation from the parietal pericardium is transmitted?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 189,
+            "paragraph_id": "978-0323393041-p189-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The round ligament of the uterus",
+        "false_answer": "The round ligament of the uterus.",
+        "incorrect_explanation": "The answer given incorrectly identifies what separates the two pouches; according to anatomical structures typically involved in separating spaces in the pelvis, particularly concerning the relationships around the uterus and adjacent organs, one would expect the separation to involve more directly associated structures rather than the round ligament which primarily connects the uterus to other parts of the body.",
+        "question": "What separates the vesico-uterine pouch from the recto-uterine pouch?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 491,
+            "paragraph_id": "978-0323393041-p491-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "His ability to achieve an erection remained unaffected.",
+        "false_answer": "His ability to achieve an erection remained unaffected.",
+        "incorrect_explanation": "According to the paragraph, the patient experienced damage to the pelvic parasympathetic nerve supply during surgery, which is crucial for achieving erections. Therefore, the statement that his ability to achieve an erection remained unaffected is false; instead, he suffered erectile dysfunction as a complication of the procedure.",
+        "question": "What happened to the patient's ability to achieve an erection after undergoing the abdominoperineal resection?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 424,
+            "paragraph_id": "978-0323393041-p424-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately vertebral level TXII.",
+        "false_answer": "Approximately vertebral level TXII.",
+        "incorrect_explanation": "According to the paragraph, the inferior vena cava passes through the central tendon at approximately vertebral level TVIII, not TXII. Therefore, the statement is incorrect because it mistakenly identifies the vertebral level associated with the inferior vena cava passing through the diaphragm's central tendon.",
+        "question": "At which vertebral level does the inferior vena cava pass through the central tendon?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 164,
+            "paragraph_id": "978-0323393041-p164-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The liver extends mainly into the lower back and pelvic regions.",
+        "false_answer": "The liver extends mainly into the lower back and pelvic regions.",
+        "incorrect_explanation": "According to the given description, the liver is located primarily in the right hypochondrium and epigastric region, extending into the left hypochondrium. There's no mention of the liver extending into the lower back or pelvic regions. Instead, these areas relate more closely to other organs' locations rather than being primary extensions of the liver itself.",
+        "question": "What regions does the liver primarily extend into within the abdominal area?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 335,
+            "paragraph_id": "978-0323393041-p335-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Spinal nerves T5-T6 are responsible for supplying the skin around the umbilicus.",
+        "false_answer": "Spinal nerves T5-T6 supply the skin around the umbilicus.",
+        "incorrect_explanation": "According to the given information, nerve T10 specifically supplies the skin around the umbilicus, not T5-T6. Thus, the statement incorrectly identifies the spinal nerves involved.",
+        "question": "Which spinal nerves primarily supply branches to the area of the abdomen surrounding the umbilicus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 293,
+            "paragraph_id": "978-0323393041-p293-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Blood primarily returns to the heart via the superior vena cava.",
+        "false_answer": "Superior vena cava",
+        "incorrect_explanation": "According to the given text, the primary vessel responsible for draining blood back to the heart from the abdominal area, along with parts of the pelvic, perineal, and lower limb regions, specifically mentions the involvement of the inferior vena cava. Thus, stating the superior vena cava incorrectly identifies another key systemic vein involved in returning deoxygenated blood to the heart, especially since the focus here was on drainage from regions excluding the upper body typically served by the superior vena cava.",
+        "question": "What is the primary vessel through which blood returns to the heart from areas other than the lungs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 276,
+            "paragraph_id": "978-0323393041-p276-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Laparoscopic surgery involves making small incisions between 5 to 10 mm in diameter.",
+        "false_answer": "Incisions are between 5 to 10 mm in diameter.",
+        "incorrect_explanation": "The given answer incorrectly specifies the size range of the incisions made during laparoscopic surgery. According to the text, the incisions are actually described as being \"no more than 1 to 2 cm in length,\" which translates to approximately 10 to 20 millimeters when considering linear measurements rather than area or diameter specifically. Therefore, the statement that they are between 5 to 10 mm in diameter does not accurately reflect the information provided regarding their maximum length.",
+        "question": "What size range do the small incisions made during laparoscopic surgery fall within?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 282,
+            "paragraph_id": "978-0323393041-p282-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The perineum consists mainly of the anal triangle.",
+        "false_answer": "The perineum consists mainly of the anal triangle.",
+        "incorrect_explanation": "This statement is incorrect because the perineum includes both the urogenital triangle and the anal triangle, along with other components such as roots of external genitalia, levator ani, sacrotuberous ligament, and the perineal membrane. Thus, saying it consists mainly of the anal triangle overlooks significant portions of the anatomy described in Fig. 5.9.",
+        "question": "What parts constitute the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 436,
+            "paragraph_id": "978-0323393041-p436-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The xiphoid process closes this aperture.",
+        "false_answer": "The xiphoid process closes the inferior thoracic aperture.",
+        "incorrect_explanation": "According to the given description, the inferior thoracic aperture is actually closed by the diaphragm, not the xiphoid process. The xiphoid process is part of the sternum but does not serve this role.",
+        "question": "What anatomically closes the relatively large inferior thoracic aperture?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 126,
+            "paragraph_id": "978-0323393041-p126-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Stimulation of the parasympathetic system dilates the coronary arteries.",
+        "false_answer": "Stimulation of the parasympathetic system dilates the coronary arteries.",
+        "incorrect_explanation": "According to the provided information, stimulation of the parasympathetic system actually constricts the coronary arteries, rather than dilating them. Therefore, the statement made in the answer is incorrect, contradicting the given facts about how parasympathetic stimulation influences cardiovascular functions.",
+        "question": "What effect does stimulation of the parasympathetic system have on coronary artery diameter?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 215,
+            "paragraph_id": "978-0323393041-p215-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pneumo-hemorrhage.",
+        "false_answer": "Pneumo-hemorrhage",
+        "incorrect_explanation": "Pneumo-hemorrhage is not recognized in the given text as a term describing what happens when air enters the pleural cavity leading to lung collapse. According to the text, if air is introduced into the pleural cavity, resulting in lung collapse due to its elastic recoil, the condition described is actually termed a pneumothorax.",
+        "question": "What condition occurs when air enters the pleural cavity causing the lung to collapse?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 250,
+            "paragraph_id": "978-0323393041-p250-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The descending aorta.",
+        "false_answer": "The descending aorta.",
+        "incorrect_explanation": "While the descending aorta does connect with both sides regarding systemic circulation, the more accurate choice given the context would involve mentioning something specifically connecting to both the right and left side concerning blood returning to the heart through the pulmonary circuit or another aspect closely associated with this region, which could relate to how different parts interact, especially considering how pulmonary veins enter the left atrium from both lungs, thus relating more accurately to pulmonary connections rather than just focusing on systemic arterial distribution via the aortic system.",
+        "question": "What anatomically connects with both the right and left sides concerning blood circulation in relation to the thorax?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 201,
+            "paragraph_id": "978-0323393041-p201-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The testicular artery passes through these two anatomical landmarks.",
+        "false_answer": "The testicular artery passes through both the deep and superficial inguinal rings.",
+        "incorrect_explanation": "While the statement seems accurate at first glance because it involves key components associated with male anatomy near the groin area, specifically mentioning passage through significant anatomical points, the actual contents passing through the deep and superficial inguinal rings involve more comprehensive elements. Specifically, the spermatic cord contains various structures, including arteries, nerves, and lymphatics, which indeed traverse these regions. Thus, stating merely that \"the testicular artery passes through these two anatomical landmarks\" simplifies what actually goes through them; rather, the entire spermatic cord does, encompassing multiple components including but not limited to the testicular artery. Therefore, the most straightforward correction would acknowledge this broader composition correctly moving past these areas, emphasizing the involvement of the whole spermatic cord instead of isolating one component within it.",
+        "question": "What structures pass through both the deep and superficial inguinal rings?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 301,
+            "paragraph_id": "978-0323393041-p301-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The splenic vein merges with the inferior vena cava.",
+        "false_answer": "The splenic vein merges with the inferior vena cava.",
+        "incorrect_explanation": "The statement is incorrect because the splenic vein typically merges with the superior mesenteric vein to form the portal vein, not directly merging with the inferior vena cava.",
+        "question": "What is the name of the vessel that merges with another major vein near the region of the pancreas?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 340,
+            "paragraph_id": "978-0323393041-p340-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The azygos vein typically enters the thorax through the esophageal hiatus of the diaphragm.",
+        "false_answer": "The azygos vein typically enters the thorax through the esophageal hiatus of the diaphragm.",
+        "incorrect_explanation": "According to the given information, the azygos vein actually enters the thorax through the aortic hiatus of the diaphragm, or sometimes through or posterior to the right crus of the diaphragm, not the esophageal hiatus.",
+        "question": "What is the typical entry point of the azygos vein into the thorax?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 232,
+            "paragraph_id": "978-0323393041-p232-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During prehepatic jaundice, the body fails to convert fat-soluble bilirubin into water-soluble bilirubin.",
+        "false_answer": "The statement claims that during prehepatic jaundice, the issue lies in the conversion of bilirubin solubility.",
+        "incorrect_explanation": "Prehepatic jaundice actually involves an excessive breakdown of red blood cells leading to high levels of bilirubin being sent to the liver, rather than any problem with the conversion of bilirubin's solubility. The conversion issue would relate more accurately to hepatic jaundice.",
+        "question": "What typically happens during prehepatic jaundice regarding the conversion of bilirubin?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 349,
+            "paragraph_id": "978-0323393041-p349-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Some of the deeper muscle groups along the spine include Splenius capitis, Longissimus dorsi, and Psoas major.",
+        "false_answer": "Some of the deeper muscle groups along the spine include Splenius capitis, Longissimus dorsi, and Psoas major.",
+        "incorrect_explanation": "While Splenius capitis and parts of what could relate to \"Longissimus dorsi\" are indeed involved with spinal musculature, specifically mentioning \"Psoas major\" introduces an error since this muscle primarily refers to abdominal rather than spinal musculature within the context given; further, \"Longissimus dorsi\" isn't specified correctly according to the breakdowns presented which mention variations like Longissimus capitis, thoracis, etc.",
+        "question": "What are some of the deeper muscle groups found along the spine?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 97,
+            "paragraph_id": "978-0323393041-p97-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Blood tests alone are sufficient for diagnosing prostate cancer.",
+        "false_answer": "Diagnosing prostate cancer relies exclusively on blood tests.",
+        "incorrect_explanation": "According to the given information, while blood tests, including serum acid phosphatase and PSA levels, play a role in diagnosing prostate cancer, they do not stand alone. Diagnosis typically requires additional methods such as digital rectal examinations (DRE) and obtaining several biopsies of the prostate. Thus, stating that blood tests alone suffice for diagnosis introduces a significant oversight regarding comprehensive diagnostic procedures.",
+        "question": "What method is primarily used for diagnosing prostate cancer?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 481,
+            "paragraph_id": "978-0323393041-p481-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary role of these ligaments is to facilitate the upward tilting of the sacrum.",
+        "false_answer": "The primary role of the sacrotuberous and sacrospinous ligaments is to facilitate the upward tilting of the sacrum.",
+        "incorrect_explanation": "According to the given information, the actual primary role of these ligaments is to resist or prevent the upward tilting of the sacrum, thereby stabilizing it on the pelvic bones. Thus, their function is opposite to what was described in the false answer; they work against rather than facilitating this movement.",
+        "question": "What is the primary role of the sacrotuberous and sacrospinous ligaments regarding the position of the sacrum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 455,
+            "paragraph_id": "978-0323393041-p455-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The vagus nerves primarily control voluntary movements of the limbs during exercise.",
+        "false_answer": "The vagus nerves primarily control voluntary movements of the limbs during exercise.",
+        "incorrect_explanation": "According to the provided paragraph, the vagus nerves actually provide parasympathetic innervation to the thoracic viscera and carry visceral afferents from the thoracic viscera as they pass through the thorax, rather than controlling limb movement.",
+        "question": "What is the primary role of the vagus nerves as they pass through the superior and posterior divisions of the mediastinum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 224,
+            "paragraph_id": "978-0323393041-p224-para1"
+        },
+        "type": "short_inverse"
+    }
+]

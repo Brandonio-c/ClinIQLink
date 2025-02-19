@@ -1,14 +1,14 @@
 #!/bin/bash
 #SBATCH --partition=gpu                                                         # Request the GPU partition
-#SBATCH --gres=gpu:a100:2                                                       # Request 2 A100 GPUs per node
+#SBATCH --gres=gpu:a100:4                                                       # Request 4 A100 GPUs per node
 #SBATCH --nodes=1                                                               # Number of nodes to allocate
-#SBATCH --ntasks-per-node=2                                                     # Number of tasks per node
-#SBATCH --cpus-per-task=32                                                      # Number of CPUs per task
-#SBATCH --mem=164G                                                              # Request Ram memory per node
+#SBATCH --ntasks-per-node=4                                                     # Number of tasks per node
+#SBATCH --cpus-per-task=16                                                      # Number of CPUs per task
+#SBATCH --mem=247G                                                              # Request Ram memory per node
 #SBATCH --time=48:00:00                                                         # 48 hours 
-#SBATCH --job-name=generate_qa_dataset_llama3-3_70B                                          # Set job name
-#SBATCH --output=generate_qa_dataset_llama3-3_70B.out                                        # Output file name
-#SBATCH --error=generate_qa_dataset_llama3-3_70B.err                                         # set error file name 
+#SBATCH --job-name=generate_qa_dataset_llama3-3_70B_2                                          # Set job name
+#SBATCH --output=generate_qa_dataset_llama3-3_70B_2.out                                        # Output file name
+#SBATCH --error=generate_qa_dataset_llama3-3_70B_2.err                                         # set error file name 
 
 ## Unloading all currently loaded CUDA modules
 module unload cuDNN
@@ -43,11 +43,16 @@ OUTPUT_DIR="$BASEDIR/QA_dataset"
 PREPROCESSED_DATA_CSV="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink/preprocessed_dataset/978-0323393041.csv"
 MODEL_PATH="/data/coleloughbc/LLAMA-3-2/HF_Converted_llama-3-3_70B_instruct_HF"
 MAX_ENTRIES=10000  # Set to desired number or leave blank for all
-MAX_SEQUENCE_LENGTH=2048
-MAX_NEW_TOKENS=1024  # (or adjust dynamically so prompt + generated tokens ≤ 2048)
-MODEL_MAX_LENGTH=131072 
+MAX_SEQUENCE_LENGTH=8196
+MAX_NEW_TOKENS=4098  # Half of MAX_SEQUENCE_LENGTH to balance context and generation
+# Allocating 8196 tokens for context and 4098 for generation to balance memory use across 4 A100 GPUs.
+# This prevents OOM errors while maximizing prompt length for better QA pair generation.
+# 8196 tokens ≈ 6,147 words (1 token ≈ 0.75 words), which is more than enough for the QA task generation .  
+# Estimated memory per GPU: ~68GB (LLaMA 3.3 70B model ~140GB, KV cache + activations ~132GB across 4 GPUs). 
+# script used/is using 4 GPUs, with biowulf full 247GB node RAM, so we should be avoiding OOM while utilizing full node capacity.  
+
 CHECKPOINT=25
-START_PARAGRAPH=1  # Change this value to resume from a specific paragraph
+START_PARAGRAPH=601  # Change this value to resume from a specific paragraph
 
 
 # Run the Python script with specified arguments
@@ -63,7 +68,7 @@ echo "Starting QA dataset generation..."
     --max_sequence_length ${MAX_SEQUENCE_LENGTH:-} \
     --model_max_length ${MODEL_MAX_LENGTH:-} \
     --start_paragraph ${START_PARAGRAPH:-} \
-    --debugging
+    --debugging 
 
 echo "QA dataset generation completed."
 
