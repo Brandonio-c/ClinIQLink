@@ -51,6 +51,7 @@ MAX_NEW_TOKENS=4098  # Half of MAX_SEQUENCE_LENGTH to balance context and genera
 # Estimated memory per GPU: ~68GB (LLaMA 3.3 70B model ~140GB, KV cache + activations ~132GB across 4 GPUs). 
 # script used/is using 4 GPUs, with biowulf full 247GB node RAM, so we should be avoiding OOM while utilizing full node capacity.  
 
+MODEL_MAX_LENGTH=131072 
 CHECKPOINT=25
 START_PARAGRAPH=601  # Change this value to resume from a specific paragraph
 

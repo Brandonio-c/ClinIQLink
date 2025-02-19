@@ -125,7 +125,7 @@ class QADatasetGenerator:
         self.model = transformers.AutoModelForCausalLM.from_pretrained(
                     llama3_model_path, 
                     torch_dtype=torch.bfloat16,  # Use bfloat16 as specified
-                    device_map="auto" #,  # Automatically map model to available devices (e.g., GPU/CPU)
+                    device_map="auto",  # Automatically map model to available devices (e.g., GPU/CPU)
                     # device_map="balanced"
                     # device_map="balanced_low_0" # ensures the model is evenly split across both A100 GPUs, preventing one GPU from being overloaded.
                     offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
@@ -1770,6 +1770,24 @@ class QADatasetGenerator:
 
     #     if self.debugging:
     #         print(f"[DEBUG] QA dataset CSV updated at {csv_path}", flush=True)
+
+    def clear_qa_pairs(self):
+        """
+        Clears all stored QA pairs to prevent redundant saving.
+        """
+        if self.debugging:
+            print("[DEBUG] Clearing stored QA pairs...", flush=True)
+
+        self.short_QA_pairs.clear()
+        self.TF_QA_pairs.clear()
+        self.list_QA_pairs.clear()
+        self.MC_QA_pairs.clear()
+        self.multi_hop_QA_pairs.clear()
+        self.multi_hop_inverse_QA_pairs.clear()
+        self.short_inverse_QA_pairs.clear()
+
+        if self.debugging:
+            print("[DEBUG] All QA pairs cleared.", flush=True)
 
     def save_qa_pairs(self, isbn):
         """
