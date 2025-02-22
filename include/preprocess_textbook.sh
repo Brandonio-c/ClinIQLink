@@ -25,8 +25,9 @@ cd /data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink
 # Define directories
 BASEDIR="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink"
 SCRIPT_DIR="$BASEDIR/include"
-DATA_DIR="$BASEDIR/data"
-OUTPUT_DIR="$BASEDIR/preprocessed_dataset"
+# DATA_DIR="$BASEDIR/data"
+DATA_DIR="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink/data/pharmacology"
+OUTPUT_DIR="$BASEDIR/preprocessed_dataset/pharmacology"
 
 # Ensure the output directory exists
 # mkdir -p "$OUTPUT_DIR"

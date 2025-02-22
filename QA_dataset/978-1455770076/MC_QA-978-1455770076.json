@@ -1,0 +1,34 @@
+[
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "80 to 85%",
+            "B": "5 to 10%",
+            "C": "15 to 18%",
+            "D": "25%"
+        },
+        "question": "What percentage of people experiencing decompression sickness exhibit symptoms related to the nervous system?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 596,
+            "paragraph_id": "978-1455770076-p596-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "More than 50%",
+            "B": "Less than 90%",
+            "C": "More than 95% but less than 98%",
+            "D": "More than 99%"
+        },
+        "question": "What percentage of all sensory information is discarded by the brain as irrelevant and unimportant?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 602,
+            "paragraph_id": "978-1455770076-p602-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

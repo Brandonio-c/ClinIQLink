@@ -1,0 +1,1218 @@
+[
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Anxiety and frustration",
+            "B": "Indignation and satisfaction",
+            "C": "Pride and disappointment",
+            "D": "Mixture of indignation and pride"
+        },
+        "question": "What emotions did the authors express while reading their second preface?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 17,
+            "paragraph_id": "978-0198795551-p17-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "20%",
+            "B": "30%",
+            "C": "50-80%",
+            "D": "90%"
+        },
+        "question": "What percentage of monozygotic twins exhibit obsessive-compulsive behavior if one of them has this condition?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 455,
+            "paragraph_id": "978-0198795551-p455-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Late teens to early twenties",
+            "B": "Mid-twenties",
+            "C": "Early thirties",
+            "D": "Around 40 years old"
+        },
+        "question": "At approximately what age range do symptoms typically begin interfering with everyday functioning?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 460,
+            "paragraph_id": "978-0198795551-p460-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "At least two out of restlessness, easy fatiguability, concentration difficulties, irritability, muscle tension, sleep disturbance",
+            "B": "Exactly four out of restlessness, easy fatiguability, concentration difficulties, irritability, muscle tension, sleep disturbance",
+            "C": "At least three out of restlessness, easy fatiguability, concentration difficulties, irritability, muscle tension, sleep disturbance",
+            "D": "Only one symptom among restlessness, easy fatiguability, concentration difficulties, irritability, muscle tension, sleep disturbance"
+        },
+        "question": "What symptoms do DSM-5 criteria specify individuals with Generalized Anxiety Disorder typically exhibit?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 450,
+            "paragraph_id": "978-0198795551-p450-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mild depression",
+            "B": "Moderate depression",
+            "C": "Moderately severe depression",
+            "D": "Psychotic depression"
+        },
+        "question": "What condition requires clear separation of antidepressant medication benefit from placebo according to the Hamilton Depression Rating Scale?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 76,
+            "paragraph_id": "978-0198795551-p76-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Default Mode Network Activity Reduction",
+            "B": "Enhanced Neural Plasticity Related To Improved Cognitive Performance",
+            "C": "ognitive Performance\nC: Increased Volume Of Amygdalar Tissue Over Time",
+            "D": "efault Mode Network Activity Reduction\nB: Enhanced Neural Plasticity Related To Improved Cognitive Performance\nC: Increased Volume Of Amygdalar Tissue Over Time\nD: Reduced Sensitivity In Areas Involved In Reward Responses"
+        },
+        "question": "What aspect of neurobiological functioning does Cognitive-Behavioral Therapy (CBT) enhance according to recent studies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 73,
+            "paragraph_id": "978-0198795551-p73-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mood dysregulation disorder and anxiety disorder",
+            "B": "Bipolar disorder and depression",
+            "C": "Hoarding disorder and mood dysregulation disorder",
+            "D": "Substance use disorder and personality disorder"
+        },
+        "question": "What are examples of new categories included in the DSM-5?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 70,
+            "paragraph_id": "978-0198795551-p70-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Brain Imaging Techniques Such As MRI And SPECT Scans",
+            "B": "rain Imaging Techniques Such As MRI And SPECT Scans\nB: Physical Examination Combined With Routine Blood Tests",
+            "C": "T Scans\nB: Physical Examination Combined With Routine Blood Tests\nC: Symptom Clusters Without Relying On Investigations Like EEG Or CT Scans",
+            "D": "Electroencephalographs Alone For Every Patient"
+        },
+        "question": "What primary method do psychiatrists typically use to make diagnoses and decide treatments?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 72,
+            "paragraph_id": "978-0198795551-p72-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "DSM-5",
+            "B": "ICD-8-CM",
+            "C": "D-8-CM \nC: ICD-10-CM",
+            "D": "SM-5 \nB: ICD-8-CM \nC: ICD-10-CM \nD: ICD-7-CM"
+        },
+        "question": "What classification system is officially used in the United States for insurance purposes as of October 2014?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 71,
+            "paragraph_id": "978-0198795551-p71-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Through tissue examination and post-mortem analysis",
+            "B": "Based on interviews and clinical observations",
+            "C": "Using the medico-pathological model exclusively",
+            "D": "Primarily through demonstrable physical pathology"
+        },
+        "question": "How were most mental diagnoses made historically?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 59,
+            "paragraph_id": "978-0198795551-p59-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "More than 4 weeks",
+            "B": "At least 6 months",
+            "C": "Less than 2 years",
+            "D": "Over a year"
+        },
+        "question": "What symptom duration defines Prolonged Grief Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 466,
+            "paragraph_id": "978-0198795551-p466-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Previous traumatic events, lower social class, female gender",
+            "B": "High IQ, higher social class, male gender, presence of psychotic traits",
+            "C": "Lower IQ, younger age, non-Caucasian ethnicity, absence of psychopathic traits",
+            "D": "History of mood disorders, previous adverse childhood experiences, older age"
+        },
+        "question": "What are some protective factors identified for individuals experiencing traumatic events?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 474,
+            "paragraph_id": "978-0198795551-p474-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Around 5%",
+            "B": "Approximately 10%",
+            "C": "Estimated at 50%",
+            "D": "About 15-20%"
+        },
+        "question": "What percentage of individuals experience this condition after being exposed to exceptional stress?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 463,
+            "paragraph_id": "978-0198795551-p463-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They must predict outcomes based on spiritual beliefs",
+            "B": "They must adhere to established cultural norms",
+            "C": "They should, at least in principle, be falsifiable",
+            "D": "They need to align with traditional practices and customs"
+        },
+        "question": "What characteristic distinguishes scientific hypotheses according to Carl Sagan?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 84,
+            "paragraph_id": "978-0198795551-p84-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They serve to discredit modern medicine",
+            "B": "They provide cohesion amongst members",
+            "C": "They promote skepticism among scientists",
+            "D": "They advocate for pseudoscientific practices"
+        },
+        "question": "What role do cultural stories about the origin of disease play according to the given text?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 83,
+            "paragraph_id": "978-0198795551-p83-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "1988",
+            "B": "1995",
+            "C": "1998",
+            "D": "1999"
+        },
+        "question": "What year did the Royal College of Psychiatrists introduce a Critical Appraisal paper to the MRCPsych examination?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 92,
+            "paragraph_id": "978-0198795551-p92-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Up to 5%",
+            "B": "Ten to twenty percent",
+            "C": "More than thirty percent",
+            "D": "Less than five percent"
+        },
+        "question": "What percentage of cases of mild intellectual disability might be attributed to maternal alcohol use?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 887,
+            "paragraph_id": "978-0198795551-p887-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Roughly 5%",
+            "C": "About 0.01%",
+            "D": "Around 1%"
+        },
+        "question": "What percentage of patients who have engaged in self-harm are expected to die by completed suicide within 24 months after the initial act?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 920,
+            "paragraph_id": "978-0198795551-p920-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Experience in treating patients with physical disorders",
+            "B": "Knowledge of psychology literature",
+            "C": "Greater knowledge of applicable law",
+            "D": "Expertise in performing surgeries"
+        },
+        "question": "What do liaison psychiatrists usually possess more of compared to others, according to the given information?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 932,
+            "paragraph_id": "978-0198795551-p932-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "May 2020",
+            "B": "January 2019",
+            "C": "May 2016",
+            "D": "August 2018"
+        },
+        "question": "What was the month and year when the MCKS guidelines were last updated according to the given source?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 908,
+            "paragraph_id": "978-0198795551-p908-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Patients experience improved social integration.",
+            "B": "Carers' death leads to increased independence for patients.",
+            "C": "arers' death leads to increased independence for patients.\nC: Social isolation decreases among patients.",
+            "D": "Patients face bereavement, loss of home, and adjustment to new caregivers."
+        },
+        "question": "What might occur when aging carers can no longer provide care for patients with intellectual disabilities?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 904,
+            "paragraph_id": "978-0198795551-p904-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Liaison psychiatrists primarily work in emergency departments and provide direct consultations.",
+            "B": "Their interactions involve providing outpatient care exclusively, along with some educational activities.",
+            "C": "These professionals engage in diverse roles, including direct consultation on general wards, working closely with specialist units, assessing patients in emergency settings, handling outpatients, participating in education, and conducting research.",
+            "D": "They focus mainly on substance misuse, eating disorders, and personality disorders across the entire hospital population."
+        },
+        "question": "What forms of interaction may occur between liaison psychiatrists and various departments or areas within a hospital setting?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 911,
+            "paragraph_id": "978-0198795551-p911-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Continuous impairment in social, language, and motor skills from infancy.",
+            "B": "Normal development for approximately 2-3 years before losing acquired skills.",
+            "C": "ontinuous impairment in social, language, and motor skills from infancy.\nB: Normal development for approximately 2-3 years before losing acquired skills.\nC: Late onset of symptoms typically appearing during adolescence.",
+            "D": "Gradual improvement in social interactions and cognitive functions over childhood."
+        },
+        "question": "What characterizes the initial period of development in children who eventually diagnose with Childhood Disintegrative Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 890,
+            "paragraph_id": "978-0198795551-p890-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only gather opinions from relatives and carers about the patient's wishes.",
+            "B": "Conduct a comprehensive psychiatric evaluation focusing on cognitive functions, reasoning, and judgment.",
+            "C": "onduct a comprehensive psychiatric evaluation focusing on cognitive functions, reasoning, and judgment.\nC: Automatically consider the patient lacking in capacity until proven otherwise.",
+            "D": "Ignore previous discussions or directives related to treatment outcomes."
+        },
+        "question": "What typically happens during the initial phase of evaluating a patient's capacity for making decisions regarding their health?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 934,
+            "paragraph_id": "978-0198795551-p934-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 50%",
+            "B": "Up to 60%",
+            "C": "Up to 70%",
+            "D": "Up to 80%"
+        },
+        "question": "What percentage of patients with Intellectual Disability (ID) can achieve good control of their epilepsy without major side effects?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 895,
+            "paragraph_id": "978-0198795551-p895-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Sodium valproate and phenobarbital",
+            "B": "Lamotrigine and topiramate",
+            "C": "Carbamazepine and gabapentin",
+            "D": "Sodium valproate and lamotrigine"
+        },
+        "question": "What two medications are commonly used to treat generalized seizures?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 894,
+            "paragraph_id": "978-0198795551-p894-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Reduces adherence due to potential side effects of antidepressants",
+            "B": "Improves adherence to treatments aimed at managing the underlying physical condition",
+            "C": "Does not significantly impact adherence since physical conditions and mental health are unrelated",
+            "D": "oes not significantly impact adherence since physical conditions and mental health are unrelated\nD: Has no direct correlation because improved mood might distract from physical needs"
+        },
+        "question": "What effect does effective treatment of depression have on adherence to treatments aimed at managing an underlying physical condition?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 927,
+            "paragraph_id": "978-0198795551-p927-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only systemic diseases and medication-related conditions",
+            "B": "Neurological conditions including stroke, epilepsy, and dementia",
+            "C": "Solely infectious diseases affecting the nervous system",
+            "D": "Exclusively endocrine and metabolic disorders"
+        },
+        "question": "What types of conditions are included among the neurological causes of depressive symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 915,
+            "paragraph_id": "978-0198795551-p915-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Increased heart size and normal systolic function",
+            "B": "Decreased heart size, increased left ventricular mass, and significant mitral regurgitation",
+            "C": "Normal heart size, unchanged left ventricular mass, and no issues with the mitral valve",
+            "D": "ecreased heart size, increased left ventricular mass, and significant mitral regurgitation\nC: Normal heart size, unchanged left ventricular mass, and no issues with the mitral valve\nD: Decreased heart size, decreased left ventricular mass, and mitral valve prolapse"
+        },
+        "question": "What is often revealed by echocardiograms regarding heart condition in individuals suffering from certain nutritional deficiencies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 486,
+            "paragraph_id": "978-0198795551-p486-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10-20%",
+            "B": "30-40%",
+            "C": "30-50%",
+            "D": "60-70%"
+        },
+        "question": "What percentage of individuals with bulimia nervosa often have a past history of anorexia nervosa?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 490,
+            "paragraph_id": "978-0198795551-p490-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "18\u201320",
+            "B": "15\u201317.5",
+            "C": "Less than 13",
+            "D": "14\u201316"
+        },
+        "question": "What BMI range is considered to represent a high risk for individuals with anorexia nervosa?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 488,
+            "paragraph_id": "978-0198795551-p488-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They experienced no adverse health effects whatsoever.",
+            "B": "Their lifespan significantly increased compared to those experiencing total sleep deprivation.",
+            "C": "They survived slightly longer than rats undergoing total sleep deprivation before dying.",
+            "D": "They were completely protected from the development of skin lesions and erosion of the GI tract."
+        },
+        "question": "What was observed in rats subjected to selective deprivation of both NREM and REM sleep?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 501,
+            "paragraph_id": "978-0198795551-p501-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "An excessive focus on physical appearance unrelated to disability",
+            "B": "Intense and persistent desires to undergo minor cosmetic surgeries",
+            "C": "Persistent discomfort due to an intense and persistent desire to become physically disabled",
+            "D": "Temporary dissatisfaction with body shape following illness recovery"
+        },
+        "question": "What characterizes X Body Integrity Dysphoria (BID)?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 947,
+            "paragraph_id": "978-0198795551-p947-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Daily, for several hours each session",
+            "B": "Once a month, for a full day",
+            "C": "1\u20135 sessions per week, potentially spanning several years",
+            "D": "aily, for several hours each session\nB: Once a month, for a full day\nC: 1\u20135 sessions per week, potentially spanning several years\nD: Every two weeks, limited to six months"
+        },
+        "question": "How often do psychoanalysis sessions generally take place?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 983,
+            "paragraph_id": "978-0198795551-p983-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Tongue biting and incontinence frequently happen afterwards",
+            "B": "Post-ictal confusion or significant prolactin elevation follows",
+            "C": "No injury is sustained upon falling, and the individual recovers quickly without notable complications",
+            "D": "Severe memory loss of past life events develops"
+        },
+        "question": "What typically occurs after experiencing non-epileptic seizure episodes?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 949,
+            "paragraph_id": "978-0198795551-p949-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Psychogenic Disorders",
+            "B": "Somatic Symptom Disorder",
+            "C": "Dissociation",
+            "D": "isorders \nB: Somatic Symptom Disorder\nC: Dissociation\nD: Neurological Deficits"
+        },
+        "question": "What term is currently used in place of 'conversion' in referring to disturbances in consciousness according to the DSM-5?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 948,
+            "paragraph_id": "978-0198795551-p948-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Discovery of effective antipsychotic and antidepressant drugs",
+            "B": "Insights into mental mechanisms provided by psychoanalysis",
+            "C": "Hope that deficits experienced by those suffering from mental disorder were related to institutional living rather than being intrinsic to the disorder",
+            "D": "iscovery of effective antipsychotic and antidepressant drugs \nB: Insights into mental mechanisms provided by psychoanalysis \nC: Hope that deficits experienced by those suffering from mental disorder were related to institutional living rather than being intrinsic to the disorder\nD: Genome-wide association studies"
+        },
+        "question": "What drove the move to community care following Enoch Powell's 'Water Tower Speech' in 1961?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 103,
+            "paragraph_id": "978-0198795551-p103-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They never occur in other psychiatric conditions.",
+            "B": "They provide an absolute measure of the severity of schizophrenia.",
+            "C": "They occur reasonably often in schizophrenia and less frequently in other disorders, making them easier to identify.",
+            "D": "Their presence definitively confirms a diagnosis of schizophrenia regardless of other factors."
+        },
+        "question": "What characterizes the diagnostic usefulness of the first-rank symptoms of schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 139,
+            "paragraph_id": "978-0198795551-p139-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Detailed description of current symptoms, positive features on Mental Status Examination, and suicide risk assessment",
+            "B": "Brief synopsis of the case, comments on aetiology, and management plans",
+            "C": "List of possible diagnoses including at least two or three main considerations along with less likely possibilities",
+            "D": "etailed description of current symptoms, positive features on Mental Status Examination, and suicide risk assessment\nB: Brief synopsis of the case, comments on aetiology, and management plans\nC: List of possible diagnoses including at least two or three main considerations along with less likely possibilities\nD: Personal background information, previous medical conditions, and employment status"
+        },
+        "question": "What components should typically be included in the differential diagnosis section during the presentation of clinical interview results?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 120,
+            "paragraph_id": "978-0198795551-p120-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "1900",
+            "B": "Not specified",
+            "C": "1850",
+            "D": "1800"
+        },
+        "question": "What was the year Thomas Babington Macaulay made his statement about generations enjoying the use of a vast hoard bequeathed to them by antiquity?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 105,
+            "paragraph_id": "978-0198795551-p105-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Rate",
+            "B": "Tone",
+            "C": "Pitch",
+            "D": "Resonance"
+        },
+        "question": "In assessing an individual's mental health status, what aspect of speech is evaluated alongside volume and productivity?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 117,
+            "paragraph_id": "978-0198795551-p117-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mood",
+            "B": "Appearance",
+            "C": "Behaviour",
+            "D": "Thought Process"
+        },
+        "question": "What aspect of the Mental State Examination includes observing whether a person's behavior is appropriate?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 118,
+            "paragraph_id": "978-0198795551-p118-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Being subjectively experienced as internal",
+            "B": "eing subjectively experienced as internal \nB: Lacking publicness and being under conscious control",
+            "C": "Perceived as being in external space, distinct from imagined images, outside conscious control, and having relative permanence",
+            "D": "Occurring exclusively during states of heightened emotional arousal"
+        },
+        "question": "What characterizes a true hallucination according to Esquirol's definition?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 133,
+            "paragraph_id": "978-0198795551-p133-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It involves hearing voices discussing the patient between themselves.",
+            "B": "It arises after experiencing a normal perception and is a primary delusion.",
+            "C": "It requires the presence of both visual and auditory hallucinations.",
+            "D": "It is characterized by the absence of internal monologues."
+        },
+        "question": "What distinguishes a delusional perception from other types of perceptions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 140,
+            "paragraph_id": "978-0198795551-p140-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Conscious awareness increases significantly compared to being awake.",
+            "B": "There is complete disappearance of conscious awareness.",
+            "C": "onscious awareness increases significantly compared to being awake.\nB: There is complete disappearance of conscious awareness.\nC: Most conscious awareness of the external environment remains intact.",
+            "D": "Loss of some muscle tone occurs along with a reduction in conscious awareness."
+        },
+        "question": "What happens to conscious awareness of the external environment during Stage N1?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 505,
+            "paragraph_id": "978-0198795551-p505-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Younger females",
+            "B": "No particular gender or age group shows significant predominance",
+            "C": "Older males",
+            "D": "Children"
+        },
+        "question": "What demographic group is REM sleep behavior disorder more commonly found in?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 541,
+            "paragraph_id": "978-0198795551-p541-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Hypothyroidism, glaucoma, kidney stones",
+            "B": "Hypertension, coronary artery disease, type 2 diabetes mellitus",
+            "C": "Epilepsy, Parkinson's disease, osteoporosis",
+            "D": "Chronic hepatitis, rheumatoid arthritis, lupus erythematosus"
+        },
+        "question": "What are some common health issues associated with sleep-related breathing disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 516,
+            "paragraph_id": "978-0198795551-p516-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Polysomnography (PSG)",
+            "B": "Multiple Sleep Latency Test (MSLT)",
+            "C": "Actigraph",
+            "D": "Circadian Rhythm Monitoring"
+        },
+        "question": "What method involves collecting data on physical activity and movement over extended periods?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 509,
+            "paragraph_id": "978-0198795551-p509-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "40\u201350%",
+            "D": "60%"
+        },
+        "question": "What percentage of normal individuals report experiencing recurrent isolated sleep paralysis at least once in their lifetime?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 542,
+            "paragraph_id": "978-0198795551-p542-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Through active engagement with the patient's emotions",
+            "B": "By employing a technique akin to 'evenly suspended attention', termed 'r\u00eaverie'",
+            "C": "Via direct confrontation of the patient's defenses",
+            "D": "Using open-ended questions to challenge the patient's perceptions"
+        },
+        "question": "What method do psychoanalysts adopt to monitor countertransference while maintaining an unbiased stance during sessions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 984,
+            "paragraph_id": "978-0198795551-p984-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Over-generalization",
+            "B": "Magnification/minimization",
+            "C": "Arbitrary inference",
+            "D": "Disqualifying the positive"
+        },
+        "question": "What cognitive distortion involves emphasizing negatives while downplaying positives?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 999,
+            "paragraph_id": "978-0198795551-p999-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Self-help groups organized around a specific problem",
+            "B": "Activity groups focused on fostering social skills and adaptive behaviors",
+            "C": "Group therapies centered on interpersonal dynamics and transfer techniques",
+            "D": "Support groups led exclusively by professional therapists"
+        },
+        "question": "What kind of groups are generally considered most beneficial for individuals dealing with severe and persistent mental illnesses?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 992,
+            "paragraph_id": "978-0198795551-p992-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Autoscopy",
+            "B": "Autotopagnosia",
+            "C": "Automatic Obedience",
+            "D": "Autochthonous Delusion"
+        },
+        "question": "What term describes the experience of seeing a visual hallucination or pseudo-hallucination of oneself?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 167,
+            "paragraph_id": "978-0198795551-p167-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Glossolalia",
+            "B": "Neologism",
+            "C": "Perseveration",
+            "D": "Verbal perseveration"
+        },
+        "question": "What term refers to speaking in non-speech sounds as a substitute for speech?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 180,
+            "paragraph_id": "978-0198795551-p180-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only herbal products and prescribed medications",
+            "B": "Illicit drugs, herbal products, and both prescribed and abused alcohol consumption",
+            "C": "Just caffeinated beverages and certain foods",
+            "D": "Only over-the-counter pain relievers"
+        },
+        "question": "What types of substances might influence sleep-related behavior according to the given management strategies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 549,
+            "paragraph_id": "978-0198795551-p549-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "More than 60%",
+            "B": "Less than 70%",
+            "C": "Over 80%",
+            "D": "Approximately 40%"
+        },
+        "question": "What percentage of patients with idiopathic Rapid Eye Movement Sleep Behaviour Disorder develop Parkinsonism/dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 543,
+            "paragraph_id": "978-0198795551-p543-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Sleep-related rhythmic movement disorder",
+            "B": "Benign sleep myoclonus of infancy",
+            "C": "Periodic limb movement disorder",
+            "D": "Sleep-related bruxism"
+        },
+        "question": "What condition involves clenching and grinding of the teeth during sleep?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 555,
+            "paragraph_id": "978-0198795551-p555-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mental Health Act 1983",
+            "B": "Mental Capacity Act 2005",
+            "C": "apacity Act 2005\nC: Mental Health Act 2007",
+            "D": "Care and Treatment Act"
+        },
+        "question": "What piece of legislation amends several key aspects of England and Wales' regulation regarding individuals with mental disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1022,
+            "paragraph_id": "978-0198795551-p1022-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Individual therapy where patients learn mindfulness techniques.",
+            "B": "Telephone contact to provide immediate skill application guidance.",
+            "C": "Group skills training focused on interpersonal effectiveness.",
+            "D": "Therapist consultation groups aimed at mutual support among therapists."
+        },
+        "question": "What component of dialectical behavior therapy allows therapists to support each other in preventing burnout?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1006,
+            "paragraph_id": "978-0198795551-p1006-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Themes such as emotional regulation, exposure, and reinforcement",
+            "B": "Techniques including situation analysis, interpersonal discrimination exercises, and consequence evaluation",
+            "C": "Focus areas encompassing cognition, emotion, and environment",
+            "D": "Themes such as metacognition, acceptance, mindfulness, dialectics, and compassion"
+        },
+        "question": "What characterizes third-wave therapies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1018,
+            "paragraph_id": "978-0198795551-p1018-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 50%",
+            "B": "Up to 25%",
+            "C": "Up to 60%",
+            "D": "Up to 75%"
+        },
+        "question": "What percentage of women with regular menstrual cycles typically experience characteristic physical signs and symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 569,
+            "paragraph_id": "978-0198795551-p569-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Decrease in total sleep time and reduction in REM sleep",
+            "B": "Increase in sleep fragmentation without significant change in total sleep time",
+            "C": "Increase in total sleep time (TST) and REM rebound",
+            "D": "ecrease in total sleep time and reduction in REM sleep\nB: Increase in sleep fragmentation without significant change in total sleep time\nC: Increase in total sleep time (TST) and REM rebound\nD: Immediate normalization of sleep patterns without any rebound effects"
+        },
+        "question": "What happens upon cessation of most psychostimulant drugs, excluding modafinil?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 565,
+            "paragraph_id": "978-0198795551-p565-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "40%",
+            "B": "50%",
+            "C": "30%",
+            "D": "60%"
+        },
+        "question": "What percentage of women experiencing Hyperemesis gravidarum also experience transient hypothyroidism?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 576,
+            "paragraph_id": "978-0198795551-p576-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Neurological investigation in psychiatry",
+            "B": "Psychiatric aspects of epilepsy 2",
+            "C": "Movement disorders in psychiatry",
+            "D": "Alzheimer's disease 1"
+        },
+        "question": "What topic follows immediately after \"Psychiatric aspects of epilepsy 1\" in Chapter 4?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 192,
+            "paragraph_id": "978-0198795551-p192-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Wilhelm Griesinger",
+            "B": "Henry Maudsley",
+            "C": "Karl Wernicke",
+            "D": "\u00c9tienne-Jean George"
+        },
+        "question": "Who is often referred to as the 'founding father of neuropsychiatry', perhaps more accurately described as the first 'biological psychiatrist'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 193,
+            "paragraph_id": "978-0198795551-p193-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Using a 'wiggling finger'",
+            "B": "Asking about the sense of smell",
+            "C": "Testing pupillary reactions to sound",
+            "D": "Observing eye movements"
+        },
+        "question": "What method is used to assess visual fields during an assessment of cranial nerve II?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 200,
+            "paragraph_id": "978-0198795551-p200-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pyramidal weakness, brisk reflexes, and shuffling gait",
+            "B": "Memory impairment along with combinations of aphasia, apraxia, agnosia, or executive dysfunction",
+            "C": "Papilloedema and drowsiness due to raised intracranial pressure",
+            "D": "Dysdiadochokinesia, cogwheel rigidity, and bradykinesia"
+        },
+        "question": "What physical symptoms might indicate Alzheimer's disease?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 201,
+            "paragraph_id": "978-0198795551-p201-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "When patients require low-key support from fewer than two agencies or disciplines.",
+            "B": "When patients have complex needs involving coordination among different healthcare professionals.",
+            "C": "When patients do not present any risk to themselves or others and manage their condition independently.",
+            "D": "When patients' primary requirement is short-term medical treatment rather than ongoing care."
+        },
+        "question": "What are some conditions under which Enhanced Care Programme Approach might be considered suitable?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1038,
+            "paragraph_id": "978-0198795551-p1038-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Local Authority",
+            "B": "The Mental Welfare Commission for Scotland (MWC)",
+            "C": "ommission for Scotland (MWC)\nC: The Office of the Public Guardian",
+            "D": "The Sheriff Court"
+        },
+        "question": "What body is responsible for guiding and supervising the actions of those appointed to make welfare decisions on behalf of an incapable adult?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1032,
+            "paragraph_id": "978-0198795551-p1032-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "35%",
+            "D": "40%"
+        },
+        "question": "What percentage of young adult females experience failure to have orgasm?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 583,
+            "paragraph_id": "978-0198795551-p583-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Antidepressants",
+            "B": "Sensate Focus Exercises",
+            "C": "Hormone Replacement Therapy",
+            "D": "Surgical Removal of Pelvic Floor Muscles"
+        },
+        "question": "What method might help manage non-organic vaginismus?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 587,
+            "paragraph_id": "978-0198795551-p587-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Excessive sexual desire",
+            "B": "Loss of sexual enjoyment",
+            "C": "Sexual aversion",
+            "D": "Nymphomania"
+        },
+        "question": "What term refers to strong negative feelings, fear, or anxiety towards sexual interaction leading to avoidance?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 584,
+            "paragraph_id": "978-0198795551-p584-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Transgender",
+            "B": "Gender Incongruence",
+            "C": "Homosexuality",
+            "D": "Bisexuality"
+        },
+        "question": "What term describes a condition where there's discomfort due to a mismatch between a person's gender identity and their biological sex?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 600,
+            "paragraph_id": "978-0198795551-p600-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Sudden onset of severe headaches followed by immediate loss of motor functions",
+            "B": "Progressive frontal dementia presenting with grandiosity, disinhibition, and tremors",
+            "C": "Immediate development of megalomania accompanied by total loss of cognitive function",
+            "D": "Acute psychosis characterized by complete detachment from reality"
+        },
+        "question": "What is characteristic of the neurological manifestation of Neurosyphilis?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 220,
+            "paragraph_id": "978-0198795551-p220-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Antiretroviral medications always improve mood and reduce anxiety in HIV+ individuals.",
+            "B": "Some antiretroviral medications, such as Efavirenz, Zidovudine, and Isoniazid, can cause various psychiatric symptoms including depression, anxiety, and even psychosis.",
+            "C": "Antiretroviral medications cannot affect the central nervous system.",
+            "D": "These medications exclusively lead to manic episodes regardless of dosage."
+        },
+        "question": "What potential effects do antiretroviral medications have on an individual's mental state?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 222,
+            "paragraph_id": "978-0198795551-p222-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Explaining that it's a condition caused by an identifiable organic pathology",
+            "B": "Confidently stating it's a positive diagnosis, not just excluding another explanation",
+            "C": "onfidently stating it's a positive diagnosis, not just excluding another explanation    \nC: Advising immediate initiation of pharmacological treatment",
+            "D": "Informing them that the disorder always leads to permanent disability"
+        },
+        "question": "What is typically considered when explaining a Functional Neurological Disorder (FND) diagnosis to a patient?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 208,
+            "paragraph_id": "978-0198795551-p208-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

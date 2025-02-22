@@ -1,0 +1,410 @@
+[
+    {
+        "answer": "Approximately 80% of healthy control women usually have *S. aureus* recoverable from the vagina.",
+        "false_answer": "Approximately 80% of healthy control women usually have *S. aureus* recoverable from the vagina.",
+        "incorrect_explanation": "According to the provided text, it's actually around 5\u201315%, not 80%, of healthy control women who have *S. aureus* recoverable from the vagina.",
+        "question": "What percentage of healthy control women typically have *S. aureus* recoverable from the vagina?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 510,
+            "paragraph_id": "978-0071441988-p510-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Endocrine-active xenobiotics are active at nanomolar concentrations.",
+        "false_answer": "Nanomolar concentrations",
+        "incorrect_explanation": "According to the given text, endocrine-active xenobiotics are actually active at picomolar (10^-12) concentrations, making the statement incorrect because it incorrectly identifies the concentration level at which these compounds are active.",
+        "question": "What concentration do endocrine-active xenobiotics typically act?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 532,
+            "paragraph_id": "978-0071441988-p532-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Generally, the amount of enzyme protein increases by several orders of magnitude within 48 hours in response to the presence of a substrate.",
+        "false_answer": "Within 48 hours.",
+        "incorrect_explanation": "According to the paragraph, the amount of enzyme protein may increase by several orders of magnitude within 12 or 24 hours, not specifically mentioning 48 hours as the general timeframe for significant increase.\n- **Correct Answer Should Be:** Between 12 to 24 hours.",
+        "question": "What time frame does it generally take for the amount of enzyme protein to increase significantly in response to the presence of a substance?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 542,
+            "paragraph_id": "978-0071441988-p542-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "1.5%",
+        "false_answer": "1.5%",
+        "incorrect_explanation": "The given answer incorrectly represents the percent blood alcohol concentration affecting postural equilibrium. According to the provided paragraph, a 0.015% blood alcohol concentration impacts postural equilibrium, showing how even low levels of certain substances can affect balance and posture.",
+        "question": "What percent blood alcohol concentration affects postural equilibrium?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 554,
+            "paragraph_id": "978-0071441988-p554-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Animal Welfare Act currently applies exclusively to rodents.",
+        "false_answer": "The Animal Welfare Act currently applies exclusively to rodents.",
+        "incorrect_explanation": "According to the text, the Animal Welfare Act actually applies only to mammals, exclusive of mice and rats, indicating that it covers larger laboratory animals but specifically excludes common lab rodents.",
+        "question": "What does the Animal Welfare Act primarily apply to?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 547,
+            "paragraph_id": "978-0071441988-p547-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Blood lead levels under 50 \u00b5g/dL were initially deemed harmless to children's health until further studies revealed adverse effects at much lower levels.",
+        "false_answer": "Blood lead levels under 50 \u00b5g/dL were initially deemed harmless to children's health until further studies revealed adverse effects at much lower levels.",
+        "incorrect_explanation": "According to the given text, blood lead levels *formerly* thought innocent were actually those *below 25 \u00b5g/dL*. Furthermore, the document indicates effects occurring at levels as low as below 15 \u00b5g/dL and possibly continuously impairing cognitive development even below 10 \u00b5g/dL, contradicting the notion that safety thresholds were ever set near 50 \u00b5g/dL.",
+        "question": "What level of blood lead in children was once considered safe before research indicated otherwise?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 557,
+            "paragraph_id": "978-0071441988-p557-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 9 out of 10 live births exhibit a recessive disorder.",
+        "false_answer": "Approximately 9 out of 10 live births exhibit a recessive disorder.",
+        "incorrect_explanation": "According to the paragraph discussing the application of the Hardy-Weinberg principle, if a recessive disorder (aa) occurs in 1 in 10,000 live-born individuals, then the frequency of carriers (Aa) in that population would approximately be 1 in 50. There's no indication that nearly all (9/10) live births would display a recessive disorder; instead, the discussion focuses on much lower frequencies, highlighting the rarity of expressing the disorder compared to carrying it.",
+        "question": "What approximate percentage of livebirths display a recessive disorder according to the Hardy-Weinberg principle?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 91,
+            "paragraph_id": "978-0071441988-p91-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ratio of total genotypic variance to the variance attributed to environmental factors.",
+        "false_answer": "The ratio of total genotypic variance to the variance attributed to environmental factors.",
+        "incorrect_explanation": "This statement inaccurately describes the formula h2 = VA / Vp, which actually calculates the proportion of variance in a population for a trait contributed by additive genes (VA) relative to the total phenotypic variance (Vp), not the ratio involving environmental variance.\n- **What the correct answer should be:** h2 measures the proportion of variance in a population for a trait attributable to additive genetic effects (VA) compared to the total phenotypic variance (Vp).",
+        "question": "What does the formula h2 = VA / VP measure in genetics?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 95,
+            "paragraph_id": "978-0071441988-p95-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Social determinants alone explain these variations.",
+        "false_answer": "Social determinants alone explain these variations.",
+        "incorrect_explanation": "According to the given information, the factors determining differences and changes in mortality levels are categorized as being \"biological or behavioral,\" indicating a broader range of influences beyond just social aspects. Therefore, stating that social determinants alone account for these variations overlooks the impact of biological factors.",
+        "question": "What factor determines the majority of differences and changes in mortality levels among various populations?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 70,
+            "paragraph_id": "978-0071441988-p70-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The MITA initiative started in 1990 under the oversight of CMS.",
+        "false_answer": "The MITA initiative began in 1990.",
+        "incorrect_explanation": "There is no mention of the start year being 1990 in the provided paragraph. Instead, the paragraph mentions \"In 2004,\" regarding the establishment of the Office of the National Coordinator for Health Information Technology (ONC) but does not specify when the MITA initiative started beyond mentioning it alongside activities happening after 2004.",
+        "question": "What year did the Centers for Medicare and Medicaid Services initiate the MITA initiative?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 79,
+            "paragraph_id": "978-0071441988-p79-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of the articles defined health problems primarily by university academics.",
+        "false_answer": "Approximately 50% of the articles defined health problems primarily by university academics.",
+        "incorrect_explanation": "This answer incorrectly states that approximately 50% of the articles defined health problems primarily by university academics. Actually, according to the paragraph, the majority of articles (more specifically implied rather than numerically) appeared to indicate that the health problems of interest were defined primarily by university academics, with only 20% clearly reporting that the health problem was defined by the community.\n- **Correct Answer Should Be:** A statement reflecting that the majority (without specifying exactly 50%, since the exact percentage isn't given) of articles indicated health problems were defined by university academics, contrasting with the low percentage where community definition was evident.",
+        "question": "According to Zimmerman's theoretical framework, what percent of articles reporting CBPR studies defined health problems primarily by university academics?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 86,
+            "paragraph_id": "978-0071441988-p86-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Laboratory Response Network became operational in 2000.",
+        "false_answer": "The Laboratory Response Network became operational in 2000.",
+        "incorrect_explanation": "According to the paragraph, the Laboratory Response Network (LRN) was operational since 1999, making the statement that it began operation in 2000 incorrect.",
+        "question": "What year did the Laboratory Response Network become operational?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 112,
+            "paragraph_id": "978-0071441988-p112-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The increase in tourism.",
+        "false_answer": "The increase in tourism.",
+        "incorrect_explanation": "According to the paragraph, the actual reason given for the rise in malaria cases in India from 50,000 in the 1950s to 65 million by 1976 was the development of resistance in mosquito vectors to DDT, not an increase in tourism which is not even mentioned in relation to malaria case increases.",
+        "question": "What was the primary factor attributed to the rise in malaria cases in India between the initial reduction in the 1950s and 1976?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 105,
+            "paragraph_id": "978-0071441988-p105-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Thomas Robert Malthus wrote his influential work, \"An Essay on the Principle of Population,\" which is often referred to simply as 'On Population,' in 1800.",
+        "false_answer": "The book \"On Population\" was written in 1800.",
+        "incorrect_explanation": "While Malthus indeed published significant works around population growth, the actual title he used for his famous treatises were variations of \"An Essay on the Principle of Population.\" Furthermore, according to historical records referenced within academic literature, the first edition of Malthus's major work, more accurately titled \"An Essay on the Principle of Population,\" appeared anonymously in 1798, not 1800. Thus, stating the book was specifically called \"On Population\" and attributing it to 1800 introduces inaccuracies regarding both the exact title and the publication year.",
+        "question": "What year was the book titled *On Population* written?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 73,
+            "paragraph_id": "978-0071441988-p73-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At least 3 liters.",
+        "false_answer": "The statement claims the average person needs to replace at least 3 liters of fluid per day in a hot climate.",
+        "incorrect_explanation": "According to the given information, in hot weather and in the absence of strenuous exercise, the average person must replace at least 1\u00bd liters of fluid per day, which makes the claim of needing 3 liters incorrect.",
+        "question": "What amount of fluid does the average person need to replace per day when adapting to a hot climate, assuming there's no strenuous exercise involved?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 119,
+            "paragraph_id": "978-0071441988-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "1965",
+        "false_answer": "1965",
+        "incorrect_explanation": "The publication year given is incorrect because according to the provided sources, the book \"On Aggression\" by Lorenz K was actually published in 1966, not 1965. Therefore, the correct answer should reflect this accurate publication year.",
+        "question": "What year was the book titled \"On Aggression\" published?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 566,
+            "paragraph_id": "978-0071441988-p566-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A Gaussian distribution.",
+        "false_answer": "A Gaussian distribution.",
+        "incorrect_explanation": "The paragraph actually mentions that the French mathematician Poisson developed a distribution for estimating rare events, which was first applied to the probability of Prussian army soldiers being injured from horse kicks, indicating that he developed what is now known as the Poisson distribution, not a Gaussian distribution.",
+        "question": "What mathematical tool did the French mathematician develop specifically for assessing the probability of horse kicks during battles?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 572,
+            "paragraph_id": "978-0071441988-p572-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Traditional risk assessments typically focus on variable exposure patterns and account for fluctuations in daily exposure.",
+        "false_answer": "Traditional risk assessments typically focus on variable exposure patterns and account for fluctuations in daily exposure.",
+        "incorrect_explanation": "The paragraph actually states that traditional risk assessments assume exposure occurs at a \"more or less constant daily level over a period of years or even a 50- or 70-year lifetime,\" indicating a consistent rather than variable pattern.\n- **Correct Answer Should Be:** Traditional risk assessments typically assume that exposure happens at a relatively constant rate over a long period.",
+        "question": "What is typically assumed about exposure levels in traditional risk assessments?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 578,
+            "paragraph_id": "978-0071441988-p578-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Australia",
+        "false_answer": "Australia",
+        "incorrect_explanation": "According to the paragraph, chrysotile, or white asbestos, is mined mainly in Canada's Quebec province and in the Ural Mountains of the former Soviet Union, making Australia an incorrect answer.",
+        "question": "What country primarily mines chrysotile, or white asbestos?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 594,
+            "paragraph_id": "978-0071441988-p594-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Administering one dose of varicella vaccine within five days of exposure prevents varicella in nearly everyone.",
+        "false_answer": "Nearly 100% prevention of varicella.",
+        "incorrect_explanation": "According to the paragraph, administering one dose of varicella vaccine within five days of exposure is approximately 70% effective in preventing disease, not nearly 100%.",
+        "question": "What is the approximate effectiveness of administering one dose of varicella vaccine within five days of exposure to prevent varicella?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 158,
+            "paragraph_id": "978-0071441988-p158-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 29% of deaths were due to lung cancer.",
+        "false_answer": "Approximately 29% of deaths were due to lung cancer.",
+        "incorrect_explanation": "According to the given paragraph, the actual percentage of deaths due to lung cancer in British workers certified as having asbestosis in 1980 was 39%. Therefore, stating approximately 29% is both numerically inaccurate and underestimates the impact of lung cancer in this demographic.",
+        "question": "What proportion of deaths in British workers certified as having asbestosis in 1980 was due to lung cancer?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 602,
+            "paragraph_id": "978-0071441988-p602-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Using personal protective equipment like masks is the main approach for controlling respirable coal mine dust.",
+        "false_answer": "Using personal protective equipment like masks is the main approach for controlling respirable coal mine dust.",
+        "incorrect_explanation": "According to the paragraph, the primary methods for controlling respirable coal mine dust involve proper ventilation, use of water spray dust suppression, and enclosure of mining operations. There's no mention of relying primarily on personal protective equipment like masks as the main strategy for dust control.",
+        "question": "What is the primary method recommended for controlling respirable coal mine dust according to the given information?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 613,
+            "paragraph_id": "978-0071441988-p613-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Silicotic nodules primarily consist of non-hyalinized collagen layers and predominantly affect the basal regions of the lungs.",
+        "false_answer": "Silicotic nodules primarily consist of non-hyalinized collagen layers and predominantly affect the basal regions of the lungs.",
+        "incorrect_explanation": "The explanation given in the paragraph indicates that silicotic nodules indeed undergo hyalinization of the collagen over time, progressing from the center to the periphery of the nodule, contradicting the claim of them being non-hyalinized. Additionally, these nodules are described as being more frequent in the apical and posterior parts of the lung rather than the basal region.\n- **Correct Answer Should Be:** Silicotic nodules consist of concentric layers of collagen that undergo hyalinization over time and are typically found in higher frequencies in the apical and posterior parts of the lungs.",
+        "question": "What is typically observed regarding silicotic nodules' composition and distribution in the lungs?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 620,
+            "paragraph_id": "978-0071441988-p620-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Stainless steel usually contains between 6% and 16% chromium.",
+        "false_answer": "Stainless steel contains between 6% and 16% chromium.",
+        "incorrect_explanation": "According to the given text, stainless steel actually contains between 8% and 18% chromium, making the statement inaccurate.",
+        "question": "What percentage range does stainless steel typically contain regarding chromium?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 634,
+            "paragraph_id": "978-0071441988-p634-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75,000 hospitalizations.",
+        "false_answer": "Approximately 75,000 hospitalizations.",
+        "incorrect_explanation": "According to the paragraph, hospitalizations for acute PID actually remained relatively constant at approximately 70,000 cases per year since 1995, making the statement inaccurate regarding both the exact number and any implication of fluctuation around the specified time frame. Therefore, the correct answer should reflect that there were roughly 70,000 hospitalizations per year since 1995.",
+        "question": "What percent of hospitalizations for acute PID occurred per year starting from 1995?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 185,
+            "paragraph_id": "978-0071441988-p185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Clinical resistance to penicillin was first reported in 1955.",
+        "false_answer": "1955",
+        "incorrect_explanation": "According to the paragraph, clinical resistance to penicillin was actually first noted in vitro and in vivo as early as 1943, but clinically significant resistance was not reported again until 1965. Therefore, the statement claiming 1955 as the year of the first report of clinical resistance to penicillin is inaccurate.",
+        "question": "What year saw the first report of clinical resistance to penicillin?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 165,
+            "paragraph_id": "978-0071441988-p165-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "1987",
+        "false_answer": "1987",
+        "incorrect_explanation": "The publication year given in the resources list as item number 23 indicates that the third edition of the book *Sexually Transmitted Diseases* edited by Holmes KK, Sparling PF, Mardh P, et al. was actually published in 1997, not 1987.\n- **Correct Answer Should Be:** 1997",
+        "question": "What was the year when the book titled *Sexually Transmitted Diseases* edited by Holmes KK, Sparling PF, Mardh P, et al. was published?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 198,
+            "paragraph_id": "978-0071441988-p198-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to data available up until now, the CDC first noted this trend starting around 1995.",
+        "false_answer": "1995 was when the CDC first noted the decline in the annual incidence of varicella.",
+        "incorrect_explanation": "The actual years referenced in relation to the reporting of declines in varicella incidence were between 1990 and 2001 according to the sources cited within the given texts.\n- **Correct Answer Should Be:** Between 1990 and 2001.",
+        "question": "What year did the Centers for Disease Control and Prevention (CDC) report a decline in the annual incidence of varicella?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 175,
+            "paragraph_id": "978-0071441988-p175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Client-centered counseling recommendations began gaining prominence around 1985.",
+        "false_answer": "Client-centered counseling recommendations began gaining prominence around 1985.",
+        "incorrect_explanation": "According to the provided paragraph, since 1993, the CDC has recommended client-centered counseling for HIV/STI prevention. There's no mention of 1985 being associated with the start of such recommendations.",
+        "question": "What year marked the beginning of significant efforts towards recommending client-centered counseling for HIV/STI prevention?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 189,
+            "paragraph_id": "978-0071441988-p189-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These were identified in 1990.",
+        "false_answer": "The identification of these strains happened in 1990.",
+        "incorrect_explanation": "According to the provided sources, specifically reference number 9, the observation actually took place in 1995, not 1990. \n- **Correct Answer Should Be:** Therefore, the correct year for this discovery is 1995, which corresponds with the publication by Henrichsen.",
+        "question": "What was the year when the first observation of six newly recognized types of *Streptococcus pneumoniae* occurred according to the given sources?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 178,
+            "paragraph_id": "978-0071441988-p178-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Exposures should be reduced to around 750 ppm.",
+        "false_answer": "Reducing exposures to around 750 ppm.",
+        "incorrect_explanation": "According to the given information, the National Institute for Occupational Safety and Health actually recommends reducing exposures to the lowest possible level because carcinogenic effects in rodents were observed at much lower levels than the current standards allow, specifically mentioning observations at exposure levels of 650 ppm.",
+        "question": "What concentration level of 1,3-butadiene did the National Institute for Occupational Safety and Health recommend reducing exposures to minimize carcinogenic risk?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 648,
+            "paragraph_id": "978-0071441988-p648-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gasoline contains approximately 10-12% toluene by weight.",
+        "false_answer": "Approximately 10-12%",
+        "incorrect_explanation": "According to the given paragraph, the production, transport, and use of gasoline, which contains 5\u20137% toluene by weight, represent the largest source of environmental toluene release. Therefore, the statement claiming gasoline contains 10-12% toluene by weight is incorrect. \n- **Correct Answer Should Be:** Between 5-7%",
+        "question": "What percentage of toluene does gasoline typically contain by weight?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 654,
+            "paragraph_id": "978-0071441988-p654-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Aliphatic hydrocarbons with fewer than 6 carbon atoms tend to form solids.",
+        "false_answer": "Aliphatic hydrocarbons with fewer than 6 carbon atoms tend to form solids.",
+        "incorrect_explanation": "According to the paragraph, compounds with more than 16 carbon atoms are solids, not those with fewer than 6 carbon atoms. Those with fewer than 6 carbon atoms are actually gases.",
+        "question": "What is the minimum length of carbon chain in aliphatic hydrocarbons that typically leads to solid compounds?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 646,
+            "paragraph_id": "978-0071441988-p646-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Prolonged VC exposure up to 500 ppm.",
+        "false_answer": "Prolonged VC exposure up to 500 ppm.",
+        "incorrect_explanation": "According to the paragraph, prolonged VC exposure at 1100 ppm, not 500 ppm, did not adversely affect embryo-fetal developmental or reproductive capability over two generations in rats. Therefore, stating that the safe threshold is 500 ppm introduces a factual error regarding the established safety margin for VC exposure effects on reproduction in rats.",
+        "question": "What is the threshold of prolonged VC exposure in parts per million (ppm) that does not adversely affect embryo-fetal development or reproductive capability over two generations in rats?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 661,
+            "paragraph_id": "978-0071441988-p661-para1"
+        },
+        "type": "short_inverse"
+    }
+]

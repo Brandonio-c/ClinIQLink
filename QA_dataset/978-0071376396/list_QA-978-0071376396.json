@@ -1,0 +1,606 @@
+[
+    {
+        "answer": [
+            "Performing a run-in phase",
+            "Intent-to-treat analysis does not inherently increase compliance but ensures that all participants initially allocated to an intervention are analyzed together to estimate the effect, regardless of whether they received, complied with, had violations of the protocol, or dropped out after allocation.",
+            "However, given strict adherence to instructions focusing purely on maximizing compliance specifically through participant actions and design elements impacting compliance directly within the options listed, we focus on performing a run-in phase as directly aimed at assessing and potentially improving baseline compliance before randomization occurs."
+        ],
+        "options": [
+            "Using the placebo",
+            "Performing a run-in phase",
+            "Using intent-to-treat analysis",
+            "Double blinding the study",
+            "Limiting the number of subjects enrolled",
+            "Matching as a technique to control for confounding",
+            "Randomization",
+            "Blinded assessment",
+            "High-speed CT scans"
+        ],
+        "question": "What techniques might maximize compliance or otherwise influence outcomes in studies involving medication regimens, according to discussions around vitamin E trials and other research contexts?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 18,
+            "paragraph_id": "978-0071376396-p18-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "95/519 \u00d7100%",
+            "207/614 \u00d7100%",
+            "207/519 \u00d7100%",
+            "312/614 \u00d7100%",
+            "519/614 \u00d7100%"
+        ],
+        "options": [
+            "95/519 \u00d7100%",
+            "207/614 \u00d7100%",
+            "207/519 \u00d7100%",
+            "312/614 \u00d7100%",
+            "519/614 \u00d7100%"
+        ],
+        "question": "What expressions represent calculations related to determining percentages of health-related metrics, specifically incidence of illness or infection status?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 23,
+            "paragraph_id": "978-0071376396-p23-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Relative Risk Reduction (RRR)",
+            "Attributable Risk Reduction (ARR)",
+            "Numbers Needed to Treat (NNT)",
+            "Odd Ratio (OR)",
+            "Independent Samples T-test",
+            "Paired Sample T-test",
+            "ANOVA",
+            "Regression Analysis",
+            "Chi-Square Test",
+            "Correlation Analysis",
+            "Student T-test",
+            "Wilcoxon Rank Sum Test",
+            "Kappa Statistics Test"
+        ],
+        "options": [
+            "Relative Risk Reduction (RRR)",
+            "Attributable Risk Reduction (ARR)",
+            "Numbers Needed to Treat (NNT)",
+            "Odd Ratio (OR)",
+            "Independent Samples T-test",
+            "Paired Sample T-test",
+            "ANOVA",
+            "Regression Analysis",
+            "Chi-Square Test",
+            "Correlation Analysis",
+            "Student T-test",
+            "Wilcoxon Rank Sum Test",
+            "Kappa Statistics Test"
+        ],
+        "question": "What types of tests can be considered when evaluating differences or associations in medical research studies regarding interventions, outcomes, or comparisons?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 30,
+            "paragraph_id": "978-0071376396-p30-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chi-square analysis",
+            "Student t-test",
+            "Paired t-test",
+            "Analysis of variance",
+            "Linear regression",
+            "Multiple regression",
+            "Correlation analysis",
+            "McNemar test"
+        ],
+        "options": [
+            "Chi-square analysis",
+            "Student t-test",
+            "Paired t-test",
+            "Analysis of variance",
+            "Linear regression",
+            "Multiple regression",
+            "Correlation analysis",
+            "McNemar test"
+        ],
+        "question": "What types of statistical tests can be applied to compare groups across various conditions?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 34,
+            "paragraph_id": "978-0071376396-p34-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Living situation",
+            "Smoking status",
+            "Sex",
+            "Occupation",
+            "Education level",
+            "Genetic predisposition",
+            "Exercise habits",
+            "Lifestyle characteristics",
+            "Dietary habits",
+            "Stress management techniques"
+        ],
+        "options": [
+            "Living situation",
+            "Smoking status",
+            "Sex",
+            "Occupation",
+            "Education level",
+            "Genetic predisposition",
+            "Exercise habits",
+            "Lifestyle characteristics",
+            "Dietary habits",
+            "Stress management techniques"
+        ],
+        "question": "What items can be considered when matching subjects in a study?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 36,
+            "paragraph_id": "978-0071376396-p36-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Radiation Therapy",
+            "Surgery"
+        ],
+        "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D",
+            "Option E",
+            "Radiation Therapy",
+            "Surgery"
+        ],
+        "question": "What options are available for managing prostate cancer according to the given scenario?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 28,
+            "paragraph_id": "978-0071376396-p28-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Point prevalence",
+            "Cumulative incidence",
+            "Incidence density"
+        ],
+        "options": [
+            "Point prevalence",
+            "Cumulative incidence",
+            "Standardized morbidity ratio",
+            "Relative risk",
+            "Incidence density"
+        ],
+        "question": "What parameters related to health studies can describe the following scenarios: measuring how many people already have a condition when starting a study, comparing the occurrence of a condition over time among different groups, determining how often new cases occur within a population over time?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 35,
+            "paragraph_id": "978-0071376396-p35-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Standard Deviation"
+        ],
+        "options": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Standard Deviation"
+        ],
+        "question": "What statistical measures are discussed regarding their definitions and applications?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 46,
+            "paragraph_id": "978-0071376396-p46-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Genetics",
+            "Environment",
+            "Infections during infancy",
+            "Air pollution",
+            "Tobacco smoke"
+        ],
+        "options": [
+            "Genetics",
+            "Environment",
+            "Infections during adolescence",
+            "Air pollution",
+            "Tobacco smoke",
+            "Obesity",
+            "Physical activity"
+        ],
+        "question": "What factors contribute to asthma according to available medical research?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 56,
+            "paragraph_id": "978-0071376396-p56-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Prospective cohort study",
+            "Retrospective cohort study"
+        ],
+        "options": [
+            "Case-control study",
+            "Cross-sectional study",
+            "Prospective cohort study",
+            "Retrospective cohort study",
+            "Randomized controlled trial"
+        ],
+        "question": "What types of epidemiological studies involve following participants over time?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 44,
+            "paragraph_id": "978-0071376396-p44-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Relative risk",
+            "Utility"
+        ],
+        "options": [
+            "Incubation period",
+            "Utility",
+            "Relative risk",
+            "Randomization",
+            "Stratification"
+        ],
+        "question": "What terms related to epidemiological measures are defined?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 57,
+            "paragraph_id": "978-0071376396-p57-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cross-sectional",
+            "Cohort",
+            "Case control"
+        ],
+        "options": [
+            "Randomized controlled trial",
+            "Cross-over design",
+            "Case series analysis",
+            "Cohort study",
+            "Case control study",
+            "Retrospective observational study"
+        ],
+        "question": "What types of epidemiological study designs can be utilized?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 68,
+            "paragraph_id": "978-0071376396-p68-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type 1 error",
+            "Selection bias",
+            "Ecological fallacy"
+        ],
+        "options": [
+            "Type 0 error",
+            "Type 1 error",
+            "Selection bias",
+            "Ecological fallacy",
+            "Random sampling"
+        ],
+        "question": "What types of errors occur during studies?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 76,
+            "paragraph_id": "978-0071376396-p76-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Interval scales",
+            "Ordinal variables",
+            "Ratio scales",
+            "Nominal variables"
+        ],
+        "options": [
+            "Interval scales",
+            "Ordinal variables",
+            "Ratio scales",
+            "Nominal variables"
+        ],
+        "question": "What types of measurement scales are described in terms of their characteristics?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 77,
+            "paragraph_id": "978-0071376396-p77-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Education of farmers and workers in the livestock industry as to the dangers of infected animals",
+            "Pasturization of dairy products from cows, goats, and sheep",
+            "Care in handling products from aborted animals"
+        ],
+        "options": [
+            "Education of farmers and livestock handlers",
+            "Pasteurization of milk and dairy products",
+            "Proper disposal of animal waste",
+            "Careful handling of materials from sick animals"
+        ],
+        "question": "What methods depend on prevention of human brucellosis?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 103,
+            "paragraph_id": "978-0071376396-p103-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Household contacts",
+            "Those in contact with oral secretions",
+            "Close friends at school",
+            "Allday care contacts, both adults and children"
+        ],
+        "options": [
+            "Household contacts",
+            "Those who share living spaces but do not live together",
+            "Close friends at work",
+            "Classmates",
+            "Daycare contacts",
+            "Healthcare workers treating the infected person"
+        ],
+        "question": "What types of people should receive appropriate antibiotic prophylaxis during sporadic cases?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 110,
+            "paragraph_id": "978-0071376396-p110-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Varicella vaccine",
+            "Pneumococcal conjugate vaccine",
+            "Influenza A vaccine"
+        ],
+        "options": [
+            "Influenza A vaccine",
+            "Varicella vaccine",
+            "Hepatitis B vaccine",
+            "Rubella vaccine",
+            "Pneumococcal conjugate vaccine"
+        ],
+        "question": "What types of vaccinations are discussed along with their uses?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 117,
+            "paragraph_id": "978-0071376396-p117-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Destruction of infected animals",
+            "Administering vaccine to livestock"
+        ],
+        "options": [
+            "Destruction of infected animals",
+            "Treating individual human cases",
+            "Using pasteurization",
+            "Implementing quarantine measures",
+            "Administering vaccine to humans"
+        ],
+        "question": "What methods exist to prevent the spread of Brucellosis?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 104,
+            "paragraph_id": "978-0071376396-p104-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Malaria",
+            "Typhus"
+        ],
+        "options": [
+            "Malaria",
+            "Typhus",
+            "Measles",
+            "Tetanus"
+        ],
+        "question": "What types of diseases are caused by the agents transmitted through different kinds of insects?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 105,
+            "paragraph_id": "978-0071376396-p105-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Endemic",
+            "Pandemic",
+            "Zoonotic diseases",
+            "Visceral larva migrans"
+        ],
+        "options": [
+            "Endemic",
+            "Pandemic",
+            "Zoonotic diseases",
+            "Visceral larva migrans",
+            "Hypersensitivity reactions"
+        ],
+        "question": "What types of diseases or health issues related to infectious agents are described?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 124,
+            "paragraph_id": "978-0071376396-p124-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tobacco smoke",
+            "Radon",
+            "Chemicals",
+            "Asbestos",
+            "Toxins",
+            "Ultraviolet light"
+        ],
+        "options": [
+            "Tobacco smoke",
+            "Radon",
+            "Chemicals",
+            "Asbestos",
+            "Toxins",
+            "Ultraviolet light",
+            "Ionizing radiation",
+            "Genetic predisposition"
+        ],
+        "question": "What environmental factors are most closely linked with causing cancer?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 149,
+            "paragraph_id": "978-0071376396-p149-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bladder cancer",
+            "Silicosis",
+            "Hypersensitivity pneumonitis",
+            "Mesothelioma"
+        ],
+        "options": [
+            "Bladder cancer",
+            "Hemorrhagic fever",
+            "Silicosis",
+            "Hypersensitivity pneumonitis",
+            "Asbestosis",
+            "Mesothelioma"
+        ],
+        "question": "What types of diseases are specifically linked to certain exposures in occupational settings?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 153,
+            "paragraph_id": "978-0071376396-p153-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alcohols",
+            "Glycols",
+            "Ketones",
+            "Esters",
+            "Phenols",
+            "Hydrocarbons",
+            "Petroleum distillates"
+        ],
+        "options": [
+            "Alcohols",
+            "Glycols",
+            "Ketones",
+            "Esters",
+            "Phenols",
+            "Hydrocarbons",
+            "Petroleum distillates"
+        ],
+        "question": "What types of solvents can cause different health issues when exposed?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 143,
+            "paragraph_id": "978-0071376396-p143-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reproductive toxins",
+            "Renal toxins",
+            "Respiratory toxins",
+            "Neurotoxins",
+            "Dermatoxins",
+            "Hepatotoxins"
+        ],
+        "options": [
+            "Carcinogens",
+            "Reproductive toxins",
+            "Respiratory toxins",
+            "Hepatotoxins",
+            "Dermatoxins",
+            "Renal toxins",
+            "Cardiovascular toxins",
+            "Hematotoxic agents",
+            "Gastrointestinal toxins"
+        ],
+        "question": "What types of toxins do substances causing adverse biological effects in humans get classified as?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 148,
+            "paragraph_id": "978-0071376396-p148-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Arsenic",
+            "Asbestos",
+            "Cadmium",
+            "Chromium",
+            "Coal tar and pitches",
+            "Mustard gas",
+            "Nickel",
+            "Radon",
+            "Vinyl chloride"
+        ],
+        "options": [
+            "Arsenic",
+            "Asbestos",
+            "Benzidine",
+            "Cadmium",
+            "Chromium",
+            "Coal tar and pitches",
+            "Mustard gas",
+            "Nickel",
+            "Radon",
+            "Vinyl chloride"
+        ],
+        "question": "What substances or exposures are specifically listed as being able to cause lung cancer?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 160,
+            "paragraph_id": "978-0071376396-p160-para1"
+        },
+        "type": "list"
+    }
+]

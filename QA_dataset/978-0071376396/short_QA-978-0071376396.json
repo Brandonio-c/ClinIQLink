@@ -1,0 +1,62 @@
+[
+    {
+        "answer": "Her husband, Alain Campbell, M.D., M.S., and her daughter, Myriam.",
+        "question": "Who did Sylvie Ratelle dedicate her book to?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 8,
+            "paragraph_id": "978-0071376396-p8-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "c. True positives +false-positives",
+        "question": "What term describes true positives plus false positives?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 43,
+            "paragraph_id": "978-0071376396-p43-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "45%",
+        "question": "What percentage of individuals testing positive are actually infected with Chlamydia?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 74,
+            "paragraph_id": "978-0071376396-p74-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "d. 20%.",
+        "question": "What percentage risk of infertility follows this second clinical episode of pelvic inflammatory disease?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 82,
+            "paragraph_id": "978-0071376396-p82-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "An endotoxin of the tetanus bacillus growing anaerobically at the site of injury.",
+        "question": "What causes Tetanus?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 126,
+            "paragraph_id": "978-0071376396-p126-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "At least two-fifths, some reports state up to 50%.",
+        "question": "What percentage of motor vehicle deaths are reported to be alcohol-related?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 155,
+            "paragraph_id": "978-0071376396-p155-para1"
+        },
+        "type": "short_answer"
+    }
+]

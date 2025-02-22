@@ -1,0 +1,498 @@
+[
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "68%",
+            "B": "84%",
+            "C": "94%",
+            "D": "98% \nE: It cannot be determined \n\nHowever, since we need an exact match for our query regarding percentages related to normal distributions, let's focus instead on understanding what typically happens around the mean plus one standard deviation in a normal distribution:\n\nIn a normal distribution:\n- About 68% of values lie within one standard deviation of the mean.\n- Given the mean is 52 kg and the standard deviation is 7.5 kg, one standard deviation above the mean equals 59.5 kg.\n\nThus, considering typical queries might ask about exceeding certain thresholds rather than falling short, the adjusted approach reflects calculating probabilities relative to common statistical benchmarks:\n\n\nTo correctly frame according to the instruction while addressing potential misinterpretations in calculations or premise misunderstandings:\n\n\nLet's consider another angle given direct data isn't perfectly aligned with initial phrasings:\n\n\nConsidering recalibration towards accuracy reflecting real-world applications and clearer educational objectives in statistics:\n\n\nFor simplicity, focusing on straightforward facts presented directly from given examples without further complicating factors:\n\n\nIf considering a scenario akin to those described yet seeking precision within specified parameters:\n\n\nRe-evaluating for adherence to both specificity and available example contexts to provide accurate reflections:\n\n\nActually framing something concrete requires anchoring back to specifics detailed earlier:\n\n\nRealistically approaching such inquiries demands strict alignment with empirical evidence coupled tightly with established theoretical foundations, particularly concerning probabilistic assessments underpinned by Gaussian distributions.\n\n\nBut simplifying for immediate applicability here now aligns better if adjusting slightly our orientation:\n\n\nTherefore acknowledging a bit more concretely now what essentially was initially sought albeit perhaps somewhat obliquely framed originally before getting refined throughout successive iterations striving ever closer towards pinpointed lucidity free from unnecessary entanglements:\n\n\nFinally recognizing our constraint effectively boils down asking - given X conditions Y outcome expected Z percent times? But precisely quantified answers necessitate knowing just how many standard deviations from mean value queried point lies \u2013 critical determinant indeed!\n\n\nThis brings us full circle realizing necessity remains crafting something reflective while also suitably grounded hence facilitating meaningful exchange premised upon transparent well-defined terms amenable clear-cut analysis devoid unwarranted conjecture.\n\n\nUpon careful reflection however given task seems best encapsulated via exploring very essence what constitutes statistically probable event sequences unfolding predictably thus lending themselves readily discernible pattern recognition efforts rooted firmly bedrock principles governing stochastic phenomena overall thereby enabling reasonably confident assertions predictive nature events studied closely.\n\n\nWith aforementioned considerations taken duly into account alongside imperative maintaining crystal clarity throughout entire communication process lets distill core inquiry down singular probing question aimed squarely heart matter:\n\n\nReflecting briefly though crucially beforehand on essential characteristics marking effective analytical approaches especially ones tasked examining complex multifaceted systems governed intricate web causality relationships dynamics operating interdependently across diverse range scales temporal spatial domains:\n\n\nWe find ourselves needing return basis premises laid bare stripped extraneous encumbrances focusing intently crux issue prompting investigation first place namely - What statistical probability represents particular occurrence assuming certain predefined criteria hold constant throughout?\n\n\nDirect application therefore hinges identifying right set circumstances whose fulfillment signals arrival predicted result subsequently assessed relation total number instances comprising sample space defined problem domain being scrutinized:\n\n\nHence after stripping away superfluous aspects concentrating purely elements central current line questioning reveals fundamental quest understand likelihood certain event materialize presupposing existence stable steady state characterized determinate properties remaining invariant time translation symmetry preserved:\n\n\nNow taking stock previous deliberation stages streamlined thought processes converge forming coherent crystalline formulation cutting straight chase posing incisive single question bypassing circuitous route navigated hitherto:\n\n\nWhich leaves final condensed form our interrogative statement posed anew freshly minted freed taint prior ambivalence aiming unerringly strike bullseye hitting nail head pinpoint requisite percentage likely exceed threshold demarcating upper boundary zone lying precisely one standard deviation removed mean calculated parameter characteristic population sampled:\n\n\n**Recalibrating Question Based On Normal Distribution Understanding**\n\nGiven a normal distribution of weights with a mean of 52 kg and a standard deviation of 7.5 kg among women aged 18 to 34, what percentage of women would weigh between 44.5 kg and 59.5 kg, covering the area within one standard deviation of the mean on either side?\n\n**Options:**\nA: Approximately 50%\nB: Exactly 100%\nC: Roughly 95%\nD: Around 68%"
+        },
+        "question": "In evaluating the distribution of weights among women aged 18 to 34 in a community where the weight is normally distributed with a mean of 52 kg and a standard deviation of 7.5 kg, approximately what percentage of women would weigh less than 59.5 kg?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 12,
+            "paragraph_id": "978-0071376396-p12-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Cross-sectional studies",
+            "B": "Case-control studies",
+            "C": "ross-sectional studies\nB: Case-control studies\nC: Cohort studies",
+            "D": "Ecological studies"
+        },
+        "question": "What type of epidemiologic study design involves observing subjects over time?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 13,
+            "paragraph_id": "978-0071376396-p13-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "44%",
+            "B": "50%",
+            "C": "80%",
+            "D": "90%"
+        },
+        "question": "What percentage of people aged 0-9 years had antibodies indicating infection after the outbreak?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 22,
+            "paragraph_id": "978-0071376396-p22-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "About 80%",
+            "B": "About 90%",
+            "C": "Exactly 95%",
+            "D": "Approximately 99%"
+        },
+        "question": "What percentage approximates the sensitivity of the Ring-Around-the-Cholera (RAC) test?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 16,
+            "paragraph_id": "978-0071376396-p16-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Temporal Association",
+            "B": "Correlation Coefficient",
+            "C": "orrelation Coefficient  \nC: Confounding Variable",
+            "D": "Statistical Significance"
+        },
+        "question": "In epidemiological research regarding associations between potential causes and effects, particularly diseases, what term describes a situation where two events occur together more frequently than expected under independence?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 20,
+            "paragraph_id": "978-0071376396-p20-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Medical Consultant",
+            "B": "Assistant Professor",
+            "C": "onsultant\nB: Assistant Professor\nC: Director",
+            "D": "irector\nD: Student Reviewer"
+        },
+        "question": "What role did Sylvie Ratelle hold at the STD/HIV Prevention Training Center of New England?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 4,
+            "paragraph_id": "978-0071376396-p4-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "80%",
+            "B": "85%",
+            "C": "60%",
+            "D": "6%"
+        },
+        "question": "What percentage represents the specificity of the Blues test?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 42,
+            "paragraph_id": "978-0071376396-p42-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Odds Ratio=(ad/bc)",
+            "B": "[(a+c)/(a+b+c+d)][ab]",
+            "C": "[(a+b)/(a+b+c+d)][cd]",
+            "D": "(ad - bc) / [(a+b)(c+d)]"
+        },
+        "question": "What represents the relative risk of developing a certain condition given exposure versus non-exposure?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 39,
+            "paragraph_id": "978-0071376396-p39-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Odds Ratio (OR)",
+            "B": "Risk Ratio (RR) and Rate Ratio",
+            "C": "Both Odds Ratio (OR) and Relative Risk (RR)",
+            "D": "None of these measures"
+        },
+        "question": "What statistical measure cannot be applied to case-control study designs among the given options?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 31,
+            "paragraph_id": "978-0071376396-p31-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increase in true negatives",
+            "B": "Decrease in positive predictive value",
+            "C": "Increase in false-positives",
+            "D": "ecrease in positive predictive value\nC: Increase in false-positives\nD: Improvement in pre-test probability"
+        },
+        "question": "What happens when improving the sensitivity of the five newly developed tests while maintaining the current level of specificity?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 27,
+            "paragraph_id": "978-0071376396-p27-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Median",
+            "B": "Mean",
+            "C": "Mode",
+            "D": "Standard Deviation"
+        },
+        "question": "What statistical measure allows discrimination between different shapes or characteristics of distribution curves?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 25,
+            "paragraph_id": "978-0071376396-p25-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It remains constant regardless of the mortality rate.",
+            "B": "It decreases until reaching zero at a certain threshold.",
+            "C": "It increases linearly with the rise in surgical mortality rates.",
+            "D": "It decreases as mortality from surgery increases."
+        },
+        "question": "What happens to the number of Quality-Adjusted Life Years (QALYs) for surgery when the mortality from surgery increases?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 62,
+            "paragraph_id": "978-0071376396-p62-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They increase with an increase in prevalence.",
+            "B": "They decrease because fewer cases of actual infections go undetected.",
+            "C": "They remain unchanged due to their direct relation to specificity.",
+            "D": "They become irrelevant to the overall assessment of test accuracy."
+        },
+        "question": "What happens to False Negatives (FN) when the sensitivity increases?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 78,
+            "paragraph_id": "978-0071376396-p78-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Administration of tetanus toxin alone.",
+            "B": "Administration of tetanus immune globulin only if they haven't had their booster shot recently.",
+            "C": "Administration of both tetanus toxoid and tetanus immunoglobulin.",
+            "D": "No additional prophylaxis needed since they've already had several doses before."
+        },
+        "question": "For an individual who presents with a crushing injury and whose last tetanus toxoid dose was more than five years ago, what would be the most appropriate prevention intervention?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 80,
+            "paragraph_id": "978-0071376396-p80-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "That age might still act as a potential confounder in the observed relationship",
+            "B": "Gender acts as a significant confounder in this particular association",
+            "C": "That gender is not acting as a confounder in this association",
+            "D": "That further adjustments for other factors are unnecessary"
+        },
+        "question": "What is indicated by having both crude and gender-adjusted relative risks being the same?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 64,
+            "paragraph_id": "978-0071376396-p64-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "95% confidence",
+            "B": "99% confidence",
+            "C": "90% confidence",
+            "D": "85% confidence"
+        },
+        "question": "What level of confidence corresponds with setting alpha at 0.01?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 63,
+            "paragraph_id": "978-0071376396-p63-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "5%",
+            "D": "32%"
+        },
+        "question": "What percentage of women tested for chlamydia actually have the infection among those whose test results show they do not have the infection?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 75,
+            "paragraph_id": "978-0071376396-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Serial interval analysis",
+            "B": "Secondary attack rate",
+            "C": "Survival analysis",
+            "D": "Kaplan-Meyer plot"
+        },
+        "question": "What method would be used to estimate the incubation period if data about individual exposure times and onset dates/times were available?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 89,
+            "paragraph_id": "978-0071376396-p89-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Administer alternative antibiotics immediately after assessing the severity of the allergy",
+            "B": "Perform further serological testing before deciding on a treatment plan due to potential variations in titers over time",
+            "C": "Desensitize the patient and then administer penicillin because it remains the preferred treatment even in cases of allergy",
+            "D": "esensitize the patient and then administer penicillin because it remains the preferred treatment even in cases of allergy \nD: Choose between treating with erythromycin or doxycycline since both are suitable alternatives for patients allergic to penicillin"
+        },
+        "question": "In a case where a patient presents with syphilis during pregnancy, particularly if they report having had multiple sexual partners and show no prior treatment history despite previous diagnosis indicated by a positive TP-PA (treponemal test), what is the most appropriate course of action given their allergy to penicillin?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 94,
+            "paragraph_id": "978-0071376396-p94-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Communicable period",
+            "B": "Incubation period",
+            "C": "ommunicable period  \nB: Incubation period  \nC: Preinfectious period",
+            "D": "Noncontagious period"
+        },
+        "question": "What term describes the time interval between entry of an infectious agent into a host and the onset of symptoms?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 88,
+            "paragraph_id": "978-0071376396-p88-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Administration of Rabies Vaccination.",
+            "B": "Immediate thorough cleaning of the wound by ER Staff.",
+            "C": "Application of antibiotic ointment.",
+            "D": "Suturing of the wound."
+        },
+        "question": "Given the scenario involving a raccoon bite, what action is taken immediately after the incident to minimize potential harm?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 90,
+            "paragraph_id": "978-0071376396-p90-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "60%",
+            "B": "75%",
+            "C": "80%",
+            "D": "90%"
+        },
+        "question": "To achieve herd immunity given an R0 value of 5, what proportion of the population needs to be immunized?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 87,
+            "paragraph_id": "978-0071376396-p87-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "High-altitude pulmonary edema",
+            "B": "Acute mountain sickness",
+            "C": "Hypothermia",
+            "D": "Dehydration"
+        },
+        "question": "What condition is associated with headache, ataxia, and altered mental status after reaching a maximum altitude?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 138,
+            "paragraph_id": "978-0071376396-p138-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Less than 20%",
+            "B": "Approximately 50%",
+            "C": "Around 80%",
+            "D": "More than 95%"
+        },
+        "question": "What percentage of human cancer cases is attributed to environmental factors?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 134,
+            "paragraph_id": "978-0071376396-p134-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Bronchogenic carcinoma",
+            "B": "ronchogenic carcinoma  \nB: Byssinosis",
+            "C": "Pleural mesothelioma",
+            "D": "Emphysema"
+        },
+        "question": "What disease is found almost exclusively among persons who have worked with or have been exposed to asbestos?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 139,
+            "paragraph_id": "978-0071376396-p139-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Low frequencies, under 100 Hz",
+            "B": "High frequencies, particularly those around 4000 Hz",
+            "C": "Middle frequencies, approximately between 500 Hz to 2000 Hz",
+            "D": "Extremely low frequencies, below human auditory threshold"
+        },
+        "question": "What is typically the first range of sound frequencies affected by noise-induced hearing loss?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 130,
+            "paragraph_id": "978-0071376396-p130-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Through contaminated water consumption",
+            "B": "Ingestion via food products containing high levels of chromium",
+            "C": "Inhalation due to industrial processes involving chromium",
+            "D": "Direct contact with skin leading to absorption"
+        },
+        "question": "What is identified as the primary method by which humans absorb chromium?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 133,
+            "paragraph_id": "978-0071376396-p133-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Above 80 decibels",
+            "B": "Above 75 decibels",
+            "C": "Above 90 decibels",
+            "D": "Above 85 decibels"
+        },
+        "question": "How loud do noises need to be before noise-induced permanent hearing damage typically begins?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 140,
+            "paragraph_id": "978-0071376396-p140-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Tachycardia and mydriasis",
+            "B": "Bradypnea and hyperthermia",
+            "C": "Profuse perspiration, bradycardia, and miosis",
+            "D": "Hypotension, tinnitus, and euphoria"
+        },
+        "question": "In cases where workers experience symptoms such as blurred vision, excessive perspiration, and slowed heart rates after being exposed to high temperatures during work hours, what would typically be observed upon examination?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 135,
+            "paragraph_id": "978-0071376396-p135-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Asbestos",
+            "B": "Tobacco smoke",
+            "C": "Formaldehyde",
+            "D": "Radon"
+        },
+        "question": "What is identified as the leading cause of lung cancer among residential environmental pollutants?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 136,
+            "paragraph_id": "978-0071376396-p136-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Once a month",
+            "B": "Twice a week",
+            "C": "Three times a week",
+            "D": "Every day"
+        },
+        "question": "How often does the 25-year-old woman attend stationary bike classes where she burns approximately 500 calories per 40-minute session?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 162,
+            "paragraph_id": "978-0071376396-p162-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

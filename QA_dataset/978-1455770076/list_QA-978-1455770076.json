@@ -1,0 +1,30 @@
+[
+    {
+        "answer": [
+            "One or more tanks of compressed air",
+            "A first-stage \u201creducing\u201d valve",
+            "A combination inhalation \u201cdemand\u201d valve and exhalation valve",
+            "A mask and tube system with small \u201cdead space.\u201d"
+        ],
+        "options": [
+            "Tanks of oxygen",
+            "One or more tanks of compressed air",
+            "A second-stage \u201cincreasing\u201d valve",
+            "Combination inhalation \u201csupply\u201d valve and exhalation valve",
+            "Mask and tube system with minimal dead space",
+            "First-stage \u201cregulating\u201d valve",
+            "Compressor regulator",
+            "Air cylinders compressor",
+            "Hose",
+            "Demand valve",
+            "Regulator"
+        ],
+        "question": "What components make up an open-circuit demand type of Self-Contained Underwater Breathing Apparatus (SCUBA)?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 597,
+            "paragraph_id": "978-1455770076-p597-para1"
+        },
+        "type": "list"
+    }
+]

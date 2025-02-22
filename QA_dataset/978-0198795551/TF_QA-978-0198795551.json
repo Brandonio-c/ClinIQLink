@@ -1,0 +1,762 @@
+[
+    {
+        "answer": "False",
+        "question": "There exists no depiction of individuals labeled as having a psychiatric disorder as villains in popular art and literature.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 82,
+            "paragraph_id": "978-0198795551-p82-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "David Semple works at University Hospital Hairmyres located in East Kilbride, UK.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 23,
+            "paragraph_id": "978-0198795551-p23-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The term \"Olfactory Reference Disorder\" was first introduced before the year 1900.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 482,
+            "paragraph_id": "978-0198795551-p482-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antidepressants ought to be considered for individuals experiencing features of 'abnormal' grief or clinical symptoms of depression/anxiety.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 471,
+            "paragraph_id": "978-0198795551-p471-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Depersonalization/derealization syndrome is classified under dissociative disorders in ICD-10.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 478,
+            "paragraph_id": "978-0198795551-p478-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The book titled \u201cClinical Judgment\u201d was written by Alvan Feinstein and published before 1972.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 91,
+            "paragraph_id": "978-0198795551-p91-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Risperidone was launched before citalopram.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 102,
+            "paragraph_id": "978-0198795551-p102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Stigma originated as a sign branded onto individuals to publicly identify them as having committed crimes or exhibited behaviors deemed undesirable by societal norms.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 86,
+            "paragraph_id": "978-0198795551-p86-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Erasistratus noted divisions of the brain around 280 BC.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 97,
+            "paragraph_id": "978-0198795551-p97-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hypochondriasis involves a belief in having a particular illness despite medical evidence to the contrary.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 939,
+            "paragraph_id": "978-0198795551-p939-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "When assessing psychiatric symptoms on the general wards, one should always assume that the patient's medical condition does not influence their psychiatric assessment.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 913,
+            "paragraph_id": "978-0198795551-p913-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Delirium represents the most common presentation of psychotic symptoms in psychiatric hospitals.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 918,
+            "paragraph_id": "978-0198795551-p918-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Depression increases morbidity in physically ill patients by impairing treatment compliance and reducing interest in rehabilitation.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 926,
+            "paragraph_id": "978-0198795551-p926-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Delirium is characterized by a slow onset.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 930,
+            "paragraph_id": "978-0198795551-p930-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For individuals with a BMI classified as underweight according to Table 9.1, there exists an increased risk to their health due to being significantly lighter compared to those categorized as morbidly obese.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 484,
+            "paragraph_id": "978-0198795551-p484-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pathological gambling disorder affects more than 5% of the adult population.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 494,
+            "paragraph_id": "978-0198795551-p494-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "No Statement Available Due To Missing Information",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 497,
+            "paragraph_id": "978-0198795551-p497-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acute psychosis is an indication for psychotherapeutic methods due to decreasing expressed emotion and inherent neuropsychological benefits.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 965,
+            "paragraph_id": "978-0198795551-p965-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In the phallic stage, boys experience castration anxiety due to their love for their mothers versus their fear of being harmed by their fathers.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 978,
+            "paragraph_id": "978-0198795551-p978-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "According to Freud's structural model, the ego emerges after the formation of the superego.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 972,
+            "paragraph_id": "978-0198795551-p972-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A high incidence of Generalized Anxiety Disorder (GAD) is found among individuals diagnosed with hypochondriasis.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 951,
+            "paragraph_id": "978-0198795551-p951-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive Behavioral Therapy (CBT) aims to modify positive thoughts about activities which exacerbate disability.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 955,
+            "paragraph_id": "978-0198795551-p955-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Somatization disorder involves a functional loss without multi-system complaints.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 944,
+            "paragraph_id": "978-0198795551-p944-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients with fulminant liver failure due to overdose are assessed immediately after presentation because their condition might rapidly worsen.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 959,
+            "paragraph_id": "978-0198795551-p959-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sigmund Freud's book \"Three Essays on the Theory of Sexuality\" was published before his publication of \"The Interpretation of Dreams\".",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 969,
+            "paragraph_id": "978-0198795551-p969-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In psychiatric interviews, patients should always be addressed by their first name unless otherwise requested.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 110,
+            "paragraph_id": "978-0198795551-p110-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Clinical investigations are primarily conducted in psychiatry to monitor side effects of medication and exclude underlying medical conditions.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 156,
+            "paragraph_id": "978-0198795551-p156-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The CAGE test consists of four yes/no questions regarding alcohol consumption.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 161,
+            "paragraph_id": "978-0198795551-p161-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients experiencing depression often exhibit improved moods when they participate in their former enjoyable activities.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 126,
+            "paragraph_id": "978-0198795551-p126-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Six-item Cognitive Impairment Test (6CIT) was originally developed before the Abbreviated Mental Test (AMT).",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 148,
+            "paragraph_id": "978-0198795551-p148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Finger agnosia refers to the inability to identify one's fingers when they are pointed at visually.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 151,
+            "paragraph_id": "978-0198795551-p151-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A patient\u2019s personal medical history includes inquiries about episodes of symptoms for which no treatment was sought.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 116,
+            "paragraph_id": "978-0198795551-p116-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Narcolepsy always involves difficulties in resisting sleep attacks while driving.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 521,
+            "paragraph_id": "978-0198795551-p521-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Von Economo's work involved studying patients who died from encephalitis lethargica after an epidemic occurred prior to 1917.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 503,
+            "paragraph_id": "978-0198795551-p503-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Parasomnias can sometimes occur due to incomplete arousal or association with REM sleep.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 533,
+            "paragraph_id": "978-0198795551-p533-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Stimulus control involves going to bed whenever one feels like sleeping and staying there even if they don't fall asleep immediately after lying down.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 513,
+            "paragraph_id": "978-0198795551-p513-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Confusional arousals ('sleep drunkenness') primarily manifest through violence, assault, or homicide behaviors.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 536,
+            "paragraph_id": "978-0198795551-p536-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mars has more than three natural satellites orbiting around it.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 508,
+            "paragraph_id": "978-0198795551-p508-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Kleine-Levin Syndrome primarily affects female adolescents.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 526,
+            "paragraph_id": "978-0198795551-p526-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sexsomnia is typically accompanied by other conditions such as confusional arousals, sleepwalking, or SRED.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 540,
+            "paragraph_id": "978-0198795551-p540-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals with Delayed Sleep-Wake Phase Disorder (DSWPD) typically go to sleep before midnight.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 529,
+            "paragraph_id": "978-0198795551-p529-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive Behavioural Therapy (CBT) views disorders as being primarily caused by life events rather than an individual's perception of those events.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 997,
+            "paragraph_id": "978-0198795551-p997-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Participants in group psychotherapy must be unable to interact in a group setting to be considered for this form of treatment.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 990,
+            "paragraph_id": "978-0198795551-p990-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A method involving Socratic questioning to explore distressing thoughts includes asking patients if certain thoughts being true would imply other consequences.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1001,
+            "paragraph_id": "978-0198795551-p1001-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Anhedonia refers to the absence or significant diminishment of enjoyment in previously enjoyable activities and is exclusively associated with depressive illnesses.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 166,
+            "paragraph_id": "978-0198795551-p166-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Folie \u00e0 deux describes a situation where three individuals with a close relationship share a delusional belief.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 179,
+            "paragraph_id": "978-0198795551-p179-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dysarthria results from lesions affecting comprehension, writing, or higher language functions.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 176,
+            "paragraph_id": "978-0198795551-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cyclothymia refers to a severe mental health disorder involving extreme variations between manic highs and depressive lows over periods longer than two weeks.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 170,
+            "paragraph_id": "978-0198795551-p170-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Restless Legs Syndrome is characterized by an irreversible urge to move limbs.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 552,
+            "paragraph_id": "978-0198795551-p552-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Major affective disorders always result in initial hypersomnia rather than insomnia.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 557,
+            "paragraph_id": "978-0198795551-p557-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nocturnal Frontal Lobe Epilepsy (NFLE) typically occurs exclusively in individuals over the age of five.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 546,
+            "paragraph_id": "978-0198795551-p546-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Marsha Linehan published the book titled \u201cCognitive-Behavioral Treatment of Borderline Personality Disorder\u201d in the year 1993.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1020,
+            "paragraph_id": "978-0198795551-p1020-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Over the past fifty years, Western countries have witnessed the emergence of counseling as a distinct professional field with various specialized branches.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1012,
+            "paragraph_id": "978-0198795551-p1012-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Behavioural Activation Treatment for Depression (BATD) proposes that depression is primarily caused by aversive tasks alone.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1017,
+            "paragraph_id": "978-0198795551-p1017-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "DBT combines CBT interventions with Western meditative practice to help manage stress and regulate mood.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1005,
+            "paragraph_id": "978-0198795551-p1005-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amitriptyline is considered one of the most sedating TCAs due to its anticholinergic effects.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 563,
+            "paragraph_id": "978-0198795551-p563-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Psychiatric admission and completed suicide rates decrease significantly during pregnancy due to a reduction in severe mental health issues.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 578,
+            "paragraph_id": "978-0198795551-p578-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Peri- or post-menopausal disorders are primarily caused by hormonal changes rather than psychosocial stressors.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 571,
+            "paragraph_id": "978-0198795551-p571-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Is exploding head syndrome coined before 1980?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 567,
+            "paragraph_id": "978-0198795551-p567-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fluoxetine is the most studied antidepressant for treating PMDD.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 574,
+            "paragraph_id": "978-0198795551-p574-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Behavioural neurology was named by Norman Geschwind before the founding of the Behavioural Neurology Society.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 196,
+            "paragraph_id": "978-0198795551-p196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thought echo is also referred to as echo de la pens\u00e9e or gedankenlautwerden.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 190,
+            "paragraph_id": "978-0198795551-p190-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A neurological examination in patients presenting with psychiatric symptoms should ideally be performed urgently if there's suspicion of an 'organic' disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 199,
+            "paragraph_id": "978-0198795551-p199-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mitgehen involves moving the patient's limbs to any position against significant pressure.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 184,
+            "paragraph_id": "978-0198795551-p184-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Advance healthcare directives made under the Assisted Decision-Making (Capacity) Act 2015 are legally binding on medical practitioners.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1034,
+            "paragraph_id": "978-0198795551-p1034-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A Mental Health Act authorizes detention in hospital and compulsory treatment of patients who do not necessarily pose a risk to themselves or others.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1026,
+            "paragraph_id": "978-0198795551-p1026-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A Community Treatment Order (CTO) may specify where the patient resides during the term of the order.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1042,
+            "paragraph_id": "978-0198795551-p1042-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "According to the Mental Capacity Act 2005, an intervention under the Act on behalf of a person who lacks capacity must be in their best interests.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1029,
+            "paragraph_id": "978-0198795551-p1029-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Individuals identifying as transgender experience higher rates of mental health problems compared to the general population.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 602,
+            "paragraph_id": "978-0198795551-p602-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Treatment of paraphilias includes medication options such as antipsychotics, estrogens, and SSRIs.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 597,
+            "paragraph_id": "978-0198795551-p597-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Paraphilias involve non-human objects as a primary object of sexual desire according to classifications found in the DSM-5 and ICD-10.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 592,
+            "paragraph_id": "978-0198795551-p592-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Up to 70% of patients experiencing Functional Neurological Symptoms have depression or anxiety disorders.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 207,
+            "paragraph_id": "978-0198795551-p207-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Post-ictal psychosis typically begins immediately after a seizure ends.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 215,
+            "paragraph_id": "978-0198795551-p215-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "ADHD persists into adulthood in more than 80% of cases.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 210,
+            "paragraph_id": "978-0198795551-p210-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "SPECT is helpful in discriminating DAT from FTD.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 203,
+            "paragraph_id": "978-0198795551-p203-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "HSV 1 involves superior frontal and posterior parietal lobes, resulting in delirium, hallucinations, and TLE during the acute phase.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 219,
+            "paragraph_id": "978-0198795551-p219-para1"
+        },
+        "type": "true_false"
+    }
+]

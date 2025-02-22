@@ -1,0 +1,1264 @@
+[
+    {
+        "answer": [
+            "Two primary types of judgments:",
+            "Judgments concerning the perceived positive and negative consequences of performing a behavior",
+            "Judgments concerning the subjective perception of social norms surrounding the behavior"
+        ],
+        "options": [
+            "Perceived Behavioral Control",
+            "Subjective Perception of Social Norms",
+            "Attitudes Toward Outcomes",
+            "Evaluation of Importance",
+            "Belief in Personal Capability"
+        ],
+        "question": "What types of judgments contribute to forming attitudes toward behavior according to the given text?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 971,
+            "paragraph_id": "978-0071441988-p971-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Coronary heart disease",
+            "Arteriosclerotic peripheral vascular disease",
+            "Stroke"
+        ],
+        "options": [
+            "Arteriosclerotic peripheral vascular disease",
+            "Coronary heart disease",
+            "Stroke",
+            "Diabetes",
+            "Congestive heart failure",
+            "Hypertension"
+        ],
+        "question": "What health conditions are firmly established as being caused by cigarette smoking?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 981,
+            "paragraph_id": "978-0071441988-p981-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Active surveillance",
+            "Provider-based or passive surveillance",
+            "Sentinel surveillance"
+        ],
+        "options": [
+            "Active surveillance",
+            "Passive surveillance",
+            "Sentinel surveillance",
+            "Occupational health surveillance"
+        ],
+        "question": "What are the main approaches to collecting data for public health surveillance?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 39,
+            "paragraph_id": "978-0071441988-p39-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Health Promotion",
+            "Disease Prevention",
+            "Clinical Prevention"
+        ],
+        "options": [
+            "Public Policy",
+            "Disease Management",
+            "Clinical Prevention",
+            "Environmental Science",
+            "Health Education",
+            "Community Development",
+            "Health Promotion",
+            "Disease Prevention"
+        ],
+        "question": "What primary areas does the Association for Prevention Teaching and Research (APTR) focus on?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 3,
+            "paragraph_id": "978-0071441988-p3-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hepatitis A (\"infectious hepatitis\")",
+            "Hepatitis B (\"syringe jaundice\")",
+            "Hepatitis C"
+        ],
+        "options": [
+            "Respiratory cancer",
+            "Chronic obstructive pulmonary disease",
+            "Hepatitis C",
+            "Tobaccoism",
+            "Coronary heart disease",
+            "Occupational risks",
+            "Environmental risks",
+            "Immunization-related hazards",
+            "Tuberculosis",
+            "Phthisis",
+            "Pleurisy",
+            "Consumption",
+            "Myocardial Infarction",
+            "Ruptured ventricle",
+            "Childhood Leukemia"
+        ],
+        "question": "What are the identified types of hepatitis discussed in terms of viral classification within the given context?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 33,
+            "paragraph_id": "978-0071441988-p33-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Planning",
+            "Organizing",
+            "Team building",
+            "Directing",
+            "Evaluating management"
+        ],
+        "options": [
+            "Planning",
+            "Organizing",
+            "Directing",
+            "Evaluating management",
+            "Information systems",
+            "Communication"
+        ],
+        "question": "What are the main tasks involved in managing epidemiological efforts?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 35,
+            "paragraph_id": "978-0071441988-p35-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dermatophytes",
+            "Yeasts",
+            "Nondermatophyte molds"
+        ],
+        "options": [
+            "Dermatophytes",
+            "Yeasts",
+            "Nondermatophyte molds",
+            "Bacteria",
+            "Viruses"
+        ],
+        "question": "What types of fungi cause onychomycosis?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 498,
+            "paragraph_id": "978-0071441988-p498-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amphotericin B",
+            "Voriconazole",
+            "An echinocandin",
+            "An azole"
+        ],
+        "options": [
+            "Amphotericin B",
+            "Voriconazole",
+            "An echinocandin",
+            "An azole",
+            "Surgical resection alone",
+            "Immune system modulation through corticosteroid reduction"
+        ],
+        "question": "What types of antifungal therapies can be administered for treating aspergillosis?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 491,
+            "paragraph_id": "978-0071441988-p491-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Trichophyton verrucosum"
+        ],
+        "options": [
+            "Trichophyton mentagrophytes",
+            "Epidermophyton floccosum",
+            "Microsporum canis",
+            "Trichophyton verrucosum",
+            "Aspergillus fumigatus"
+        ],
+        "question": "What organisms cause Tinea Corporis according to the given descriptions?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 497,
+            "paragraph_id": "978-0071441988-p497-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pneumonic process",
+            "CNS infection",
+            "Cutaneous involvement",
+            "Mucocutaneous involvement",
+            "Osseous involvement",
+            "Visceral involvement"
+        ],
+        "options": [
+            "Pneumonic process",
+            "Central nervous system (CNS) infection",
+            "Cutaneous involvement",
+            "Mucocutaneous involvement",
+            "Osseous involvement",
+            "Visceral involvement"
+        ],
+        "question": "What forms does Cryptococcosis take according to the description?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 489,
+            "paragraph_id": "978-0071441988-p489-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "California",
+            "Cincinnati",
+            "Colorado"
+        ],
+        "options": [
+            "California",
+            "Cincinnati",
+            "Colorado"
+        ],
+        "question": "What locations had studies conducted regarding the incidence of Toxic Shock Syndrome?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 512,
+            "paragraph_id": "978-0071441988-p512-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Artemisinin derivatives",
+            "Oxamniquine",
+            "Metrifonate"
+        ],
+        "options": [
+            "Artemisinin derivatives",
+            "Oxamniquine",
+            "Metrifonate",
+            "Molluscicides",
+            "Chemotherapy"
+        ],
+        "question": "What alternative treatments to Praziquantel for the treatment of Schistosomes are mentioned?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 508,
+            "paragraph_id": "978-0071441988-p508-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pruritus",
+            "Wheezing",
+            "Abdominal pain",
+            "Diarrhea",
+            "Nausea",
+            "Anorexia",
+            "Indigestion",
+            "Malabsorption",
+            "Growth retardation",
+            "Pulmonary symptoms",
+            "Gastrointestinal symptoms",
+            "Urticarial rash",
+            "Larva currens",
+            "Bacteremia"
+        ],
+        "options": [
+            "Pruritus",
+            "Wheezing",
+            "Abdominal pain",
+            "Diarrhea",
+            "Nausea",
+            "Anorexia",
+            "Indigestion",
+            "Malabsorption",
+            "Growth retardation",
+            "Pulmonary symptoms",
+            "Gastrointestinal symptoms",
+            "Urticarial rash",
+            "Larva currens",
+            "Bacteremia",
+            "Malignancy",
+            "Renal failure",
+            "Chronic pulmonary disease",
+            "Tuberculosis",
+            "Alcoholism",
+            "Malnutrition"
+        ],
+        "question": "What types of symptoms do individuals infected with *S. stercoralis* typically experience during different stages of infection?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 503,
+            "paragraph_id": "978-0071441988-p503-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Genetic predisposition",
+            "Exposure to environmental toxins",
+            "Viral infections",
+            "Medication use, specifically salicylates and antiemetics"
+        ],
+        "options": [
+            "Genetic predisposition",
+            "Exposure to environmental toxins",
+            "Viral infections",
+            "Medication use, specifically salicylates and antiemetics",
+            "Age and geographic location"
+        ],
+        "question": "What factors have been hypothesized to contribute to the development of Reye's syndrome?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 518,
+            "paragraph_id": "978-0071441988-p518-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cumulative incidence",
+            "Relative risk",
+            "Odds ratio",
+            "Attributable risk",
+            "Confidence intervals"
+        ],
+        "options": [
+            "Cumulative incidence",
+            "Relative risk",
+            "Odds ratio",
+            "Attributable risk",
+            "Prevalence",
+            "Confidence intervals"
+        ],
+        "question": "What are the key metrics calculated when examining the relationship between exposure and disease occurrence in epidemiology?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 46,
+            "paragraph_id": "978-0071441988-p46-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Effectiveness",
+            "Efficacy",
+            "Efficiency"
+        ],
+        "options": [
+            "Effectiveness",
+            "Efficacy",
+            "Efficiency"
+        ],
+        "question": "What are the main distinctions made in the terms regarding the assessment of a therapeutic or preventive agent or an intervention procedure?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 49,
+            "paragraph_id": "978-0071441988-p49-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Economic incentives for population control",
+            "Coercive measures like forced sterilization",
+            "Tobacco addiction",
+            "Traffic injuries",
+            "Environmental pollution"
+        ],
+        "options": [
+            "Economic incentives for population control",
+            "Coercive measures like forced sterilization",
+            "Tobacco addiction",
+            "Traffic injuries",
+            "Environmental pollution",
+            "Justice in healthcare access",
+            "Beneficence in public health"
+        ],
+        "question": "What are some examples of factors or issues affecting public health policy and international health as mentioned in discussions about population management, healthcare disparities, and global health initiatives?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 61,
+            "paragraph_id": "978-0071441988-p61-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Associations between rubella and birth defects, cigarette smoking and cancer, exposure to ionizing radiation and cancer"
+        ],
+        "options": [
+            "Association between excessive coffee consumption and sleep disorders",
+            "Associations between rubella and birth defects, cigarette smoking and cancer, exposure to ionizing radiation and cancer",
+            "Relationship between obesity and heart disease",
+            "Link between poor air quality and respiratory infections",
+            "Excess deaths from use of certain antidepressants"
+        ],
+        "question": "What associations were identified through routine analyses of health statistics?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 57,
+            "paragraph_id": "978-0071441988-p57-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Observational",
+            "Experimental",
+            "Case-control",
+            "Cohort",
+            "Cross-sectional"
+        ],
+        "options": [
+            "Observational",
+            "Experimental",
+            "Case-control",
+            "Cohort",
+            "Descriptive"
+        ],
+        "question": "What types of study designs are discussed in terms of investigating health-related phenomena?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 43,
+            "paragraph_id": "978-0071441988-p43-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chemical variants of metals referred to as \u201cchemical species\u201d",
+            "Isomers, having the same chemical formula but differing in structure",
+            "Congeners, having the same basic structure but different numbers of atoms",
+            "Valence states of elements"
+        ],
+        "options": [
+            "Chemical variants of metals referred to as \u201cchemical species\u201d",
+            "Isomers, having the same chemical formula but differing in structure",
+            "Congeners, having the same basic structure but different numbers of atoms",
+            "Valence states of elements",
+            "Physical forms of chemicals"
+        ],
+        "question": "What types of chemical variations are discussed regarding differences in toxicity?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 534,
+            "paragraph_id": "978-0071441988-p534-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inhalation",
+            "Dermal penetration",
+            "Injection",
+            "Digestive tract absorption",
+            "Ocular contact"
+        ],
+        "options": [
+            "Inhalation",
+            "Dermal penetration",
+            "Injection",
+            "Digestive tract absorption",
+            "Ocular contact"
+        ],
+        "question": "What routes of entry do toxicants commonly take?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 539,
+            "paragraph_id": "978-0071441988-p539-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Omega-3 fatty acids",
+            "Mercury",
+            "Arsenic",
+            "Polychlorinated dibenzorfurans",
+            "Benzo[a]pyrene",
+            "Vitamin A",
+            "Retinoids",
+            "Radon"
+        ],
+        "options": [
+            "Omega-3 fatty acids",
+            "Mercury",
+            "Arsenic",
+            "Polychlorinated dibenzorfurans",
+            "Benzo[a]pyrene",
+            "Vitamin A",
+            "Retinoids",
+            "Radon"
+        ],
+        "question": "What are some examples of substances or elements discussed in terms of their potential impact on health or involvement in biological processes?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 559,
+            "paragraph_id": "978-0071441988-p559-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Independence/additivity",
+            "Synergy/supra-additivity",
+            "Antagonism"
+        ],
+        "options": [
+            "Independence/additivity",
+            "Synergy/supra-additivity",
+            "Multiplication",
+            "Antagonism/inhibition"
+        ],
+        "question": "What types of interactions occur when two chemicals are administered together?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 544,
+            "paragraph_id": "978-0071441988-p544-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Descriptive pattern approach",
+            "Mechanistic approach"
+        ],
+        "options": [
+            "A trend towards understanding genetic sequences better",
+            "Descriptive pattern approach and mechanistic approach",
+            "Increased focus on pharmacogenetics",
+            "Greater emphasis on computational models"
+        ],
+        "question": "What trends in research does the rapidly growing genomics literature illustrate?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 549,
+            "paragraph_id": "978-0071441988-p549-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Influenza A viruses of subtype H5 and H7"
+        ],
+        "options": [
+            "Type B",
+            "Type C",
+            "Subtype H5",
+            "Subtype N7",
+            "Influenza A viruses of subtype H5 and H7"
+        ],
+        "question": "What types of influenza viruses have been identified as being capable of infecting humans?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 107,
+            "paragraph_id": "978-0071441988-p107-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Huntington's disease",
+            "Neurofibromatosis",
+            "Achondroplasia",
+            "Tuberous Sclerosis",
+            "Marfan Syndrome",
+            "Osteogenesis Imperfecta"
+        ],
+        "options": [
+            "Osteogenesis Imperfecta",
+            "Neurofibromatosis",
+            "Cystic Fibrosis",
+            "Phenylketonuria",
+            "Achondroplasia",
+            "Tuberous Sclerosis",
+            "Marfan Syndrome",
+            "Hemophilia"
+        ],
+        "question": "What types of diseases or disorders are included under Autosomal Dominant Disorders?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 93,
+            "paragraph_id": "978-0071441988-p93-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Socioeconomic position",
+            "Race/ethnicity",
+            "Disability",
+            "Geography",
+            "Gender"
+        ],
+        "options": [
+            "Socioeconomic position",
+            "Race/ethnicity",
+            "Disability",
+            "Geography",
+            "Gender",
+            "Education level",
+            "Employment status"
+        ],
+        "question": "What are some examples of bases for inequitable opportunities leading to health disparities?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 82,
+            "paragraph_id": "978-0071441988-p82-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Yellow Fever",
+            "Meningococcal Meningitis",
+            "Poliomyelitis",
+            "Tetanus",
+            "Diphtheria",
+            "Measles",
+            "Hepatitis A"
+        ],
+        "options": [
+            "Tetanus",
+            "Diphtheria",
+            "Pertussis",
+            "Poliomyelitis",
+            "Measles",
+            "Hepatitis A",
+            "Yellow Fever",
+            "Meningococcal Meningitis"
+        ],
+        "question": "What types of diseases for which vaccinations are considered mandatory or highly recommended for travelers visiting specific countries?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 114,
+            "paragraph_id": "978-0071441988-p114-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aligning organizational and IT strategies",
+            "Establishing a clear rationale of benefits",
+            "Justifying a long-term finance strategy",
+            "Building a framework of process descriptions",
+            "Developing a comprehensive set of requirements",
+            "Answering the \u201cbuy or build\u201d question",
+            "Managing the project development phase",
+            "Training the individuals operating the new system",
+            "Guiding the implementation and accompanying change processes",
+            "Evaluating the ultimate impact on health outcomes"
+        ],
+        "options": [
+            "Aligning organizational and financial strategies",
+            "Establishing a rationale of benefits and justifying finance",
+            "Building a process description framework and answering buy/build questions",
+            "Managing training phases",
+            "Implementing evaluation metrics for outcomes",
+            "Setting up disaster recovery plans",
+            "Creating strategic partnerships",
+            "Conducting feasibility studies"
+        ],
+        "question": "What are the main stages involved in developing enterprise-level information systems for public health agencies?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 76,
+            "paragraph_id": "978-0071441988-p76-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased maternal age",
+            "Family history of specific disorders",
+            "Neural tube defects",
+            "Exposure to known teratogens during pregnancy"
+        ],
+        "options": [
+            "Increased paternal age",
+            "Family history of specific disorders",
+            "Previous child with Tay-Sachs disease",
+            "Increased maternal age",
+            "Neural tube defects diagnosed through ultrasound",
+            "Exposure to known teratogens during pregnancy"
+        ],
+        "question": "What are the reasons why a person might undergo prenatal testing?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 97,
+            "paragraph_id": "978-0071441988-p97-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Health",
+            "Fertility",
+            "The use of health services",
+            "Employment",
+            "Education"
+        ],
+        "options": [
+            "Employment",
+            "Education",
+            "Fertility",
+            "Health services utilization",
+            "Housing conditions"
+        ],
+        "question": "What topics do the population-based surveys cover?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 66,
+            "paragraph_id": "978-0071441988-p66-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Persons with mild illnesses such as upper respiratory tract infections"
+        ],
+        "options": [
+            "Persons with severe febrile illnesses",
+            "Persons with mild illnesses such as upper respiratory tract infections",
+            "Individuals who received antibody-containing blood products within the last month",
+            "Pregnant women",
+            "Infants younger than six months old",
+            "Children living in areas where ITP prevalence is high"
+        ],
+        "question": "What are the conditions under which measles vaccination can be administered?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 130,
+            "paragraph_id": "978-0071441988-p130-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Young age",
+            "Crowding",
+            "Malnutrition",
+            "Infection with human immunodeficiency virus",
+            "Coincident respiratory or gastrointestinal illness"
+        ],
+        "options": [
+            "Young age",
+            "Crowding",
+            "Malnutrition",
+            "Infection with human immunodeficiency virus",
+            "Coincident respiratory or gastrointestinal illness",
+            "High socioeconomic status",
+            "Advanced medical care availability"
+        ],
+        "question": "What factors contribute to complications and death among individuals infected with measles?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 131,
+            "paragraph_id": "978-0071441988-p131-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Patient\u2019s age",
+            "Prior vaccination status",
+            "Antimicrobial therapy",
+            "Stage of illness"
+        ],
+        "options": [
+            "Patient\u2019s age",
+            "Prior vaccination status",
+            "Stage of illness",
+            "Antimicrobial therapy received",
+            "Presence of selectivity agents in agar mediums"
+        ],
+        "question": "What factors contribute to the recovery of *Bordetella pertussis* from patients?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 138,
+            "paragraph_id": "978-0071441988-p138-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Both IARC and EPA have distinct classifications for carcinogens"
+        ],
+        "options": [
+            "Only one uniform global classification system exists",
+            "Multiple national classification systems but no international consensus",
+            "Both IARC and EPA have distinct classifications for carcinogens",
+            "Carcinogens cannot be classified due to lack of scientific understanding",
+            "Classification depends purely on animal tests alone"
+        ],
+        "question": "What types of carcinogenic classification systems exist according to the information given?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 576,
+            "paragraph_id": "978-0071441988-p576-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reduced acetylcholinesterase activity",
+            "Mutations in particular genes",
+            "DNA adducts",
+            "Sperm counts",
+            "Measurement of anogenital distance",
+            "Imaging technology, particularly functional MRI scans of the brain"
+        ],
+        "options": [
+            "Sperm count reduction",
+            "Acetylcholine level decrease",
+            "Blood lead concentration",
+            "Organophosphate pesticide exposure",
+            "Hepatitis B infection",
+            "Increased PBDE concentrations in breast milk",
+            "Genetic variation in XRCC1",
+            "Elevated levels of aflatoxin-DNA adducts",
+            "Liver function tests",
+            "Mutation in p53 tumor suppressor gene"
+        ],
+        "question": "What are examples of biomarkers related to exposure that have been extensively studied?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 590,
+            "paragraph_id": "978-0071441988-p590-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Schools",
+            "Public buildings",
+            "Commercial establishments"
+        ],
+        "options": [
+            "Residential homes",
+            "Schools",
+            "Public buildings",
+            "Commercial establishments",
+            "Industrial facilities"
+        ],
+        "question": "What types of locations have been identified as having significant amounts of friable asbestos-containing material?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 596,
+            "paragraph_id": "978-0071441988-p596-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "IARC classification includes Groups 1 through 4",
+            "EPA categorizes carcinogens under labels A through E",
+            "Both agencies classify carcinogens similarly but label them differently"
+        ],
+        "options": [
+            "IARC classification includes Groups 1 through 4",
+            "EPA categorizes carcinogens under labels A through E",
+            "Both agencies classify carcinogens similarly but label them differently",
+            "Only the IARC has a five-tier system for classifying chemicals based on human cancer",
+            "There are seven tiers in total combining both systems",
+            "Neither agency has a formal system for classifying carcinogens"
+        ],
+        "question": "What are the classifications of carcinogens according to both the International Agency for Research on Cancer (IARC) and the US Environmental Protection Agency (EPA)?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 575,
+            "paragraph_id": "978-0071441988-p575-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Obstructive lesions of the small airways",
+            "Increased air trapping",
+            "Total lung volume increase",
+            "Pleural effusions lasting weeks to months"
+        ],
+        "options": [
+            "Obstructive lesions of the small airways",
+            "Decrease in diffusing capacity as an early sign",
+            "Reduced thoracic gas volume",
+            "Increased air trapping",
+            "Total lung volume increase",
+            "Pleural effusions lasting weeks to months"
+        ],
+        "question": "What are the characteristics associated with asbestosis according to the given descriptions?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 600,
+            "paragraph_id": "978-0071441988-p600-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "residents of nursing homes and other chronic-care facilities that house persons of any age who have chronic medical conditions",
+            "adults and children who have chronic disorders of the pulmonary or cardiovascular systems, including asthma",
+            "adults and children who have required regular medical follow-up or hospitalization during the preceding year because of chronic metabolic diseases",
+            "adults and children who have any condition that can compromise respiratory function or the handling of respiratory secretions",
+            "children and adolescents (aged 6 months\u201318 years) who are receiving long-term aspirin therapy",
+            "women who will be pregnant during the influenza season",
+            "children aged 6\u201323 months",
+            "persons aged 50\u201364 years",
+            "persons who can transmit influenza to those at high risk",
+            "employees of assisted living and other residences for persons in groups at high risk",
+            "household contacts (including children) of persons in groups at high risk",
+            "physicians",
+            "dentists"
+        ],
+        "options": [
+            "Persons aged < 20 years",
+            "Residents of nursing homes and other chronic-care facilities that house persons of any age who have chronic medical conditions",
+            "Adults and children who have chronic disorders of the cardiovascular system",
+            "Children and adolescents receiving short-term aspirin therapy",
+            "Women who will not be pregnant during the influenza season",
+            "Household contacts of persons in low-risk groups",
+            "Employees of hospitals",
+            "Physicians",
+            "Dentists"
+        ],
+        "question": "What are the recommended groups for receiving inactivated influenza vaccination according to the U.S. Advisory Committee on Immunization Practices?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 149,
+            "paragraph_id": "978-0071441988-p149-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Foundry casting removal",
+            "Bricklaying and dismantling of refractory bricks",
+            "Pottery making",
+            "Glass industry worker, specifically grinders and polishers",
+            "Metal mining",
+            "Stone carving",
+            "Dental supply factory workers",
+            "Quarrying"
+        ],
+        "options": [
+            "Foundry casting removal",
+            "Bricklaying and dismantling of refractory bricks",
+            "Pottery making",
+            "Glass industry worker, specifically grinders and polishers",
+            "Metal mining",
+            "Stone carving",
+            "Dental supply factory workers",
+            "Quarrying"
+        ],
+        "question": "What occupations involve significant exposure to silica?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 618,
+            "paragraph_id": "978-0071441988-p618-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Appalachia",
+            "Eastern Interior",
+            "Western Interior",
+            "Texas Gulf",
+            "Power River",
+            "Fort Union",
+            "Green River",
+            "Four Corners"
+        ],
+        "options": [
+            "Wisconsin",
+            "New York",
+            "California",
+            "Hawaii",
+            "Alaska",
+            "Appalachia",
+            "Eastern Interior",
+            "Western Interior",
+            "Texas Gulf",
+            "Power River",
+            "Fort Union",
+            "Green River",
+            "Four Corners",
+            "Hawan",
+            "Arizona"
+        ],
+        "question": "What are the names of the regions inhabited by coal workers?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 611,
+            "paragraph_id": "978-0071441988-p611-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Metal smelting",
+            "Production and use of various alloys",
+            "Semiconductor industry",
+            "Production and use of wood treatment",
+            "Production of opal glass",
+            "Certain kinds of enameling",
+            "Production of pharmaceuticals",
+            "Production of paints and coatings",
+            "Leather tanning and the taxidermist industry",
+            "Production, handling, analysis, etc., of arsenic and arsenic compounds"
+        ],
+        "options": [
+            "Agricultural pest management",
+            "Pharmaceutical manufacturing",
+            "Wood preservation",
+            "Semiconductor fabrication",
+            "Leather processing",
+            "Textile dyeing",
+            "Production of abrasives",
+            "Nonferrous metal refining",
+            "All of the above"
+        ],
+        "question": "What types of industries involve significant occupational exposures to arsenic?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 631,
+            "paragraph_id": "978-0071441988-p631-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Stonecutters",
+            "Sandblasters",
+            "Construction workers",
+            "Pottery makers",
+            "Quarry workers",
+            "Cement plant employees",
+            "Glass manufacturers",
+            "Mineralogists",
+            "Brickworkers",
+            "Hematite miners"
+        ],
+        "options": [
+            "Stonecutters",
+            "Sandblasters",
+            "Construction workers",
+            "Pottery makers",
+            "Quarry workers",
+            "Cement plant employees",
+            "Glass manufacturers",
+            "Mineralogists",
+            "Brickworkers",
+            "Hematite miners"
+        ],
+        "question": "What types of jobs put people at risk of developing silicosis?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 622,
+            "paragraph_id": "978-0071441988-p622-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Whole cell pertussis vaccines",
+            "Two-component acellular pertussis vaccines",
+            "Five-component acellular pertussis vaccines",
+            "Three-component acellular pertussis vaccines"
+        ],
+        "options": [
+            "Whole cell pertussis vaccines",
+            "Two-component acellular pertussis vaccines",
+            "Five-component acellular pertussis vaccines",
+            "Three-component acellular pertussis vaccines"
+        ],
+        "question": "What types of pertussis vaccines were compared in studies referenced within this collection?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 169,
+            "paragraph_id": "978-0071441988-p169-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Low birth weight",
+            "Premature rupture of membranes",
+            "Preterm delivery",
+            "Fetal demise",
+            "Congenitally infected infant",
+            "Septic abortion",
+            "Inclusion conjunctivitis",
+            "Pneumonia",
+            "Rectovaginal infection",
+            "Ophthalmia neonatorum",
+            "Spontaneous abortion",
+            "Intrauterine growth restriction"
+        ],
+        "options": [
+            "Low birth weight",
+            "Premature rupture of membranes",
+            "Preterm delivery",
+            "Fetal demise",
+            "Congenitally infected infant",
+            "Septic abortion",
+            "Inclusion conjunctivitis",
+            "Pneumonia",
+            "Rectovaginal infection",
+            "Ophthalmia neonatorum",
+            "Spontaneous abortion",
+            "Intrauterine growth restriction"
+        ],
+        "question": "What are the distinct consequences of acquiring certain sexually transmitted diseases during pregnancy?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 187,
+            "paragraph_id": "978-0071441988-p187-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chlamydia",
+            "Gonorrhea",
+            "Syphilis",
+            "AIDS",
+            "HBV (Hepatitis B Virus)"
+        ],
+        "options": [
+            "Gonorrhea",
+            "Syphilis",
+            "Hepatitis C",
+            "HBV (Hepatitis B Virus)",
+            "Herpes Simplex Virus",
+            "Human Immunodeficiency Virus (HIV)"
+        ],
+        "question": "What types of sexually transmitted infections require reporting according to the 2005 regulations?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 183,
+            "paragraph_id": "978-0071441988-p183-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gonorrhea",
+            "Chlamydia",
+            "Syphilis",
+            "Trichomoniasis",
+            "Human Papillomavirus (HPV)",
+            "Genital Warts",
+            "Cervical Cancer"
+        ],
+        "options": [
+            "Gonorrhea",
+            "Chlamydia",
+            "Syphilis",
+            "Trichomoniasis",
+            "Human Papillomavirus (HPV)",
+            "Genital Warts",
+            "Cervical Cancer",
+            "Hepatitis B"
+        ],
+        "question": "What types of sexually transmitted infections (STIs) have studies suggested that consistent and correct use of male latex condoms can reduce the risk of?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 191,
+            "paragraph_id": "978-0071441988-p191-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Leukemia",
+            "Lymphomas",
+            "Lung cancer",
+            "Oral cavity cancer",
+            "Hepatocellular carcinoma",
+            "Mammary carcinomas",
+            "Lymphoreticular neoplasia",
+            "Multiple Myeloma"
+        ],
+        "options": [
+            "Leukemia",
+            "Lymphomas",
+            "Lung cancer",
+            "Oral cavity cancer",
+            "Hepatocellular carcinoma",
+            "Mammary carcinomas",
+            "Lymphoreticular neoplasia",
+            "Multiple Myeloma",
+            "Carcinomas in various organs"
+        ],
+        "question": "What types of cancers have been specifically identified as resulting from benzene exposure?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 651,
+            "paragraph_id": "978-0071441988-p651-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Halogenated hydrocarbons",
+            "Volatile organic compounds",
+            "Chlorinated methanes",
+            "Ethanes",
+            "Trihalomethanes",
+            "Dichloroethane",
+            "Vinyl chloride",
+            "Chloroform",
+            "Bromodichloromethane",
+            "Trichloroethane",
+            "Linear and cyclic halogenated hydrocarbons"
+        ],
+        "options": [
+            "Halogenated hydrocarbons",
+            "Volatile organic compounds",
+            "Chlorinated methanes",
+            "Ethanes",
+            "Trihalomethanes",
+            "Dichloroethane",
+            "Vinyl chloride",
+            "Chloroform",
+            "Bromodichloromethane",
+            "Trichloroethane",
+            "Linear and cyclic halogenated hydrocarbons",
+            "Solvents",
+            "Fluorocarbons",
+            "Other chlorinated methanes and ethanes"
+        ],
+        "question": "What are the names of the chemicals whose exposure has received increasing attention in the given context?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 657,
+            "paragraph_id": "978-0071441988-p657-para1"
+        },
+        "type": "list"
+    }
+]

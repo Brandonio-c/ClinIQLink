@@ -1,0 +1,542 @@
+[
+    {
+        "answer": "Episodes of M\u00e9ni\u00e8re disease typically last minutes.",
+        "false_answer": "Episodes of M\u00e9ni\u00e8re disease typically last minutes.",
+        "incorrect_explanation": "According to the temporal patterns outlined for vertigo, M\u00e9ni\u00e8re disease episodes actually last hours, not minutes. Thus, the correct duration for M\u00e9ni\u00e8re disease episodes should reflect this timeframe accurately.",
+        "question": "What is the typical duration of episodes experienced by individuals suffering from M\u00e9ni\u00e8re disease?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1215,
+            "paragraph_id": "978-0071484800-p1215-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dexa-methasone is given at a dose of 5 milligrams IV.",
+        "false_answer": "Dexa-methasone is given at a dose of 5 milligrams IV.",
+        "incorrect_explanation": "The paragraph specifies that the dosage of dexa-methasone used to treat brain edema associated with tumors is actually 10 milligrams IV, making the statement incorrect.",
+        "question": "What dosage of dexa-methasone is administered via IV to treat cases of brain edema associated with tumors?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1210,
+            "paragraph_id": "978-0071484800-p1210-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At least 30%.",
+        "false_answer": "At least 30%.",
+        "incorrect_explanation": "According to the chapter, bilateral interfacetal dislocations occur when the vertebral body is dislocated anteriorly at least 50% of its width, making the given answer of 30% incorrect.",
+        "question": "What percentage of the vertebral body's width does it need to be dislocated anteriorly to classify the condition as a bilateral interfacetal dislocation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1794,
+            "paragraph_id": "978-0071484800-p1794-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15% of children with Down syndrome exhibit symptoms of atlantoaxial instability.",
+        "false_answer": "Approximately 15% of children with Down syndrome exhibit symptoms of atlantoaxial instability.",
+        "incorrect_explanation": "According to the provided text, atlantoaxial instability is indeed reported to occur in 10% to 20% of children with Down syndrome, but it is symptomatic in only about 3%, making the statement regarding symptom exhibition incorrect.",
+        "question": "What percent of children with Down syndrome experience symptoms of atlantoaxial instability?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1810,
+            "paragraph_id": "978-0071484800-p1810-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Such an injury typically leads to preservation of motor function along with complete loss of pain, temperature, and vibration sensations.",
+        "false_answer": "Injury affecting the anterior spinal cord preserves motor function and completely loses pain, temperature, and vibration sensations.",
+        "incorrect_explanation": "According to the provided information, the anterior cord syndrome actually results from damage to the corticospinal and spinothalamic pathways, leading to loss of motor function and pain/temperature sensation, whereas vibration, position, and crude touch are preserved.",
+        "question": "What happens if an injury affects the anterior spinal cord?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1803,
+            "paragraph_id": "978-0071484800-p1803-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% of patients with sternal fractures had co-existing traumatic brain injuries.",
+        "false_answer": "Approximately 60% of patients with sternal fractures had co-existing traumatic brain injuries.",
+        "incorrect_explanation": "According to the paragraph, approximately *almost half* of patients who sustained sternal fractures had co-existing traumatic brain injuries, which implies around 50%, not 60%. Therefore, the statement is incorrect as it exaggerates the actual reported proportion.",
+        "question": "What percentage of patients with sternal fractures were found to have co-existing traumatic brain injuries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1838,
+            "paragraph_id": "978-0071484800-p1838-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Double pleural markings with the appearance of marching ants.",
+        "false_answer": "Double pleural markings with the appearance of marching ants.",
+        "incorrect_explanation": "According to the given information, these findings (\"double pleural markings,\" \"marching ants,\" or the \"sliding lung sign\") are actually characteristic of a *normal* lung upon sonographic examination, indicating lung movement during the ventilatory phase. They would be *absent* in the presence of pneumothorax.",
+        "question": "What is typically observed sonographically over the area of a pneumothorax?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1827,
+            "paragraph_id": "978-0071484800-p1827-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hemodialysis becomes less effective when the toxin has a molecular weight of less than 300 Da.",
+        "false_answer": "Hemodialysis becomes less effective when the toxin has a molecular weight of less than 300 Da.",
+        "incorrect_explanation": "According to the paragraph, hemodialysis is actually less effective when the toxin ingested has a large molecular weight (>500 Da), not smaller ones. Therefore, the statement provided in the answer is incorrect and misleading.",
+        "question": "What condition makes hemodialysis particularly ineffective for removing a toxin?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1266,
+            "paragraph_id": "978-0071484800-p1266-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Muscle wasting generally begins immediately after the onset of paralysis and progresses rapidly throughout the entire first month following maximal paralysis.",
+        "false_answer": "Muscle wasting generally begins immediately after the onset of paralysis and progresses rapidly throughout the entire first month following maximal paralysis.",
+        "incorrect_explanation": "According to the paragraph, maximum paralysis usually occurs within 5 days, and muscle wasting then occurs over several weeks, indicating that the progression of muscle wasting does not necessarily start right away but follows after the peak of paralysis has been reached.\n- **Correct Answer Should Be:** Following maximal paralysis, muscle wasting typically occurs over several weeks.",
+        "question": "What is the typical duration observed for muscle wasting following maximal paralysis in patients diagnosed with spinal polio?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1240,
+            "paragraph_id": "978-0071484800-p1240-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 40% of patients.",
+        "false_answer": "Up to 40%",
+        "incorrect_explanation": "According to the given information, dementia occurs in up to 15%, especially those with familial ALS, not up to 40%. Therefore, the statement claiming that up to 40% of ALS patients exhibit dementia contains a factual error concerning the actual prevalence rate mentioned in the passage.",
+        "question": "What percentage of Amyotrophic Lateral Sclerosis (ALS) patients exhibit dementia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1234,
+            "paragraph_id": "978-0071484800-p1234-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ocular exposures are treated with copious irrigation using up to 10 liters of isotonic crystalline solution.",
+        "false_answer": "Up to 10 liters of isotonic crystalline solution.",
+        "incorrect_explanation": "According to the given information, ocular exposures are actually treated with copious irrigation using isotonic crystalloid, specifically mentioning volumes of 1 to 2 liters per eye, not up to 10 liters. Therefore, the statement regarding the usage of up to 10 liters of isotonic crystalline solution for ocular decontamination is inaccurate.",
+        "question": "What volume of fluid is generally used for ocular decontamination?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1261,
+            "paragraph_id": "978-0071484800-p1261-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An initial dose of 5 grams of IV magnesium sulfate.",
+        "false_answer": "An initial dose of 5 grams of IV magnesium sulfate.",
+        "incorrect_explanation": "According to the paragraph, the recommended dose for treating Torsades de Pointes is actually 2 grams of IV magnesium sulfate, not 5 grams.",
+        "question": "What dose of magnesium sulfate is recommended for treating Torsades de Pointes caused by cyclic antidepressant overdose?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1271,
+            "paragraph_id": "978-0071484800-p1271-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary function of monoamine oxidase enzymes is to synthesize biogenic amines.",
+        "false_answer": "The primary function of monoamine oxidase enzymes is to synthesize biogenic amines.",
+        "incorrect_explanation": "According to the paragraph, monoamine oxidase functions to remove amine groups from both endogenous and exogenous biogenic amines through an oxidative deamination process, thereby inactivating them rather than synthesizing them. Thus, the statement is incorrect because it reverses the actual biochemical role of monoamine oxidase.",
+        "question": "What is the primary function of monoamine oxidase enzymes?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1277,
+            "paragraph_id": "978-0071484800-p1277-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Over time, the sensations felt by the patient in their hands improve spontaneously without any intervention, leading to full recovery of feeling in the fifth and lateral fourth fingers.",
+        "false_answer": "Sensations improve spontaneously over time without intervention.",
+        "incorrect_explanation": "According to the chapter, the classic symptoms of cubital tunnel syndrome include tingling in the fifth and lateral fourth fingers, followed by development of numbness and weakness of the intrinsic muscles of the hand over time. Severe cases may lead to paralysis and wasting of these muscles, indicating progression rather than spontaneous improvement.",
+        "question": "What typically happens to the sensation experienced by the patient's skin over time in cases of untreated cubital tunnel syndrome?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1231,
+            "paragraph_id": "978-0071484800-p1231-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of shunt infections occur beyond this timeframe.",
+        "false_answer": "Approximately 90% of shunt infections occur beyond 6 months after shunt placement.",
+        "incorrect_explanation": "According to the paragraph, 80% of shunt infections present within 6 months of placement, indicating that less than 20% would occur beyond this point, contrary to stating that 90% occur later.",
+        "question": "What percentage of shunt infections present more than 6 months after shunt placement?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1250,
+            "paragraph_id": "978-0071484800-p1250-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dantrolene is administered intravenously at a dose of 2.5 to 10 mg/kg.",
+        "false_answer": "Dantrolene is administered intravenously at a dose of 2.5 to 10 mg/kg.",
+        "incorrect_explanation": "According to the chapter on Antipsychotics, the actual dosage range for dantrolene in managing severe, resistant cases of muscle rigidity is 0.5 to 2.5 milligrams/kg IV every 6 hours. Thus, the answer significantly overstates both the upper limit and possibly suggests continuous infusion rather than intermittent dosing.",
+        "question": "What dosage range of dantrolene is typically used to manage severe, resistant cases of muscle rigidity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1280,
+            "paragraph_id": "978-0071484800-p1280-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Less than 10%.",
+        "false_answer": "Less than 10%.",
+        "incorrect_explanation": "According to the paragraph, more than 35% of blunt trauma patients thought to have a \"benign abdomen\" on initial physical examination are later found to have significant intra-abdominal injury requiring laparotomy, making the statement less than 10% incorrect.",
+        "question": "What percent of blunt trauma patients thought to have a benign abdomen on initial physical examination are later found to have significant intra-abdominal injury requiring laparotomy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1847,
+            "paragraph_id": "978-0071484800-p1847-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Common handgun bullets typically form a temporary cavity ranging between 30-35 centimeters in diameter.",
+        "false_answer": "Temporary cavity diameters of 30-35 centimeters for common handgun bullets.",
+        "incorrect_explanation": "According to the chapter, the temporary cavity caused by common handgun bullets is actually too small to be a significant wounding factor in most tissues, implying sizes far smaller than what is claimed in the false answer. Specifically, larger temporary cavities associated with significant wounding factors are described for center-fire rifle bullets and large handgun bullets (.44 Magnum), reaching diameters of 10-25 cm (4-10 in.), not common handguns.",
+        "question": "What is the typical range of diameters for the temporary cavity formed by common handgun bullets?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1862,
+            "paragraph_id": "978-0071484800-p1862-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "10 to 15 mL of contrast is gently injected into the urethra for this procedure.",
+        "false_answer": "10 to 15 mL of contrast is gently injected into the urethra for this procedure.",
+        "incorrect_explanation": "According to the chapter, the actual volume of contrast injected for a retrograde urethrogram is between 20 to 30 mL, making the given range of 10 to 15 mL inaccurate. Therefore, the correct answer should reflect this specified volume.",
+        "question": "What amount of contrast is typically injected into the urethra to perform a retrograde urethrogram?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1858,
+            "paragraph_id": "978-0071484800-p1858-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 95% of gastrointestinal diseases in the U.S.",
+        "false_answer": "Approximately 95% of gastrointestinal diseases in the U.S.",
+        "incorrect_explanation": "There's no mention in the paragraph of diverticulitis accounting for any specific proportion of gastrointestinal diseases in the U.S.; instead, the focus is on its characteristics, etiology, pathogenesis, clinical presentation, diagnosis, and treatment.",
+        "question": "What proportion of cases does diverticulitis account for in the United States?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 630,
+            "paragraph_id": "978-0071484800-p630-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gastric lavage via nasogastric tube",
+        "false_answer": "Gastric lavage via nasogastric tube",
+        "incorrect_explanation": "According to the chapter, oro-gastric lavage is performed orally with a large-bore tube because an NG tube is too small to retrieve pill fragments, indicating that a nasogastric approach is inappropriate for solid retrieval.",
+        "question": "What method is primarily recommended for removing pills and fragments from the stomach?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 655,
+            "paragraph_id": "978-0071484800-p655-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of ingested ethanol is excreted unchanged through the kidneys, lungs, and skin.",
+        "false_answer": "Approximately 90% of ingested ethanol is excreted unchanged through the kidneys, lungs, and skin.",
+        "incorrect_explanation": "According to the chapter, ethanol is predominantly eliminated via hepatic metabolism, indicating most of it undergoes metabolic breakdown rather than being excreted unchanged. Specifically, it's noted that about 10% is excreted in the urine, exhaled breath, and sweat, implying that around 90% is metabolized, primarily by alcohol dehydrogenase and then by the hepatic microsomal oxidizing system.",
+        "question": "What happens to approximately 90% of ingested ethanol?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1296,
+            "paragraph_id": "978-0071484800-p1296-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Temazepam belongs to the group of benzodiazepines that primarily undergo oxidative biotransformation.",
+        "false_answer": "Temazepam belongs to the group of benzodiazepines that primarily undergo oxidative biotransformation.",
+        "incorrect_explanation": "According to the given information, Temazepam actually undergoes conjugation rather than oxidation. Conjugation is described as involving substances like oxazepam, lorazepam, and indeed temazepam, which makes them potentially safer for certain populations due to their metabolic pathway producing less active metabolites compared to those undergoing other forms of biotransformation.",
+        "question": "What class does Temazepam belong to regarding its metabolism among benzodiazepines?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1290,
+            "paragraph_id": "978-0071484800-p1290-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary reason behind the delay in onset of symptoms following methanol poisoning is the slow absorption of methanol.",
+        "false_answer": "The primary reason behind the delay in onset of symptoms following methanol poisoning is the slow absorption of methanol.",
+        "incorrect_explanation": "According to the paragraph, the actual reason for the delay in symptoms is that methanol itself is not toxic but requires metabolism to formic acid before tissue damage occurs. Therefore, clinical signs and symptoms may be significantly delayed after exposure, often by 12 to 24 hours, due to the time needed for methanol metabolism rather than slow absorption.",
+        "question": "What is the primary reason behind the delay in onset of symptoms following methanol poisoning?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1299,
+            "paragraph_id": "978-0071484800-p1299-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10%.",
+        "false_answer": "Approximately 10%.",
+        "incorrect_explanation": "According to the chapter, only a small minority of patients (<6%) will present with classic \"hard\" signs of arterial injury. Thus, stating that approximately 10% of patients exhibit these signs overestimates the actual proportion given in the text.\n- **Correct Answer Should Be:** Less than 6%.",
+        "question": "What proportion of patients presenting with penetrating extremity injuries exhibit classic 'hard' signs of arterial injury?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1873,
+            "paragraph_id": "978-0071484800-p1873-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These types of fractures are called Stress Fractures.",
+        "false_answer": "These types of fractures are called Stress Fractures.",
+        "incorrect_explanation": "The answer incorrectly identifies fractures involving the cartilaginous epiphyseal plate as Stress Fractures. According to the provided information, fractures involving the epiphyseal plate are specifically referred to as Salter fractures, especially when occurring in children. Stress fractures, on the other hand, are defined as fatigue fractures due to repetitive forces applied to the bone before it can adapt. Therefore, the correct term for fractures involving damage to the cartilaginous epiphyseal plate is Salter fractures.",
+        "question": "What kind of fractures involve damage to the cartilaginous epiphyseal plate?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1877,
+            "paragraph_id": "978-0071484800-p1877-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 1 L/d of fluid.",
+        "false_answer": "Approximately 1 L/d of fluid.",
+        "incorrect_explanation": "According to the paragraph, approximately 2 L/d of fluid is removed during PD, not 1 L/d. This makes the given answer factually incorrect regarding the typical volume of fluid removal during this treatment.",
+        "question": "What is typically the amount of fluid removed during continuous ambulatory peritoneal dialysis (PD)?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 682,
+            "paragraph_id": "978-0071484800-p682-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 95% of cases presenting to the ED have a potentially reversible cause.",
+        "false_answer": "Up to 95% of cases presenting to the ED have a potentially reversible cause.",
+        "incorrect_explanation": "According to the paragraph, the statement regarding the reversibility of causes in community-acquired Acute Renal Failure (ARF) mentions that \"Because in the majority of cases community-acquired ARF is secondary to volume depletion, up to 90% of cases presenting to the ED have a potentially reversible cause.\" Thus, the actual percentage provided in the text is up to 90%, making the claim of up to 95% incorrect.",
+        "question": "What percentage of cases presenting to the emergency department have a potentially reversible cause according to the given information?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 667,
+            "paragraph_id": "978-0071484800-p667-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "1 to 2 milligrams PO or IV.",
+        "false_answer": "1 to 2 milligrams PO or IV.",
+        "incorrect_explanation": "According to the text, diazepam's dosage ranges from 5 to 10 milligrams PO or IV, making the statement about 1 to 2 milligrams incorrect. Lorazepam is the one mentioned to be given in doses of 1 to 2 milligrams PO, IM, or IV.",
+        "question": "What dose range does diazepam belong to?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1316,
+            "paragraph_id": "978-0071484800-p1316-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Codeine is primarily metabolized to morphine via cytochrome P-450 isoenzyme 3A4.",
+        "false_answer": "Codeine is primarily metabolized to morphine via cytochrome P-450 isoenzyme 3A4.",
+        "incorrect_explanation": "According to the chapter, codeine is actually metabolized to morphine via cytochrome P-450 isoenzyme 2D6, not 3A4. This makes the statement incorrect because it incorrectly identifies the specific isoenzyme involved in this metabolic pathway.",
+        "question": "What is the primary method through which codeine achieves its active form?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1304,
+            "paragraph_id": "978-0071484800-p1304-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "One peyote button weighs around 25 grams.",
+        "false_answer": "One peyote button weighs around 25 grams.",
+        "incorrect_explanation": "According to the given text, each button actually contains approximately 45 milligrams of mescaline, indicating the unit of measurement for the content (milligrams) rather than specifying the overall weight of a peyote button. Since there's no mention of the button's total weight in grams, any statement about gram weight is inaccurate without further conversion factors or data on density, which are not provided. Therefore, stating a button weighs around 25 grams introduces a factual error lacking basis in the text.",
+        "question": "What is the approximate weight of one peyote button?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1313,
+            "paragraph_id": "978-0071484800-p1313-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 50% of these fatalities involve acetaminophen.",
+        "false_answer": "About 50% of these fatalities involve acetaminophen.",
+        "incorrect_explanation": "According to the paragraph, acetaminophen actually accounts for approximately 15%, not 50%, of the observed fatalities seen with isolated ingestions of the top 25 categories associated with a fatal outcome.",
+        "question": "What percentage of the observed fatalities seen with isolated ingestions of the top 25 categories associated with a fatal outcome can be attributed to acetaminophen?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1320,
+            "paragraph_id": "978-0071484800-p1320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ankle should be maintained in slight plantar flexion.",
+        "false_answer": "The ankle should be maintained in slight plantar flexion.",
+        "incorrect_explanation": "According to the instructions for applying a posterior ankle mold, the ankle should actually be maintained in a position as close as possible to neutral dorsiflexion, specifically at 90 degrees to the leg, unless there's an Achilles tendon rupture. Therefore, maintaining the ankle in slight plantar flexion would contradict the recommended approach.",
+        "question": "What position should the ankle be maintained in during application of a posterior ankle mold?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1888,
+            "paragraph_id": "978-0071484800-p1888-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Irrigation and thorough cleaning of the affected limb.",
+        "false_answer": "Irrigation and thorough cleaning of the affected limb.",
+        "incorrect_explanation": "While irrigation does indeed play a critical role in managing open fractures, stating it needs to happen *before* administering antibiotics introduces confusion regarding their sequence. Antibiotic administration can actually start alongside or immediately following initiation of care steps like irrigation, given both actions aim to address infection risk promptly; thus, suggesting one step delays the next inaccurately reflects the urgency and parallel nature of these interventions in practice.",
+        "question": "According to the initial management principles outlined, what should ideally happen before administering antibiotics in cases of open fractures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1883,
+            "paragraph_id": "978-0071484800-p1883-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For 6 weeks.",
+        "false_answer": "6 weeks",
+        "incorrect_explanation": "According to TABLE 265-3 under \"Tendon injuries\", for Mallet finger, the dorsal splint needs to remain in place for 8 weeks, not 6 weeks, indicating the specified duration was incorrectly shortened.",
+        "question": "What duration does the dorsal splint need to stay applied after treating Mallet finger?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1897,
+            "paragraph_id": "978-0071484800-p1897-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 25 degrees",
+        "false_answer": "More than 25 degrees",
+        "incorrect_explanation": "According to the paragraph, angulation of *less* than 20 degrees in the fourth metacarpal will not result in functional impairment, indicating that the given answer incorrectly suggests a higher threshold for non-impaired functionality.",
+        "question": "What degree of angulation in the fourth metacarpal will generally not result in functional impairment?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1900,
+            "paragraph_id": "978-0071484800-p1900-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The palmar surface's sensation is supplied exclusively by the ulnar nerve.",
+        "false_answer": "The palmar surface's sensation is supplied exclusively by the ulnar nerve.",
+        "incorrect_explanation": "The statement incorrectly attributes the entire palmar surface sensation to just the ulnar nerve. According to the paragraph, sensation over the palmar surface is actually supplied by branches of multiple nerves, specifically the median, ulnar, and superficial branch of the radial nerve.",
+        "question": "What nerve supplies sensation to the palmar surface?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1894,
+            "paragraph_id": "978-0071484800-p1894-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Rofecoxib was withdrawn from the US market in 2007.",
+        "false_answer": "Rofecoxib was withdrawn from the US market in 2007.",
+        "incorrect_explanation": "According to the paragraph, rofecoxib was actually withdrawn from the U.S. market in 2004, making the statement incorrect regarding the year of withdrawal.",
+        "question": "What year did the withdrawal of the selective cyclooxygenase-2 inhibitor rofecoxib occur?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1326,
+            "paragraph_id": "978-0071484800-p1326-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Beta blockers increase the availability of carbohydrates through enhanced glycogenolysis.",
+        "false_answer": "Beta blockers increase the availability of carbohydrates through enhanced glycogenolysis.",
+        "incorrect_explanation": "According to the chapter, inhibition of glycogenolysis and gluconeogenesis by beta blockers reduces the availability of carbohydrates for use by metabolically active cells, rather than increasing their availability.",
+        "question": "What happens to the availability of carbohydrates for use by metabolically active cells under the effect of beta blockers?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1338,
+            "paragraph_id": "978-0071484800-p1338-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For beta-blocker toxicity, the recommended dose of 10% calcium gluconate is usually around 1.0 mL/kg administered over 10 minutes, followed by a maintenance infusion of approximately 2.0 mL/kg/hour.",
+        "false_answer": "The statement claims that for beta-blocker toxicity, the dose of 10% calcium gluconate is 1.0 mL/kg over 10 minutes, followed by a 2.0 mL/kg/hour infusion.",
+        "incorrect_explanation": "According to the text, the actual recommendation for 10% calcium gluconate is 0.6 mL/kg given over 5 to 10 minutes, followed by a continuous infusion of 0.6 to 1.5 mL/kg/hour. Therefore, the provided dose in the answer exceeds the recommended range specified in the text.\n- **Correct Answer Should Be:** The recommended dosage of 10% calcium gluconate for treating beta-blocker toxicity is indeed 0.6 mL/kg over 5 to 10 minutes, followed by a continuous infusion of 0.6 to 1.5 mL/kg/hour.",
+        "question": "What dose of 10% calcium gluconate is typically administered to adults suffering from beta-blocker toxicity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1341,
+            "paragraph_id": "978-0071484800-p1341-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of these women were initially misdiagnosed as psychogenic cases.",
+        "false_answer": "Approximately 30%",
+        "incorrect_explanation": "The given answer incorrectly states the rate of initial misdiagnosis as approximately 30%, when according to the paragraph, the actual rate among the 91 women surveyed was 44%.",
+        "question": "What was the rate of initial misdiagnosis among women surveyed who had both urethral sphincter electromyography abnormalities and urine retention?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 695,
+            "paragraph_id": "978-0071484800-p695-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of postmenopausal cases involve atrophic vaginitis.",
+        "false_answer": "Approximately 40% of postmenopausal cases involve atrophic vaginitis.",
+        "incorrect_explanation": "According to Table 99-4, approximately 30%, not 40%, of postmenopausal cases involve atrophic vaginitis. Thus, the statement contains a numerical error regarding the prevalence of atrophic vaginitis among postmenopausal women.",
+        "question": "What percentage of postmenopausal cases involves atrophic vaginitis according to Table 99-4?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 719,
+            "paragraph_id": "978-0071484800-p719-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Supportive therapy involves strict bed rest, avoiding any fluids for 12 hours, and immediate administration of broad-spectrum intravenous antibiotics regardless of symptoms.",
+        "false_answer": "Strict bed rest, avoiding any fluids for 12 hours, and immediate administration of broad-spectrum intravenous antibiotics regardless of symptoms.",
+        "incorrect_explanation": "The given answer incorrectly suggests avoiding any fluids and administering antibiotics immediately regardless of symptoms. According to the chapter, supportive therapy actually emphasizes IV fluid hydration, antimetics if needed, analgesics, monitoring complete blood counts, serum creatinine levels with urine output, and antibiotic treatment if specifically indicated, rather than blanket measures like strict bed rest and withholding fluids.",
+        "question": "What is typically recommended for managing supportive therapy in patients experiencing complications after extracorporeal shock wave lithotripsy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 709,
+            "paragraph_id": "978-0071484800-p709-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The long head of the biceps muscle originates exclusively from the coracoid process of the scapula.",
+        "false_answer": "The long head of the biceps muscle originates exclusively from the coracoid process of the scapula.",
+        "incorrect_explanation": "According to the given information, the long head of the biceps muscle actually originates at both the supraglenoid tubercle of the scapula and the superior labrum of the glenohumeral joint, not exclusively from the coracoid process which is instead the origin point of the short head of the biceps muscle.",
+        "question": "What is the origin point of the long head of the biceps muscle?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1916,
+            "paragraph_id": "978-0071484800-p1916-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of all hand injuries are carpal bone fractures.",
+        "false_answer": "Approximately 20% of all hand injuries are carpal bone fractures.",
+        "incorrect_explanation": "According to the given information, carpal bone fractures actually account for 18% of all hand injuries, making the statement incorrect.",
+        "question": "What percent of all hand injuries are attributed to carpal bone fractures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1907,
+            "paragraph_id": "978-0071484800-p1907-para1"
+        },
+        "type": "short_inverse"
+    }
+]

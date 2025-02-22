@@ -1,0 +1,502 @@
+[
+    {
+        "answer": "False",
+        "question": "High-absorbency tampons made from polyacrylate materials were removed from the market in 1980 due to their association with Toxic Shock Syndrome (TSS).",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 511,
+            "paragraph_id": "978-0071441988-p511-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Continuous use of tampons during the menstrual period increases the risk of Toxic Shock Syndrome (TSS).",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 515,
+            "paragraph_id": "978-0071441988-p515-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "[Our carefully crafted True/False statement]\n**Answer:** [Either 'True' or 'False', depending on the correctness of the statement]\n\nLet's proceed to actually formulate the question now:\n\nConsidering the emphasis on maintaining ethical standards in research, especially concerning transparency and accountability, let's focus on a critical aspect highlighted in the text: the importance of declaring financial interests in research studies.\n\nTherefore, considering the detailed requirements outlined for informed consent forms in TABLE 3-1, which includes stating any financial interests the researchers may have, we construct our True/False question accordingly:\n\n\nThe final answer is: <startofQAtext>\n**Statement:** Researchers are required to disclose any financial interests they may have in a particular study or research program as part of the informed consent form.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 59,
+            "paragraph_id": "978-0071441988-p59-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Public health authorities in the US provide a standard scale of compensation for accidents and untoward effects associated with immunization programs nationwide.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 56,
+            "paragraph_id": "978-0071441988-p56-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acetaminophen is converted to its quinone metabolite exclusively by CYP3A4.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 538,
+            "paragraph_id": "978-0071441988-p538-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Asbestos-induced mesothelioma develops immediately after first exposure.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 541,
+            "paragraph_id": "978-0071441988-p541-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Synthetic chemicals, including industrial raw materials and pharmaceutical agents, are classified separately from naturally occurring toxins in toxicology.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 533,
+            "paragraph_id": "978-0071441988-p533-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The first reported case of Toxic Shock Syndrome was associated with phage-group-I staphylococci.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 522,
+            "paragraph_id": "978-0071441988-p522-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Food Quality Protection Act of 1996 increased the FDA's coverage of chemicals while keeping the Delaney Amendment intact.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 548,
+            "paragraph_id": "978-0071441988-p548-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "High levels of maternal fish consumption from polluted sources result in babies showing more abnormal reflexes compared to those exposed to lower levels of pollutants through maternal diet.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 558,
+            "paragraph_id": "978-0071441988-p558-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cystic fibrosis was initially excluded from newborn screening programs because it was believed that early detection would not significantly improve outcomes.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 96,
+            "paragraph_id": "978-0071441988-p96-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Every novel in the considered book collection was written before 1989.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 74,
+            "paragraph_id": "978-0071441988-p74-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists a publication titled \"Ethics and Epidemiology\".",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 64,
+            "paragraph_id": "978-0071441988-p64-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A total of 13 factors contributing to the emergence of global microbial threats were identified in reports published by the Institute of Medicine in 1992 and 2003.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 106,
+            "paragraph_id": "978-0071441988-p106-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Penicillin was invented specifically to change the treatment of non-communicable diseases.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 80,
+            "paragraph_id": "978-0071441988-p80-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Socioeconomic Status (SES) alone is sufficient to explain all racial and ethnic health disparities.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 85,
+            "paragraph_id": "978-0071441988-p85-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The term natality is sometimes used interchangeably with the concept of fertility.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 68,
+            "paragraph_id": "978-0071441988-p68-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Primaquine is always contraindicated during pregnancy unless the mother's G6PD level is normal.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 118,
+            "paragraph_id": "978-0071441988-p118-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fluoroquinolone-resistant E. coli has reached a frequency of less than 50% in parts of Southeast Asia and China.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 111,
+            "paragraph_id": "978-0071441988-p111-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Trisomy has never been observed in living infants for all human chromosomes except for the sex chromosomes and chromosomes 13, 18, and 21.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 92,
+            "paragraph_id": "978-0071441988-p92-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There was an investigation regarding outbreaks of methicillin-resistant Staphylococcus aureus (MRSA) among competitive sports participants in several locations including Colorado, Indiana, Pennsylvania, and Los Angeles County during the period of 2000-2003.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 123,
+            "paragraph_id": "978-0071441988-p123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Atypical measles syndrome is exclusively observed in individuals who did not receive the killed measles vaccine prior to their first exposure to the measles virus.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 128,
+            "paragraph_id": "978-0071441988-p128-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pertussis is exclusively caused by the bacterium *Bordetella pertussis*.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 137,
+            "paragraph_id": "978-0071441988-p137-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Brownfields\u2019 redevelopment retains low political visibility in the United States.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 582,
+            "paragraph_id": "978-0071441988-p582-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Acceptable risk involves determining the likelihood of exposure to a toxic agent causing adverse effects ranging from none to severe illness or death.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 573,
+            "paragraph_id": "978-0071441988-p573-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Individuals tend to underestimate severe risks and overestimate negligible risks according to the given information.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 579,
+            "paragraph_id": "978-0071441988-p579-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chrysotile is less toxic than amosite in normal and transformed epithelial cell lines.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 595,
+            "paragraph_id": "978-0071441988-p595-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Small rounded opacities are considered pathognomonic of silicosis.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 598,
+            "paragraph_id": "978-0071441988-p598-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Research studies, such as those conducted by Benignus et al. in 2005, indicate that long-term exposure to styrene can lead to human neurobehavioral effects, including impacts on color vision.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 567,
+            "paragraph_id": "978-0071441988-p567-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Diphtheria toxin binds exclusively to nerve cells, causing cell damage and death.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 144,
+            "paragraph_id": "978-0071441988-p144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 73\u201386% of children vaccinated achieved titers \u2265 5 gpELISA units after receiving a single dose of varicella vaccination.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 157,
+            "paragraph_id": "978-0071441988-p157-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Individuals with uncompromised immune systems can shed the influenza virus for up to five days after illness onset.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 148,
+            "paragraph_id": "978-0071441988-p148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Regulations to control exposure in the workplace were first enacted before 1960.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 603,
+            "paragraph_id": "978-0071441988-p603-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Research indicates that there is no correlation between coal worker's pneumoconiosis and dust exposure in US coal miners according to some investigations reported after the year 1990.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 615,
+            "paragraph_id": "978-0071441988-p615-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Commercial rotary-spun fiberglass produced diseases similar to asbestosis when used for insulating appliances.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 605,
+            "paragraph_id": "978-0071441988-p605-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cor pulmonale is a common complication of silicosis in industrialized countries.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 621,
+            "paragraph_id": "978-0071441988-p621-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acute poisoning with mercury vapor causes severe respiratory issues, gastrointestinal corrosion, and immediate renal failure.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 638,
+            "paragraph_id": "978-0071441988-p638-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The study published by Ishihara et al., regarding expression and mutation of the p53 gene in mice lungs after injection with crystalline silica, was released before the year 2000.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 627,
+            "paragraph_id": "978-0071441988-p627-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Poly-2-vinyl-pyridine-1-oxide prevents silicosis in humans through clinical trials.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 625,
+            "paragraph_id": "978-0071441988-p625-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The incidence of hepatitis A virus (HAV) infection increased between 1995 and 2002.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 197,
+            "paragraph_id": "978-0071441988-p197-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Behavioral interventions reduce the likelihood of unprotected anal intercourse among Men Who Have Sex With Men (MSM) by exactly 50%.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 190,
+            "paragraph_id": "978-0071441988-p190-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There was an evaluation of varicella zoster-virus (VZV) vaccine effectiveness during an elementary school outbreak in 2001.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 176,
+            "paragraph_id": "978-0071441988-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Introduction of pneumococcal conjugate vaccine led to reduced incidence of invasive pneumococcal disease among infants before and after its implementation according to studies published between 1998 and 2003.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 179,
+            "paragraph_id": "978-0071441988-p179-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 83% of cases of cervical cancer occur in developing countries.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 186,
+            "paragraph_id": "978-0071441988-p186-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Conjugated pneumococcal vaccines are recommended for all children aged 2\u201323 months because they induce an immune response against a wide variety of serotypes in individuals under two years old.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 164,
+            "paragraph_id": "978-0071441988-p164-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chancroid is primarily transmitted through homosexual contacts.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 195,
+            "paragraph_id": "978-0071441988-p195-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Accidental ingestion and aspiration of gasoline or other mixtures of hydrocarbons can lead to severe respiratory issues but does not cause significant cardiac problems.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 649,
+            "paragraph_id": "978-0071441988-p649-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The book titled \"Handbook on the Toxicology of Metals\" was published before the year 2000.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 643,
+            "paragraph_id": "978-0071441988-p643-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vinyl chloride has been identified as causing Raynaud's syndrome among workers handling it.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 660,
+            "paragraph_id": "978-0071441988-p660-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chloroform is no longer used as an anesthetic because it does not produce sufficient analgesia.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 656,
+            "paragraph_id": "978-0071441988-p656-para1"
+        },
+        "type": "true_false"
+    }
+]

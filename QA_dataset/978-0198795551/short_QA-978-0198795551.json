@@ -1,0 +1,222 @@
+[
+    {
+        "answer": "Later testing is more likely to be closer to the mean than to be more extreme.",
+        "question": "What happens if a measurement is outwith normal parameters according to regression to the mean?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 77,
+            "paragraph_id": "978-0198795551-p77-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "~",
+        "question": "What symbol represents approximately?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 26,
+            "paragraph_id": "978-0198795551-p26-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Moreno",
+        "question": "Who developed 'psychodrama'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 98,
+            "paragraph_id": "978-0198795551-p98-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Thomas Szasz.",
+        "question": "Who argued that psychiatric labels primarily function as social control mechanisms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 88,
+            "paragraph_id": "978-0198795551-p88-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Close liaison with the usual team is required to agree a joint management plan.",
+        "question": "What happens when someone who already has a history with mental health services requires management after being diagnosed again during their current episode?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 924,
+            "paragraph_id": "978-0198795551-p924-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Up to one-third.",
+        "question": "What percentage of older people admitted to hospital experience delirium?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 928,
+            "paragraph_id": "978-0198795551-p928-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Women are usually affected, with a mean age of 36 years.",
+        "question": "What is the typical gender distribution observed in pathological stealing/kleptomania?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 493,
+            "paragraph_id": "978-0198795551-p493-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "A terrible plague afflicting Thebes.",
+        "question": "What event prompts the people of Thebes to appeal to Oedipus?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 980,
+            "paragraph_id": "978-0198795551-p980-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Name, age, marital status, current occupation, route of referral, and current legal status.",
+        "question": "What basic pieces of information should be included when gathering a patient's history during a consultation?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 115,
+            "paragraph_id": "978-0198795551-p115-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "High-amplitude delta-waves mark deep non-REM sleep stages III and IV.",
+        "question": "What characterizes deep non-REM sleep?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 504,
+            "paragraph_id": "978-0198795551-p504-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Mitochondria primarily produce energy through cellular respiration.",
+        "question": "What is the primary function of the mitochondria?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 512,
+            "paragraph_id": "978-0198795551-p512-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Akathisia is a subjective sense of uncomfortable desire to move relieved by movement, usually affecting the legs, and can be a side effect of neuroleptic drug treatment.",
+        "question": "What is akathisia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 165,
+            "paragraph_id": "978-0198795551-p165-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Hallucinations and pseudo-hallucinations.",
+        "question": "What is included under false perceptions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 178,
+            "paragraph_id": "978-0198795551-p178-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "More 'activating' ones, including SSRI, reboxetine, bupropion, MAOI, and RIMA.",
+        "question": "What types of antidepressants are recommended for treating hypersomnia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 558,
+            "paragraph_id": "978-0198795551-p558-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "DBT consists of individual psychotherapy, group skills training, phone coaching, and consultation team.",
+        "question": "What are the primary components of Dialectical Behaviour Therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1004,
+            "paragraph_id": "978-0198795551-p1004-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Jeffrey E Young",
+        "question": "Who developed Schema Therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1016,
+            "paragraph_id": "978-0198795551-p1016-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They changed stages 1, 2, 3, and 4 to N1, N2, and N3, where N3 reflects slow-wave sleep (stages 3+4).",
+        "question": "What modification did the AASM make regarding the terminology of NREM sleep stages?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 566,
+            "paragraph_id": "978-0198795551-p566-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "ICD-11",
+        "question": "What classification system places 'Sexual dysfunctions' and 'Sexual pain disorders' within a new section 'Conditions related to sexual health'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 582,
+            "paragraph_id": "978-0198795551-p582-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Neurological, Endocrine, Metabolic, Autoimmune, Medications, Drugs of abuse, Toxins.",
+        "question": "What categories of organic causes can lead to psychosis?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 198,
+            "paragraph_id": "978-0198795551-p198-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Psychiatrists, Chartered Psychologists, or Medical Practitioners with specific experience.",
+        "question": "What type of professionals typically serve as Gender Specialists?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 598,
+            "paragraph_id": "978-0198795551-p598-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Fifty to 80%.",
+        "question": "What percentage of patients with Parkinson's disease develops dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 218,
+            "paragraph_id": "978-0198795551-p218-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Confusion, amnesia, somnolence, lethargy, and impaired cognitive function.",
+        "question": "What post-seizure symptoms typically follow each episode?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 214,
+            "paragraph_id": "978-0198795551-p214-para1"
+        },
+        "type": "short_answer"
+    }
+]

@@ -1,0 +1,614 @@
+[
+    {
+        "answer": "Approximately 60% of adolescents recover.",
+        "false_answer": "Approximately 60% of adolescents recover.",
+        "incorrect_explanation": "The statement claims 60% recovery among adolescents, which contradicts the given data stating that approximately 40% of adolescents (~40%) show recovery over a 5-year period. Therefore, the correct recovery rate for adolescents within this timeframe should reflect the figure presented in the outcome analysis.",
+        "question": "What proportion of adolescents recover within five years?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 469,
+            "paragraph_id": "978-0198795551-p469-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70% will recover within the first year.",
+        "false_answer": "Approximately 70% will recover within the first year.",
+        "incorrect_explanation": "The statement claims approximately 70% recovery rate within the first year, which contradicts the given information stating \"~50% will recover within the first year.\" Thus, the actual percentage expected to recover within the first year according to the paragraph is around 50%, making the provided answer both inaccurate and misleading regarding recovery rates.",
+        "question": "What percent of individuals are expected to recover within the first year after experiencing psychotic symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 477,
+            "paragraph_id": "978-0198795551-p477-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Archie Cochrane.",
+        "false_answer": "Archie Cochrane.",
+        "incorrect_explanation": "While Archie Cochrane's work significantly influenced the development of Evidence-Based Medicine through his book \"Effectiveness and Efficiency\", the term 'Evidence-Based Medicine' was actually first coined by Gordon Guyatt in 1991.",
+        "question": "Who first coined the term Evidence-Based Medicine?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 90,
+            "paragraph_id": "978-0198795551-p90-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Maslow shared the Nobel Prize with Svante von Euler for their work on human motivation and neurotransmitters.",
+        "false_answer": "Maslow shared the Nobel Prize with Svante von Euler for their work on human motivation and neurotransmitters.",
+        "incorrect_explanation": "The statement incorrectly identifies Maslow as sharing the Nobel Prize with Svante von Euler for their research in 1970. According to the given information, Axelrod, Katz, and Svante von Euler were those who actually shared the Nobel Prize for their work on neurotransmitters in 1970. There's also confusion because Maslow described his 'hierarchy of needs' around this time frame, which pertains more towards psychology rather than neurochemistry or medicine specifically associated with a Nobel prize at hand here within year specified under discussion.",
+        "question": "Who shared the Nobel Prize with Svante von Euler for their research in 1970?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 101,
+            "paragraph_id": "978-0198795551-p101-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Over the past 30 years",
+        "false_answer": "Over the past 30 years",
+        "incorrect_explanation": "The statement is incorrect because according to the given information, Liaison Psychiatry's expansion occurred over the last 25 years, not 30 years. Therefore, the correct answer should reflect the specified duration of growth experienced by this subspecialty.",
+        "question": "What timeframe has witnessed considerable expansion in the role and practitioner numbers of Liaison Psychiatry?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 909,
+            "paragraph_id": "978-0198795551-p909-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Chronic bronchitis alone leads to organic causes of anxiety.",
+        "false_answer": "Chronic bronchitis alone leads to organic causes of anxiety.",
+        "incorrect_explanation": "According to the paragraph, among the pulmonary conditions leading to organic causes of anxiety symptoms are COPD (Chronic Obstructive Pulmonary Disease) and asthma, along with issues concerning airway-assisted patients during weaning trials. There's no mention of chronic bronchitis specifically causing anxiety; instead, it could fall under COPD if considered broadly within respiratory diseases affecting lung airflow, which includes both emphysema and chronic bronchitis. Thus, stating \"chronic bronchitis alone\" oversimplifies and inaccurately specifies a single condition when multiple factors are involved.",
+        "question": "What pulmonary conditions can lead to organic causes of anxiety symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 917,
+            "paragraph_id": "978-0198795551-p917-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Genetic predispositions significantly impact the effectiveness of treatments for physical diseases through their effect on medication metabolism.",
+        "false_answer": "Genetic predispositions significantly impact the effectiveness of treatments for physical diseases through their effect on medication metabolism.",
+        "incorrect_explanation": "This statement introduces genetic predisposition and medication metabolism as key influencers of treatment outcomes, neither of which was discussed in relation to how psychological factors influence outcomes in treating physical illnesses. According to the paragraph, what actually influences outcome includes adherence, perceived severity of disease, recovery rate, and quality of life, highlighting the role of psychological aspects rather than genetic ones.",
+        "question": "What influences outcome in the treatment of physical illnesses according to psychological factors?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 937,
+            "paragraph_id": "978-0198795551-p937-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The female-to-male ratio is approximately 10:1.",
+        "false_answer": "The female-to-male ratio is approximately 10:1.",
+        "incorrect_explanation": "This answer is incorrect because the actual female-to-male ratio given in the paragraph is 5:1, indicating a significantly lower disparity between genders than what was falsely claimed.",
+        "question": "What is the female-to-male ratio regarding the epidemiology of the discussed condition?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 943,
+            "paragraph_id": "978-0198795551-p943-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The mortality rate typically ranges between 15\u201320%.",
+        "false_answer": "A mortality rate range of 15\u201320%.",
+        "incorrect_explanation": "According to the given information, the actual mortality rate associated with Anorexia Nervosa is 7\u201310%, making the provided answer significantly higher and thus incorrect.",
+        "question": "What is the typical mortality rate associated with Anorexia Nervosa?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 485,
+            "paragraph_id": "978-0198795551-p485-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary purpose of the International Classification of Sleep Disorders is to prescribe medications for treating sleep-wake cycle disorders.",
+        "false_answer": "The primary purpose of the International Classification of Sleep Disorders is to prescribe medications for treating sleep-wake cycle disorders.",
+        "incorrect_explanation": "The statement incorrectly suggests that the main role of the International Classification of Sleep Disorders is prescribing medications, whereas according to the paragraph, it actually serves as a framework for approaching sleep disorder problems, indicating its utility lies in providing a systematic way to classify and address sleep disorders rather than specifically focusing on medication prescriptions.",
+        "question": "What does the International Classification of Sleep Disorders primarily serve as?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 499,
+            "paragraph_id": "978-0198795551-p499-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mostly wanderer individuals are women.",
+        "false_answer": "Mostly wanderer individuals are women.",
+        "incorrect_explanation": "According to the given paragraph, wandering subtypes are actually characterized as being \"mostly male,\" whereas non-wanderers are described as \"mostly female.\" Thus, the statement incorrectly assigns gender prevalence to the wrong subtype.",
+        "question": "What subgroup within Factitious Disorder patients mostly consists of females?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 957,
+            "paragraph_id": "978-0198795551-p957-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Subjugation expresses unacceptable internal impulses through sports.",
+        "false_answer": "Subjugation expresses unacceptable internal impulses through sports.",
+        "incorrect_explanation": "The term 'Subjugation' does not appear in the given text; instead, the defense mechanism described as expressing unacceptable internal impulses in socially acceptable ways is actually called \"Sublimation\". Furthermore, there's no mention of sublimation being specifically linked to expression through sports, making this both a naming error and potentially adding unrelated specifics.",
+        "question": "What defense mechanism involves expressing unacceptable internal impulses in socially acceptable ways?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 977,
+            "paragraph_id": "978-0198795551-p977-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "People in their 20s.",
+        "false_answer": "People in their 20s.",
+        "incorrect_explanation": "According to the epidemiology data provided, Chronic Fatigue Syndrome most commonly occurs in people in their 40s and 50s, making the statement regarding the 20s age group incorrect.",
+        "question": "What age group does Chronic Fatigue Syndrome most commonly occur in?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 954,
+            "paragraph_id": "978-0198795551-p954-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "As a psychiatric trainee, one gains competency in four primary areas: supportive psychotherapy, psychodynamic psychotherapy, brief psychotherapies, and combined psychopharmacology/psychotherapy.",
+        "false_answer": "Four areas of competency covered in psychiatric training are supportive psychotherapy, psychodynamic psychotherapy, brief psychotherapies, and combined psychopharmacology/psychotherapy.",
+        "incorrect_explanation": "The actual number of areas specified in the paragraph is five, which includes CBT (cognitive behavioral therapy) alongside the others listed incorrectly in the answer. Therefore, the correct answer should mention all five areas: supportive psychotherapy, psychodynamic psychotherapy, brief psychotherapies, CBT, and combined psychopharmacology/psychotherapy.",
+        "question": "What areas of competency does psychiatric training cover regarding psychotherapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 964,
+            "paragraph_id": "978-0198795551-p964-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hypnotism alone",
+        "false_answer": "Hypnotism alone",
+        "incorrect_explanation": "While Freud studied hypnosis and its application to understanding hysteria, particularly under the influence of Charcot and Li\u00e9beault, the passage does not indicate that he exclusively employed hypnotism in his clinical practice before moving on to other techniques like free association. Instead, it mentions various methods being explored during his work in the 1890s to uncover repressed memories, indicating a broader approach beyond just hypnosis.",
+        "question": "What method did Freud initially employ before developing the technique of free association?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 968,
+            "paragraph_id": "978-0198795551-p968-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fluoxetine can start at 10mg and increase to 40mg.",
+        "false_answer": "Starting fluoxetine at 10mg and increasing to 40mg.",
+        "incorrect_explanation": "According to the provided information, pharmacological treatment suggests starting fluoxetine at 20mg and potentially increasing to 60mg, indicating a higher initial dose and maximum dose recommendation than what was given in the false answer.",
+        "question": "What dosage range is recommended when trying fluoxetine for treating Body Dysmorphic Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 952,
+            "paragraph_id": "978-0198795551-p952-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During the general condition inspection, one primarily checks the patient's vital signs, such as temperature, pulse rate, blood pressure, and respiratory rate, without considering the patient's appearance or nutritional status.",
+        "false_answer": "Checking vital signs exclusively.",
+        "incorrect_explanation": "The explanation incorrectly limits the scope of the general condition inspection to only checking vital signs. According to the paragraph, the general condition also involves noting the patient's height and weight, assessing if they appear well or unwell, looking for signs of underweight, recent weight loss, dehydration, jaundice, cyanosis, clubbing of fingers, among others, alongside checking vital signs.",
+        "question": "What does the general condition inspection during a routine physical examination involve?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 153,
+            "paragraph_id": "978-0198795551-p153-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Brain imaging is recommended for routine assessment of cognitive impairment regardless of patient history.",
+        "false_answer": "Brain imaging is recommended for routine assessment of cognitive impairment regardless of patient history.",
+        "incorrect_explanation": "According to the paragraph, brain imaging should only be used where there is good evidence for possible neurological problems (e.g., history of head trauma, previous neurological condition, suspicion of intracranial space-occupying lesions) rather than being applied routinely for assessing cognitive impairment without any indication of potential neurological issues. The correct approach emphasizes selective usage based on specific indications.",
+        "question": "What is one reason brain imaging should be considered?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 157,
+            "paragraph_id": "978-0198795551-p157-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The GDS utilizes open-ended questions to assess levels of depression in individuals.",
+        "false_answer": "The GDS utilizes open-ended questions.",
+        "incorrect_explanation": "The paragraph specifically mentions that the GDS uses a series of yes/no questions, not open-ended ones, making the provided answer incorrect. Therefore, the correct operation method of the GDS is through yes/no questions.",
+        "question": "How does the Geriatric Depression Scale (GDS) operate in assessing depression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 162,
+            "paragraph_id": "978-0198795551-p162-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At least half of the available interview time should be reserved for discussing the diagnosis and explaining the treatment plan to the patient.",
+        "false_answer": "Leaving at least half of the available interview time for discussing the diagnosis.",
+        "incorrect_explanation": "According to the instructions, one should aim to leave at least the last quarter of the available interview time for discussion of the diagnosis and planning. Therefore, suggesting half is excessive and contrary to the recommended approach.",
+        "question": "What portion of the available interview time should be left for discussing the diagnosis?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 112,
+            "paragraph_id": "978-0198795551-p112-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mood evaluation should consider the intensity, stability, relevance, authenticity, and expressiveness of the mood state.",
+        "false_answer": "Mood evaluation should consider the intensity, stability, relevance, authenticity, and expressiveness of the mood state.",
+        "incorrect_explanation": "The given answer introduces incorrect criteria (\"intensity\", \"stability\", \"relevance\", \"authenticity\") which do not align with those specified in the paragraph (\"quality\", \"range\", \"depth\", \"congruence\", \"appropriateness\", and \"communicability\"). Thus, the correct factors for evaluating mood state were misrepresented.",
+        "question": "What aspects does the evaluation of mood state need to cover according to the guidelines?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 119,
+            "paragraph_id": "978-0198795551-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Addenbrooke's Cognitive Examination, third edition (ACE-III), was first introduced in 1999.",
+        "false_answer": "The Addenbrooke's Cognitive Examination, third edition (ACE-III), was first introduced in 1999.",
+        "incorrect_explanation": "According to the given information, Mathuranath associated with the introduction of the ACE-III did so in the year 2000, making the statement about 1999 incorrect.",
+        "question": "What year was the Addenbrooke's Cognitive Examination, third edition (ACE-III), first introduced?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 149,
+            "paragraph_id": "978-0198795551-p149-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adults have a higher prevalence, around 5%, whereas children have a lower prevalence of approximately 1%.",
+        "false_answer": "Adults have a higher prevalence of sleep-related disorders, around 5%, whereas children have a lower prevalence of approximately 1%.",
+        "incorrect_explanation": "According to the paragraph, the prevalence in children is 3%, and in adults, it is 1%. Thus, the statement incorrectly reverses the comparative prevalences and introduces inaccurate percentages.",
+        "question": "What is the prevalence of sleep-related disorders in adults compared to children?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 539,
+            "paragraph_id": "978-0198795551-p539-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Knowing if a patient uses an alarm helps diagnose depression because alarms disrupt natural sleep cycles.",
+        "false_answer": "Knowing if a patient uses an alarm helps diagnose depression because alarms disrupt natural sleep cycles.",
+        "incorrect_explanation": "The statement mistakenly implies that the primary reason for asking about wake-up methods is to aid in diagnosing depression, which oversimplifies and misrepresents the role of this inquiry in assessing sleep disorders. In reality, understanding a patient's wake-up method is one facet of evaluating their entire sleep pattern to address broader issues related to sleep quality and disturbances.",
+        "question": "How does knowing whether a patient wakes up naturally or uses an alarm contribute to assessing sleep-wake disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 507,
+            "paragraph_id": "978-0198795551-p507-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A level \u2265120 pg/mL is considered diagnostic.",
+        "false_answer": "A level \u2265120 pg/mL is considered diagnostic.",
+        "incorrect_explanation": "According to the paragraph, levels \u2264110pg/mL are actually what's considered indicative of narcolepsy with cataplexy, making \u2265120 pg/mL an incorrect threshold for diagnosing this condition.",
+        "question": "What level of CSF hypocretin-1 indicates narcolepsy with cataplexy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 524,
+            "paragraph_id": "978-0198795551-p524-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Exposure to bright light should begin immediately upon waking.",
+        "false_answer": "Immediate bright light exposure upon waking.",
+        "incorrect_explanation": "The paragraph recommends exposure to bright light 2 hours before the scheduled bedtime for ASWPD, not immediately upon waking.",
+        "question": "What is the recommended timing for exposure to bright light in treating Advanced Sleep-Wake Phase Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 532,
+            "paragraph_id": "978-0198795551-p532-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 8 hours.",
+        "false_answer": "More than 8 hours.",
+        "incorrect_explanation": "According to the given information, a Long Sleeper (R29.81) sleeps more than 10 hours, indicating that the threshold for being classified under this category involves sleeping significantly longer than what would typically be considered average or standard. Thus, stating over 8 hours incorrectly identifies the cutoff point for diagnosing someone as a Long Sleeper.",
+        "question": "What duration of sleep is considered characteristic of a Long Sleeper according to R29.81?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 528,
+            "paragraph_id": "978-0198795551-p528-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of adults experience sleepwalking.",
+        "false_answer": "Approximately 20% of adults experience sleepwalking.",
+        "incorrect_explanation": "The given percentage exceeds the range specified in the paragraph. According to the paragraph, the prevalence among adults ranges between 4% and 10%, making the statement incorrect. The correct answer should reflect this range rather than stating a single higher percentage outside the documented scope.",
+        "question": "What percentage of adults experience sleepwalking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 537,
+            "paragraph_id": "978-0198795551-p537-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Management primarily involves treating any associated cardiovascular diseases through medication.",
+        "false_answer": "Treatment focusing mainly on addressing cardiovascular issues via medication.",
+        "incorrect_explanation": "According to the provided information, management options for catathrenia actually include CPAP and sleep-consolidating pharmacotherapy, rather than emphasizing treatment of cardiovascular diseases through medication as the primary approach.",
+        "question": "What is the primary method recommended for managing catathrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 520,
+            "paragraph_id": "978-0198795551-p520-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Conditioned responses permanently disappear immediately upon cessation of reinforcement.",
+        "false_answer": "Conditioned responses permanently disappear immediately upon cessation of reinforcement.",
+        "incorrect_explanation": "According to spontaneous recovery, even after extinction trials begin, the conditioned response (CR) may temporarily reappear following a rest period. Thus, the statement that conditioned responses vanish instantly and forever once reinforcement stops is inaccurate; instead, there's potential for them to return under certain conditions before truly being extinguished.",
+        "question": "What happens to conditioned responses after a prolonged absence of reinforcement?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 994,
+            "paragraph_id": "978-0198795551-p994-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They initially developed IPT for treating anxiety disorders.",
+        "false_answer": "Klerman and Weissman initially developed IPT for treating anxiety disorders.",
+        "incorrect_explanation": "According to the information provided, IPT was actually developed as a treatment for depressive illness before being adapted for use in other disorders, indicating that the initial focus was not on anxiety disorders.",
+        "question": "What method did Klerman and Weissman initially develop Interpersonal Psychotherapy (IPT) for?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1002,
+            "paragraph_id": "978-0198795551-p1002-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Confabulation refers to the creation of memories through imagination.",
+        "false_answer": "Confabulation refers to the creation of memories through imagination.",
+        "incorrect_explanation": "This definition incorrectly implies that confabulation involves creating new, imagined experiences intentionally, whereas according to the paragraph, confabulation actually describes the process of providing plausible-sounding false memories for periods of actual memory loss, occurring in conditions like Korsakov's syndrome, dementing illnesses, and after alcoholic episodes.",
+        "question": "What is confabulation?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 169,
+            "paragraph_id": "978-0198795551-p169-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Depressive sleep disturbances typically involve middle-of-the-night insomnia.",
+        "false_answer": "Middle-of-the-night insomnia characterizes depressive sleep disturbances.",
+        "incorrect_explanation": "According to the paragraph, characteristic patterns of sleep disturbance in depression actually include initial insomnia and early morning waking, along with shallow, broken, and less refreshing sleep, indicating that the statement regarding middle-of-the-night insomnia being typical does not align with the described characteristics of depressive sleep disturbance.",
+        "question": "What symptoms characterize depressive sleep disturbances?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 175,
+            "paragraph_id": "978-0198795551-p175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Opiate misuse leads to increases in slow-wave sleep (SWS), rapid eye movement (REM) sleep, and total sleep time (TST).",
+        "false_answer": "Opiate misuse results in increased levels of certain aspects of sleep.",
+        "incorrect_explanation": "According to the given paragraph, opiate misuse actually decreases several components of sleep, specifically stating there's a decrease in sleep efficiency (SE), total sleep time (TST), stage 3 non-rapid eye movement sleep (N3), and REM sleep. Thus, the statement claiming increases in these areas is false; instead, opiate misuse associates with disruptions leading to decreased values across these metrics.",
+        "question": "What changes occur in sleep architecture when opiate misuse happens?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 562,
+            "paragraph_id": "978-0198795551-p562-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of cases exhibit this pattern.",
+        "false_answer": "Approximately 40% of cases exhibit this pattern.",
+        "incorrect_explanation": "The given answer incorrectly states that approximately 40% of PSG recordings show brief partial arousal during non-REM sleep among individuals experiencing sleep-talking. According to the information provided, around 60% of cases typically display this characteristic, making the statement inaccurate. The correct percentage should be closer to 60%.",
+        "question": "What percentage of PSG recordings show brief partial arousal during non-REM sleep among individuals who experience sleep-talking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 545,
+            "paragraph_id": "978-0198795551-p545-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15% of the general population suffers from this condition.",
+        "false_answer": "Approximately 15% of the general population suffers from this condition.",
+        "incorrect_explanation": "The given prevalence rate is incorrect because according to the provided information, approximately 10% of the general population experience Restless Legs Syndrome, not 15%.",
+        "question": "What percentage of the general population experiences Restless Legs Syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 553,
+            "paragraph_id": "978-0198795551-p553-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Six",
+        "false_answer": "Six",
+        "incorrect_explanation": "The introduction actually mentions there are *five* broad areas of law of interest to psychiatrists, which includes common law, the law relating to incapable adults, the law regulating the treatment of patients with mental disorder, laws and regulations relating to confidentiality, and the criminal law in relation to mentally disordered offenders. Therefore, the correct answer should be *five*.",
+        "question": "What number of broad areas of law does the introduction mention as being of interest to practising psychiatrists?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1021,
+            "paragraph_id": "978-0198795551-p1021-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "One expects the miracle to happen overnight.",
+        "false_answer": "Overnight",
+        "incorrect_explanation": "The paragraph mentions imagining a miracle happening *tonight* while sleeping, suggesting the timing rather than specifying an expectation of occurrence within any particular timeframe after falling asleep. There's no indication that miracles are expected to actually occur overnight consistently according to the therapeutic approach outlined. Instead, it serves as a hypothetical tool for questioning.",
+        "question": "On which day can one expect the miracle described in solution-focused therapy's preferred future scenario to occur during sleep?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1011,
+            "paragraph_id": "978-0198795551-p1011-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of women experience clinically significant PMS.",
+        "false_answer": "Approximately 10% of women experience clinically significant PMS.",
+        "incorrect_explanation": "The given answer is incorrect because according to the paragraph, clinically significant PMS actually occurs in 20\u201330% of women, indicating a much larger portion of the population experiences these issues compared to what was falsely stated.",
+        "question": "What percent of women experience clinically significant premenstrual syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 570,
+            "paragraph_id": "978-0198795551-p570-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 30-day hormonal formulation is effective for PMDD.",
+        "false_answer": "A 30-day hormonal formulation is effective for PMDD.",
+        "incorrect_explanation": "The statement incorrectly suggests a 30-day cycle instead of the actual 24-day cycle that newer studies support for efficacy in treating PMDD.",
+        "question": "What duration of hormonal formulation has been found efficacious for treating Premenstrual Dysphoric Disorder (PMDD) in newer studies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 575,
+            "paragraph_id": "978-0198795551-p575-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A palimpsest refers to a sudden onset of exceptional memory clarity after alcohol consumption.",
+        "false_answer": "A palimpsest refers to a sudden onset of exceptional memory clarity after alcohol consumption.",
+        "incorrect_explanation": "According to the paragraph, a palimpsest actually refers to an episode of discrete amnesia related to alcohol or drug intoxication, not enhanced memory clarity. The correct understanding is that it involves a loss of memory rather than improvement.",
+        "question": "What does the term 'palimpsest' specifically refer to in relation to memory?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 185,
+            "paragraph_id": "978-0198795551-p185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They made this description in 1990.",
+        "false_answer": "Berrios and Markova described psychiatry as a 'protean discipline' and neuropsychiatry as one of its incarnations in 1990.",
+        "incorrect_explanation": "The statement regarding the description of psychiatry by Berrios and Markova was actually attributed to them in the year 2002, according to the given text (\"Berrios and Markova (2002)\"), making the claim of it being said in 1990 inaccurate.",
+        "question": "What year did Berrios and Markova describe psychiatry as a 'protean discipline' and neuropsychiatry as one of its incarnations?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 195,
+            "paragraph_id": "978-0198795551-p195-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Before applying the Deprivation of Liberty Safeguards, an individual must be under intermittent supervision and control and be partially free to leave, and there must also be confirmation that five specific tests are satisfied regarding age, mental disorder, capacity, best interests, and potential detention under other laws.",
+        "false_answer": "Conditions require being under intermittent supervision and partial freedom to leave, along with satisfying five specific tests.",
+        "incorrect_explanation": "According to the given text, the actual condition involves being \u201cunder continuous supervision and control and is not free to leave,\u201d indicating constant oversight rather than intermittent. Additionally, there are six specified tests (age, having a mental disorder, lacking capacity, deprivation being in their best interests, not currently detained under the Mental Health Act, and not conflicting with another decision-making authority) instead of five.",
+        "question": "What conditions must be met before applying the Deprivation of Liberty Safeguards?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1030,
+            "paragraph_id": "978-0198795551-p1030-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Mental Health (Care and Treatment) (Scotland) Act passed in 1999.",
+        "false_answer": "The Mental Health (Care and Treatment) (Scotland) Act passed in 1999.",
+        "incorrect_explanation": "The answer is incorrect because the passage actually states that the Mental Health (Care and Treatment) (Scotland) Act replaced the 1984 Act and was passed in 2003, following the Millan Committee's report after the task was assigned in 1999.",
+        "question": "What year did the Mental Health (Care and Treatment) (Scotland) Act pass?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1024,
+            "paragraph_id": "978-0198795551-p1024-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Schizophrenia",
+        "false_answer": "Schizophrenia",
+        "incorrect_explanation": "While schizophrenia is indeed considered under the definition of mental disorder, specifically listed among examples given in the code of practice, the actual term defined by the 2007 Act as 'any disorder or disability of the mind' refers broadly to what constitutes a'mental disorder'. Thus, saying schizophrenia alone is too narrow; it's one example rather than the comprehensive definition intended. The correct understanding should encompass any condition affecting mental well-being, making the broader category of'mental disorder' the accurate answer.",
+        "question": "What does the 2007 Act define as 'any disorder or disability of the mind'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1035,
+            "paragraph_id": "978-0198795551-p1035-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A Compulsory Treatment Order usually lasts for 12 months.",
+        "false_answer": "A Compulsory Treatment Order usually lasts for 12 months.",
+        "incorrect_explanation": "According to the paragraph, a Compulsory Treatment Order actually lasts for 6 months, not 12 months. The correct duration is specified under Part 7, stating that a CTO authorizes compulsory treatment in hospital or in the community for 6 months.",
+        "question": "What is the duration for which a Compulsory Treatment Order (CTO) typically lasts?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1041,
+            "paragraph_id": "978-0198795551-p1041-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At least 12 months.",
+        "false_answer": "At least 12 months.",
+        "incorrect_explanation": "According to ICD-11, 'Gender incongruence of adolescence or adulthood' needs to be present for several months, which is different from what was specified for other classifications within the same diagnostic manual. Therefore, stating that it needs to be present for \"at least 12 months\" introduces a discrepancy not supported by the given information.",
+        "question": "How long do the features of 'Gender incongruence of adolescence or adulthood' need to be present according to ICD-11?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 601,
+            "paragraph_id": "978-0198795551-p601-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At least 12 months.",
+        "false_answer": "At least 12 months.",
+        "incorrect_explanation": "According to the DSM-5 definition mentioned in the paragraph, a paraphilic disorder involves at least 6 months of recurrent, intense sexual arousal, not 12 months. Therefore, the correct answer should reflect this specified timeframe of 6 months.",
+        "question": "What duration of recurrent, intense sexual arousal defines a paraphilic disorder according to the DSM-5?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 591,
+            "paragraph_id": "978-0198795551-p591-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For treating Hemiballismus, the primary approach involves the administration of benzodiazepines alone.",
+        "false_answer": "Benzodiazepines alone are primarily used to treat Hemiballismus.",
+        "incorrect_explanation": "According to the information provided, treatments for hemiballismus actually involve antipsychotics or tetrabenazine, indicating a combination or choice between these two rather than focusing exclusively on benzodiazepines, which are indeed useful in other conditions described but not specified here for hemiballismus.",
+        "question": "What treatment options were specifically considered effective for hemiballismus?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 206,
+            "paragraph_id": "978-0198795551-p206-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 50% of people with epilepsy suffer from depression and anxiety.",
+        "false_answer": "Up to 50% of people with epilepsy suffer from depression and anxiety.",
+        "incorrect_explanation": "The given answer incorrectly states that up to 50% of people with epilepsy suffer from depression and anxiety, whereas according to the information provided, this number is actually up to 30%. Therefore, the correct statement regarding the prevalence of depression and anxiety among individuals with epilepsy is up to 30%, making the initial claim inaccurate.",
+        "question": "What percentage of people with epilepsy experience psychological issues like depression and anxiety?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 212,
+            "paragraph_id": "978-0198795551-p212-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Chorea is characterized by decreased dopamine and increased acetylcholine levels.",
+        "false_answer": "Decreased dopamine and increased acetylcholine levels characterize chorea.",
+        "incorrect_explanation": "According to the pathophysiology described, chorea is actually characterized by increased dopamine and decreased acetylcholine levels, indicating a disequilibrium between these neurotransmitters.",
+        "question": "What characterizes chorea according to neurotransmitter levels?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 204,
+            "paragraph_id": "978-0198795551-p204-para1"
+        },
+        "type": "short_inverse"
+    }
+]

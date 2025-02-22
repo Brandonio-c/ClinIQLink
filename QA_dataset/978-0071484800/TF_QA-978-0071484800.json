@@ -1,0 +1,612 @@
+[
+    {
+        "answer": "True",
+        "question": "Antidopaminergic neuroleptic agents can induce or exacerbate orthostatic hypotension.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1216,
+            "paragraph_id": "978-0071484800-p1216-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vitamin B12 deficiency can precede the development of megaloblastic anemia in individuals with evidence of posterior column disease.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1211,
+            "paragraph_id": "978-0071484800-p1211-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hypoglycemia is listed among the causes of secondary seizures.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1222,
+            "paragraph_id": "978-0071484800-p1222-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lower cranial nerve deficits typically accompany Type I occipital condyle fractures.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1792,
+            "paragraph_id": "978-0071484800-p1792-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Burst fractures always involve both the anterior and middle columns failing due to axial load.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1795,
+            "paragraph_id": "978-0071484800-p1795-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Decisions regarding when an athlete returns to play following a concussion should ideally be made by healthcare professionals specifically trained in managing concussions.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1786,
+            "paragraph_id": "978-0071484800-p1786-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Figure 255-13 includes fracture-dislocation injuries with demonstrations through schematic, lateral CT reconstruction, and axial CT scans showing various aspects of spinal column damage.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1801,
+            "paragraph_id": "978-0071484800-p1801-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Conventional catheter angiography remains the standard method for evaluating vascular injuries due to its ability to provide both diagnosis and therapeutic interventions.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1822,
+            "paragraph_id": "978-0071484800-p1822-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children younger than 10 years old experience spinal injuries primarily in the upper cervical vertebrae due to developmental features such as incomplete ossification of cartilaginous elements and horizontal orientation of shallow facet joints.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1809,
+            "paragraph_id": "978-0071484800-p1809-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Administration of IV crystalloid fluid in cases of unilateral pulmonary contusion can lead to extravasation of fluid into the injured lung due to increased capillary hydrostatic pressure.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1832,
+            "paragraph_id": "978-0071484800-p1832-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hypotension exceeding 30 minutes in previously healthy trauma patients requiring massive transfusions increases mortality from less than 10% to more than 60%.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1829,
+            "paragraph_id": "978-0071484800-p1829-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "CYP3A4 is involved in the metabolism of various medications.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1260,
+            "paragraph_id": "978-0071484800-p1260-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Phentolamine is used to treat moderate hypertension caused by tyramine reactions in patients taking monoamine oxidase inhibitors.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1278,
+            "paragraph_id": "978-0071484800-p1278-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pin-site discomfort due to local inflammation occurs in less than 5% of patients who undergo treatment involving halo devices.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1252,
+            "paragraph_id": "978-0071484800-p1252-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Not all patients with myasthenia gravis have detectable AChR autoantibodies.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1235,
+            "paragraph_id": "978-0071484800-p1235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fosphenytoin can be administered through intramuscular injection because it lacks propylene glycol and ethanol as diluents.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1227,
+            "paragraph_id": "978-0071484800-p1227-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "TCAs cause wide-complex monomorphic ventricular tachycardias (WCMVT) in more than half of the patients who present with severe toxicity.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1269,
+            "paragraph_id": "978-0071484800-p1269-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Valproate does not interact with other drugs regarding their metabolism through the cytochrome-P450 system.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1257,
+            "paragraph_id": "978-0071484800-p1257-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High-potency antipsychotics such as haloperidol are more likely to induce extrapyramidal symptoms compared to low-potency antipsychotics.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1281,
+            "paragraph_id": "978-0071484800-p1281-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Viral cultures are included in additional testing for suspected viral meningitis.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1243,
+            "paragraph_id": "978-0071484800-p1243-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Plasma levels of cyclic antidepressants typically remain stable after death due to lack of postmortem drug redistribution.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1267,
+            "paragraph_id": "978-0071484800-p1267-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The primary goal in managing traumatic aortic disruptions includes maintaining systolic blood pressure between 80 to 110 mmHg.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1846,
+            "paragraph_id": "978-0071484800-p1846-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients with penetrating trauma to the flank typically undergo exploratory laparotomy regardless of whether they were injured by a gunshot or a stab wound.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1853,
+            "paragraph_id": "978-0071484800-p1853-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of penetrating trauma injuries do not involve the extremities.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1859,
+            "paragraph_id": "978-0071484800-p1859-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A plain film X-ray is typically needed for all hernia patients regardless of symptom severity.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 638,
+            "paragraph_id": "978-0071484800-p638-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thrombosed hemorrhoids located outside the anorectal ring require immediate medical attention regardless of their duration.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 643,
+            "paragraph_id": "978-0071484800-p643-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Necrotizing fasciitis is exclusively caused by contamination of the wound with group A streptococci or S. aureus.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 660,
+            "paragraph_id": "978-0071484800-p660-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Mannitol is appropriate as a temporizing measure in cases of increased intracranial pressure caused by cerebral edema in patients with liver failure.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 625,
+            "paragraph_id": "978-0071484800-p625-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Paracentesis procedures typically involve equipment including sterile drapes, sterilizing solutions, and various sized needles.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 656,
+            "paragraph_id": "978-0071484800-p656-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acetaminophen and salicylate levels should always be checked immediately upon presentation regardless of whether there's suspicion of an overdose.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1300,
+            "paragraph_id": "978-0071484800-p1300-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Isopropanol is approximately twice as potent as ethanol in causing central nervous system depression.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1297,
+            "paragraph_id": "978-0071484800-p1297-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Up to 10% of patients with severe lithium toxicity survive without experiencing long-term sequelae.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1286,
+            "paragraph_id": "978-0071484800-p1286-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Isolated benzodiazepine overdose is commonly associated with significant morbidity and mortality in otherwise healthy individuals?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1291,
+            "paragraph_id": "978-0071484800-p1291-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Duplex ultrasonography can accurately diagnose vascular injury with a specificity ranging from 96% to 98%.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1874,
+            "paragraph_id": "978-0071484800-p1874-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rotational deformities are typically detectable through radiography alone.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1882,
+            "paragraph_id": "978-0071484800-p1882-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bullets fired from guns always penetrate deeper tissues before causing significant organ damage.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1863,
+            "paragraph_id": "978-0071484800-p1863-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A death resulting from a complication of paraplegia caused by a gunshot wound requires reporting to the medical examiner or coroner regardless of the elapsed time since the initial injury.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1871,
+            "paragraph_id": "978-0071484800-p1871-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary purpose of the inflammatory phase of bone healing is to remove debris, dead bone, and bacteria from the damaged area surrounding the fracture.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1878,
+            "paragraph_id": "978-0071484800-p1878-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Postrenal or obstructive acute renal failure accounts for less than 5% of all community-acquired disease.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 669,
+            "paragraph_id": "978-0071484800-p669-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Acute kidney injury (AKI) is a potential complication of rhabdomyolysis.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 676,
+            "paragraph_id": "978-0071484800-p676-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hypertension can be one symptom associated with hard water syndrome resulting from improper preparation of dialysate concentrate.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 681,
+            "paragraph_id": "978-0071484800-p681-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Administration of \u03b2-adrenergic blockers is typically avoided in managing cocaine-associated myocardial ischemia due to concerns about worsening coronary vasoconstriction through unopposed \u03b1-adrenergic receptor stimulation.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1310,
+            "paragraph_id": "978-0071484800-p1310-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Naloxone's onset of action after being given intravenously is between 30 seconds to 1 minute.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1305,
+            "paragraph_id": "978-0071484800-p1305-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients with serum acetaminophen levels above the original line corresponding to a 4-hour post-ingestion level of 200 micrograms/mL have a higher risk of developing hepatotoxicity than those whose levels fall below this threshold.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1321,
+            "paragraph_id": "978-0071484800-p1321-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Salicylate causes proteinuria at a serum salicylate concentration of less than 10 milligrams/dL.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1317,
+            "paragraph_id": "978-0071484800-p1317-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A thumb spica immobilizes only the wrist.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1887,
+            "paragraph_id": "978-0071484800-p1887-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Partial lacerations of tendons cannot be diagnosed through clinical examination alone due to lack of overt signs until significant damage has occurred.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1896,
+            "paragraph_id": "978-0071484800-p1896-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Wrist injuries account for approximately 0.01% of annual Emergency Department (ED) visits.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1901,
+            "paragraph_id": "978-0071484800-p1901-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Digital arteries originate from the superficial palmar arch.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1893,
+            "paragraph_id": "978-0071484800-p1893-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fulminant hepatic failure resulting from acetaminophen poisoning accounts for less than half of the cases of acute liver failure in the US.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1325,
+            "paragraph_id": "978-0071484800-p1325-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Verapamil is the most potent negative inotrope of all calcium channel blockers, causing at least equal depression of heart contraction and vascular smooth muscle dilatation at any concentration.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1342,
+            "paragraph_id": "978-0071484800-p1342-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More lipophilic beta blockers such as propranolol cause seizures more frequently compared to non-lipophilic ones.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1339,
+            "paragraph_id": "978-0071484800-p1339-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ultrasound scanning can detect kidney stones located near the ureterovesical junction better than some traditional imaging methods.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 707,
+            "paragraph_id": "978-0071484800-p707-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Menopause typically occurs in women around the age of 41 years old.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 717,
+            "paragraph_id": "978-0071484800-p717-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients diagnosed with phimosis cannot undergo circumcision due to medical restrictions.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 699,
+            "paragraph_id": "978-0071484800-p699-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Advanced age is a factor associated with an increased risk for UTI.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 684,
+            "paragraph_id": "978-0071484800-p684-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Catheter-associated urinary tract infections (CAUTIs) typically result from multiple types of bacteria when the catheter remains in place for less than 24 hours.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 710,
+            "paragraph_id": "978-0071484800-p710-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Poststreptococcal glomerulonephritis appears 1 day after the primary infection.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 690,
+            "paragraph_id": "978-0071484800-p690-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Falling onto an outstretched hand can lead to wrist injuries such as fractures, ligament sprains, and dislocations.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1905,
+            "paragraph_id": "978-0071484800-p1905-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Intercondylar fractures are more common in children than in adults.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1920,
+            "paragraph_id": "978-0071484800-p1920-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Most biceps tendon ruptures occur spontaneously without prior symptoms or warning signs.",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1917,
+            "paragraph_id": "978-0071484800-p1917-para1"
+        },
+        "type": "true_false"
+    }
+]

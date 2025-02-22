@@ -125,11 +125,11 @@ class QADatasetGenerator:
         self.model = transformers.AutoModelForCausalLM.from_pretrained(
                     llama3_model_path, 
                     torch_dtype=torch.bfloat16,  # Use bfloat16 as specified
-                    device_map="auto",  # Automatically map model to available devices (e.g., GPU/CPU)
+                    device_map="auto" # ,  # Automatically map model to available devices (e.g., GPU/CPU)
                     # device_map="balanced"
                     # device_map="balanced_low_0" # ensures the model is evenly split across both A100 GPUs, preventing one GPU from being overloaded.
-                    offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
-                    offload_state_dict=True, # Helps in managing large models across multiple GPUs
+                    # offload_folder="/tmp",  # Optional: Offload to CPU to save GPU memory
+                    # offload_state_dict=True, # Helps in managing large models across multiple GPUs
                     ).eval()  # Put model in inference mode to reduce overhead by disabling gradient computation.
 
         if self.model.config.max_position_embeddings < 131072:
@@ -339,10 +339,16 @@ class QADatasetGenerator:
             sentences = [sent.text for sent in doc.sents]
             
             # Generate embeddings
-            sentence_embeddings = self.embedding_model(sentences, truncation=True, batch_size=4)
+            sentence_embeddings = self.embedding_model(
+                                        sentences, 
+                                        truncation=True, 
+                                        max_length=512, 
+                                        batch_size=4, 
+                                        padding=True
+                                    )
 
             # Ensure embeddings are correctly formatted as PyTorch tensors
-            sentence_embeddings = [torch.tensor(embed).squeeze() for embed in sentence_embeddings]
+            sentence_embeddings = [torch.tensor(embed).squeeze(0) for embed in sentence_embeddings]
 
             # Pad sequences to the length of the longest sequence
             padded_embeddings = pad_sequence(sentence_embeddings, batch_first=True, padding_value=0.0)
@@ -1191,7 +1197,10 @@ class QADatasetGenerator:
             if match:
                 question = match.group("question").strip().replace("**", "")  # Remove ** formatting
                 answer = match.group("answer").strip().replace("**", "")
-                reasoning = match.group("reasoning").strip().replace("**", "")
+                reasoning_text = match.group("reasoning").strip().replace("**", "")
+                # Split into lines, ignoring blank lines
+                reasoning_lines = [line.strip() for line in reasoning_text.split('\n') if line.strip()]
+
 
                 # Check for missing fields explicitly
                 missing_fields = []
@@ -1199,7 +1208,7 @@ class QADatasetGenerator:
                     missing_fields.append("Question")
                 if not answer:
                     missing_fields.append("Answer")
-                if not reasoning:
+                if not reasoning_text:
                     missing_fields.append("Reasoning")
 
                 if missing_fields:
@@ -1210,7 +1219,7 @@ class QADatasetGenerator:
                 return {
                     "question": question,
                     "answer": answer,
-                    "reasoning": reasoning,
+                    "reasoning": reasoning_lines,
                     "type": "multi_hop",
                     "source": source_info,
                 }
@@ -1314,20 +1323,22 @@ class QADatasetGenerator:
             match = qa_pattern.search(extracted_text)
 
             if match:
-                question = match.group("question").strip()
-                answer = match.group("answer").strip()
-                reasoning = match.group("reasoning").strip()
-                incorrect_step = match.group("incorrect_step").strip()
-
+                question = match.group("question").strip().replace("**", "")
+                answer = match.group("answer").strip().replace("**", "")
+                reasoning_text = match.group("reasoning").strip().replace("**", "")  # Split into lines, ignoring blank lines
+                reasoning_lines = [line.strip() for line in reasoning_text.split('\n') if line.strip()] 
+                incorrect_step_text = match.group("incorrect_step").strip().replace("**", "") # Split into lines, ignoring blank lines
+                incorrect_step_lines = [line.strip() for line in incorrect_step_text.split('\n') if line.strip()]
+                
                 # Ensure all fields are present
                 missing_fields = []
                 if not question:
                     missing_fields.append("Question")
                 if not answer:
                     missing_fields.append("Answer")
-                if not reasoning:
+                if not reasoning_lines:
                     missing_fields.append("Reasoning")
-                if not incorrect_step:
+                if not incorrect_step_lines:
                     missing_fields.append("Incorrect Reasoning Step")
 
                 if missing_fields:
@@ -1338,8 +1349,8 @@ class QADatasetGenerator:
                 return {
                     "question": question,
                     "answer": answer,
-                    "reasoning": reasoning,
-                    "incorrect_reasoning_step": incorrect_step,
+                    "reasoning": reasoning_lines,
+                    "incorrect_reasoning_step": incorrect_step_lines,
                     "type": "multi_hop_inverse",
                     "source": source_info
                 }
@@ -1523,7 +1534,13 @@ class QADatasetGenerator:
         num_sentences = len(sentences)
 
         # Compute semantic entropy (variance in embeddings)
-        sentence_embeddings = self.embedding_model(sentences)
+        sentence_embeddings = self.embedding_model(
+                                                    sentences, 
+                                                    truncation=True, 
+                                                    max_length=512, 
+                                                    batch_size=4, 
+                                                    padding=True
+                                                )
         sentence_embeddings = np.array([np.mean(embed[0], axis=0) for embed in sentence_embeddings])
         semantic_entropy = np.var(sentence_embeddings)
 

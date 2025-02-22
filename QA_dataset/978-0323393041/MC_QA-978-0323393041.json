@@ -1,0 +1,3650 @@
+[
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Fluorodeoxyglucose (FDG)",
+            "B": "Methylenediaminetetraacetic acid (MDTA)",
+            "C": "Methylene diphosphonate (MDP)",
+            "D": "G)\nB: Methylenediaminetetraacetic acid (MDTA)\nC: Methylene diphosphonate (MDP)\nD: Hydroxymethylfuransulfonic acid"
+        },
+        "question": "What substance is typically combined with technetium-99m for creating a radiopharmaceutical that targets bones?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 12,
+            "paragraph_id": "978-0323393041-p12-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Magnetic Resonance Imaging (MRI)",
+            "B": "Doppler Ultrasound",
+            "C": "Computed Tomography (CT)",
+            "D": "oppler Ultrasound\nC: Computed Tomography (CT)\nD: Nuclear Magnetic Resonance"
+        },
+        "question": "What technique allows for the determination of flow, direction, and velocity within a vessel?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 10,
+            "paragraph_id": "978-0323393041-p10-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Synovial hinge joints",
+            "B": "Fibrous syndesmoses",
+            "C": "Cartilaginous symphyses",
+            "D": "Bicondyler joints"
+        },
+        "question": "What kind of joints allow movement primarily around one axis with some restriction on rotation about a secondary axis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 22,
+            "paragraph_id": "978-0323393041-p22-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Low atomic mass allowing easy absorption",
+            "B": "Relatively low density reducing side effects",
+            "C": "High atomic mass leading to marked attenuation of X-rays",
+            "D": "Ability to permanently bind to biological tissues"
+        },
+        "question": "What characteristic makes iodine particularly suitable for use in contrast agents injected into arteries or veins?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 9,
+            "paragraph_id": "978-0323393041-p9-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Specific types of nerves",
+            "B": "Different levels of the spine",
+            "C": "Areas of the brain responsible for motor control",
+            "D": "ifferent levels of the spine  \nC: Areas of the brain responsible for motor control  \nD: Types of sensory receptors in the skin"
+        },
+        "question": "What do abbreviations such as T10, S1, and L4 typically represent in medical contexts related to dermatomes?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 38,
+            "paragraph_id": "978-0323393041-p38-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Skin on the back of the hand and upper arm",
+            "B": "Skin on the lateral side of the forehead and ear",
+            "C": "Skin on the medial side of the leg and foot",
+            "D": "Skin on the lateral side of the forearm and on the thumb"
+        },
+        "question": "What parts of the body's skin are primarily innervated by the C6 spinal nerve level?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 36,
+            "paragraph_id": "978-0323393041-p36-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They have thicker walls due to more smooth muscle in the tunica media.",
+            "B": "They contain some smooth muscle in the tunica media, but the thickest layer is the tunica externa.",
+            "C": "Their primary function involves controlling the amount of blood flowing back to the heart.",
+            "D": "They lack valves, unlike smaller veins closer to the surface of the skin."
+        },
+        "question": "What distinguishes the structure of large veins compared to other types of veins?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 28,
+            "paragraph_id": "978-0323393041-p28-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "C4 and C5",
+            "B": "C5 and C6",
+            "C": "4 and C5  \nB: C5 and C6  \nC: C6 and C7",
+            "D": "C7 and C8"
+        },
+        "question": "What spinal nerve levels primarily innervate muscles responsible for moving the elbow?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 37,
+            "paragraph_id": "978-0323393041-p37-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The dermis contains a significant amount of fat unlike the avascular nature of the epidermis.",
+            "B": "The dermis provides no barrier function unlike the epidermis' role in providing a mechanical barrier.",
+            "C": "The dermis is a dense bed of vascular connective tissue distinguishing it from the avascular epidermis.",
+            "D": "The dermis lacks the ability to vary in thickness compared to the variability observed in the epidermis."
+        },
+        "question": "What is unique about how the dermis interacts with other layers compared to the epidermis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 26,
+            "paragraph_id": "978-0323393041-p26-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It passes through the lesser sciatic foramen first before entering the greater sciatic foramen.",
+            "B": "It goes straight down between the ischial spines without passing through any foramina.",
+            "C": "It exits via the greater sciatic foramen and then enters the lesser sciatic foramen around the ischial spine.",
+            "D": "It bypasses both sciatic foramina and directly reaches the pelvic floor."
+        },
+        "question": "What pathway does the pudendal nerve follow after leaving the pelvic cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 442,
+            "paragraph_id": "978-0323393041-p442-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Spinal cord levels S2 to S4",
+            "B": "Spinal cord levels S3 to S5",
+            "C": "Spinal cord levels L1",
+            "D": "Spinal cord levels L2 to S2"
+        },
+        "question": "What dermatome level primarily innervates the anterior regions of the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 441,
+            "paragraph_id": "978-0323393041-p441-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Reduced need for anesthesia due to less invasive nature compared to traditional methods",
+            "B": "Bleeding from the liver enters the hepatic vein and is immediately returned to the circulation if the liver capsule remains intact",
+            "C": "Lower incidence of ascites formation post-procedure",
+            "D": "Increased accuracy in diagnosing early stages of liver disease"
+        },
+        "question": "What is an advantage of performing a transjugular liver biopsy, particularly concerning potential complications related to bleeding?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 420,
+            "paragraph_id": "978-0323393041-p420-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Similarities in the role during reproduction",
+            "B": "Structures related to respiration and circulation",
+            "C": "Both contain structures related to digestion and excretion",
+            "D": "Presence of identical organs across genders"
+        },
+        "question": "What do male and female pelvic regions share in common?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 429,
+            "paragraph_id": "978-0323393041-p429-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ureters",
+            "B": "Vertebral Column",
+            "C": "olumn\nC: Uterus",
+            "D": "Pelvic Bone"
+        },
+        "question": "What separates the rectum from the bladder in females?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 428,
+            "paragraph_id": "978-0323393041-p428-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The light fails to penetrate through the scrotum due to fluid accumulation.",
+            "B": "The light penetrates through the scrotum indicating the absence of solid masses.",
+            "C": "The test results vary depending on whether the patient is standing or lying down.",
+            "D": "The test cannot distinguish between different types of scrotal contents."
+        },
+        "question": "What happens during a positive transillumination test?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 422,
+            "paragraph_id": "978-0323393041-p422-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "C5-C6",
+            "B": "C7-T2",
+            "C": "5-C6  \nB: C7-T2  \nC: C8 and T1",
+            "D": "L4-L5"
+        },
+        "question": "What are the spinal nerve roots primarily responsible for the formation of the ulnar nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 830,
+            "paragraph_id": "978-0323393041-p830-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Medial border, inferior angle, and part of the lateral border",
+            "B": "Superior border and angle of the scapula",
+            "C": "Spine and acromion",
+            "D": "Part of the lateral border and the spine"
+        },
+        "question": "What areas of the scapula cannot be felt by touch due to being covered by soft tissues?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 834,
+            "paragraph_id": "978-0323393041-p834-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Distal phalanx fracture",
+            "B": "Proximal phalanges fracture",
+            "C": "Metacarpal bone fracture",
+            "D": "istal phalanx fracture\nB: Proximal phalanges fracture\nC: Metacarpal bone fracture\nD: Carpals fracture"
+        },
+        "question": "Which bone fracture is described as being relatively common?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 826,
+            "paragraph_id": "978-0323393041-p826-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Medial third of the forearm",
+            "B": "Junction between the lateral and middle thirds of the distal forearm",
+            "C": "Proximal forearm near the elbow",
+            "D": "Along the lateral edge of the forearm"
+        },
+        "question": "What is the approximate location of the tendon of flexor carpi radialis muscle in the distal forearm?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 839,
+            "paragraph_id": "978-0323393041-p839-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Anterior rami C5 to T1",
+            "B": "Posterior rami L1 to L4",
+            "C": "5 to T1  \nB: Posterior rami L1 to L4  \nC: Anterior rami L1 to L4",
+            "D": "Posterior rami C1 to C4"
+        },
+        "question": "What nerve roots constitute the lumbar plexus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 50,
+            "paragraph_id": "978-0323393041-p50-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Pain from areas with high sensory output is misinterpreted as coming from regions with lower sensory output.",
+            "B": "Sensory information from one location is correctly identified by the CNS regardless of the area's typical sensory output.",
+            "C": "NS regardless of the area's typical sensory output.\nC: Pain from the gut or other visceral regions may be felt in areas with higher amounts of sensory output due to convergence of afferents.",
+            "D": "Referred pain involves direct transmission of pain signals from one body part to another without involving the spinal cord."
+        },
+        "question": "What typically happens during referred pain according to how sensory information is processed?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 49,
+            "paragraph_id": "978-0323393041-p49-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The obturator membrane",
+            "B": "The pelvic inlet",
+            "C": "The pelvic floor",
+            "D": "The pubic symphysis"
+        },
+        "question": "What separates the pelvic cavity above from the perineum below?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 446,
+            "paragraph_id": "978-0323393041-p446-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pubic symphysis, superior ramus of the pubis, and the sacrum",
+            "B": "Inferior border of the body of the pubis, inferior ramus of the pubis, ramus of the ischium, ischial tuberosity, and the coccyx via the sacrotuberous ligament",
+            "C": "Iliac crest, iliac fossa, and the inguinal canal",
+            "D": "Ischial spine, sacrospinous ligament, and the femoral triangle"
+        },
+        "question": "What structures contribute to forming the boundary of the pelvic outlet?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 458,
+            "paragraph_id": "978-0323393041-p458-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Ischium and Ilium bones along with the sacrum.",
+            "B": "Pubic symphysis, obturator foramina, and linea terminalis.",
+            "C": "Sacrospinous ligaments, coccyx, and iliac crests.",
+            "D": "Greater trochanter, lesser sciatic notch, and anterior superior iliac spines."
+        },
+        "question": "What anatomical structures contribute to forming the posterior boundary of the pelvic cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 447,
+            "paragraph_id": "978-0323393041-p447-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Pelvic bones alone",
+            "B": "Urethra and vagina",
+            "C": "The perineal membrane and adjacent pubic arch",
+            "D": "Deep perineal pouch"
+        },
+        "question": "What provides attachment for the roots of the external genitalia and their associated muscles?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 463,
+            "paragraph_id": "978-0323393041-p463-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Fracture of the clavicle leading to winged scapula appearance",
+            "B": "Damage to the long thoracic nerve causing paralysis of the hand",
+            "C": "Transection of the long thoracic nerve resulting in a noticeable protrusion of the scapular bone",
+            "D": "amage to the long thoracic nerve causing paralysis of the hand\nC: Transection of the long thoracic nerve resulting in a noticeable protrusion of the scapular bone\nD: Loss of sensation in the entire arm"
+        },
+        "question": "What complication occurred due to damage during a mastectomy operation?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 844,
+            "paragraph_id": "978-0323393041-p844-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The deltoid muscle",
+            "B": "The supraspinatus muscle",
+            "C": "Both muscles working together simultaneously",
+            "D": "Muscle atrophy"
+        },
+        "question": "What initiates abduction of the humerus at the glenohumeral joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 848,
+            "paragraph_id": "978-0323393041-p848-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Tingling and weakness",
+            "B": "Pain and swelling",
+            "C": "Local anesthesia",
+            "D": "Muscle spasms"
+        },
+        "question": "What symptom did the 35-year-old woman experience around the base of the thenar eminence?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 847,
+            "paragraph_id": "978-0323393041-p847-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Wasting of the thenar eminence and absence of opposition of the thumb",
+            "B": "Absent flexion of the distal interphalangeal joints of the index and middle fingers",
+            "C": "Wasting of the hypothenar eminence, absent flexion of the distal interphalangeal joints of the little and ring fingers, and absent abduction and adduction of the fingers",
+            "D": "Extension of the wrist and extension of the metacarpophalangeal and interphalangeal joints"
+        },
+        "question": "What happens due to an ulnar nerve palsy?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 845,
+            "paragraph_id": "978-0323393041-p845-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Circular",
+            "B": "Square Shaped",
+            "C": "ircular\nB: Square Shaped\nC: Triangular",
+            "D": "Rectangular"
+        },
+        "question": "What shape do the vertebral bodies appear when they are viewed from above?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 68,
+            "paragraph_id": "978-0323393041-p68-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Predominantly collagenic tissue",
+            "B": "Predominantly elastic tissue",
+            "C": "Fibrous connective tissue",
+            "D": "Muscular tissue"
+        },
+        "question": "What types of tissues do the ligamenta flava predominantly consist of?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 82,
+            "paragraph_id": "978-0323393041-p82-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of an extra rib",
+            "B": "Iliolumbar ligaments connecting to both sides of the pelvis",
+            "C": "Unusual curvature of the spine at this point",
+            "D": "Complete fusion with the sacrum"
+        },
+        "question": "What typically identifies the fifth lumbar vertebra?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 77,
+            "paragraph_id": "978-0323393041-p77-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Less than 5%",
+            "B": "As few as 0.05%",
+            "C": "Up to 20%",
+            "D": "Approximately 10%"
+        },
+        "question": "What percentage of individuals may exhibit spina bifida occulta?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 73,
+            "paragraph_id": "978-0323393041-p73-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only a right-sided curvature",
+            "B": "Both a left- and right-sided curvature along with a rotational component",
+            "C": "An involvement of just the upper spine",
+            "D": "A condition where the vertebral body remains perfectly straight"
+        },
+        "question": "What characterizes a case of true scoliosis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 75,
+            "paragraph_id": "978-0323393041-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They are released into the bloodstream",
+            "B": "They are absorbed back into the ovaries",
+            "C": "They are normally directed into the adjacent openings of the uterine tubes by cilia",
+            "D": "They remain free-floating in the pelvis"
+        },
+        "question": "What happens to mature eggs after they are ovulated?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 483,
+            "paragraph_id": "978-0323393041-p483-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The connection remains open throughout life",
+            "B": "The connection becomes wider and more prominent",
+            "C": "The connection closes, leaving a fibrous remnant",
+            "D": "The connection transforms into another anatomical structure"
+        },
+        "question": "What happens to the connection between the abdominal cavity and the space around the testis after normal testicular descent?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 476,
+            "paragraph_id": "978-0323393041-p476-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Spermatozoa lose their motility and cannot fertilize an egg anymore",
+            "B": "Spermatozoa acquire the ability to move and become capable of fertilization",
+            "C": "Spermatozoa undergo significant changes in size before being stored",
+            "D": "Spermatozoa stop moving completely after exiting the epididymis"
+        },
+        "question": "What happens during the passage of spermatozoa through the epididymis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 477,
+            "paragraph_id": "978-0323393041-p477-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It is pushed backward",
+            "B": "It remains unchanged",
+            "C": "It is pulled downward",
+            "D": "It is pulled forward"
+        },
+        "question": "What happens to the anorectal junction due to the action of the puborectalis part of the levator ani muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 465,
+            "paragraph_id": "978-0323393041-p465-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "6 cm",
+            "B": "8 cm",
+            "C": "10 cm",
+            "D": "4 cm"
+        },
+        "question": "What is the approximate length of the urethra in women?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 472,
+            "paragraph_id": "978-0323393041-p472-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Dropping of the jaw due to weakened masseter muscles",
+            "B": "Weakness in raising the arm above the head because of impaired rotation of the scapula",
+            "C": "Diminished ability to climb stairs due to impacted gastrocnemius function",
+            "D": "ropping of the jaw due to weakened masseter muscles  \nB: Weakness in raising the arm above the head because of impaired rotation of the scapula  \nC: Diminished ability to climb stairs due to impacted gastrocnemius function  \nD: Loss of sensation over the area supplied by the ulnar nerve"
+        },
+        "question": "What happens if there is an injury to the accessory nerve XI?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 102,
+            "paragraph_id": "978-0323393041-p102-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "L4-S1",
+            "B": "T12-L2",
+            "C": "S2, S3",
+            "D": "C7-T6"
+        },
+        "question": "What spinal segments provide origin to the Pelvic splanchnic nerves?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 497,
+            "paragraph_id": "978-0323393041-p497-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Roughly 20%",
+            "C": "Around 84%",
+            "D": "About 50%"
+        },
+        "question": "What percentage of Earth's volume is composed of the mantle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 109,
+            "paragraph_id": "978-0323393041-p109-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Paraplegia",
+            "B": "Tetraparesis",
+            "C": "Quadriplegia or Tetraplegia",
+            "D": "Hemiplegia"
+        },
+        "question": "What term describes impairment of sensory and motor functions resulting from an injury to the spinal cord in the cervical region affecting all four limbs?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 106,
+            "paragraph_id": "978-0323393041-p106-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Spine of scapula",
+            "B": "Inferior angle of scapula",
+            "C": "Medial border of scapula",
+            "D": "Greater trochanter"
+        },
+        "question": "Which anatomical feature is located at the lowermost point of the scapula?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 117,
+            "paragraph_id": "978-0323393041-p117-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anterior Roots",
+            "B": "Spinal Ganglia",
+            "C": "Posterior Ramus",
+            "D": "Intervertebral Foramina"
+        },
+        "question": "What structures typically house the cell bodies of the sensory neurons?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 110,
+            "paragraph_id": "978-0323393041-p110-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Lumbosacral Enlargement",
+            "B": "Vertebral Body",
+            "C": "Intervertebral Disc",
+            "D": "isc\nD: Cauda Equina"
+        },
+        "question": "What typically forms at the end of the spinal cord?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 112,
+            "paragraph_id": "978-0323393041-p112-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only frontal bone and ethmoid bone",
+            "B": "Frontal, parietal, and temporal bones",
+            "C": "Parts of frontal, ethmoid, and two parts of the sphenoid bones",
+            "D": "Occipital, frontal, and maxilla bones"
+        },
+        "question": "What parts of bones constitute the composition of the floor of the anterior cranial fossa?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 880,
+            "paragraph_id": "978-0323393041-p880-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mastoid processes",
+            "B": "Hypoglossal canals",
+            "C": "Occipital condyles",
+            "D": "External auditory meatus"
+        },
+        "question": "What is located at the anterolateral borders of the foramen magnum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 878,
+            "paragraph_id": "978-0323393041-p878-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Ischial tuberosities and inferior pubic rami",
+            "B": "Pubic bone, sacrococcygeal joint, and coccyx",
+            "C": "Urethra, vaginal opening, and anus",
+            "D": "Sacrum, levator ani muscle, and ischio-pubic ramus"
+        },
+        "question": "What structures form the boundaries of the urogenital triangle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 510,
+            "paragraph_id": "978-0323393041-p510-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "The bulb of the penis and crura of the penis",
+            "B": "The corpus cavernosum alone",
+            "C": "The spongy urethra",
+            "D": "The prostate gland"
+        },
+        "question": "What forms the root of the penis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 519,
+            "paragraph_id": "978-0323393041-p519-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Gastrointestinal",
+            "B": "Splenoportal",
+            "C": "Splenorenal",
+            "D": "Hemiazygo"
+        },
+        "question": "What type of shunt involves the splenorenal pathway?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 136,
+            "paragraph_id": "978-0323393041-p136-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Diaphragm and Trachea",
+            "B": "Parietal and Visceral layers of the pleura",
+            "C": "Mediastinum and Right main bronchus",
+            "D": "iaphragm and Trachea  \nB: Parietal and Visceral layers of the pleura  \nC: Mediastinum and Right main bronchus  \nD: Left and Right pleural cavities"
+        },
+        "question": "What components form the space between each lung and the chest wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 132,
+            "paragraph_id": "978-0323393041-p132-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only upwards toward the neck",
+            "B": "Towards both the upper chest and downward toward the abdominal region",
+            "C": "Downwards toward the feet exclusively",
+            "D": "ownwards toward the feet exclusively  \nD: Upward toward the head exclusively"
+        },
+        "question": "What direction may some lymphatic and venous drainage from the breast take?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 142,
+            "paragraph_id": "978-0323393041-p142-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ethmoidal arteries",
+            "B": "Maxillary artery",
+            "C": "Ascending pharyngeal artery",
+            "D": "Occipital artery"
+        },
+        "question": "What is the origin of the middle meningeal artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 890,
+            "paragraph_id": "978-0323393041-p890-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Telencephalon, Metencephalon, Myelencephalon",
+            "B": "Mesencephalon, Pons, Medulla Oblongata",
+            "C": "Diencephalon, Thalamus, Hypothalamus",
+            "D": "iencephalon, Thalamus, Hypothalamus\nD: Frontal Lobe, Temporal Lobe, Occipital Lobe"
+        },
+        "question": "What parts constitute the brainstem according to common usage?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 894,
+            "paragraph_id": "978-0323393041-p894-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Faster scanning time",
+            "B": "Better visualization of late-stage damage",
+            "C": "Higher sensitivity for visualizing early changes after an ischemia event",
+            "D": "Lower cost per procedure"
+        },
+        "question": "What advantage does MRI have over CT scans in diagnosing acute ischemic strokes?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 899,
+            "paragraph_id": "978-0323393041-p899-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anterior intercostal arteries",
+            "B": "Posterior intercostal arteries",
+            "C": "Musculophrenic arteries",
+            "D": "Transverse cervical arteries"
+        },
+        "question": "What type of blood vessel originates from vessels associated with the posterior thoracic wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 157,
+            "paragraph_id": "978-0323393041-p157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Rotation and flexion",
+            "B": "Extension and abduction",
+            "C": "Limited gliding along both planes of space and rotation about the long axis of the rib",
+            "D": "Circumduction and elevation"
+        },
+        "question": "What types of movements are allowed at the joint formed between the heads of the ribs and the bodies of the adjacent vertebrae?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 150,
+            "paragraph_id": "978-0323393041-p150-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between the midclavicular and anterior axillary lines from anterior to posterior and in the second or third intercostal space.",
+            "B": "etween the midclavicular and anterior axillary lines from anterior to posterior and in the second or third intercostal space.\nB: Between the anterior axillary and midaxillary anatomical lines from anterior to posterior and in either the fourth or fifth intercostal space.",
+            "C": "Below the clavicle and extending along the sternal margin up to the xiphoid process.",
+            "D": "Directly above the nipple line and midway between the sternum and the spine."
+        },
+        "question": "What is typically considered the optimal site for inserting a thoracostomy tube?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 163,
+            "paragraph_id": "978-0323393041-p163-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It contracts and decreases the volume inside the chest cavity.",
+            "B": "It remains unchanged throughout the entire breathing cycle.",
+            "C": "It relaxes and increases the volume inside the chest cavity.",
+            "D": "It contracts, thereby increasing the volume inside the chest cavity."
+        },
+        "question": "What happens to the diaphragm during the process of inhalation?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 153,
+            "paragraph_id": "978-0323393041-p153-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Facial nerve [VII]",
+            "B": "Trigeminal nerve [V], specifically mandibular division [V3]",
+            "C": "Glossopharyngeal nerve [IX]",
+            "D": "Vagus nerve [X]"
+        },
+        "question": "Which cranial nerve primarily provides motor innervation to muscles developed from the first pharyngeal arch?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 912,
+            "paragraph_id": "978-0323393041-p912-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "20%",
+            "B": "30%",
+            "C": "40%",
+            "D": "50%"
+        },
+        "question": "What percentage of deaths among patients with multiple trauma are attributed to their head injury?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 906,
+            "paragraph_id": "978-0323393041-p906-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Muscles controlling body movement",
+            "B": "Bones forming the skull base",
+            "C": "The muscles of the face",
+            "D": "Nerves regulating digestion"
+        },
+        "question": "What develops from the second pharyngeal arch?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 920,
+            "paragraph_id": "978-0323393041-p920-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Internal pudendal artery",
+            "B": "Accessory internal pudendal artery",
+            "C": "Deep artery of penis",
+            "D": "eep artery of penis\nD: Posterior scrotal artery"
+        },
+        "question": "Which artery originates at the inferior epigastric artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 525,
+            "paragraph_id": "978-0323393041-p525-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Superior gluteal nerve",
+            "B": "Obturator nerve",
+            "C": "Tibial part of the sciatic nerve",
+            "D": "Femoral nerve"
+        },
+        "question": "Which nerve provides primary motor innervation to most muscles in the anterior compartment of the thigh?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 557,
+            "paragraph_id": "978-0323393041-p557-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Fossa Navicularis",
+            "B": "Raphe",
+            "C": "Corpus Spongiosum",
+            "D": "Epididymis"
+        },
+        "question": "What anatomical feature connects the regions from the anal aperture, across the scrotum, and onto the ventral surface of the penis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 533,
+            "paragraph_id": "978-0323393041-p533-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Tip of the coccyx",
+            "B": "Pubic symphysis",
+            "C": "Ischial tuberosity",
+            "D": "Anal aperture"
+        },
+        "question": "What defines the anterior limit of the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 528,
+            "paragraph_id": "978-0323393041-p528-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Femoral nerve via saphenous nerve",
+            "B": "Common peroneal nerve",
+            "C": "ommon peroneal nerve\nC: Tibial nerve",
+            "D": "Posterior femoral cutaneous nerve"
+        },
+        "question": "Which nerve provides sensation to the medial aspect of the leg?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 558,
+            "paragraph_id": "978-0323393041-p558-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Internal pudendal vein",
+            "B": "Prostatic plexus of veins",
+            "C": "Posterior scrotal vein",
+            "D": "Inferior rectal vein"
+        },
+        "question": "Which of the following venous structures is generally described without a direct gender-specific modification?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 526,
+            "paragraph_id": "978-0323393041-p526-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Internal pudendal artery and external carotid artery",
+            "B": "External pudendal arteries and testicular arteries",
+            "C": "Internal pudendal artery, external pudendal arteries, testicular arteries, and cremasteric arteries",
+            "D": "Inferior mesenteric artery and superior rectal arteries"
+        },
+        "question": "What are the primary sources of arterial blood supply to the perineum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 524,
+            "paragraph_id": "978-0323393041-p524-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Cardiac arrest",
+            "B": "Pulmonary edema",
+            "C": "ardiac arrest\nB: Pulmonary edema\nC: Tension pneumothorax",
+            "D": "Pneumothorax"
+        },
+        "question": "What condition results from an accumulation of gas or air within the pleural cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 170,
+            "paragraph_id": "978-0323393041-p170-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Pulmonary ligament",
+            "B": "Tracheobronchial nodes",
+            "C": "Parasternal nodes",
+            "D": "Brachiocephalic node"
+        },
+        "question": "What connects with both left and right parasternal lymphatic vessels?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 181,
+            "paragraph_id": "978-0323393041-p181-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Phrenic nerve originating at spinal cord level T1",
+            "B": "Intercostal nerves branching from the thoracic spine",
+            "C": "Phrenic nerves originating at spinal cord levels C3, C4, and C5",
+            "D": "Visceral afferent nerves accompanying pulmonary arteries"
+        },
+        "question": "What nerve primarily innervates the diaphragmatic and mediastinal parts of the parietal pleura?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 168,
+            "paragraph_id": "978-0323393041-p168-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Medial margin of the adductor longus muscle",
+            "B": "Iliopsoas muscle",
+            "C": "Lateral margin of the sartorius muscle",
+            "D": "Pectineus and adductor longus muscles"
+        },
+        "question": "What forms the lateral margin of the femoral triangle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 581,
+            "paragraph_id": "978-0323393041-p581-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "High-energy trauma",
+            "B": "Low-energy impact",
+            "C": "Pathological condition due to an underlying malignant deposit",
+            "D": "Overuse during athletic activities"
+        },
+        "question": "What typically causes an isolated fracture of the lesser trochanter in adults?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 567,
+            "paragraph_id": "978-0323393041-p567-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Superior and Inferior phrenic arteries.",
+            "B": "Internal pudendal and inferior gluteal along with superior gluteal arteries.",
+            "C": "Obturator and femoral arteries.",
+            "D": "External carotid and vertebral arteries."
+        },
+        "question": "What arteries branch directly from the internal iliac artery according to general anatomical pathways?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 576,
+            "paragraph_id": "978-0323393041-p576-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Deep facial vein",
+            "B": "Superficial temporal vein within the substance of the parotid gland",
+            "C": "Infra-orbital vein",
+            "D": "eep facial vein\nB: Superficial temporal vein within the substance of the parotid gland\nC: Infra-orbital vein\nD: Facial vein"
+        },
+        "question": "What location receives drainage from the transverse facial vein?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 936,
+            "paragraph_id": "978-0323393041-p936-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They control the movement of extraocular muscles involved in eye rotation.",
+            "B": "They regulate the contraction and relaxation of muscles controlling pupil size and focus of the lens.",
+            "C": "They transmit visual signals from the retina to the brain via the optic nerve.",
+            "D": "They stimulate tear production in the lacrimal gland located under the eyebrow bone."
+        },
+        "question": "What function do the postganglionic parasympathetic fibers leaving the ciliary ganglion serve after entering the eyeball?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 962,
+            "paragraph_id": "978-0323393041-p962-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To provide structural support for the aponeurotic layer",
+            "B": "To anchor the skin to the aponeurotic layer and contain arteries, veins, and nerves",
+            "C": "To protect the scalp from excessive bleeding after injury",
+            "D": "To facilitate free movement of tissues relative to underlying bones"
+        },
+        "question": "What is the function of the dense connective tissue layer in relation to the scalp's blood supply?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 938,
+            "paragraph_id": "978-0323393041-p938-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Entropion of the eyelid",
+            "B": "Ptosis or drooping of the upper eyelid",
+            "C": "Ectropion of the eyelid",
+            "D": "Blepharospasm"
+        },
+        "question": "What condition occurs due to loss of function of either the levator palpebrae superioris muscle or the superior tarsal muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 946,
+            "paragraph_id": "978-0323393041-p946-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Oculomotor Nerve [III]",
+            "B": "Trochlear Nerve [IV]",
+            "C": "Abducens Nerve [VI]",
+            "D": "Facial Nerve [VII]"
+        },
+        "question": "What nerve is responsible for controlling the lateral rectus muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 957,
+            "paragraph_id": "978-0323393041-p957-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The stone becomes dislodged automatically due to increased saliva production.",
+            "B": "The individual experiences no symptoms related to eating or drinking.",
+            "C": "The person feels intense pain when salivating during meals.",
+            "D": "The taste buds become less sensitive over time due to the presence of the stone."
+        },
+        "question": "What happens if a person tries to eat something while having a stone in their parotid gland?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 929,
+            "paragraph_id": "978-0323393041-p929-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Depresses, abducts, and internally rotates the eyeball",
+            "B": "Elevates, adducts, and externally rotates the eyeball",
+            "C": "Elevates, adducts, and internally rotates the eyeball",
+            "D": "epresses, abducts, and internally rotates the eyeball  \nB: Elevates, adducts, and externally rotates the eyeball  \nC: Elevates, adducts, and internally rotates the eyeball  \nD: Abducts, depresses, and externally rotates the eyeball"
+        },
+        "question": "What effect does the contraction of the superior rectus muscle have on the eyeball?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 955,
+            "paragraph_id": "978-0323393041-p955-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the orbit and the temporal fossa",
+            "B": "The orbit, the pterygopalatine fossa, the infratemporal fossa, and the temporal fossa",
+            "C": "Just the orbit and the infratemporal fossa",
+            "D": "Exclusively the orbit and the pterygopalatine fossa"
+        },
+        "question": "What structures communicate through the inferior orbital fissure?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 951,
+            "paragraph_id": "978-0323393041-p951-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "To widen the nares by pulling the nasal septum downward",
+            "B": "To draw the medial border of the eyebrows upward to reduce frown lines",
+            "C": "To compress the cheeks and push the corners of the mouth outward",
+            "D": "To draw the medial border of the eyebrows downward to produce transverse wrinkles"
+        },
+        "question": "What is the primary action of the procerus muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 924,
+            "paragraph_id": "978-0323393041-p924-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Nodules and septa",
+            "B": "Lunulas and nodules",
+            "C": "Sinuses and papillaries",
+            "D": "Septa and trabeculae"
+        },
+        "question": "What parts make up the free superior edge of each semilunar cusp of the pulmonary valve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 199,
+            "paragraph_id": "978-0323393041-p199-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Anterior Mediastinum",
+            "B": "Posterior Mediastinum",
+            "C": "Middle Mediastinum",
+            "D": "Superior Mediastinum"
+        },
+        "question": "What region of the mediastinum contains both the pericardial sac and its contents?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 185,
+            "paragraph_id": "978-0323393041-p185-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Deep to the right sixth intercostal space, near the midclavicular line",
+            "B": "At the level of the diaphragm, anterior to the spine",
+            "C": "Deep to the left fifth intercostal space, approximately 8 to 9 cm from the midsternal line",
+            "D": "eep to the right sixth intercostal space, near the midclavicular line\nB: At the level of the diaphragm, anterior to the spine\nC: Deep to the left fifth intercostal space, approximately 8 to 9 cm from the midsternal line\nD: Posterior to the sternum at the second intercostal space"
+        },
+        "question": "Where is the apex of the heart typically located?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 192,
+            "paragraph_id": "978-0323393041-p192-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Sulci",
+            "B": "Valves",
+            "C": "Interatrial, interventricular, and atrioventricular septa",
+            "D": "Vessels"
+        },
+        "question": "What separates the four chambers of the heart?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 196,
+            "paragraph_id": "978-0323393041-p196-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By the gap between the pubic symphysis and the femur",
+            "B": "y the gap between the pubic symphysis and the femur\nB: By the posterior border of the sartorius muscle",
+            "C": "By the inguinal ligament",
+            "D": "By the popliteal fossa"
+        },
+        "question": "How is the thigh separated from the abdominal wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 592,
+            "paragraph_id": "978-0323393041-p592-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Flexion of the leg",
+            "B": "Extension of the leg",
+            "C": "Rotation of the tibia",
+            "D": "Stabilization of the pelvis"
+        },
+        "question": "What action does the quadriceps femoris muscle primarily perform at the knee joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 601,
+            "paragraph_id": "978-0323393041-p601-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Internally rotate and adduct",
+            "B": "Externally rotate and flex",
+            "C": "Externally rotate and abduct",
+            "D": "Internally rotate and extend"
+        },
+        "question": "What actions does the piriformis perform on the femur at the hip joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 585,
+            "paragraph_id": "978-0323393041-p585-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Triangular",
+            "B": "Oval",
+            "C": "Circular",
+            "D": "Rectangular"
+        },
+        "question": "What shape is the superior surface of the lateral condyle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 597,
+            "paragraph_id": "978-0323393041-p597-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "External ear and nasal passages",
+            "B": "Brain, spinal cord, and eyes",
+            "C": "External ear, middle ear, and internal ear",
+            "D": "Lungs, heart, and liver"
+        },
+        "question": "What are the primary components of the human ear responsible for hearing and balance?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 969,
+            "paragraph_id": "978-0323393041-p969-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Only the greater auricular nerve provides sensation throughout the entire auricle.",
+            "B": "Both the greater auricular nerve and the auriculotemporal branch of the trigeminal nerve contribute to the sensory innervation of the auricle.",
+            "C": "Sensation to the auricle comes exclusively from branches of the vagus nerve and the facial nerve.",
+            "D": "The auricle receives sensory innervation from branches of the cervical plexus including the great auricular nerve, the lesser occipital nerve, and the auriculotemporal branch of the mandibular division of the trigeminal nerve."
+        },
+        "question": "What nerves provide sensory innervation to different parts of the auricle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 971,
+            "paragraph_id": "978-0323393041-p971-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the Eustachian tube",
+            "B": "Both the Eustachian tube and the tensor tympani muscle",
+            "C": "The styloid process and the jugular vein",
+            "D": "The chorda tympani nerve and the auricular nerve"
+        },
+        "question": "What passes through openings in the anterior wall of the middle ear?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 976,
+            "paragraph_id": "978-0323393041-p976-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They lie along the same axis, overlapping significantly",
+            "B": "They are oriented so that each canal is at right angles to the other two",
+            "C": "Two canals run side-by-side while the third runs perpendicular to them",
+            "D": "One lies horizontally while the others are vertically aligned"
+        },
+        "question": "What is the orientation of the semicircular canals relative to each other?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 982,
+            "paragraph_id": "978-0323393041-p982-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Inferior mediastinum",
+            "B": "Thoracic cavity excluding the superior mediastinum",
+            "C": "Abdominal region",
+            "D": "Superior mediastinum"
+        },
+        "question": "What is located within the area containing the major components of the thoracic duct?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 219,
+            "paragraph_id": "978-0323393041-p219-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Into the superior vena cava",
+            "B": "Directly into the right atrium via the coronary sinus",
+            "C": "Via the middle cardiac vein into the pulmonary circulation",
+            "D": "irectly into the right atrium via the coronary sinus\nC: Via the middle cardiac vein into the pulmonary circulation\nD: Through the small cardiac vein"
+        },
+        "question": "Which of the following accurately describes the termination point of the great cardiac vein?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 210,
+            "paragraph_id": "978-0323393041-p210-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It increases heart rate, reduces force of contraction, and dilates coronary arteries.",
+            "B": "It decreases heart rate, increases force of contraction, and constricts coronary arteries.",
+            "C": "It decreases heart rate, reduces force of contraction, and constricts coronary arteries.",
+            "D": "It increases heart rate, reduces force of contraction, and constrains cardiac output."
+        },
+        "question": "What happens to the heart's function due to stimulation of the parasympathetic system?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 215,
+            "paragraph_id": "978-0323393041-p215-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the lungs.",
+            "B": "Heart, trachea, esophagus, thymus gland, portions of major nerves and vessels.",
+            "C": "Liver and stomach.",
+            "D": "Small intestine and appendix."
+        },
+        "question": "What is generally understood as being located within the mediastinum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 206,
+            "paragraph_id": "978-0323393041-p206-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Becomes the obturator artery",
+            "B": "ecomes the obturator artery  \nB: Continues up towards the abdominal region",
+            "C": "ontinues up towards the abdominal region  \nC: Passes through the adductor hiatus in the adductor magnus muscle and becomes the popliteal artery",
+            "D": "Divides into smaller arterial branches supplying the pelvic area"
+        },
+        "question": "What happens to the femoral artery after leaving the adductor canal?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 609,
+            "paragraph_id": "978-0323393041-p609-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains attached at both ends",
+            "B": "It becomes completely detached from the rest of the meniscus",
+            "C": "It displaces into the intercondylar notch forming a handle-shaped fragment",
+            "D": "It folds back onto itself causing no further complications"
+        },
+        "question": "What typically occurs with the torn portion of the meniscus in a bucket handle tear?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 618,
+            "paragraph_id": "978-0323393041-p618-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Both the pectineus and the adductor longus are innervated by branches of the sciatic nerve.",
+            "B": "oth the pectineus and the adductor longus are innervated by branches of the sciatic nerve.\nB: The pectineus is innervated by the femoral nerve, while the adductor longus is innervated by the tibial nerve.",
+            "C": "The pectineus receives innervation from the femoral nerve, whereas the adductor longus is innervated by the anterior division of the obturator nerve.",
+            "D": "The adductor longus is innervated by the common peroneal nerve, and the pectineus is innervated by the superficial fibular nerve."
+        },
+        "question": "What nerves provide innervation to the pectineus and the adductor longus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 605,
+            "paragraph_id": "978-0323393041-p605-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Semitendinosus muscle",
+            "B": "Short head of the biceps femoris muscle",
+            "C": "Adductor magnus muscle",
+            "D": "Long head of the biceps femoris muscle"
+        },
+        "question": "Which muscle receives innervation from the common fibular part of the sciatic nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 614,
+            "paragraph_id": "978-0323393041-p614-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Geniculate ganglion",
+            "B": "Tympanic membrane",
+            "C": "Internal acoustic meatus",
+            "D": "Greater petrosal nerve"
+        },
+        "question": "What is typically associated with the middle ear among the given structures?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 986,
+            "paragraph_id": "978-0323393041-p986-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ascending towards the temporal bone before entering the medial pterygoid muscle",
+            "B": "Descending to enter and supply the deep surface of the medial pterygoid muscle",
+            "C": "Passing laterally across the lateral pterygoid to reach the buccinator muscle",
+            "D": "escending to enter and supply the deep surface of the medial pterygoid muscle  \nC: Passing laterally across the lateral pterygoid to reach the buccinator muscle  \nD: Curving upwards to join with the auriculotemporal nerve"
+        },
+        "question": "What path does the nerve to the medial pterygoid take after originating from the mandibular nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1001,
+            "paragraph_id": "978-0323393041-p1001-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Side-to-side movements and protrusion of the mandible",
+            "B": "Elevation of the mandible",
+            "C": "Retraction of the mandible",
+            "D": "Depression of the mandible"
+        },
+        "question": "What function do the Temporalis, Masseter, and Medial Pterygoid muscles primarily perform together?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 993,
+            "paragraph_id": "978-0323393041-p993-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Deep temporal arteries",
+            "B": "Superficial temporal artery",
+            "C": "Middle temporal artery",
+            "D": "eep temporal arteries  \nB: Superficial temporal artery  \nC: Middle temporal artery  \nD: Zygomaticotemporal nerve"
+        },
+        "question": "What is the primary origin of the blood supply to the temporoparietal region of the scalp?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 996,
+            "paragraph_id": "978-0323393041-p996-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "First, second, and sixth cervical spinal cord segments",
+            "B": "Fourth, but also from the third and fifth, cervical spinal cord segments",
+            "C": "Second, third, and seventh cervical spinal cord segments",
+            "D": "Fifth, sixth, and eighth cervical spinal cord segments"
+        },
+        "question": "What do the phrenic nerves primarily arise from in terms of cervical spinal cord segments?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 227,
+            "paragraph_id": "978-0323393041-p227-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Brachiocephalic arteries",
+            "B": "rachiocephalic arteries\nB: Internal jugular and subclavian veins joining to form the brachiocephalic veins",
+            "C": "Superior vena cava and trachea",
+            "D": "Arch of the aorta and esophagus"
+        },
+        "question": "What forms behind the sternal ends of the clavicles near the sternoclavicular joints?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 239,
+            "paragraph_id": "978-0323393041-p239-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It merges directly into the Superior Vena Cava",
+            "B": "It crosses the vertebral column to merge with the Accessory Hemiazygos Vein",
+            "C": "ava  \nB: It crosses the vertebral column to merge with the Accessory Hemiazygos Vein  \nC: It crosses the vertebral column, posterior to the thoracic aorta, esophagus, and thoracic duct, to then merge with the Azygos vein",
+            "D": "It terminates without merging with another vein"
+        },
+        "question": "What typically happens to the Hemiazygos vein after reaching approximately vertebral level T9?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 232,
+            "paragraph_id": "978-0323393041-p232-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inversion and extension of the foot",
+            "B": "Eversion and plantar flexion of the foot",
+            "C": "Dorsiflexion and possible eversion of the foot",
+            "D": "orsiflexion and possible eversion of the foot  \nD: Flexion and abduction of the foot"
+        },
+        "question": "What primary functions do the Fibularis Tertius muscle perform?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 642,
+            "paragraph_id": "978-0323393041-p642-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "The movement of the tibia on the femur continues smoothly without coming to a sudden stop",
+            "B": "The movement of the tibia on the femur comes to a sudden stop",
+            "C": "The patient experiences severe pain during the elevation of the knee",
+            "D": "There is no noticeable difference in the movement whether the ACL is intact or damaged"
+        },
+        "question": "What action indicates a positive result during the Lachman's test?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 625,
+            "paragraph_id": "978-0323393041-p625-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Semitendinosus, semimembranosus, adductor magnus, biceps femoris",
+            "B": "Popliteus, lateral gastrocnemius, medial gastrocnemius, plantaris",
+            "C": "Adductor hiatus, posterior cutaneous nerve of the thigh, small saphenous vein, common fibular nerve",
+            "D": "Tibial nerve, sciatic nerve, femoral artery, femoral vein"
+        },
+        "question": "What muscles are identified as being located deep within the popliteal fossa?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 627,
+            "paragraph_id": "978-0323393041-p627-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To stabilize the knee joint and resist lateral rotation of the tibia on the femur",
+            "B": "To invert the hindfoot and support the medial longitudinal arch during weight-bearing activities",
+            "C": "To flex the great toe and contribute to plantarflexion of the foot at the ankle joint",
+            "D": "To grip the ground during walking and propel the body forward off the toes"
+        },
+        "question": "What is the primary action of the tibialis posterior muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 635,
+            "paragraph_id": "978-0323393041-p635-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Flexion and inversion of the foot",
+            "B": "Plantarflexion of the foot and support of the arches",
+            "C": "Extension and rotation of the knee",
+            "D": "Adduction and abduction of the thigh"
+        },
+        "question": "What function does the Fibularis longus perform besides eversion of the foot?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 639,
+            "paragraph_id": "978-0323393041-p639-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It leads to immediate pacemaker failure due to direct electrical interference from surrounding muscles.",
+            "B": "After many years of shoulder movement, the subclavius muscle could stress and potentially break the wire, leading to pacemaker malfunction.",
+            "C": "There's no significant impact since modern pacemakers automatically adjust their settings to compensate for minor positional changes.",
+            "D": "The positioning near the subclavius muscle ensures optimal pacemaker function regardless of patient activity levels."
+        },
+        "question": "What happens if the wire from the pacemaker pierces the axillary vein very close to the subclavius muscle over time?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 251,
+            "paragraph_id": "978-0323393041-p251-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Superior lobe of both lungs",
+            "B": "Middle lobe of the right lung and inferior lobe of the left lung",
+            "C": "Apex of both lungs",
+            "D": "Inferior lobes of both lungs"
+        },
+        "question": "What parts of the lungs correspond to areas III and IV where a stethoscope would typically be placed?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 244,
+            "paragraph_id": "978-0323393041-p244-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They begin producing excessive amounts of bicarbonate.",
+            "B": "They start releasing large quantities of potassium ions.",
+            "C": "They undergo rapid cellular regeneration.",
+            "D": "They release significant amounts of hydrogen ions."
+        },
+        "question": "What happens when organs, particularly those involved in digestion like the gut, experience severe lack of oxygen due to insufficient blood supply?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 253,
+            "paragraph_id": "978-0323393041-p253-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Previous significant medical history",
+            "B": "Immobilization during a long-haul flight",
+            "C": "History of smoking",
+            "D": "Family history of cardiovascular disease"
+        },
+        "question": "What factor appears to be primarily associated with the onset of pulmonary embolism in the described scenario?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 248,
+            "paragraph_id": "978-0323393041-p248-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Chemical composition of the stone",
+            "B": "Presence of air pockets within the stone",
+            "C": "hemical composition of the stone\nB: Presence of air pockets within the stone\nC: Impurities present during their formation",
+            "D": "Environmental conditions after mining"
+        },
+        "question": "What factor mainly influences the determination of the color intensity of gemstones?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 260,
+            "paragraph_id": "978-0323393041-p260-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only the circulatory and nervous systems",
+            "B": "Major elements of the gastrointestinal system, the urinary system, and the respiratory system",
+            "C": "Components of the gastrointestinal system, the urinary system, and major neuromuscular structures",
+            "D": "Solely the skeletal and integumentary systems"
+        },
+        "question": "What types of systems do the abdominal viscera primarily consist of?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 259,
+            "paragraph_id": "978-0323393041-p259-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They ascend through the stylomastoid foramen to innervate the facial muscles.",
+            "B": "They synapse with postganglionic fibers in the trigeminal ganglion before reaching their destination.",
+            "C": "They pass through the superior orbital fissure to enter the orbit.",
+            "D": "They synapse with cell bodies of postganglionic parasympathetic fibers in the otic ganglion."
+        },
+        "question": "What happens to the preganglionic parasympathetic fibers carried by the lesser petrosal nerve after they reach the infratemporal fossa?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1005,
+            "paragraph_id": "978-0323393041-p1005-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "External and internal jugular veins, greater auricular and transverse cervical nerves",
+            "B": "Lesser occipital, great auricular, and supracostal nerves",
+            "C": "External and anterior jugular veins, and the lesser occipital, great auricular, transverse cervical, and supra-clavicular nerves",
+            "D": "Internal jugular vein, vagus nerve, common carotid artery, and submandibular gland"
+        },
+        "question": "Which of the following groups includes structures that pierce the investing fascia?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1017,
+            "paragraph_id": "978-0323393041-p1017-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Superior belly of the omohyoid muscle, anterior belly of the digastric muscle, and the anterior border of the sternocleidomastoid muscle",
+            "B": "Stylohyoid muscle, posterior belly of the digastric muscle, and the anterior border of the trapezius muscle",
+            "C": "Superior belly of the omohyoid muscle, stylohyoid muscle, and the anterior border of the sternocleidomastoid muscle",
+            "D": "Posterior belly of the digastric muscle, superior belly of the omohyoid muscle, and the midline of the neck"
+        },
+        "question": "What muscles form the borders of the carotid triangle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1022,
+            "paragraph_id": "978-0323393041-p1022-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only sympathetic innervation",
+            "B": "Parasympathetic innervation",
+            "C": "Both sensory and motor innervation",
+            "D": "Neither sympathetic nor parasympathetic"
+        },
+        "question": "What types of innervations do mucous glands in the nasal cavity receive?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1013,
+            "paragraph_id": "978-0323393041-p1013-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Boat-shaped",
+            "B": "oat-shaped  \nB: Wedge-shaped",
+            "C": "Cube-like",
+            "D": "Rounded"
+        },
+        "question": "What shape is described by the term \"cuboid\"?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 649,
+            "paragraph_id": "978-0323393041-p649-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only bones",
+            "B": "Muscles alone",
+            "C": "Both ligaments and muscles",
+            "D": "Tendons exclusively"
+        },
+        "question": "What structures provide primary support to the arches of the foot?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 661,
+            "paragraph_id": "978-0323393041-p661-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Presence of bone tenderness at the base of the first metatarsal bone",
+            "B": "Midfoot pain accompanied by inability to bear weight for two steps immediately after the injury",
+            "C": "Bone tenderness at the base of the fifth metatarsal bone or the navicular bone, alongside inability to bear weight",
+            "D": "Pain localized specifically to the region near the subtalar joint"
+        },
+        "question": "What is required before performing an x-ray series for a patient presenting with midfoot pain?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 654,
+            "paragraph_id": "978-0323393041-p654-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Into the Superior Vena Cava",
+            "B": "Into the Inferior Vena Cava just before penetrating the diaphragm",
+            "C": "ava\nB: Into the Inferior Vena Cava just before penetrating the diaphragm\nC: Directly into the Right Atrium of the Heart",
+            "D": "irectly into the Right Atrium of the Heart\nD: Back into the Hepatic Portal Vein"
+        },
+        "question": "Where do the small hepatic veins collect after draining the liver?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 278,
+            "paragraph_id": "978-0323393041-p278-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Both sexes have identical structures passing through.",
+            "B": "oth sexes have identical structures passing through.  \nB: Females primarily have the spermatic cord while males do not.",
+            "C": "Males have spermatic cords whereas females have a different yet analogous structure.",
+            "D": "Neither sex utilizes this pathway for significant anatomical structures."
+        },
+        "question": "What is notable about the primary structures that pass through the inguinal canal in terms of gender difference?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 273,
+            "paragraph_id": "978-0323393041-p273-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It becomes thicker and more prominent.",
+            "B": "It loses its fat and fuses with another layer.",
+            "C": "It is firmly attached to the linea alba and the symphysis pubis.",
+            "D": "It separates into two distinct layers."
+        },
+        "question": "What happens to the deeper membranous layer of superficial fascia (Scarpa\u2019s fascia) at the midline?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 283,
+            "paragraph_id": "978-0323393041-p283-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Veins and lymphatic ducts",
+            "B": "Nerve fibers and cartilaginous tissue",
+            "C": "Veins",
+            "D": "Arteries and tendons"
+        },
+        "question": "What types of vessels travel alongside the suprascapular and transverse cervical arteries?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1043,
+            "paragraph_id": "978-0323393041-p1043-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It runs along the middle of the sternocleidomastoid muscle before disappearing under the clavicle.",
+            "B": "It disappears behind the sternocleidomastoid muscle after descending down the neck.",
+            "C": "It passes backward to disappear either into or beneath the anterior border of the sternocleidomastoid muscle.",
+            "D": "It remains superficial throughout its course in relation to the sternocleidomastoid muscle."
+        },
+        "question": "What happens to the internal jugular vein relative to the sternocleidomastoid muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1031,
+            "paragraph_id": "978-0323393041-p1031-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Superior thyroid artery",
+            "B": "Ascending pharyngeal artery",
+            "C": "Lingual artery",
+            "D": "Facial artery"
+        },
+        "question": "What supplies blood to the thyrohyoid muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1028,
+            "paragraph_id": "978-0323393041-p1028-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anterior surface of the trachea",
+            "B": "Near the base of the tongue",
+            "C": "Posterior aspect of the hyoid bone",
+            "D": "Lateral sides of the esophagus"
+        },
+        "question": "Where does the thyroid gland develop from initially?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1036,
+            "paragraph_id": "978-0323393041-p1036-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only bones",
+            "B": "Tendons, muscles, and bony landmarks",
+            "C": "Surface blood flow",
+            "D": "Skin sensation"
+        },
+        "question": "What is crucial for locating major arteries, veins, and nerves in the lower limb?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 676,
+            "paragraph_id": "978-0323393041-p676-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It joins the femoral vein in the femoral triangle.",
+            "B": "It continues down towards the ankle.",
+            "C": "It connects with the popliteal vein in the popliteal fossa posterior to the knee.",
+            "D": "It merges with the great saphenous vein near the hip."
+        },
+        "question": "What happens to the small saphenous vein after passing through the deep fascia?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 683,
+            "paragraph_id": "978-0323393041-p683-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It continues unchanged beneath the skin.",
+            "B": "Its pulse becomes non-palpable due to thickening of surrounding tissues.",
+            "C": "It becomes the lateral plantar artery immediately upon entry into the foot.",
+            "D": "It bifurcates into a small medial plantar artery and a much larger lateral plantar artery."
+        },
+        "question": "What happens to the posterior tibial artery midway between the medial malleolus and the heel?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 670,
+            "paragraph_id": "978-0323393041-p670-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Femoral artery",
+            "B": "Femoral canal",
+            "C": "Sartorius muscle",
+            "D": "Adductor longus muscle"
+        },
+        "question": "What structure lies immediately lateral to the pubic tubercle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 677,
+            "paragraph_id": "978-0323393041-p677-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Jumping and cycling",
+            "B": "Excessive running, standing, and increased body weight",
+            "C": "Swimming and lifting weights",
+            "D": "Dancing and playing golf"
+        },
+        "question": "What factors contribute to overuse and increased strain on the plantar aponeurosis?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 667,
+            "paragraph_id": "978-0323393041-p667-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "External Oblique Muscle",
+            "B": "Rectus Abdominus",
+            "C": "Transversus Abdominis Muscle",
+            "D": "Linea Alba"
+        },
+        "question": "What is located deep to the internal oblique muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 287,
+            "paragraph_id": "978-0323393041-p287-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Iliohypogastric and ulnar nerves",
+            "B": "Intercostal nerves (T7 to T12)",
+            "C": "Only ilio-inguinal nerves",
+            "D": "Both intercostal nerves (T7 to T12) and lumbar nerves"
+        },
+        "question": "What types of nerves provide sensation to the skin of the anterolateral abdominal wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 292,
+            "paragraph_id": "978-0323393041-p292-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Spleen and stomach",
+            "B": "Genital branch of the genitofemoral nerve, spleen, and liver",
+            "C": "Round ligament of the uterus in women, and the spermatic cord in men along with nerves",
+            "D": "Diaphragm and pancreas"
+        },
+        "question": "What structures pass through the inguinal canal?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 297,
+            "paragraph_id": "978-0323393041-p297-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Testicular artery",
+            "B": "Inferior vena cava",
+            "C": "Spermatic cord",
+            "D": "Testicular vein"
+        },
+        "question": "What vessel drains blood from the testicles towards the heart?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 302,
+            "paragraph_id": "978-0323393041-p302-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Passes anterior to the clavicle and the large veins in the region and then enters the thoracic cavity posterior to the pleura.",
+            "B": "Descends while passing posterior to the clavicle and the large veins in the region and anterior to the pleural cavity.",
+            "C": "Ascends and passes posteriorly over the dome of the pleural cavity before dividing into branches.",
+            "D": "escends while passing posterior to the clavicle and the large veins in the region and anterior to the pleural cavity.\nC: Ascends and passes posteriorly over the dome of the pleural cavity before dividing into branches.\nD: Crosses over the superior transverse scapular ligament and enters the supraspinous fossa."
+        },
+        "question": "What is the course of action taken by the internal thoracic artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1048,
+            "paragraph_id": "978-0323393041-p1048-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Swing down to depress the oropharyngeal isthmus",
+            "B": "Elevate to allow free passage between the nasopharynx and oropharynx",
+            "C": "Swing up to elevate the pharyngeal isthmus",
+            "D": "Swing up to close the pharyngeal isthmus"
+        },
+        "question": "What action does the soft palate perform to seal off the nasopharynx from the oropharynx?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1057,
+            "paragraph_id": "978-0323393041-p1057-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Subclavian artery",
+            "B": "Brachiocephalic vein",
+            "C": "Vagus nerve",
+            "D": "Anterior jugular vein"
+        },
+        "question": "What major blood vessel is located near both the phrenic nerve and parts of the brachial plexus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1051,
+            "paragraph_id": "978-0323393041-p1051-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Mucous glands",
+            "B": "Mucosal fold caused by the underlying palatopharyngeal sphincter",
+            "C": "Lymphatic nodules",
+            "D": "Cartilaginous projections"
+        },
+        "question": "What anatomical feature marks the position of the pharyngeal isthmus on the pharyngeal wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1062,
+            "paragraph_id": "978-0323393041-p1062-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Both images used T1-weighted magnetic resonance images.",
+            "B": "oth images used T1-weighted magnetic resonance images.\nB: One scenario used a CT scan while another used ultrasound.",
+            "C": "T scan while another used ultrasound.\nC: For the normal condition, a T1-weighted magnetic resonance image was used; for the torn condition, a T2-weighted magnetic resonance image was utilized.",
+            "D": "X-rays were employed for both visualizations."
+        },
+        "question": "What types of weighted magnetic resonance images were used to show normal and torn conditions of the anterior talofibular ligament?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 695,
+            "paragraph_id": "978-0323393041-p695-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Only abduction and extension",
+            "B": "Abduction, adduction, flexion, extension, and rotation",
+            "C": "Pronation, supination, and circumduction",
+            "D": "Abduction, adduction, flexion, extension, and circumduction"
+        },
+        "question": "What types of movements occur at the wrist joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 701,
+            "paragraph_id": "978-0323393041-p701-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Flexion/Extension and Circumduction",
+            "B": "Abduction/Adduction and Rotation",
+            "C": "ircumduction\nB: Abduction/Adduction and Rotation\nC: Flexion/Extension and Rotation",
+            "D": "Adduction/Circumduction and Retraction"
+        },
+        "question": "What types of primary movements occur at the shoulder joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 699,
+            "paragraph_id": "978-0323393041-p699-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Internally rotating and closing the rima glottidis",
+            "B": "Abducting and externally rotating the arytenoid cartilages, thus opening the rima glottidis",
+            "C": "Rotating the arytenoids medially while keeping the vocal folds closed",
+            "D": "Pulling the thyroid cartilage backward relative to the cricoid cartilage"
+        },
+        "question": "What effect do the contractions of the posterior crico-arytenoid muscles have on the position of the arytenoid cartilages?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1078,
+            "paragraph_id": "978-0323393041-p1078-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Conus elasticus",
+            "B": "Quadran-gular membrane",
+            "C": "onus elasticus  \nB: Quadran-gular membrane  \nC: Median cricothyroid ligament",
+            "D": "Hyo-epiglottic ligament"
+        },
+        "question": "What connects the arch of the cricoid cartilage and ends in a free upper margin within the space enclosed by the thyroid cartilage?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1073,
+            "paragraph_id": "978-0323393041-p1073-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Deep cervical nodes near the cricothyroid ligament",
+            "B": "Lymph nodes following the superior laryngeal artery",
+            "C": "Nodes along the inferior thyroid artery",
+            "D": "eep cervical nodes near the cricothyroid ligament  \nB: Lymph nodes following the superior laryngeal artery  \nC: Nodes along the inferior thyroid artery  \nD: Veins accompanying the middle thyroid vein"
+        },
+        "question": "Which set of lymphatics drains the area above the vocal folds?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1083,
+            "paragraph_id": "978-0323393041-p1083-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Shaped like a cylinder",
+            "B": "Shaped like a cone",
+            "C": "Shaped like a signet ring",
+            "D": "Shaped like a sphere"
+        },
+        "question": "What shape is described for the cricoid cartilage?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1069,
+            "paragraph_id": "978-0323393041-p1069-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Skeletal components alone",
+            "B": "Rotator cuff muscles, the long head of the biceps brachii muscle, related bony processes, and extracapsular ligaments",
+            "C": "Hyaline cartilage covering the articulating surfaces",
+            "D": "Only the large spherical head of the humerus"
+        },
+        "question": "What provides stability to the glenohumeral joint?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 719,
+            "paragraph_id": "978-0323393041-p719-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Across the anatomical neck of the humerus",
+            "B": "Around the surgical neck of the humerus",
+            "C": "At the midpoint of the humerus's shaft",
+            "D": "Near the distal condyles"
+        },
+        "question": "Where typically do fractures occur on the humerus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 717,
+            "paragraph_id": "978-0323393041-p717-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anterolateral side of the thigh",
+            "B": "Posterior surface of the forearm and the dorsolateral surface of the hand",
+            "C": "Palmar surface of the lateral four digits",
+            "D": "Medial one and one-half digits"
+        },
+        "question": "What area of the human body receives sensory innervation primarily from the radial nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 711,
+            "paragraph_id": "978-0323393041-p711-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The length of the small bowel mesentery increases, preventing twists of the gut.",
+            "B": "The origin of the small bowel mesentery shortens, allowing for possible twisting of the small bowel around the axis of the superior mesenteric artery.",
+            "C": "Malrotation always leads to immediate blockage of the intestine without possibility of volvulus.",
+            "D": "The position of the ileocecal junction shifts towards the left upper quadrant."
+        },
+        "question": "What happens if the duodenojejunal flexure or the cecum does not reach their typical locations due to intestinal malrotation?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 330,
+            "paragraph_id": "978-0323393041-p330-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "First portion of the small intestine",
+            "B": "Second portion of the duodenum",
+            "C": "Third portion of the jejunum",
+            "D": "Fourth portion of the ileum"
+        },
+        "question": "Where does the hepatopancreatic ampulla open?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 341,
+            "paragraph_id": "978-0323393041-p341-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Rapid increase in peristalsis movement",
+            "B": "Immediate wrapping by the greater omentum",
+            "C": "Local cessation of peristalsis",
+            "D": "Instant onset of paralytic ileus across the entire bowel"
+        },
+        "question": "What occurs locally in the bowel when a portion of it becomes severely inflamed?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 312,
+            "paragraph_id": "978-0323393041-p312-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inferior vena cava, stomach, and abdominal aorta",
+            "B": "Superior mesenteric artery and vein, along with the first jejunal branch",
+            "C": "Inferior vena cava, aorta, and vertebral column",
+            "D": "Pancreaticoduodenal arteries and the hepatic portal vein"
+        },
+        "question": "What structures pass behind the third part of the duodenum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 317,
+            "paragraph_id": "978-0323393041-p317-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It loses a layer of external spermatic fascia.",
+            "B": "It gains no layers as it remains confined within the inguinal canal.",
+            "C": "It acquires an additional layer of internal spermatic fascia.",
+            "D": "It acquires a layer of external spermatic fascia."
+        },
+        "question": "What happens to a direct inguinal hernia's composition upon exiting through the superficial inguinal ring?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 304,
+            "paragraph_id": "978-0323393041-p304-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Right kidney, head of the pancreas, and spleen",
+            "B": "Inferior vena cava, portal vein, and right kidney",
+            "C": "Transverse colon, right kidney, and head of the pancreas",
+            "D": "Left kidney, abdominal aorta, and esophagus"
+        },
+        "question": "What anatomical structures lie behind the second part of the duodenum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 316,
+            "paragraph_id": "978-0323393041-p316-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Olfactory and mucous cells",
+            "B": "Hair follicle cells and nerve endings",
+            "C": "Mainly ciliated and mucous cells",
+            "D": "Skin cells with sebaceous glands"
+        },
+        "question": "What types of cells primarily compose the lining of the respiratory region of the nasal cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1087,
+            "paragraph_id": "978-0323393041-p1087-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Posterior border of the vomer and the sphenoid bone",
+            "B": "Anterior border of the horizontal plate of the palatine bone and the maxilla",
+            "C": "Posterior border of the horizontal plate of the palatine bone",
+            "D": "Medial plate of the pterygoid process"
+        },
+        "question": "Which parts of the bones contribute to forming the inferior margin of the choanae?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1097,
+            "paragraph_id": "978-0323393041-p1097-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ethmoidal labyrinth, perpendicular plate of the palatine bone, and medial surfaces of the lacrimal bones",
+            "B": "Inferior concha, uncinate process, and medial pterygoid plate of the sphenoid bone",
+            "C": "Superior concha, middle concha, uncinate process, ethmoidal labyrinth, perpendicular plate of the palatine bone, medial pterygoid plate of the sphenoid bone, and medial surfaces of the lacrimal bones and maxillae",
+            "D": "Frontal process of maxilla, minor alar cartilage, and lateral process of the septal cartilage"
+        },
+        "question": "What structures provide bony support for the lateral wall of the nasal cavity?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1094,
+            "paragraph_id": "978-0323393041-p1094-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Hard and soft palates",
+            "B": "Upper and lower dental arches",
+            "C": "Lymph vessels and nerves",
+            "D": "Soft tissues forming the tongue"
+        },
+        "question": "What separates the oral cavity into two regions?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1103,
+            "paragraph_id": "978-0323393041-p1103-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Extension of the forearm at the elbow joint",
+            "B": "Lateral rotation of the humerus",
+            "C": "Abduction of the arm",
+            "D": "Adduction of the humerus"
+        },
+        "question": "What function does the Supraspinatus participate in?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 730,
+            "paragraph_id": "978-0323393041-p730-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Abduction of the arm",
+            "B": "Extension of the elbow joint",
+            "C": "Powerful elevation of the shoulder and rotation of the scapula to extend the reach superiorly",
+            "D": "Flexion of the wrist"
+        },
+        "question": "What action describes the primary function of the trapezius muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 727,
+            "paragraph_id": "978-0323393041-p727-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It originates from the first rib and associated cartilage.",
+            "B": "It originates from the spinous processes of the middle four thoracic vertebrae.",
+            "C": "It originates from the spinous processes of the lower six thoracic vertebrae, among other locations.",
+            "D": "It originates exclusively from the iliac crest."
+        },
+        "question": "Which of the following statements about the origin of the Latissimus dorsi muscle is accurate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 741,
+            "paragraph_id": "978-0323393041-p741-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To supply oxygenated blood to the muscles of the upper limb",
+            "B": "To form anastomoses with arteries for efficient circulation",
+            "C": "To drain deoxygenated blood and connect with various body regions including the neck, back, arm, and axilla",
+            "D": "To regulate temperature around the scapular region"
+        },
+        "question": "What is the primary function of the veins in the posterior scapular region?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 734,
+            "paragraph_id": "978-0323393041-p734-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To elevate and pull the hyoid bone forward",
+            "B": "To hold the cheeks against the alveolar arches and keep food between the teeth during chewing",
+            "C": "To support and elevate the floor of the oral cavity",
+            "D": "To depress the mandible when the hyoid is fixed"
+        },
+        "question": "What is the primary function of the buccinator muscle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1108,
+            "paragraph_id": "978-0323393041-p1108-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Bone, cartilage, and epithelial cells",
+            "B": "one, cartilage, and epithelial cells\nB: Muscles, fibrous tissue, and connective tissue",
+            "C": "Mucous membranes, blood vessels, and nerves",
+            "D": "Salivary glands, lymph nodes, and adipose tissue"
+        },
+        "question": "What primary components comprise the majority of the composition of the soft palate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1122,
+            "paragraph_id": "978-0323393041-p1122-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Towards the left side consistently",
+            "B": "To the right side regardless of nerve condition",
+            "C": "Evenly in the midline",
+            "D": "Downwards towards the chin"
+        },
+        "question": "When an individual is instructed to protrude their tongue if they have normal hypoglossal nerve function, where should the tip of the tongue go?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1114,
+            "paragraph_id": "978-0323393041-p1114-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Masseter muscle, sternocleidomastoid muscle, and external auditory canal",
+            "B": "Ramus of the mandible, sternocleidomastoid muscle, and external acoustic meatus with the posterior aspect of the zygomatic arch",
+            "C": "External carotid artery, retromandibular vein, and the extracranial part of the facial nerve",
+            "D": "Mylohyoid muscle, posterior belly of the digastric muscle, and the base of the skull"
+        },
+        "question": "What structures bound the superficial location where the parotid gland resides?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1118,
+            "paragraph_id": "978-0323393041-p1118-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Damage to the divisions and cords",
+            "B": "Disruption of the nerve roots",
+            "C": "Injury affecting the trunks",
+            "D": "amage to the divisions and cords\nB: Disruption of the nerve roots\nC: Injury affecting the trunks\nD: Direct impact on the spinal nerves"
+        },
+        "question": "What typically results from severe trauma to the first rib concerning the brachial plexus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 760,
+            "paragraph_id": "978-0323393041-p760-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inferior margin of the teres major muscle",
+            "B": "Lateral margin of rib II",
+            "C": "Lateral margin of rib I",
+            "D": "Superior border of the clavicle"
+        },
+        "question": "What marks the transition of the subclavian artery into the axillary artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 746,
+            "paragraph_id": "978-0323393041-p746-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Rhomboid major and trapezius muscles",
+            "B": "Levator scapulae and serratus anterior muscles",
+            "C": "Rhomboid major and minor muscles",
+            "D": "Pectoralis major and latissimus dorsi muscles"
+        },
+        "question": "What muscle(s) does the dorsal scapular nerve innervate?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 753,
+            "paragraph_id": "978-0323393041-p753-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It is the shortest distance traveled among all nerves exiting the axilla.",
+            "B": "It passes through the quadrangular space alongside the axillary nerve.",
+            "C": "It passes through the triangular interval between the teres major, triceps brachii, and humerus.",
+            "D": "It travels alone without accompanying arteries."
+        },
+        "question": "What is unique about how the radial nerve exits the axilla compared to some other nerves?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 759,
+            "paragraph_id": "978-0323393041-p759-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Segments I, V, VI, VII, and VIII are removed.",
+            "B": "Segments V, VI, VII, and VIII are removed.",
+            "C": "Segments II, III, IV, and the caudate lobe are removed.",
+            "D": "Only Segment I, the caudate lobe, is removed."
+        },
+        "question": "What happens during a right hepatectomy procedure?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 346,
+            "paragraph_id": "978-0323393041-p346-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Distal third",
+            "B": "Proximal two-thirds",
+            "C": "Entire length",
+            "D": "istal third  \nB: Proximal two-thirds  \nC: Entire length  \nD: Middle segment"
+        },
+        "question": "Which portion of the transverse colon receives blood supply primarily from the superior mesenteric artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 358,
+            "paragraph_id": "978-0323393041-p358-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Changes in tree bark thickness",
+            "B": "Alterations in root depth",
+            "C": "hanges in tree bark thickness  \nB: Alterations in root depth  \nC: Slight adjustments in branch angle",
+            "D": "Variations in soil moisture levels"
+        },
+        "question": "What primarily allows trees to adjust their absorption of sunlight between seasons?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 369,
+            "paragraph_id": "978-0323393041-p369-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Common hepatic artery",
+            "B": "Hepatic artery proper",
+            "C": "ommon hepatic artery  \nB: Hepatic artery proper  \nC: Left hepatic artery",
+            "D": "Gastroduodenal artery"
+        },
+        "question": "What is the typical origin point of the right gastric artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 354,
+            "paragraph_id": "978-0323393041-p354-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Approximately 30%",
+            "C": "Approximately 50%",
+            "D": "Approximately 10%"
+        },
+        "question": "What percentage of individuals aged over 40 typically develop gallstones?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 347,
+            "paragraph_id": "978-0323393041-p347-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Right gastric artery",
+            "B": "Left gastroepiploic artery",
+            "C": "Splenic artery",
+            "D": "Superior mesenteric artery"
+        },
+        "question": "What artery supplies blood to the spleen?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 359,
+            "paragraph_id": "978-0323393041-p359-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Lumbar sympathetic trunk",
+            "B": "Sacral sympathetic trunk",
+            "C": "Pelvic sympathetic trunk",
+            "D": "Thoracic sympathetic trunk"
+        },
+        "question": "What is the primary origin of Thoracic splanchnic nerves?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 367,
+            "paragraph_id": "978-0323393041-p367-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Facial Vein",
+            "B": "Maxillary Vein",
+            "C": "Retromandibular Vein",
+            "D": "Pterygoid Plexus of Veins"
+        },
+        "question": "What primarily receives the drainage from both inferior alveolar veins and superior alveolar veins?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1134,
+            "paragraph_id": "978-0323393041-p1134-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "At the level of the hyoid bone",
+            "B": "At the midpoint of the clavicle",
+            "C": "At the suprasternal notch",
+            "D": "Immediately posteroinferior to the mastoid process"
+        },
+        "question": "Where are the apices of the anterior triangles located?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1139,
+            "paragraph_id": "978-0323393041-p1139-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Passes backward on the hard palate before entering the incisive canal",
+            "B": "Continues downward to reach the uvula",
+            "C": "ontinues downward to reach the uvula\nC: Moves forward on the hard palate and then ascends through the incisive canal to terminate in the nasal cavity",
+            "D": "Enters immediately into the soft palate"
+        },
+        "question": "What pathway does the greater palatine artery take after passing through the greater palatine foramen?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1128,
+            "paragraph_id": "978-0323393041-p1128-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Directly to the radius via the lateral epicondyle",
+            "B": "Through the intertubercular sulcus before joining its muscle belly in the arm",
+            "C": "Around the lesser trochanter to insert into the femur",
+            "D": "irectly to the radius via the lateral epicondyle\nB: Through the intertubercular sulcus before joining its muscle belly in the arm\nC: Around the lesser trochanter to insert into the femur\nD: Underneath the acromion process"
+        },
+        "question": "What path does the tendon of the long head of the biceps brachii take after passing superior to the head of the humerus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 767,
+            "paragraph_id": "978-0323393041-p767-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Posterior cutaneous nerve of the forearm",
+            "B": "Inferior lateral cutaneous nerve of the arm",
+            "C": "Median cubital vein",
+            "D": "Deep branch of radial nerve"
+        },
+        "question": "What provides sensation over the lower half of the radius bone area?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 775,
+            "paragraph_id": "978-0323393041-p775-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Radial artery",
+            "B": "Ulnar artery",
+            "C": "Axillary artery",
+            "D": "Brachial artery and Profunda brachii artery"
+        },
+        "question": "Which of the following arises from the subclavian artery?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 770,
+            "paragraph_id": "978-0323393041-p770-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only from the superior suprarenal arteries originating from the bilateral inferior phrenic arteries",
+            "B": "From three main sources including branches from the inferior phrenic arteries, direct branches from the abdominal aorta, and branches from the renal arteries",
+            "C": "Exclusively from the middle suprarenal arteries arising from the abdominal aorta",
+            "D": "Solely from the inferior suprarenal arteries coming from the renal arteries"
+        },
+        "question": "What are the typical origins of the blood vessels supplying the suprarenal glands?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 394,
+            "paragraph_id": "978-0323393041-p394-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Paranephric fat",
+            "B": "Perinephric fat",
+            "C": "Renal fat",
+            "D": "Anterolateral abdominal wall fat"
+        },
+        "question": "What layer of fat accumulates immediately outside the renal capsule?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 384,
+            "paragraph_id": "978-0323393041-p384-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only major arteries including the right common iliac artery",
+            "B": "Structures such as the right testicular or ovarian artery, parts of the duodenum, the pancreas, and various vascular elements like the bile duct and the portal vein",
+            "C": "Primarily lymph nodes and minor nerves along the spine",
+            "D": "Solely organs like the liver and kidneys"
+        },
+        "question": "What anatomical features cross over the anterior surface of the inferior vena cava during its ascent?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 397,
+            "paragraph_id": "978-0323393041-p397-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "95%",
+            "D": "5%"
+        },
+        "question": "What percentage of tumors within the kidney are identified as transitional cell tumors?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 389,
+            "paragraph_id": "978-0323393041-p389-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It is the smallest volcano in our solar system.",
+            "B": "It is the deepest canyon in our solar system.",
+            "C": "It stands at approximately 27 km high, making it the largest volcano in our solar system.",
+            "D": "It is an example of an impact crater formed by asteroid collisions."
+        },
+        "question": "What is notable about Olympus Mons, located on Mars?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 410,
+            "paragraph_id": "978-0323393041-p410-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "T11-T12",
+            "B": "L2-L4",
+            "C": "S1-S2",
+            "D": "L1-L2"
+        },
+        "question": "What spinal segments give rise to the Femoral nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 406,
+            "paragraph_id": "978-0323393041-p406-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Iliac crest",
+            "B": "Pubic tubercle",
+            "C": "Costal margin",
+            "D": "Anterior superior iliac spine"
+        },
+        "question": "What serves as the boundary separating the abdominal wall from the thoracic wall?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 409,
+            "paragraph_id": "978-0323393041-p409-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Bone",
+            "B": "one\nB: Cartilage",
+            "C": "artilage\nC: Muscle",
+            "D": "Tendon"
+        },
+        "question": "What anatomical feature supports the auricle?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1144,
+            "paragraph_id": "978-0323393041-p1144-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "The brain expands to accommodate the lesion",
+            "B": "There is immediate decomposition of the lesion",
+            "C": "The intracranial pressure decreases allowing more room",
+            "D": "The intracranial pressure increases because the skull cannot expand"
+        },
+        "question": "What happens if there's a space-occupying lesion, such as an extradural hematoma, inside the skull?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1147,
+            "paragraph_id": "978-0323393041-p1147-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inside the cavernous sinus",
+            "B": "At the level of the superior orbital fissure",
+            "C": "Alongside the posterior communicating artery near the brainstem",
+            "D": "Upon entering the orbit"
+        },
+        "question": "What is the location where the oculomotor nerve [III] first encounters potential compression due to an aneurysm?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1151,
+            "paragraph_id": "978-0323393041-p1151-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Conducting signals and forming synapses with other neurons.",
+            "B": "Regulating the content of the extracellular space and controlling neurotransmitter levels at the synaptic junction.",
+            "C": "onducting signals and forming synapses with other neurons.\nB: Regulating the content of the extracellular space and controlling neurotransmitter levels at the synaptic junction.\nC: Providing structural support and conducting electrical impulses.",
+            "D": "Producing hormones and participating in immune responses."
+        },
+        "question": "What are the main purposes served by glial cells in relation to neurons?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1157,
+            "paragraph_id": "978-0323393041-p1157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the annular ligament of the radius",
+            "B": "The interosseous membrane, the annular ligament of the radius, and the articular disc",
+            "C": "Just the articular disc at the distal radio-ulnar joint",
+            "D": "Exclusively the synovial membrane"
+        },
+        "question": "What holds the bones together during pronation and supination?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 789,
+            "paragraph_id": "978-0323393041-p789-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Median nerve alone",
+            "B": "Ulnar nerve alone",
+            "C": "Radial nerve alone",
+            "D": "Median nerve and ulnar artery"
+        },
+        "question": "What passes deep to the flexor digitorum superficialis between its two heads?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 793,
+            "paragraph_id": "978-0323393041-p793-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the interosseous membrane linking adjacent borders of the radius and ulna",
+            "B": "Both a lateral intermuscular septum and an interosseous membrane",
+            "C": "An attachment of deep fascia alone along the posterior border of the ulna",
+            "D": "Neither interosseous membranes nor lateral intermuscular septums separate these compartments"
+        },
+        "question": "What separates the anterior and posterior compartments in the forearm?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 786,
+            "paragraph_id": "978-0323393041-p786-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It passes beneath the flexor retinaculum before entering the hand.",
+            "B": "Both the ulnar artery and nerve pass deep to the flexor retinaculum.",
+            "C": "The ulnar nerve passes superficial to the flexor retinaculum as it enters the hand.",
+            "D": "Only the ulnar artery passes superficial to the flexor retinaculum while the ulnar nerve goes underneath."
+        },
+        "question": "What happens to the ulnar nerve relative to the flexor retinaculum as it enters the hand?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 799,
+            "paragraph_id": "978-0323393041-p799-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "The joining of the two vertebral arteries",
+            "B": "The branching off from the middle cerebral artery",
+            "C": "The combination of posterior cerebral arteries",
+            "D": "The extension of the anterior spinal artery"
+        },
+        "question": "What is the primary method by which the basilar artery is formed?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1169,
+            "paragraph_id": "978-0323393041-p1169-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 0.5 cm",
+            "B": "Approximately 2.5 cm",
+            "C": "Approximately 4.8 cm",
+            "D": "Approximately 6.7 cm"
+        },
+        "question": "What is the approximate length of the pons?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1179,
+            "paragraph_id": "978-0323393041-p1179-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "To act as an inhibitory blockage preventing information transfer under certain conditions",
+            "B": "To serve as a synaptic relay allowing direct transmission of sensory inputs",
+            "C": "To selectively filter out irrelevant data while enhancing critical neural communications",
+            "D": "To operate as a synaptic relay for pathways projecting to the cerebral cortex"
+        },
+        "question": "What is the main function of the thalamus regarding pathways projecting to the cerebral cortex?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1174,
+            "paragraph_id": "978-0323393041-p1174-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "0.25 liters",
+            "B": "0.35 liters",
+            "C": "0.50 liters",
+            "D": "0.75 liters"
+        },
+        "question": "What amount of cerebrospinal fluid (CSF) is produced daily in an adult?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1166,
+            "paragraph_id": "978-0323393041-p1166-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Forceful gripping (\"power grip\") with the hand",
+            "B": "Precision movements (\"precision grip\") with the fingers and thumb",
+            "C": "Extension of the wrist joint",
+            "D": "Flexion of the elbow"
+        },
+        "question": "What do the intrinsic muscles of the hand primarily execute?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 819,
+            "paragraph_id": "978-0323393041-p819-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Proximal phalanx",
+            "B": "Wrist joints and arches",
+            "C": "Forearm bone structures",
+            "D": "Distal metatarsals"
+        },
+        "question": "What parts of the human body do the carpals form?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 808,
+            "paragraph_id": "978-0323393041-p808-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Extensor digitorum tendons",
+            "B": "Flexor digitorum superficialis and profundus tendons along with the median nerve",
+            "C": "Ulnar nerve and radial artery",
+            "D": "Radial nerve and extensor pollicis brevis tendon"
+        },
+        "question": "What passes through the carpal tunnel?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 814,
+            "paragraph_id": "978-0323393041-p814-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They both flex the carpometacarpal joint of the thumb",
+            "B": "Neither affects the movement of the carpometacarpal joint of the thumb",
+            "C": "Both are capable of extending the carpometacarpal joint of the thumb",
+            "D": "One extends while the other flexes the carpometacarpal joint of the thumb"
+        },
+        "question": "What action do both Extensor Pollicis Brevis and Extensor Pollicis Longus share regarding their effect on the carpometacarpal joint of the thumb?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 804,
+            "paragraph_id": "978-0323393041-p804-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Through the posterior columns of the spinal cord",
+            "B": "Near the medial longitudinal fasciculus and into the brainstem",
+            "C": "Along the lateral spinothalamic tract",
+            "D": "Into the cerebral cortex and then down towards the spinal cord"
+        },
+        "question": "Where do axons of the tectospinal tract continue through before entering the cervical regions of the spinal cord?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1197,
+            "paragraph_id": "978-0323393041-p1197-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They form bilateral projections.",
+            "B": "They ascend back to the cerebral hemispheres.",
+            "C": "They decussate becoming contralateral to their origin.",
+            "D": "They terminate at the pons."
+        },
+        "question": "What happens to most of the axons in the lateral corticospinal pathway after they reach the medullary pyramid?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1196,
+            "paragraph_id": "978-0323393041-p1196-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Spinal Ganglions and Pedicles of Vertebrae",
+            "B": "Posterior Roots and Cervical Enlargements",
+            "C": "ervical Enlargements  \nC: Anterior Roots and Lateral Branches",
+            "D": "Posterior Root and Anterior Root"
+        },
+        "question": "What two parts combine to form a spinal nerve?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1190,
+            "paragraph_id": "978-0323393041-p1190-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Regulating involuntary eye movement",
+            "B": "Facilitating activity of extensor/antigravity muscles while inhibiting activity of flexor muscles",
+            "C": "Directing motor functions associated with speech production",
+            "D": "irecting motor functions associated with speech production\nD: Controlling digestive processes"
+        },
+        "question": "What is the primary role attributed to the vestibulospinal tract?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1198,
+            "paragraph_id": "978-0323393041-p1198-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Lower border of T12",
+            "B": "Upper border of S1",
+            "C": "Lower border of L1",
+            "D": "Mid-level of L2"
+        },
+        "question": "At approximately which lumbar vertebra level does the conus medullaris form the boundary of the end of the spinal cord in adults?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1186,
+            "paragraph_id": "978-0323393041-p1186-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Hypothalamus region",
+            "B": "Temporal pole",
+            "C": "Frontal lobe",
+            "D": "Region containing fornix and amygdala"
+        },
+        "question": "Which area contains both the corpus callosum and septum pellucidum among the listed regions related to neuroanatomy?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1222,
+            "paragraph_id": "978-0323393041-p1222-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Cochlear nerve",
+            "B": "Spiral ganglion",
+            "C": "ochlear nerve\nB: Spiral ganglion\nC: Cochlea",
+            "D": "Auditory cortex"
+        },
+        "question": "Which structure converts sound vibrations into electrical signals during auditory processing?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1216,
+            "paragraph_id": "978-0323393041-p1216-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Carotid system",
+            "B": "Vertebrobasilar system",
+            "C": "arotid system  \nB: Vertebrobasilar system  \nC: Posterior cerebral system",
+            "D": "Anterior communicating system"
+        },
+        "question": "Which arterial system supplies blood to the cerebellum?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1209,
+            "paragraph_id": "978-0323393041-p1209-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Alveus",
+            "B": "Fimbria",
+            "C": "Subiculum",
+            "D": "Perforant pathway"
+        },
+        "question": "What term refers to a transitional zone between the hippocampus proper and parahippocampal gyrus?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1232,
+            "paragraph_id": "978-0323393041-p1232-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only two main paths: the anterior commissure and the internal capsule",
+            "B": "Three primary paths: stria terminalis, ventral amygdalofugal pathway, and direct projections to certain cortical areas",
+            "C": "One path: the extreme capsule connecting to the substantia innominata",
+            "D": "Four primary routes: including both the cingulate gyrus and orbital cortex"
+        },
+        "question": "What are the major outputs of the amygdala facilitated by?",
+        "source": {
+            "isbn": "978-0323393041",
+            "page": 1227,
+            "paragraph_id": "978-0323393041-p1227-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

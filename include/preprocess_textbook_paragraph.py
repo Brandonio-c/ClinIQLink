@@ -144,17 +144,26 @@ class PreprocessTextbook:
             print(f"Error processing page {page_num+1} of {title}: {e}")
 
     def write_catalog(self):
-        catalog_csv_path = self.output_dir / "preprocessed_data.csv"
+        if not self.catalog:
+            print("Warning: No books processed, catalog not saved.")
+            return
+
         try:
-            with open(catalog_csv_path, "w", newline="") as catalog_file:
-                fieldnames = ["Title", "ISBN-10", "ISBN-13", "File Link", "JSON File"]
-                writer = csv.DictWriter(catalog_file, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerows(self.catalog)
-            
-            print(f"Catalog saved to {catalog_csv_path}")
+            for book in self.catalog:
+                isbn13 = book["ISBN-13"]
+                catalog_csv_path = self.output_dir / f"{isbn13}.csv"
+
+                with open(catalog_csv_path, "w", newline="") as catalog_file:
+                    fieldnames = ["Title", "ISBN-10", "ISBN-13", "File Link", "JSON File"]
+                    writer = csv.DictWriter(catalog_file, fieldnames=fieldnames)
+                    writer.writeheader()
+                    writer.writerow(book)
+
+                print(f"Catalog for {book['Title']} saved to {catalog_csv_path}")
+
         except Exception as e:
             print(f"Error writing catalog CSV: {e}")
+
 
 if __name__ == "__main__":
     # Accept data_dir and output_dir from command-line arguments

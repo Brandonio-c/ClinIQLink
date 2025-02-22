@@ -1,0 +1,914 @@
+[
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "An inexperienced general medical practitioner",
+            "B": "An expert who specializes in engineering",
+            "C": "An experienced intervention-researcher",
+            "D": "A novice psychologist"
+        },
+        "question": "What kind of researcher's participation is considered invaluable during the development of behavioral interventions?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 974,
+            "paragraph_id": "978-0071441988-p974-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Physical education training",
+            "B": "Life/social-skills training",
+            "C": "Advanced academic tutoring",
+            "D": "Vocational skill-building"
+        },
+        "question": "What is a key component of Project Toward No Tobacco Use (TNT) besides classroom-based skills development?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 972,
+            "paragraph_id": "978-0071441988-p972-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Conducted a nationwide survey",
+            "B": "Confirmed each case",
+            "C": "onducted a nationwide survey \nB: Confirmed each case\nC: Established a hotline for reporting",
+            "D": "Published findings in a medical journal"
+        },
+        "question": "What method did the investigator in the AIDS epidemic first take to address the five initial cases?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 40,
+            "paragraph_id": "978-0071441988-p40-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Section 13",
+            "B": "Section 12",
+            "C": "Section 15",
+            "D": "Section 16"
+        },
+        "question": "Which section deals with infections spread primarily through close personal contact?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 5,
+            "paragraph_id": "978-0071441988-p5-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Highly selective, focusing on rare diseases",
+            "B": "Highly sensitive, detecting and characterizing epidemics and seasonal trends",
+            "C": "Limited scope, concentrating on historical data analysis",
+            "D": "Reactive, responding slowly to emerging health issues"
+        },
+        "question": "What characterizes a good public health surveillance system in terms of sensitivity?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 37,
+            "paragraph_id": "978-0071441988-p37-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 30%",
+            "B": "Approximately 50%",
+            "C": "Approximately 60%",
+            "D": "Some 70%"
+        },
+        "question": "What percentage of adult urban Americans have antibodies indicating past infection with Hepatitis A?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 34,
+            "paragraph_id": "978-0071441988-p34-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "1978 - 1988",
+            "B": "1983 was part of an article discussing transmission, however, another related study started before this date",
+            "C": "1978-1988",
+            "D": "1988"
+        },
+        "question": "What publication year range did Sousa et al. conduct their ten-year study regarding toxoplasmosis?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 484,
+            "paragraph_id": "978-0071441988-p484-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Peripheral eosinophilia decreases significantly over time after initial infection.",
+            "B": "Peripheral eosinophilia remains unchanged throughout the course of the infection.",
+            "C": "Peripheral eosinophilia occurs.",
+            "D": "Peripheral eosinophilia becomes undetectable shortly after the onset of symptoms."
+        },
+        "question": "What typically happens to peripheral eosinophilia in individuals infected with hookworms?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 501,
+            "paragraph_id": "978-0071441988-p501-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Journal of Infectious Diseases, volume unknown",
+            "B": "Emerging Infectious Diseases, issue date unknown",
+            "C": "American Medical Association, exact title unclear",
+            "D": "iseases, volume unknown\nB: Emerging Infectious Diseases, issue date unknown\nC: American Medical Association, exact title unclear\nD: Journal of Infectious Diseases, specifically referencing the study published in 2005"
+        },
+        "question": "Which medical publication reported an association between antimicrobial-resistant non-typhoidal Salmonella and excess bloodstream infections?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 483,
+            "paragraph_id": "978-0071441988-p483-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "40%",
+            "D": "30%"
+        },
+        "question": "What percentage of children can be asymptomatic carriers of T. tonsurans?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 496,
+            "paragraph_id": "978-0071441988-p496-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Consuming undercooked poultry",
+            "B": "Eating shell eggs",
+            "C": "onsuming undercooked poultry \nB: Eating shell eggs\nC: Handling contaminated soil",
+            "D": "Egg consumption"
+        },
+        "question": "What was identified by researchers as a major risk factor for sporadic *Salmonella* serotype Heidelberg infections?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 482,
+            "paragraph_id": "978-0071441988-p482-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Through skin contact with contaminated water",
+            "B": "By inhaling dust particles containing the parasite",
+            "C": "Via the fecal-soil-oral route",
+            "D": "From consuming undercooked meat products"
+        },
+        "question": "How do adults typically get infected with Ascaris lumbricoides?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 504,
+            "paragraph_id": "978-0071441988-p504-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Journal of Tropical Medicine",
+            "B": "New England Journal of Medicine",
+            "C": "Trends Parasitol",
+            "D": "American Journal of Tropical Medicine and Hygiene"
+        },
+        "question": "What journal published the article titled \"Soil-transmitted helminth infections: updating the global picture\"?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 519,
+            "paragraph_id": "978-0071441988-p519-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Women 25-34 years of age",
+            "B": "Women 15-19 or 15-24 years of age",
+            "C": "Men 20-24 years of age",
+            "D": "Individuals under 15 years of age"
+        },
+        "question": "According to the observations about TSS cases by age, where has the highest age-specific incidence rate consistently been observed?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 513,
+            "paragraph_id": "978-0071441988-p513-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Scarlet Fever",
+            "B": "Viral Gastroenteritis",
+            "C": "Strep Throat",
+            "D": "Leptospirosis"
+        },
+        "question": "What condition is often considered when symptoms such as diarrhea and vomiting become more prominent in a case where Toxic Shock Syndrome might be present?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 517,
+            "paragraph_id": "978-0071441988-p517-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The NIEHS Strategic Plan",
+            "B": "Smoking and Health: A Report of the Surgeon General",
+            "C": "Foundations of Epidemiology",
+            "D": "Planned Approach to Community Health"
+        },
+        "question": "What was published by the U.S. Government Printing Office in 1964?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 52,
+            "paragraph_id": "978-0071441988-p52-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "85%",
+            "B": "90%",
+            "C": "80%",
+            "D": "95%"
+        },
+        "question": "What percentage of all deaths due to lung cancer can be attributed to cigarette smoking according to the study's findings?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 47,
+            "paragraph_id": "978-0071441988-p47-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "None were reported",
+            "B": "The Journal of Public Health",
+            "C": "The American Journal of Epidemiology",
+            "D": "The British Medical Journal"
+        },
+        "question": "Which publication is described as having been edited by Koch?\n\nNo suitable option was given\n\nHowever we do know \nKoch R. Uber bacteriologische Forschung. Verh Ten Internat Med Cong Berlin 1891;1:35.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 51,
+            "paragraph_id": "978-0071441988-p51-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It led to the discovery of vaccines for various infectious diseases.",
+            "B": "It played a key role in controlling outbreaks of waterborne illnesses.",
+            "C": "It contributed significantly to the global elimination of smallpox.",
+            "D": "It helped reduce the incidence of mental health disorders globally."
+        },
+        "question": "What impact did epidemiology have in terms of eradicating diseases?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 50,
+            "paragraph_id": "978-0071441988-p50-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Long-term antibiotic usage",
+            "B": "Aspirin intake during viral infections",
+            "C": "Vaccination against influenza",
+            "D": "High doses of vitamin supplements"
+        },
+        "question": "What has been suggested as potentially linked to the development of Reye's syndrome?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 525,
+            "paragraph_id": "978-0071441988-p525-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "An exotoxin",
+            "B": "A virus",
+            "C": "A bacterium",
+            "D": "A fungus"
+        },
+        "question": "What was identified and characterized from *Staphylococcus aureus* associated with toxic shock syndrome?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 523,
+            "paragraph_id": "978-0071441988-p523-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Magnesium ions inhibit TSST-1 production completely.",
+            "B": "They increase the production of TSST-1 significantly under certain conditions.",
+            "C": "There's no interaction observed between magnesium ions and TSST-1 production.",
+            "D": "They decrease TSST-1 production gradually over time."
+        },
+        "question": "What effect do magnesium ions have on the production of toxic-shock-syndrome toxin-1 (TSST-1) by *Staphylococcus aureus*?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 524,
+            "paragraph_id": "978-0071441988-p524-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Investigating the impact of chromium on DNA single-strand breaks",
+            "B": "Examining the role of xenobiotics in inducing apoptosis",
+            "C": "Exploring the connection between p53 and radiation hormesis",
+            "D": "NA single-strand breaks \nB: Examining the role of xenobiotics in inducing apoptosis\nC: Exploring the connection between p53 and radiation hormesis\nD: Discussing how p53 acts as a tumor suppressor gene"
+        },
+        "question": "What was the focus of research conducted by Harris regarding p53?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 561,
+            "paragraph_id": "978-0071441988-p561-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Casarett's Guide to Toxicology",
+            "B": "Casarett and Doull\u2019s Toxicology",
+            "C": "asarett's Guide to Toxicology\nB: Casarett and Doull\u2019s Toxicology\nC: Toxic Responses in Kidneys",
+            "D": "oull\u2019s Toxicology\nC: Toxic Responses in Kidneys\nD: Handbook of Renal Toxicity"
+        },
+        "question": "What was the title of the publication edited by Casarett where Robert G. Schnellmann contributed about toxic responses of the kidney?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 560,
+            "paragraph_id": "978-0071441988-p560-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased sensitivity to morphine",
+            "B": "Permanent alteration of the Hypothalamic-Pituitary-Adrenal Axis responsiveness",
+            "C": "Enhanced resistance to carbon disulfide toxicity",
+            "D": "Reduced susceptibility to solvent-induced chronic encephalopathy"
+        },
+        "question": "What occurs in the offspring of animals exposed to maternal lead exposure?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 550,
+            "paragraph_id": "978-0071441988-p550-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Processed meats",
+            "B": "Fresh produce",
+            "C": "Dairy products",
+            "D": "airy products\nD: Frozen foods"
+        },
+        "question": "What was identified as a growing cause of outbreaks of foodborne illness in the United States from 1973 through 1997?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 121,
+            "paragraph_id": "978-0071441988-p121-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Human Immunodeficiency Virus",
+            "B": "Genetic identification of a hantavirus associated with an outbreak of acute respiratory illness",
+            "C": "An emerging microbial threat to health security",
+            "D": "The complete genome of SARS-associated Coronavirus"
+        },
+        "question": "What was identified by Nichol et al., according to the information?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 120,
+            "paragraph_id": "978-0071441988-p120-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Internal migration and rural-to-urban migration",
+            "B": "Immigration studies and emigration analysis",
+            "C": "Internal migration and international migration",
+            "D": "Urban migration and cross-border movement"
+        },
+        "question": "What two sub-disciplines does the study of migration divide into?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 71,
+            "paragraph_id": "978-0071441988-p71-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Increased employee morale due to awareness of genetic risks.",
+            "B": "Improved company profits resulting from targeted health interventions.",
+            "C": "Enhanced job security for employees identified as low-risk.",
+            "D": "Potential for discrimination against individuals based on their genetic predispositions."
+        },
+        "question": "What is a significant concern regarding genetic testing in the workplace?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 98,
+            "paragraph_id": "978-0071441988-p98-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "20%",
+            "B": "50%",
+            "C": "70%",
+            "D": "80%"
+        },
+        "question": "What percentage of people vaccinated with the abbreviated schedule of the Japanese Encephalitis vaccine show seroconversion?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 116,
+            "paragraph_id": "978-0071441988-p116-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Equity",
+            "B": "Differences",
+            "C": "Population-specific diseases",
+            "D": "ifferences\nC: Population-specific diseases\nD: Quality of healthcare"
+        },
+        "question": "What term do US definitions of health disparities often emphasize?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 83,
+            "paragraph_id": "978-0071441988-p83-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 20%",
+            "B": "Between 40% and 60%",
+            "C": "Over 50%",
+            "D": "Exactly 75%"
+        },
+        "question": "What percentage of U.S. children under six years old currently have at least two immunization doses recorded in a population-based registry?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 77,
+            "paragraph_id": "978-0071441988-p77-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Primarily to the individuals participating in the partnerships",
+            "B": "Exclusively to the community where the initiative takes place",
+            "C": "Mainly to the individuals for whom the interventions are intended",
+            "D": "Equally to partnership participants, the targeted individuals, and the broader community"
+        },
+        "question": "Where do benefits typically accrue according to evaluations of CBPR initiatives?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 87,
+            "paragraph_id": "978-0071441988-p87-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Exploring genetic determinants related to cancer development",
+            "B": "Investigating the application of Mendelian principles to explain proportions in mixed populations",
+            "C": "Developing novel treatments for genetically inherited conditions",
+            "D": "eveloping novel treatments for genetically inherited conditions\nD: Analyzing environmental factors influencing public health"
+        },
+        "question": "What was the primary focus of study by both Hardy GH and Weinberg W in their respective publications?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 99,
+            "paragraph_id": "978-0071441988-p99-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Spasm begins with extremity muscles before progressing to the jaw and neck.",
+            "B": "Spasm starts with the jaw muscles and progresses to other parts of the body, potentially leading to generalized muscle spasms.",
+            "C": "Symptoms begin with severe abdominal cramps followed by neck and back stiffness.",
+            "D": "Facial expressions change first, then progress to limb weakness."
+        },
+        "question": "What is typically observed in terms of symptoms progression in generalized tetanus?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 141,
+            "paragraph_id": "978-0071441988-p141-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Neurotoxicology: the Cinderella of Neuroscience",
+            "B": "Effects of Ionizing Radiation: Atomic Bomb Survivors and Their Children (1945\u20131995)",
+            "C": "inderella of Neuroscience\nB: Effects of Ionizing Radiation: Atomic Bomb Survivors and Their Children (1945\u20131995)\nC: Antioxidant and Redox Regulation of Genes",
+            "D": "Preventing Environmentally Related Disease"
+        },
+        "question": "What publication edited by Sen CK, Sies H, and Baeuerle PA focuses on antioxidant and redox regulation of genes?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 564,
+            "paragraph_id": "978-0071441988-p564-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Handbook of Neurotoxicology",
+            "B": "WAIS-R Manual",
+            "C": "Cognitive Therapy of Depression",
+            "D": "epression\nD: SCL-90-R Manual II"
+        },
+        "question": "What was the title of the book published by David Wechsler?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 568,
+            "paragraph_id": "978-0071441988-p568-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The report by the National Research Council titled \"BEIR VII\"",
+            "B": "EIR VII\"\nB: The book edited by Cothern titled \"Comparative Environmental Risk Assessment\"",
+            "C": "ouncil titled \"BEIR VII\"\nB: The book edited by Cothern titled \"Comparative Environmental Risk Assessment\"\nC: The International Agency for Research on Cancer's monograph supplement",
+            "D": "An article published in Environmental Health Perspectives"
+        },
+        "question": "Which publication contains general principles for evaluating the carcinogenic risk of chemicals?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 584,
+            "paragraph_id": "978-0071441988-p584-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "World Health Organization",
+            "B": "U.S. Department of Agriculture",
+            "C": "U.S. Environmental Protection Agency",
+            "D": "epartment of Agriculture \nC: U.S. Environmental Protection Agency \nD: International Joint Commission"
+        },
+        "question": "What organization published \"Report of the EPA Workshop on the Development of Risk Assessment Methodologies for Tumor Promoters\"?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 562,
+            "paragraph_id": "978-0071441988-p562-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Patients with severe Parkinson's disease",
+            "B": "Patients with moderate Huntington's disease",
+            "C": "Patients with mild Alzheimer's disease",
+            "D": "Individuals with chronic schizophrenia"
+        },
+        "question": "What was the focus of the study conducted by Paulsen and colleagues regarding praxis impairments?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 569,
+            "paragraph_id": "978-0071441988-p569-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Science and Judgment in Risk Assessment",
+            "B": "Judgement under Uncertainty: Heuristics and Biases",
+            "C": "Principles of Route-to-Route Extrapolation for Risk Assessment",
+            "D": "Risk Communication: Proceedings of the National Conference on Risk Communication"
+        },
+        "question": "What book did Paul Slovic contribute to regarding judgment under uncertainty?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 587,
+            "paragraph_id": "978-0071441988-p587-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Vancomycin alone",
+            "B": "Ampicillin combined with Chloramphenicol",
+            "C": "hloramphenicol  \nC: A third-generation cephalosporin, such as ceftriaxone or cefotaxime",
+            "D": "Penicillin G with Erythromycin"
+        },
+        "question": "What is typically prescribed for severe *Haemophilus influenzae* infections?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 151,
+            "paragraph_id": "978-0071441988-p151-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "An article about respiratory diseases among coal miners",
+            "B": "Handbook for Dust Control in Mining",
+            "C": "ontrol in Mining \nC: Criteria for Recommended Standards on Workplace Noise",
+            "D": "ust Control in Mining \nC: Criteria for Recommended Standards on Workplace Noise\nD: Guidelines for Occupational Exposure Limits"
+        },
+        "question": "What was published by the National Institute for Occupational Safety and Health in 2003?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 616,
+            "paragraph_id": "978-0071441988-p616-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "National Institute for Occupational Safety and Health",
+            "B": "World Health Organization",
+            "C": "International Agency for Research on Cancer",
+            "D": "American Journal of Industrial Medicine"
+        },
+        "question": "What organization published guidelines for air quality in Denmark?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 607,
+            "paragraph_id": "978-0071441988-p607-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "1939",
+            "B": "1941",
+            "C": "1945",
+            "D": "1948"
+        },
+        "question": "What year did Gregg publish his work about congenital cataracts related to mothers infected with German measles?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 168,
+            "paragraph_id": "978-0071441988-p168-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "2001",
+            "B": "2005",
+            "C": "1997",
+            "D": "2003"
+        },
+        "question": "What year did the publication titled \u201cSubacute sclerosing panencephalitis: more cases of this fatal disease are prevented by measles immunization than was previously recognized\u201d occur?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 166,
+            "paragraph_id": "978-0071441988-p166-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Completion of global vaccination programs",
+            "B": "Interruption of wild poliovirus transmission",
+            "C": "ompletion of global vaccination programs\nB: Interruption of wild poliovirus transmission\nC: Achievement of herd immunity",
+            "D": "Discovery of new poliovirus strains"
+        },
+        "question": "What event necessitates discontinuing routine use of Oral Poliovirus Vaccine (OPV)?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 162,
+            "paragraph_id": "978-0071441988-p162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The Alan Guttmacher Institute",
+            "B": "Centers for Disease Control and Prevention",
+            "C": "enters for Disease Control and Prevention\nC: Oxford University Press, Inc.",
+            "D": "isease Control and Prevention\nC: Oxford University Press, Inc.\nD: World Health Organization"
+        },
+        "question": "Which organization published the article titled \u201cNo Magic Bullet: A Social History of Venereal Disease in the United States Since 1880\u201d?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 199,
+            "paragraph_id": "978-0071441988-p199-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It significantly increased both complications and hospitalizations.",
+            "B": "There were no changes noted in these outcomes.",
+            "C": "Treatment had minimal effect on reducing the severity of symptoms.",
+            "D": "Oseltamivir treatment resulted in a reduction of these complications and hospitalizations."
+        },
+        "question": "What was observed concerning the impact of oseltamivir treatment on influenza-related lower respiratory tract complications and hospitalizations?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 172,
+            "paragraph_id": "978-0071441988-p172-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Poor diet",
+            "B": "Lack of exercise",
+            "C": "Human Papillomavirus (HPV)",
+            "D": "Family History"
+        },
+        "question": "What was identified as a significant risk determinant of cervical intraepithelial neoplasia?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 200,
+            "paragraph_id": "978-0071441988-p200-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "1979",
+            "B": "1981",
+            "C": "1991",
+            "D": "1999"
+        },
+        "question": "What publication year was specified in the reference about patterns of shedding of myxoviruses and paramyxoviruses in children?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 171,
+            "paragraph_id": "978-0071441988-p171-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "There were no changes detected over time.",
+            "B": "Absence of an endemic genotype was noted starting after 1994.",
+            "C": "Endemic genotypes increased significantly each year until 2001.",
+            "D": "Isolation rates remained constant throughout the period studied."
+        },
+        "question": "What was observed regarding the presence of an endemic genotype of measles viruses isolated in the United States?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 167,
+            "paragraph_id": "978-0071441988-p167-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "1995",
+            "B": "1992",
+            "C": "1993",
+            "D": "1996"
+        },
+        "question": "What year did World Health Organization publish their book titled *Handbook of resolutions and decisions of the World Health Assembly and the Executive Board*?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 170,
+            "paragraph_id": "978-0071441988-p170-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "40%",
+            "B": "50%",
+            "C": "60%",
+            "D": "69%"
+        },
+        "question": "What percentage of the CDC's fiscal year 2006 budget allocated to the NCHSTP was designated for categorical HIV programs?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 182,
+            "paragraph_id": "978-0071441988-p182-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Investigating the prevalence of anal cancer globally",
+            "B": "Studying the connection between HPV and cervical cancer worldwide",
+            "C": "Examining trends in syphilis transmission during pregnancy",
+            "D": "Understanding the effects of hepatitis B and C viruses on liver disease"
+        },
+        "question": "What was the focus of the International Biological Study on Cervical Cancer conducted by Bosch and colleagues?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 201,
+            "paragraph_id": "978-0071441988-p201-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Para-xylene",
+            "B": "Benzene",
+            "C": "Meta-xylene",
+            "D": "Ortho-xylene"
+        },
+        "question": "What compound was identified as being present in technical grades of toluene in variable proportions, sometimes up to 25%, according to the given information?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 652,
+            "paragraph_id": "978-0071441988-p652-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "10 \u03bcg/liter",
+            "B": "20 \u03bcg/liter",
+            "C": "50 \u03bcg/liter",
+            "D": "200 \u03bcg/liter"
+        },
+        "question": "What is the maximum allowable concentration of trichloroethylene in drinking water according to World Health Organization guidelines?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 658,
+            "paragraph_id": "978-0071441988-p658-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

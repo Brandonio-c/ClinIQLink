@@ -1,0 +1,1154 @@
+[
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Before 10 weeks of gestation",
+            "B": "efore 10 weeks of gestation  \nB: After 15 weeks of gestation",
+            "C": "Beyond 25 weeks of gestation",
+            "D": "Beyond 20 weeks of gestation"
+        },
+        "question": "At what stage of pregnancy do all patients require observation or admission for fetal monitoring?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1772,
+            "paragraph_id": "978-0071484800-p1772-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "1%",
+            "B": "11%",
+            "C": "19%",
+            "D": "25%"
+        },
+        "question": "What percentage increase in mortality occurs for each rib fracture in individuals over 65 years old?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1766,
+            "paragraph_id": "978-0071484800-p1766-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To prevent childhood neoplasias such as leukemia",
+            "B": "To ensure proper administration of Rh0 (D) immunoglobulin",
+            "C": "To decrease radiation exposure and thus mitigate risks associated with fetal development",
+            "D": ") immunoglobulin\nC: To decrease radiation exposure and thus mitigate risks associated with fetal development\nD: To diagnose traumatic injuries accurately despite potential radiation hazards"
+        },
+        "question": "What is the primary reason for limiting imaging studies during pregnancy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1771,
+            "paragraph_id": "978-0071484800-p1771-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Abnormal structural neuroimaging findings",
+            "B": "Normal structural neuroimaging findings",
+            "C": "Variable structural neuroimaging findings",
+            "D": "Always abnormal functional neuroimaging findings"
+        },
+        "question": "What types of imaging findings are commonly expected in cases of concussion?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1778,
+            "paragraph_id": "978-0071484800-p1778-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "0.10 gram/kg to 0.50 gram/kg",
+            "B": "0.25 gram/kg to 1 gram/kg",
+            "C": "1 gram/kg to 2 gram/kg",
+            "D": "0.05 gram/kg to 0.25 gram/kg"
+        },
+        "question": "What initial dosage range of mannitol is typically advocated for administration?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1781,
+            "paragraph_id": "978-0071484800-p1781-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Less than 1%",
+            "B": "Between 4% to 12%",
+            "C": "Greater than 25%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of isolated chest trauma in children typically leads to mortality?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1763,
+            "paragraph_id": "978-0071484800-p1763-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To enhance recovery speed and improve cognitive function",
+            "B": "To primarily reduce recurrence of stroke",
+            "C": "To minimize damage caused by cerebral vasospasm",
+            "D": "To rapidly decrease inflammation around the affected brain tissue"
+        },
+        "question": "What is the primary reason for recommending aspirin administration within 24 to 48 hours after stroke onset?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1201,
+            "paragraph_id": "978-0071484800-p1201-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 25%",
+            "B": "Almost half of them",
+            "C": "Around 75%",
+            "D": "Less than 10%"
+        },
+        "question": "What percentage of patients with subarachnoid hemorrhage typically exhibit normal neurological examination findings upon initial presentation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1183,
+            "paragraph_id": "978-0071484800-p1183-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To confirm the presence of pneumonia or infections.",
+            "B": "To diagnose cardiovascular diseases exclusively.",
+            "C": "To confirm the diagnosis of stroke and exclude stroke mimics while identifying possible causes or complications.",
+            "D": "To evaluate the effectiveness of current treatments being administered."
+        },
+        "question": "What is the primary purpose of focusing the physical examination during suspected cases of stroke?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1193,
+            "paragraph_id": "978-0071484800-p1193-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It indicates no effort against gravity.",
+            "B": "It results in a score of 2 because the leg shows some effort against gravity.",
+            "C": "It signifies mild-to-moderate aphasia unrelated to the motor function.",
+            "D": "It corresponds to a score of 1 due to drift."
+        },
+        "question": "What happens if the patient's leg falls by the end of the 5-second period but does not hit the bed while performing the motor leg assessment?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1195,
+            "paragraph_id": "978-0071484800-p1195-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 40%",
+            "B": "Up to 50%",
+            "C": "Up to 70%",
+            "D": "Up to 90%"
+        },
+        "question": "What percentage of patients experience relief from high-flow oxygen for treating cluster headaches?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1185,
+            "paragraph_id": "978-0071484800-p1185-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "SECTION 4 - Special Procedures",
+            "B": "SECTION 1 - Introduction",
+            "C": "TION 4 - Special Procedures  \nB: SECTION 1 - Introduction  \nC: SECTION 8 - Pulmonary Emergencies",
+            "D": "SECTION 2 - Patient Presentation"
+        },
+        "question": "Which section starts at page number 465?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 12,
+            "paragraph_id": "978-0071484800-p12-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10F",
+            "B": "12F",
+            "C": "8F",
+            "D": "14F"
+        },
+        "question": "What size suction catheter would typically be recommended for an infant weighing between 3 and 6 kilograms?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 3,
+            "paragraph_id": "978-0071484800-p3-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "30%",
+            "B": "22%",
+            "C": "24%",
+            "D": "40%"
+        },
+        "question": "What percentage reduction in mortality did helicopter EMS produce compared with ground transport in a large-sample study?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 58,
+            "paragraph_id": "978-0071484800-p58-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Placing them near a window where natural sunlight can help regulate their temperature.",
+            "B": "Keeping them in a cold room to stimulate their metabolism.",
+            "C": "Providing a neutral thermal environment to keep their core temperature normal and minimize oxygen consumption.",
+            "D": "Using ice packs to lower their body temperature slightly."
+        },
+        "question": "What is recommended for neonates concerning maintaining their body temperature?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 62,
+            "paragraph_id": "978-0071484800-p62-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 1% and 5%",
+            "B": "etween 1% and 5%\nB: Between 5% and 10%",
+            "C": "Between 10% and 15%",
+            "D": "Between 15% and 20%"
+        },
+        "question": "What percentage of a patient's total body weight is typically considered appropriate for the traction force to pull the bone fragments apart when applying a traction splint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 53,
+            "paragraph_id": "978-0071484800-p53-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Section 15",
+            "B": "Section 17",
+            "C": "Section 18",
+            "D": "Section 16"
+        },
+        "question": "Which section primarily deals with emergency complications arising due to altitude?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 16,
+            "paragraph_id": "978-0071484800-p16-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Higher energy delivery requirements",
+            "B": "Reduced risk of myocardial damage associated with shocks",
+            "C": "Increased complexity for operators",
+            "D": "Limited compatibility with existing equipment"
+        },
+        "question": "What key advantage do biphasic defibrillators have over traditional monophasic models?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 49,
+            "paragraph_id": "978-0071484800-p49-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Numbness in the face",
+            "B": "Balance improvement",
+            "C": "Truncal stability increase",
+            "D": "Vertigo"
+        },
+        "question": "What typically occurs when there is asymmetric activity resulting from unilateral lesions of the vestibular apparatus?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1213,
+            "paragraph_id": "978-0071484800-p1213-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Multiple sclerosis",
+            "B": "Benign Paroxysmal Positional Vertigo",
+            "C": "Labyrinthine Concussion",
+            "D": "Post-Traumatic Vertigo"
+        },
+        "question": "Which of the following conditions presents with vertigo that lasts several hours to several days or weeks and is usually non-recurrent?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1219,
+            "paragraph_id": "978-0071484800-p1219-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains constant regardless of changes in MAP",
+            "B": "It increases linearly with increases in MAP",
+            "C": "It decreases, potentially leading to diffuse ischemia",
+            "D": "It becomes more sensitive to intracranial pressure"
+        },
+        "question": "What happens to cerebral blood flow outside the mean arterial pressures (MAPs) of 50 to 150 mm Hg?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1208,
+            "paragraph_id": "978-0071484800-p1208-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Age of the patient and presence of underlying medical conditions",
+            "B": "Mechanism and nature of the primary injury, including location and force applied",
+            "C": "Severity of symptoms presented immediately post-injury",
+            "D": "Type of imaging used for diagnosis"
+        },
+        "question": "What differentiates the occurrence of an epidural hematoma from a subdural hematoma?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1783,
+            "paragraph_id": "978-0071484800-p1783-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Approximately 12%",
+            "C": "Approximately 8%",
+            "D": "Approximately 15%"
+        },
+        "question": "What percentage of pediatric traumatic brain injury patients approximately experience cervical fractures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1789,
+            "paragraph_id": "978-0071484800-p1789-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only lateral radiographs",
+            "B": "Both MRI scans and ultrasound",
+            "C": "Radiography, CT scans including axial, sagittal views, and three-dimensional reconstructions",
+            "D": "Solely three-dimensional reconstructions"
+        },
+        "question": "What imaging modalities were employed to diagnose the spinal injury described?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1796,
+            "paragraph_id": "978-0071484800-p1796-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Approximately 30%",
+            "C": "Approximately 50%",
+            "D": "Approximately 10%"
+        },
+        "question": "What percentage of patients with a spine fracture in one segment will likely have a second fracture at another level?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1807,
+            "paragraph_id": "978-0071484800-p1807-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 75%",
+            "B": "Approximately 80%",
+            "C": "Approximately 95%",
+            "D": "Approximately 90%"
+        },
+        "question": "What percentage of cervical spine injuries to bone and ligaments can approximately be identified with a single lateral cervical spine film?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1805,
+            "paragraph_id": "978-0071484800-p1805-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Posterior Triangle",
+            "B": "Anterior Triangle",
+            "C": "Zone I",
+            "D": "Zone III"
+        },
+        "question": "What anatomically classified region of the neck contains most major vascular and aerodigestive structures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1819,
+            "paragraph_id": "978-0071484800-p1819-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Systemic air embolism",
+            "B": "Intrabronchial bleeding",
+            "C": "Pneumomediastinum",
+            "D": "Pulmonary hematoma"
+        },
+        "question": "What condition involves the presence of air in the mediastinum following alveolar rupture, typically demonstrated on plain radiography?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1835,
+            "paragraph_id": "978-0071484800-p1835-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Catheter angiography and duplex ultrasonography",
+            "B": "Helical CT angiography, catheter angiography, and MRI",
+            "C": "atheter angiography and duplex ultrasonography  \nB: Helical CT angiography, catheter angiography, and MRI  \nC: Esophagogam, esophagoscopy, and barium swallow",
+            "D": "CT, laryngoscopy, and bronchoscopy"
+        },
+        "question": "What imaging modalities are typically combined to diagnose laryngotracheal injuries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1823,
+            "paragraph_id": "978-0071484800-p1823-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Refractory status epilepticus",
+            "B": "Super-refractory status epilepticus",
+            "C": "Status epilepticus",
+            "D": "Convulsive status"
+        },
+        "question": "What term describes continuous or intermittent seizures for more than 5 minutes without recovery of consciousness?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1225,
+            "paragraph_id": "978-0071484800-p1225-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Rest in the supine position",
+            "B": "Sitting or standing upright and performing Valsalva maneuvers such as coughing",
+            "C": "Administering antiemetics and analgesics",
+            "D": "Drinking plenty of fluids"
+        },
+        "question": "What intensifies a post-lumbar puncture headache?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1248,
+            "paragraph_id": "978-0071484800-p1248-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Muscle stiffness",
+            "B": "Symptoms",
+            "C": "Eye movements",
+            "D": "Autonomic functions"
+        },
+        "question": "What is typically improved after treating an underlying neoplasm in patients with Lambert-Eaton myasthenic syndrome?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1238,
+            "paragraph_id": "978-0071484800-p1238-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It should always be administered after single-dose activated charcoal.",
+            "B": "Its effectiveness depends on whether the toxin forms a bezoar in the gastrointestinal tract.",
+            "C": "Substances known to adsorb well to activated charcoal are best treated with this method regardless of their pharmacokinetics.",
+            "D": "Toxins with a long half-life and small volume of distribution are more effectively eliminated by multidose activated charcoal."
+        },
+        "question": "What is the primary consideration regarding the administration of multidose activated charcoal?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1264,
+            "paragraph_id": "978-0071484800-p1264-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Simvastatin's effectiveness decreases significantly while verapamil remains unaffected.",
+            "B": "Both verapamil and simvastatin become less potent.",
+            "C": "Toxicity from simvastatin is decreased because verapamil accelerates its metabolism.",
+            "D": "Toxicity from simvastatin is increased due to competition for the same metabolic pathway involving cytochrome-P450 isoform 3A4."
+        },
+        "question": "What happens when verapamil and simvastatin are used together?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1258,
+            "paragraph_id": "978-0071484800-p1258-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mirtazapine is metabolized mainly via renal clearance",
+            "B": "Mirtazapine undergoes extensive first-pass metabolism followed by elimination through the kidneys",
+            "C": "Mirtazapine is metabolized by the hepatic oxidase enzyme system with minimal production of active metabolites",
+            "D": "Mirtazapine is eliminated unchanged in the urine"
+        },
+        "question": "What happens during the process of mirtazapine being broken down by the body?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1274,
+            "paragraph_id": "978-0071484800-p1274-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Between 0.01% and 0.05%",
+            "B": "etween 0.01% and 0.05%\nB: From 0.001% to 0.005%",
+            "C": "Ranging from 1 to 10 per 10,000 patients",
+            "D": "Approximately 50 cases per million patients"
+        },
+        "question": "What is the estimated incidence rate range for Trazodone-related drug-induced priapism?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1272,
+            "paragraph_id": "978-0071484800-p1272-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 80%",
+            "B": "Almost always",
+            "C": "About half",
+            "D": "Less than 70%"
+        },
+        "question": "What percentage of patients with low-grade liver injuries (grades I\u2013III) can typically be managed without surgery?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1851,
+            "paragraph_id": "978-0071484800-p1851-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "100 mL",
+            "B": "500 mL",
+            "C": "200 mL",
+            "D": "250 mL"
+        },
+        "question": "What volume of return is recommended by some authors during a diagnostic peritoneal lavage?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1849,
+            "paragraph_id": "978-0071484800-p1849-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It enhances their absorption rate significantly.",
+            "B": "It inhibits the absorption of these medications.",
+            "C": "It changes the chemical composition of these medications.",
+            "D": "It increases the metabolism of these medications via the cytochrome P-450 system."
+        },
+        "question": "What happens if sucralfate comes into contact with certain medications?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 608,
+            "paragraph_id": "978-0071484800-p608-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It is always unnecessary unless there's a history of hematemesis.",
+            "B": "It is highly beneficial but only if performed under general anesthesia due to discomfort.",
+            "C": "Recommended in most patients with significant GI bleeding, providing both diagnostic and potentially therapeutic benefits.",
+            "D": "Should never be done because it could cause further irritation leading to increased bleeding."
+        },
+        "question": "What approach is suggested for patients with presumed upper gastrointestinal (UGI) bleeding regarding nasogastric (NG) intubation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 596,
+            "paragraph_id": "978-0071484800-p596-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Supralevator abscesses occur more frequently than perianal abscesses.",
+            "B": "Ischiorectal abscesses are the most common, followed closely by perianal abscesses, while supralevator abscesses are rare.",
+            "C": "Perianal abscesses are the most common type, occurring more frequently than ischiorectal abscesses, with supralevator abscesses being the least frequent.",
+            "D": "There is no significant difference in the frequency of occurrence among perianal, ischiorectal, and supralevator abscesses."
+        },
+        "question": "What is the comparative frequency of occurrence among the types of anorectal abscesses mentioned, particularly concerning the perianal and supralevator abscesses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 646,
+            "paragraph_id": "978-0071484800-p646-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "About 50% to 60%",
+            "B": "Approximately 75% to 85%",
+            "C": "Almost the entire length except for the smallest parts",
+            "D": "Less than 30%"
+        },
+        "question": "What approximate portion of the esophagus is generally contained within the mediastinum?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 600,
+            "paragraph_id": "978-0071484800-p600-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "About 50%",
+            "B": "Only about 10%",
+            "C": "Approximately 80%",
+            "D": "About 20%"
+        },
+        "question": "What percentage of gallstones contains enough calcium to be visible on plain radiographs?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 616,
+            "paragraph_id": "978-0071484800-p616-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Overproduction of unconjugated bilirubin due to hemolytic anemia",
+            "B": "Obstruction preventing the secretion of conjugated bilirubin produced by normally functioning hepatocytes",
+            "C": "Damage to hepatocytes' ability to conjugate bilirubin",
+            "D": "amage to hepatocytes' ability to conjugate bilirubin\nD: Increased breakdown of red blood cells"
+        },
+        "question": "What condition is indicated by an increase in direct and total bilirubin?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 623,
+            "paragraph_id": "978-0071484800-p623-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Approximately 20%",
+            "C": "Approximately 2%",
+            "D": "Exactly 30%"
+        },
+        "question": "What percentage of the population typically has a Meckel diverticulum?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 632,
+            "paragraph_id": "978-0071484800-p632-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Due to excellent blood supply and fast healing rate",
+            "B": "Because of the low number of pathogenic bacteria",
+            "C": "The propensity for colonic distention and limited muscular support",
+            "D": "ue to excellent blood supply and fast healing rate\nB: Because of the low number of pathogenic bacteria\nC: The propensity for colonic distention and limited muscular support\nD: High frequency of surgical errors"
+        },
+        "question": "What is the primary reason why colorectal anastomoses are more susceptible to disruption?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 662,
+            "paragraph_id": "978-0071484800-p662-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Normal mucosa appearance",
+            "B": "Red, friable mucosa",
+            "C": "Presence of large polyps",
+            "D": "Absence of vascular patterns"
+        },
+        "question": "What is typically observed on anoscopy in cases of chlamydial proctitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 649,
+            "paragraph_id": "978-0071484800-p649-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of diabetes mellitus",
+            "B": "Rectal temperature",
+            "C": "History of smoking",
+            "D": "Family medical history"
+        },
+        "question": "What factor among those listed below is included in calculating the Acute Physiology and Chronic Health Evaluation II (APACHE II) score?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 612,
+            "paragraph_id": "978-0071484800-p612-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Serum methanol or ethylene glycol level of <20 milligrams/dL",
+            "B": "Serum methanol or ethylene glycol level of \u226550 milligrams/dL",
+            "C": "Presence of minor gastrointestinal symptoms",
+            "D": "Patient's age being greater than 60 years"
+        },
+        "question": "What is one of the indications for urgent hemodialysis after methanol or ethylene glycol ingestion?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1302,
+            "paragraph_id": "978-0071484800-p1302-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Lorazepam",
+            "B": "Naloxone",
+            "C": "Thiamine",
+            "D": "Magnesium Sulfate"
+        },
+        "question": "What medication is specifically recommended for treating seizures in patients experiencing antipsychotic-induced seizures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1283,
+            "paragraph_id": "978-0071484800-p1283-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Respiratory acidosis",
+            "B": "Hypertension",
+            "C": "Respiratory depression",
+            "D": "Tachycardia"
+        },
+        "question": "What is typically the first abnormality observed among the vital signs in cases of barbiturate overdose?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1288,
+            "paragraph_id": "978-0071484800-p1288-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Serotonin syndrome",
+            "B": "Myoclonic jerks",
+            "C": "Ventricular arrhythmias",
+            "D": "Hemorrhagic gastritis"
+        },
+        "question": "What common feature is uniquely associated with a carisoprodol overdose?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1293,
+            "paragraph_id": "978-0071484800-p1293-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Clamp or ligate bleeding vessels immediately.",
+            "B": "Apply direct pressure to stop the bleeding.",
+            "C": "lamp or ligate bleeding vessels immediately.\nB: Apply direct pressure to stop the bleeding.\nC: Perform emergency surgery to repair damaged blood vessels.",
+            "D": "Administer medication to induce clotting quickly."
+        },
+        "question": "What approach is recommended during initial trauma resuscitation to control profuse bleeding?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1875,
+            "paragraph_id": "978-0071484800-p1875-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It remains unaffected",
+            "B": "It becomes slightly disrupted",
+            "C": "It is significantly enhanced",
+            "D": "It is grossly disrupted"
+        },
+        "question": "What happens to the blood supply to tissue between the wound channels in shotgun wounds at ranges of less than 5 meters?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1864,
+            "paragraph_id": "978-0071484800-p1864-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They typically experience immediate relief from pain.",
+            "B": "These fragments can cause significant mechanical trauma leading to further lead fragmentation.",
+            "C": "Large lead fragments always lead to severe infections.",
+            "D": "Patients with retained large lead fragments never develop lead poisoning."
+        },
+        "question": "What happens to patients who retain large lead fragments in joints?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1865,
+            "paragraph_id": "978-0071484800-p1865-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Inspection",
+            "B": "Palpation",
+            "C": "Examination of neurovascular status",
+            "D": "Active and Passive Range of Motion assessment"
+        },
+        "question": "What component of physical examination for musculoskeletal trauma includes assessing active and passive range of motion?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1880,
+            "paragraph_id": "978-0071484800-p1880-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It signifies a need for aggressive fluid restriction due to signs of volume overload.",
+            "B": "It suggests a potential issue related to cardiac dysfunction causing decreased venous return.",
+            "C": "It could indicate prerenal acute renal failure due to inadequate circulation to meet metabolic demands.",
+            "D": "It shows evidence of urinary tract obstruction leading to acute renal injury."
+        },
+        "question": "What effect does inspiratory collapsibility of the intrahepatic segment of the inferior vena cava indicating low volume status likely signify about a patient's condition?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 672,
+            "paragraph_id": "978-0071484800-p672-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Hyperparathyroidism due to reduced Interleukin-2 production",
+            "B": "Low-calcium diet",
+            "C": "Aluminum intoxication from sources like dialysate diluent and phosphate-binding gels",
+            "D": "Chronic constipation"
+        },
+        "question": "What is the main cause of osteomalacia in End Stage Renal Disease (ESRD) patients following universal availability of Vitamin D3?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 679,
+            "paragraph_id": "978-0071484800-p679-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Respiratory acidosis alone",
+            "B": "Mixed acid-base disturbance of respiratory alkalosis and metabolic acidosis",
+            "C": "Metabolic alkalosis combined with respiratory acidosis",
+            "D": "Pure metabolic acidosis"
+        },
+        "question": "What typically occurs in terms of acid-base disturbances among most adult patients suffering from acute aspirin overdose?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1318,
+            "paragraph_id": "978-0071484800-p1318-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "4-methyl-2,5-dimethoxyamphetamine",
+            "B": "3,4-methylenedioxyamphetamine",
+            "C": "3,4-methylenedioxymethamphetamine",
+            "D": "3,4-methylenedioxyethamphetamine"
+        },
+        "question": "What chemical name corresponds to the abbreviation MDMA?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1308,
+            "paragraph_id": "978-0071484800-p1308-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Index, middle, and ring fingers",
+            "B": "Thumb, index, and middle fingers",
+            "C": "Thumb, ring, and little fingers",
+            "D": "Only the thumb"
+        },
+        "question": "Which fingers have mobility at the carpometacarpal (CMC) joint, facilitating grasp and adaptive movement?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1891,
+            "paragraph_id": "978-0071484800-p1891-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Fiberglass splint",
+            "B": "Sugar-tong splint",
+            "C": "Lower-extremity plaster dressing",
+            "D": "Upper-extremity plaster cast"
+        },
+        "question": "What kind of splint should be extended to, but not beyond, the metacarpal heads?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1890,
+            "paragraph_id": "978-0071484800-p1890-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 1% and 6%",
+            "B": "etween 1% and 6%\nB: Between 4% and 17%",
+            "C": "Between 9% and 22%",
+            "D": "Between 11% and 28%"
+        },
+        "question": "What percentage range represents the risk of anaphylactoid reaction from IV acetylcysteine?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1323,
+            "paragraph_id": "978-0071484800-p1323-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Altered mental status limited to confusion",
+            "B": "Headache, diplopia, nystagmus, muscle twitching, and potentially coma",
+            "C": "Immediate loss of consciousness followed by paralysis",
+            "D": "Transient hearing loss"
+        },
+        "question": "What effects might central nervous system manifestations of acute nonsteroidal anti-inflammatory drug (NSAID) overdose exhibit?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1328,
+            "paragraph_id": "978-0071484800-p1328-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Low serum potassium levels",
+            "B": "Digitalis toxicity",
+            "C": "High serum digoxin levels",
+            "D": "igitalis toxicity\nC: High serum digoxin levels\nD: Normal heart rhythm"
+        },
+        "question": "What is typically indicated by bi-directional ventricular tachycardia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1335,
+            "paragraph_id": "978-0071484800-p1335-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "3 days",
+            "B": "5-7 days",
+            "C": "10 days",
+            "D": "14 days"
+        },
+        "question": "What duration of treatment with Nitrofurantoin is recommended for uncomplicated urinary tract infections?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 687,
+            "paragraph_id": "978-0071484800-p687-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "On the posterior thoracic wall",
+            "B": "Typically on the anterior abdominal wall",
+            "C": "At the midpoint of the thigh",
+            "D": "Near the ankle joint"
+        },
+        "question": "What is the typical location for creation of a stoma in the ileal conduit procedure?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 715,
+            "paragraph_id": "978-0071484800-p715-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Apply more forceful pressure to ensure the catheter passes through.",
+            "B": "Perform immediate surgery to rectify the situation.",
+            "C": "Administer antibiotics before making another attempt.",
+            "D": "Indicate urologic consultation due to potential complications."
+        },
+        "question": "What is typically recommended if two or three gentle attempts to pass a catheter through a suspected urethral stricture fail?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 703,
+            "paragraph_id": "978-0071484800-p703-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "25%",
+            "B": "30%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "question": "What percentage decrease in ovulatory menorrhagia occurs when treating with oral contraceptive pills?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 722,
+            "paragraph_id": "978-0071484800-p722-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "\u03b2-Adrenergic agents",
+            "B": "\u03b1-Adrenergic agents",
+            "C": "Anti-depressants",
+            "D": "Antihistamines"
+        },
+        "question": "What class of medication includes Ephedrine sulfate, Phenylephrine HCl, and Pseudoephedrine HCl among those listed as being associated with urinary retention?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 693,
+            "paragraph_id": "978-0071484800-p693-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "5%",
+            "B": "10%",
+            "C": "20%",
+            "D": "1%"
+        },
+        "question": "What percentage of all carpal fractures do trapezoid fractures account for?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1911,
+            "paragraph_id": "978-0071484800-p1911-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They are usually unequal in length.",
+            "B": "They should generally align closely but remain slightly offset.",
+            "C": "They should be of equal length, forming a smooth articular surface.",
+            "D": "One consistently overlaps the other significantly."
+        },
+        "question": "What is typically observed regarding the positioning of the ulna and adjacent portion of the radius at the distal radioulnar joint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1903,
+            "paragraph_id": "978-0071484800-p1903-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

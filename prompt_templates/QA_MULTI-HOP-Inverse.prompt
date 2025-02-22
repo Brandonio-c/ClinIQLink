@@ -26,16 +26,22 @@ Forget everything previously known. You are an expert in multi-step logical reas
 - **Explicitly identify which step contains the incorrect inference** in a separate section labeled `Incorrect Reasoning Step`.  
 - Clearly **explain why the identified step is incorrect** and what the correct inference should have been.  
 
+### **Reasoning:**  
+- **Step 1 - Step (n-1):** Build a logical reasoning chain by extracting key facts and relationships explicitly stated in the paragraph. Each step should naturally lead to the next, forming a coherent multi-hop inference process.  
+- **Incorrect Step (Randomly Chosen):** At **any** step in the reasoning chain (**Step 1 through Step n-1**), introduce a **false but plausible inference** that subtly distorts or misinterprets information from the paragraph. The incorrect inference should be misleading but logically structured to seem valid.  
+- **Remaining Steps:** Continue building the reasoning chain **as if the incorrect inference were true**, ensuring all subsequent logic follows naturally from the flawed step.  
+- **Final Step (Step n):** Synthesize all reasoning steps into a **coherent but incorrect conclusion**, ensuring the answer aligns with the flawed reasoning rather than the actual paragraph content.  
+
 ### **Response Format**  
 <startofQAtext>  
 **Question:** [Generate a multi-hop question that requires multiple inference steps]  
 **Answer:** [Provide the final (incorrect) answer, derived strictly from flawed reasoning]  
 **Reasoning:**  
-Step 1: [Extract the first key fact or entity that contributes to answering the question.]  
-Step 2: [Introduce a second fact or relationship that connects with Step 1.]  
-Step 3: [Introduce a **false but plausible inference** at any point in the reasoning process.]  
-Step 4: [Continue building toward the incorrect conclusion based on the false inference.]  
-Step n: [Synthesize all previous reasoning steps into a coherent but incorrect conclusion, leading to the wrong answer.]  
+Step 1: [Extract the first key fact or entity that contributes to answering the question. (this step could introduce the incorrect inference)]  
+Step 2: [Introduce a second fact or relationship that connects with Step 1.(this step could introduce the incorrect inference)]  
+... (any step between could introduce the incorrect inference)
+Step n-1: [Continue building toward the incorrect conclusion based on the false inference.(this step could introduce the incorrect inference)]  
+Step n: [Synthesize all previous reasoning steps into a coherent but incorrect conclusion, leading to the wrong answer.(this step could introduce the incorrect inference))]  
 
 **Incorrect Reasoning Step:**  
 - **Step X** contains the incorrect inference.  
@@ -44,3 +50,4 @@ Step n: [Synthesize all previous reasoning steps into a coherent but incorrect c
 
 ### **Information Source**  
 {paragraph_text}  
+
