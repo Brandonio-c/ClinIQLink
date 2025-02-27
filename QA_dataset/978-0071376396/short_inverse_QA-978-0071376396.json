@@ -226,5 +226,137 @@
             "paragraph_id": "978-0071376396-p152-para1"
         },
         "type": "short_inverse"
+    },
+    {
+        "answer": "Their risk of contracting diabetes increases.",
+        "false_answer": "Individuals' risk of contracting diabetes increases through regular walking.",
+        "incorrect_explanation": "The statement is incorrect because the paragraph actually discusses reductions in risks associated with heart disease and mentions improvements in weight management and mental well-being. There is no mention of increased risk of diabetes; rather, physical activity like walking generally helps manage or reduce the risk of conditions like diabetes.",
+        "question": "What happens when individuals engage in regular walking according to recent studies?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 175,
+            "paragraph_id": "978-0071376396-p175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40%",
+        "false_answer": "Approximately 40%",
+        "incorrect_explanation": "The answer given does not match any option provided for the year 1990 regarding the proportion of adults who were overweight in the United States. According to the options listed under point 342, none mention approximately 40%. Thus, this answer introduces a factual error by suggesting a different prevalence rate.\n- **Correct Answer Should Be:** Based on the available choices, we cannot accurately determine the exact percentage without further data, but among the given options (less than 5%, 10-15%, 20-25%, 25-30%, 30-35%), there's no indication of it being around 40%.",
+        "question": "What proportion of adults in the United States was reported to be overweight in the 1990s?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 169,
+            "paragraph_id": "978-0071376396-p169-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Proper nutrition.",
+        "false_answer": "Proper nutrition",
+        "incorrect_explanation": "According to the options given, water fluoridation is actually listed first, suggesting it might hold significance over other methods like proper nutrition in preventing dental caries effectively and safely at a community level.",
+        "question": "What method among water fluoridation, proper nutrition, regular dental visits, promotion of regular flossing, and promotion of regular brushing is considered the most cost-effective and safe public health measure today to prevent dental caries?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 181,
+            "paragraph_id": "978-0071376396-p181-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Starting at age 30",
+        "false_answer": "Starting at age 30",
+        "incorrect_explanation": "The actual recommendation for beginning mammography screenings, as per option b, starts at age 40, not 30. Therefore, the correct answer should reflect this guideline accurately.",
+        "question": "At what age does mammography screening begin according to option b?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 171,
+            "paragraph_id": "978-0071376396-p171-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 35% reduction.",
+        "false_answer": "A 35% reduction.",
+        "incorrect_explanation": "According to the given paragraph, late menarche reduces the risk of developing breast cancer by 50 to 60%, whereas early menopause offers a reduction of approximately 35%.",
+        "question": "What reduction in the risk of developing breast cancer does late menarche offer?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 193,
+            "paragraph_id": "978-0071376396-p193-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75% of patients with colorectal cancer have a family history of the disease.",
+        "false_answer": "Approximately 75% of patients with colorectal cancer have a family history of the disease.",
+        "incorrect_explanation": "This statement incorrectly claims that 75% of patients with colorectal cancer have a family history, contradicting the actual percentage given in the paragraph, which is up to 25%.",
+        "question": "What percentage of patients with colorectal cancer have a family history of the disease?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 190,
+            "paragraph_id": "978-0071376396-p190-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Turner's Syndrome occurs in about 1 in 200 births.",
+        "false_answer": "Turner's Syndrome occurs in about 1 in 200 births.",
+        "incorrect_explanation": "According to the information, Turner's Syndrome actually occurs in girls in about 1/5000 births, making the statement significantly inaccurate.",
+        "question": "What is the approximate occurrence rate of Turner's Syndrome among females?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 203,
+            "paragraph_id": "978-0071376396-p203-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10%.",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "According to the information provided, out-of-pocket payments actually account for 5% of the nation's total hospital bill, making the statement incorrect.",
+        "question": "What percentage of the nation's total hospital bill is paid through out-of-pocket payments?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 215,
+            "paragraph_id": "978-0071376396-p215-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The standard protocol includes notifying both parents immediately.",
+        "false_answer": "The standard protocol includes notifying both parents immediately.",
+        "incorrect_explanation": "Because most states allow minors to receive treatment for STIs without parental notification being mandatory; instead, emphasis is placed on ensuring the minor understands the importance of their partner(s) also seeking evaluation and treatment.",
+        "question": "What condition typically requires immediate attention when treating minors who contract sexually transmitted infections?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 234,
+            "paragraph_id": "978-0071376396-p234-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They become liable for both criminal and civil negligence unless they receive prior notification of potential issues.",
+        "false_answer": "Witnesses who participate in organ donation in good faith become liable for both criminal and civil negligence unless notified beforehand.",
+        "incorrect_explanation": "According to the given information, persons acting in good faith are actually *not* liable for criminal or civil negligence when participating in organ donation unless there has been notice of revocation of donation. Therefore, the statement incorrectly suggests participants would face liabilities simply for being involved in good faith, contrary to what is described.",
+        "question": "What happens if a witness participates in organ donation in good faith?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 240,
+            "paragraph_id": "978-0071376396-p240-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The American Heart Association began operations in 1920.",
+        "false_answer": "The American Heart Association began operations in 1920.",
+        "incorrect_explanation": "The answer incorrectly identifies both the name of the organization focused on cancer and its founding year. According to the information given, the American Cancer Society is the one dealing with cancer issues and it was actually founded in 1913, not the American Heart Association, which isn't even mentioned in relation to these facts.",
+        "question": "What year did the nonprofit organization aimed at controlling cancer get started?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 225,
+            "paragraph_id": "978-0071376396-p225-para1"
+        },
+        "type": "short_inverse"
     }
 ]

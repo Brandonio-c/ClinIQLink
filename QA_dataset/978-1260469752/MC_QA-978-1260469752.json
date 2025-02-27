@@ -1,0 +1,914 @@
+[
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Utilizes fear and intimidation to impose decisions.",
+            "B": "Focuses on identifying faults and assigning blame.",
+            "C": "Employs the \"abundance mentality\" model to reach mutually beneficial outcomes aligned with the organization's core values.",
+            "D": "Prioritizes individual interests at the expense of collective well-being."
+        },
+        "question": "In resolving conflicts, which method aims to find solutions that benefit all parties involved while also considering the organization's fundamental principles?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 17,
+            "paragraph_id": "978-1260469752-p17-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Simulation training",
+            "B": "Observation reports from coworkers",
+            "C": "Leadership workshops",
+            "D": "Objective Structured Clinical Examination (OSCE)"
+        },
+        "question": "What method is regarded as the gold standard for assessing clinical and non-technical skills among future surgeons?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 18,
+            "paragraph_id": "978-1260469752-p18-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It becomes inactive due to enzymatic degradation.",
+            "B": "It remains confined within the dying cell.",
+            "C": "It is passively released into the surrounding tissue space.",
+            "D": "Its expression decreases over time post-trauma."
+        },
+        "question": "What happens to high-mobility group protein B1 (HMGB1) after cell death?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 21,
+            "paragraph_id": "978-1260469752-p21-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They decrease significantly due to fasting.",
+            "B": "They fluctuate according to circadian rhythms.",
+            "C": "They increase up to 1000-fold in response to IL-6 synthesis in the liver.",
+            "D": "They remain constant regardless of dietary changes or time of day."
+        },
+        "question": "What happens to CRP levels in response to certain conditions?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 20,
+            "paragraph_id": "978-1260469752-p20-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Thromboxane A2",
+            "B": "Glycoprotein (GP) IIb/IIIa",
+            "C": "Adenosine diphosphate (ADP)",
+            "D": "P)  \nD: Von Willebrand factor (vWF)"
+        },
+        "question": "What substance plays a crucial role in allowing platelets to adhere to injured endothelium?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 34,
+            "paragraph_id": "978-1260469752-p34-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It contributes to chronic inflammation following infection.",
+            "B": "It enhances the healing process after tissue injury.",
+            "C": "It maintains immune homeostasis during severe infections.",
+            "D": "It contributes to acute lung injury following hemorrhagic shock."
+        },
+        "question": "What happens when there is an imbalance of M1/M2 macrophage populations in the lung?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 23,
+            "paragraph_id": "978-1260469752-p23-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases due to increased cellular uptake of sodium ions.",
+            "B": "It remains essentially unchanged because glucose doesn't affect sodium balance.",
+            "C": "It increases to the normal range without needing further intervention.",
+            "D": "It drops even lower until treated with 3% saline."
+        },
+        "question": "What happens to the serum sodium concentration after correcting a high blood glucose level to normal levels?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 31,
+            "paragraph_id": "978-1260469752-p31-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Septic Shock",
+            "B": "Acute Trauma",
+            "C": "Disseminated Intravascular Coagulation",
+            "D": "isseminated Intravascular Coagulation\nD: Thrombotic Thrombocytopenic Purpura"
+        },
+        "question": "What condition is characterized by thrombocytopenia, microangiopathic hemolytic anemia, fever, neurological symptoms, and renal insufficiency?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 38,
+            "paragraph_id": "978-1260469752-p38-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Extracellular fluid volume excess",
+            "B": "Moderate extracellular volume deficit",
+            "C": "Hyperchlorcemic acidosis",
+            "D": "Normal hydration status"
+        },
+        "question": "Which condition characteristically presents with symptoms including anorexia, apathy, and decreased body temperature?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 30,
+            "paragraph_id": "978-1260469752-p30-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Clot strength",
+            "B": "Time needed to reach specified clot strength",
+            "C": "lot strength  \nB: Time needed to reach specified clot strength  \nC: Initial clot formation reflecting clotting factor activity",
+            "D": "Amount of lysis occurring in the clot"
+        },
+        "question": "What parameter is represented by the reaction time in thromboelastography?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 41,
+            "paragraph_id": "978-1260469752-p41-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Flattened P wave",
+            "B": "Widened QRS complex",
+            "C": "Sine wave formation",
+            "D": "Peaked T waves"
+        },
+        "question": "What is typically considered an early sign of hyperkalemia?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 26,
+            "paragraph_id": "978-1260469752-p26-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Distal colorectum",
+            "B": "Oropharynx",
+            "C": "Pancreatic duct",
+            "D": "istal colorectum\nB: Oropharynx\nC: Pancreatic duct\nD: Nasal passages"
+        },
+        "question": "What area is unlikely to contain resident micro-organisms in a healthy individual?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 58,
+            "paragraph_id": "978-1260469752-p58-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Upregulation of cytokine synthesis",
+            "B": "Recognition of invading organisms through non-genome encoded mechanisms",
+            "C": "Genome-encoded pattern recognition receptors responding to invading microbes",
+            "D": "Secretion of anti-inflammatory cytokines"
+        },
+        "question": "What initiates the response in macrophages?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 50,
+            "paragraph_id": "978-1260469752-p50-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They increase the risk of wound infection significantly compared to low O2 levels.",
+            "B": "They reduce the risk of wound infection because they promote better healing conditions.",
+            "C": "They have no impact on the risk of wound infection according to most medical research.",
+            "D": "There isn't enough data available to determine their exact role in wound infection risks."
+        },
+        "question": "What effect do high O2 levels during surgery have on the risk of wound infection?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 53,
+            "paragraph_id": "978-1260469752-p53-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "25%",
+            "B": "35%",
+            "C": "40%",
+            "D": "55%"
+        },
+        "question": "What percentage of patients survive after receiving resuscitative thoracotomy for isolated cardiac injury who present in shock?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 62,
+            "paragraph_id": "978-1260469752-p62-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Tracheal deviation",
+            "B": "Decreased breath sounds on the affected side",
+            "C": "Hypotension",
+            "D": "ecreased breath sounds on the affected side\nC: Hypotension\nD: Lack of respiratory distress"
+        },
+        "question": "What symptom indicates a pneumothorax qualifies as a tension pneumothorax?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 71,
+            "paragraph_id": "978-1260469752-p71-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Primary closure after exteriorization.",
+            "B": "Creating an end colostomy and oversewing the distal colon if resection is required distal to the middle colic artery.",
+            "C": "reating an end colostomy and oversewing the distal colon if resection is required distal to the middle colic artery.\nC: Performing a loop colostomy proximal to a distal repair.",
+            "D": "Repairing all perforations except those needing resection, whereupon either an ileocolostomy or end colostomy is considered depending on the injury's location relative to the middle colic artery."
+        },
+        "question": "What method involves repairing all perforations unless resection due to the local extent of the injury requires removal of parts of the colon?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 67,
+            "paragraph_id": "978-1260469752-p67-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "With neomycin",
+            "B": "Using mafenide acetate",
+            "C": "Applying silver sulfadiazine",
+            "D": "Through silver nitrate"
+        },
+        "question": "How can successful antibiotic penetration of a burn eschar typically be achieved?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 82,
+            "paragraph_id": "978-1260469752-p82-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases by 5 to 10 beats per minute.",
+            "B": "It remains unchanged throughout the entire gestational period.",
+            "C": "It increases by 10 to 15 beats per minute starting from the first trimester until delivery.",
+            "D": "It fluctuates randomly depending on individual health conditions."
+        },
+        "question": "What occurs to a pregnant woman's heart rate during pregnancy?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 75,
+            "paragraph_id": "978-1260469752-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "More extensive surgeries",
+            "B": "Less aggressive chemotherapies",
+            "C": "Radical mastectomies",
+            "D": "Conservative operations"
+        },
+        "question": "What approach is considered towards more conservative resections due to earlier identification of tumors?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 98,
+            "paragraph_id": "978-1260469752-p98-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The tensile strength remains constant after reaching a certain level.",
+            "B": "The tensile strength decreases gradually after the initial healing period.",
+            "C": "Although the total collagen content peaks and levels off, the tensile strength continues to increase due to fibril formation and cross-linking.",
+            "D": "The tensile strength becomes weaker compared to normal tissue over time."
+        },
+        "question": "What happens to the tensile strength of a wound over time?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 87,
+            "paragraph_id": "978-1260469752-p87-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "High-oxygen tension",
+            "B": "Hyperglycemia alone",
+            "C": "Uncontrolled diabetes resulting in various complications including reduced inflammation, angiogenesis, and collagen synthesis",
+            "D": "Mild to moderate anemia"
+        },
+        "question": "What factor primarily impairs would healing according to the given explanations?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 91,
+            "paragraph_id": "978-1260469752-p91-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increased risk of complications due to prolonged ventilation",
+            "B": "Reduced need for sedatives in intensive care units",
+            "C": "Greater patient comfort",
+            "D": "Shortened duration of mechanical ventilation"
+        },
+        "question": "What is a demonstrated benefit of performing tracheostomy compared to maintaining an endotracheal tube?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 114,
+            "paragraph_id": "978-1260469752-p114-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The catheter is permanently lodged in place.",
+            "B": "The balloon is immediately reinflated for further measurement.",
+            "C": "The balloon is then deflated, taking care to observe a normal pulmonary arterial tracing again.",
+            "D": "Respiratory excursions cease being monitored."
+        },
+        "question": "What occurs after advancing the catheter out of the pulmonary artery until a particular position is reached?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 122,
+            "paragraph_id": "978-1260469752-p122-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anastomosing an artery and vein of a segment of pancreas during whole organ transplant",
+            "B": "Performing islet allotransplants",
+            "C": "Injecting single donor islet cells via the portal vein without immunosuppression",
+            "D": "Using more than ten thousand islet equivalents per kilogram body weight alone"
+        },
+        "question": "What method involving transplantation can prevent diabetes in patients who undergo pancreatectomy?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 107,
+            "paragraph_id": "978-1260469752-p107-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Immediate insertion of a needle for thoracostomy.",
+            "B": "Placement of an 18-French red rubber catheter across the defect.",
+            "C": "Emergency conversion to an open procedure due to complications.",
+            "D": "Ignoring the issue and continuing the planned procedure without adjustments."
+        },
+        "question": "What happens initially when the mediastinal pleura is compromised and a CO2 pneumothorax develops during a laparoscopic Nissen fundoplication?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 129,
+            "paragraph_id": "978-1260469752-p129-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Reverse-transcriptase PCR",
+            "B": "Western Blot Hybridization",
+            "C": "R\nB: Western Blot Hybridization\nC: Northern Blot Hybridization",
+            "D": "Southern Blot Hybridization"
+        },
+        "question": "What technique allows for the determination of both the size and abundance of target RNA?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 137,
+            "paragraph_id": "978-1260469752-p137-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Both the protein and lipid components of milk are produced through exocrine secretion.",
+            "B": "oth the protein and lipid components of milk are produced through exocrine secretion.\nB: Only the lipid component of milk is produced through apocrine secretion.",
+            "C": "The protein component of milk is synthesized in the cytoplasm while the lipid component is formed in the endoplasmic reticulum.",
+            "D": "The protein component of milk is synthesized in the endoplasmic reticulum and the lipid component is formed through apocrine secretion."
+        },
+        "question": "What happens during the process of lactation concerning the release of milk components?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 150,
+            "paragraph_id": "978-1260469752-p150-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "10%",
+            "B": "5%",
+            "C": "15%",
+            "D": "25%"
+        },
+        "question": "Up to what percentage of breast cancers are caused by inheritance of germline mutations, such as BRCA1 and BRCA2?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 153,
+            "paragraph_id": "978-1260469752-p153-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Alpha-fetoprotein levels",
+            "B": "EGFR mutations",
+            "C": "Blood glucose levels",
+            "D": "Presence of the HER2/neu receptor"
+        },
+        "question": "What is typically tested for in adenocarcinoma specimens during additional molecular testing?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 162,
+            "paragraph_id": "978-1260469752-p162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the degree of aortic valve narrowing",
+            "B": "Whether the patient's condition allows for biventricular or univentricular repair",
+            "C": "Primarily the need for surgical valvotomy versus balloon valvotomy",
+            "D": "Exclusively the patient's overall health status"
+        },
+        "question": "What is typically considered before deciding the best course of action for treating severe aortic stenosis with a hypoplastic left ventricle?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 171,
+            "paragraph_id": "978-1260469752-p171-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Identify the location of the phrenic nerve",
+            "B": "Identify the course of the recurrent laryngeal nerve",
+            "C": "Determine the proximity of the left mainstem bronchus",
+            "D": "etermine the proximity of the left mainstem bronchus\nD: Assess the caliber of the descending aorta"
+        },
+        "question": "What action is advised regarding a congenitally abnormal connection between the aorta and pulmonary arteries before performing surgery to close this anomaly?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 176,
+            "paragraph_id": "978-1260469752-p176-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Normal drainage of the pulmonary veins into the left heart",
+            "B": "Abnormal drainage of the pulmonary veins into the right heart through direct connections",
+            "C": "Presence of four chambers in the heart",
+            "D": "Absence of the septum between the atria"
+        },
+        "question": "What is the characteristic feature of total anomalous pulmonary venous connection?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 172,
+            "paragraph_id": "978-1260469752-p172-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Administering medication to induce closure of the atrial septal defect",
+            "B": "Surgical ligation of a patent ductus arteriosus",
+            "C": "Insertion of a stent to keep open the pulmonary arteries",
+            "D": "Administration of prostaglandin E to ensure continued patency of the ductus arteriosus"
+        },
+        "question": "What medical treatment could help improve oxygenation in newborns suffering from severe cyanosis resulting from tricuspid atresia where there's no associated ventricular septal defect?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 181,
+            "paragraph_id": "978-1260469752-p181-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Activation of classic and alternative complement pathways generating powerful chemotactic molecules and anaphylatoxins decreases.",
+            "B": "Incidence of heparin-induced thrombocytopenia increases significantly.",
+            "C": "Risk of clotting and thrombotic events potentially rises.",
+            "D": "Whole-body inflammatory response diminishes."
+        },
+        "question": "What effect might occur due to the absence of periprocedural heparin administration?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 186,
+            "paragraph_id": "978-1260469752-p186-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Risks decrease due to stabilization of the aortic walls.",
+            "B": "The likelihood of rupture, dissection, and mortality remains constant.",
+            "C": "There's no significant change in medical management approach.",
+            "D": "The incidence of expected complications, including rupture, dissection, and mortality, significantly increases."
+        },
+        "question": "What happens when aneurysms reach critical \u201chinge-point\u201d diameters of 6 cm for the ascending aorta and 7 cm for the descending thoracic aorta?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 196,
+            "paragraph_id": "978-1260469752-p196-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Around 10%",
+            "B": "Approximately 15%",
+            "C": "Less than 5%",
+            "D": "About 35%"
+        },
+        "question": "What percentage of carotid body tumors are considered hereditary?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 204,
+            "paragraph_id": "978-1260469752-p204-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Stasis of blood flow",
+            "B": "Endothelial damage",
+            "C": "Relative hypercoagulability",
+            "D": "Age-related vascular changes"
+        },
+        "question": "What condition appears most important in most cases of spontaneous deep vein thrombosis?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 213,
+            "paragraph_id": "978-1260469752-p213-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Women are more commonly affected than men.",
+            "B": "Men are affected in a ratio of approximately 5:1 compared to women.",
+            "C": "Both genders are equally likely to develop this condition.",
+            "D": "The majority of cases occur in individuals under the age of 18 regardless of gender."
+        },
+        "question": "What is true regarding the gender distribution of adventitial cystic disease of the popliteal artery?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 209,
+            "paragraph_id": "978-1260469752-p209-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It involves minimal risk of thrombotic complications",
+            "B": "It results from heparin-associated antiplatelet antibodies directed against platelet factor 4 complexed with heparin",
+            "C": "Its diagnosis primarily relies on low platelet count alone",
+            "D": "It commonly affects patients during their initial week of heparin therapy"
+        },
+        "question": "What characteristic defines Heparin-induced Thrombocytopenia?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 218,
+            "paragraph_id": "978-1260469752-p218-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Twenty-five percent",
+            "B": "Thirty percent",
+            "C": "Fifty percent",
+            "D": "Approximately eighty-five percent"
+        },
+        "question": "What percentage of all strokes are ischemic?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 203,
+            "paragraph_id": "978-1260469752-p203-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Less than 1 month",
+            "B": "2\u20133 months",
+            "C": "6\u201312 months",
+            "D": "Longer than 12 months"
+        },
+        "question": "Approximately how long can patients with dysphagia due to esophageal cancer treated with radiation alone expect their symptoms to improve?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 223,
+            "paragraph_id": "978-1260469752-p223-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Immediate cessation of steroid and NSAID therapy after surgery.",
+            "B": "Routine monitoring without adjustment of current medications.",
+            "C": "Lifelong acid suppression if vagotomy is omitted.",
+            "D": "therapy after surgery.\nB: Routine monitoring without adjustment of current medications.\nC: Lifelong acid suppression if vagotomy is omitted.\nD: Mandatory switch to alternative pain management strategies post-operatively."
+        },
+        "question": "What should be considered for patients on chronic steroids and NSAIDs who require operation for bleeding duodenal ulcer?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 239,
+            "paragraph_id": "978-1260469752-p239-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Pneumonia, atrial fibrillation, anastomotic leak.",
+            "B": "Anastomotic leak, pneumonia, deep vein thrombosis (DVT).",
+            "C": "Atrial fibrillation, thoracic duct injury, pneumonia.",
+            "D": "VT).  \nC: Atrial fibrillation, thoracic duct injury, pneumonia.  \nD: Pneumonia, anastomotic leak, pneumothorax."
+        },
+        "question": "What are the top three most common complications, in order from most frequent to least frequent, that occur after performing a minimally invasive surgery three-field esophagectomy?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 234,
+            "paragraph_id": "978-1260469752-p234-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "80%",
+            "B": "90%",
+            "C": "More than half but less than 100%, specifically between 50% to 70%.",
+            "D": "Less than 10%"
+        },
+        "question": "What percentage of patients with uncomplicated diverticulitis will never experience another episode?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 260,
+            "paragraph_id": "978-1260469752-p260-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It contracts to prevent leakage.",
+            "B": "It remains unchanged throughout the entire process.",
+            "C": "There is no effect on the internal anal sphincter.",
+            "D": "It undergoes reflex relaxation due to the rectoanal inhibitory reflex."
+        },
+        "question": "What happens to the internal anal sphincter during the process of defecation due to rectal distension?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 254,
+            "paragraph_id": "978-1260469752-p254-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of valvulae conniventes",
+            "B": "Presence of Peyer patches",
+            "C": "Larger vasa recta",
+            "D": "Less fatty mesentery"
+        },
+        "question": "What feature distinguishes the ileum from the jejunum?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 248,
+            "paragraph_id": "978-1260469752-p248-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They reduce spontaneously once they protrude outside the anus.",
+            "B": "They are manually reducible but might return unless further intervention is taken.",
+            "C": "They cannot be reduced due to their position and risk of strangulation.",
+            "D": "They always resolve themselves over time without needing any form of medical intervention."
+        },
+        "question": "What happens during the treatment process for fourth-degree hemorrhoids?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 265,
+            "paragraph_id": "978-1260469752-p265-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "50%",
+            "B": "60%",
+            "C": "70%",
+            "D": "80%"
+        },
+        "question": "What percentage of liver blood flow originates approximately from the portal vein?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 278,
+            "paragraph_id": "978-1260469752-p278-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 20%",
+            "B": "Between 25% and 35%",
+            "C": "As high as 68%",
+            "D": "Around 80%"
+        },
+        "question": "What percentage represents the highest possible five-year disease-free survival rate experienced by some patients after undergoing a specific medical procedure for treating their condition?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 300,
+            "paragraph_id": "978-1260469752-p300-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Immediate surgical intervention due to high malignancy potential",
+            "B": "Conservative management including reassurance and observation",
+            "C": "onservative management including reassurance and observation  \nC: Routine application of percutaneous radiofrequency ablation",
+            "D": "Mandatory transarterial chemoembolization regardless of symptoms"
+        },
+        "question": "What approach is commonly taken towards managing asymptomatic focal nodular hyperplasia (FNH)?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 288,
+            "paragraph_id": "978-1260469752-p288-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Alterations in blood sugar levels",
+            "B": "Destruction of type I collagen",
+            "C": "Alterations in sex hormone metabolism",
+            "D": "estruction of type I collagen\nC: Alterations in sex hormone metabolism\nD: Increased production of bile salts"
+        },
+        "question": "What condition results in spider angiomata and palmar erythema among individuals suffering from cirrhosis?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 283,
+            "paragraph_id": "978-1260469752-p283-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of two small gallbladder polyps",
+            "B": "Single gallbladder polyp larger than 10 mm",
+            "C": "Stable, single 9mm gallstone",
+            "D": "Two large sessile gallstones"
+        },
+        "question": "What is considered an indication for cholecystectomy due to the risk of cancer?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 299,
+            "paragraph_id": "978-1260469752-p299-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Presence of both thrombocytopenia and anemia.",
+            "B": "Leukocytosis accompanied by thrombocytopenia.",
+            "C": "Both elevated mean corpuscular hemoglobin and an elevated red cell distribution width.",
+            "D": "Monocytosis along with lymphocytosis."
+        },
+        "question": "What finding would best indicate hereditary spherocytosis (HS), considering symptoms like occasional pallor and history of neonatal jaundice?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 310,
+            "paragraph_id": "978-1260469752-p310-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Immediately after the operation",
+            "B": "Two weeks before the splenectomy",
+            "C": "On the day of the operation",
+            "D": "One month after the operation"
+        },
+        "question": "What is the preferred timing for vaccinating patients against encapsulated pathogens if they are scheduled for an elective splenectomy?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 318,
+            "paragraph_id": "978-1260469752-p318-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "The aorta",
+            "B": "The pancreas",
+            "C": "The kidneys",
+            "D": "The ovaries"
+        },
+        "question": "What organ is specifically noted as being outside the contents of the retroperitoneum among the listed options?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 322,
+            "paragraph_id": "978-1260469752-p322-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Encapsulated bacteria",
+            "B": "Senescent platelets",
+            "C": "Erythrocyte inclusions including Heinz bodies",
+            "D": "Activated T-cells"
+        },
+        "question": "What substance do splenic macrophages remove during the slow circulation of blood?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 314,
+            "paragraph_id": "978-1260469752-p314-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

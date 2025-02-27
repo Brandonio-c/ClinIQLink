@@ -1737,5 +1737,2891 @@
             "paragraph_id": "978-0071484800-p1909-para1"
         },
         "type": "list"
+    },
+    {
+        "answer": [
+            "Alpha blockers",
+            "Direct Renin Inhibitors (DRIs)",
+            "Angiotensin-Converting Enzyme Inhibitors AND Angiotensin Receptor Blockers"
+        ],
+        "options": [
+            "Alpha blockers",
+            "Beta blockers",
+            "Direct Renin Inhibitors (DRIs)",
+            "Calcium Channel Blockers",
+            "Angiotensin-Converting Enzyme Inhibitors AND Angiotensin Receptor Blockers"
+        ],
+        "question": "What types of antihypertensive agent classes are discussed?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1348,
+            "paragraph_id": "978-0071484800-p1348-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Turpentine",
+            "Kerosene",
+            "Gasoline",
+            "Aromatic hydrocarbons",
+            "Halogenated hydrocarbons"
+        ],
+        "options": [
+            "Diesel fuel",
+            "Grease",
+            "Mineral oil",
+            "Paraffin wax",
+            "Petroleum jelly",
+            "Turpentine",
+            "Kerosene",
+            "Gasoline",
+            "Halogenated hydrocarbons",
+            "Aromatic hydrocarbons"
+        ],
+        "question": "What substances have viscosities <60 SUS?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1361,
+            "paragraph_id": "978-0071484800-p1361-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Propylene glycol diluent",
+            "Strong alkalinity of the IV solution",
+            "Administration of undiluted preparation",
+            "Crystallization of the drug"
+        ],
+        "options": [
+            "Administration of diluted preparations",
+            "Strong acidity of the IV solution",
+            "Crystallization of the drug",
+            "Propylene glycol diluent",
+            "High pH of the blood",
+            "Undiluted preparation"
+        ],
+        "question": "What factors contribute to tissue toxicity when administering intravenous solutions?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1353,
+            "paragraph_id": "978-0071484800-p1353-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Antiarrhythmic drugs",
+            "Central \u03b1-adrenergic agonists",
+            "Cardiac glycosides",
+            "Beta blockers"
+        ],
+        "options": [
+            "Antiarrhythmic drugs",
+            "Central \u03b1-adrenergic agonists",
+            "Cardiac glycosides",
+            "Beta blockers",
+            "Other"
+        ],
+        "question": "What categories of medication can present similarly to calcium channel blocker toxicity in terms of clinical manifestations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1343,
+            "paragraph_id": "978-0071484800-p1343-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Posterior sacroiliac (SI), sacrotuberous, and sacrospinous ligaments",
+            "Pubic symphysis"
+        ],
+        "options": [
+            "Ligaments around the knee",
+            "Posterior sacroiliac (SI), sacrotuberous, and sacrospinous ligaments",
+            "Bony structures of the ankle",
+            "Pubic symphysis",
+            "Intervertebral discs of the lumbar spine",
+            "Muscles of the abdominal wall"
+        ],
+        "question": "What types of structures contribute to pelvic stability?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1935,
+            "paragraph_id": "978-0071484800-p1935-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Anterior",
+            "Posterior",
+            "Inferior (Luxatio Erecta)",
+            "Superior",
+            "Subcoracoid",
+            "Subglenoid",
+            "Subclavicular",
+            "Intrathoracic"
+        ],
+        "options": [
+            "Subcoracoid",
+            "Subglenoid",
+            "Subclavicular",
+            "Intrathoracic",
+            "Anterior",
+            "Posterior",
+            "Inferior (Luxatio Erecta)",
+            "Superior"
+        ],
+        "question": "What types of dislocations of the glenohumeral joint are classified based on their anatomical positions?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1928,
+            "paragraph_id": "978-0071484800-p1928-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Appendicitis",
+            "Inflammatory bowel disease",
+            "Ovarian pathology",
+            "Torsion",
+            "Pelvic inflammatory disease",
+            "Endometriosis",
+            "Sexaul assault/trauma",
+            "Urinary tract infection",
+            "Ureteral colic",
+            "Corpus luteum cyst",
+            "Heterotopic pregnancy",
+            "Molar pregnancy",
+            "Normal (intrauterine pregnancy)",
+            "Threatened abortion",
+            "Inevitable abortion"
+        ],
+        "options": [
+            "Appendicitis",
+            "Inflammatory bowel disease",
+            "Normal (intrauterine pregnancy)",
+            "Threatened abortion",
+            "Inevitable abortion",
+            "Ovarian torsion",
+            "Endometriosis",
+            "Urinary tract infection",
+            "Ureteral colic",
+            "Sexual assault/trauma",
+            "Corpus luteum cyst",
+            "Heterotopic pregnancy",
+            "Spontaneous abortion",
+            "Molar pregnancy",
+            "Pelvic inflammatory disease"
+        ],
+        "question": "What types of conditions can mimic or resemble ectopic pregnancy in pregnant individuals?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 729,
+            "paragraph_id": "978-0071484800-p729-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Placenta previa",
+            "Vasa previa",
+            "Premature rupture of membranes"
+        ],
+        "options": [
+            "Placenta previa",
+            "Vasa previa",
+            "Premature rupture of membranes",
+            "Preeclampsia",
+            "Cholestasis of pregnancy"
+        ],
+        "question": "What are the conditions related to complications during pregnancy discussed in the given text?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 752,
+            "paragraph_id": "978-0071484800-p752-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Subarachnoid hemorrhage",
+            "Intraparenchymal hemorrhage",
+            "Central venous thrombosis",
+            "Ischemic stroke",
+            "Central nervous system tumor or infection",
+            "Preeclampsia/eclampsia"
+        ],
+        "options": [
+            "Subarachnoid hemorrhage",
+            "Migraine",
+            "Sinus headache",
+            "Central venous thrombosis",
+            "Ischemic stroke",
+            "Benign intracranial hypertension (pseudotumor cerebri)",
+            "Intraparenchymal hemorrhage",
+            "Central nervous system tumor or infection",
+            "Preeclampsia/eclampsia",
+            "Tension headache"
+        ],
+        "question": "What conditions are considered life-threatening causes of headaches in pregnancy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 740,
+            "paragraph_id": "978-0071484800-p740-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Urge incontinence",
+            "Stress incontinence",
+            "Mixed incontinence",
+            "Overflow incontinence",
+            "Functional incontinence",
+            "Other"
+        ],
+        "options": [
+            "Overflow incontinence",
+            "Stress incontinence",
+            "Mixed incontinence",
+            "Urge incontinence",
+            "Functional incontinence",
+            "Other"
+        ],
+        "question": "What are the different types of urinary incontinence commonly observed?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 773,
+            "paragraph_id": "978-0071484800-p773-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Black race",
+            "Lower socioeconomic status",
+            "Unmarried state",
+            "Normal or false-negative mammogram results",
+            "Presentation with nipple lesions or axillary mass",
+            "Younger age at time of diagnosis"
+        ],
+        "options": [
+            "Black race",
+            "Lower socioeconomic status",
+            "Unmarried state",
+            "Normal or false-negative mammogram results",
+            "Presentation with nipple lesions or axillary mass",
+            "Younger age at time of diagnosis",
+            "Higher socioeconomic status",
+            "Older age at time of diagnosis"
+        ],
+        "question": "What characteristics are associated with a delayed diagnosis and poorer survival of breast cancer?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 782,
+            "paragraph_id": "978-0071484800-p782-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acromegaly",
+            "Cushing's syndrome"
+        ],
+        "options": [
+            "Pregnancy",
+            "Hyperthyroidism",
+            "Acromegaly",
+            "Cushing's syndrome",
+            "Hirsutism",
+            "Facial acne",
+            "Visual field deficits",
+            "Headaches"
+        ],
+        "question": "What conditions are specifically identified as being associated with galactorrhea?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 778,
+            "paragraph_id": "978-0071484800-p778-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Primary bone healing",
+            "Secondary bone healing"
+        ],
+        "options": [
+            "Endochondral resorption",
+            "Primary bone healing",
+            "Osteoclastic activity",
+            "Direct cortical reconstruction",
+            "Callus-mediated repair",
+            "Secondary bone healing"
+        ],
+        "question": "What are the two main processes through which bones heal following a fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1976,
+            "paragraph_id": "978-0071484800-p1976-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Transverse fractures with displacement",
+            "Oblique or spiral oblique fractures",
+            "Badly comminuted segments"
+        ],
+        "options": [
+            "Transverse fractures with displacement",
+            "Oblique or spiral oblique fractures",
+            "Badly comminuted segments",
+            "Compression fractures",
+            "Stress fractures"
+        ],
+        "question": "What types of fractures can occur due to severe, direct trauma to the shaft of the femur?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1948,
+            "paragraph_id": "978-0071484800-p1948-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Locking plates",
+            "Intramedullary nails",
+            "Interlocking screws",
+            "Bone grafts",
+            "Cerclage wires",
+            "Tension bands",
+            "Hip pins",
+            "Cannulated screws",
+            "Cancellous lag screws",
+            "Malleolar screws",
+            "Dynamic compression plates",
+            "Blade plates",
+            "Kuntscher rods",
+            "Steinmann pins",
+            "Knowles pins",
+            "Rush rods",
+            "Ender's nails"
+        ],
+        "options": [
+            "Locking plates",
+            "Intramedullary nails",
+            "Interlocking screws",
+            "Bone grafts",
+            "Cerclage wires",
+            "Tension bands",
+            "Hip pins",
+            "Cannulated screws",
+            "Cancellous lag screws",
+            "Malleolar screws",
+            "Dynamic compression plates",
+            "Blade plates",
+            "Kuntscher rods",
+            "Steinmann pins",
+            "Knowles pins",
+            "Rush rods",
+            "Ender's nails"
+        ],
+        "question": "What types of orthopedic devices may be used for reconstruction following traumatic injuries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1981,
+            "paragraph_id": "978-0071484800-p1981-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Medial deltoid ligament",
+            "Lateral ligament complex",
+            "Syndesmosis"
+        ],
+        "options": [
+            "Medial deltoid ligament",
+            "Lateral ligament complex",
+            "Syndesmosis",
+            "Anterior talofibular",
+            "Posterior talofibular"
+        ],
+        "question": "What are the names of the distinct groups of ligaments that provide stability to the ankle?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1961,
+            "paragraph_id": "978-0071484800-p1961-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Internal fixation",
+            "Conservative management",
+            "Emergency surgery for fixation",
+            "Total hip arthroplasty",
+            "Protected weight-bearing followed by gradual weight-bearing",
+            "Insertion of metal devices into bones for stability",
+            "Removal of damaged tissue"
+        ],
+        "options": [
+            "Internal fixation",
+            "Conservative management",
+            "Emergency surgery for fixation",
+            "Total hip arthroplasty",
+            "Skeletal traction",
+            "Protected weight-bearing followed by gradual weight-bearing",
+            "Insertion of metal devices into bones for stability",
+            "Removal of damaged tissue"
+        ],
+        "question": "What types of treatments do orthopedic surgeons employ for various kinds of hip and femur injuries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1945,
+            "paragraph_id": "978-0071484800-p1945-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Measles-mumps-rubella vaccine at 12 to 15 months of age",
+            "Varicella vaccine at 12 to 18 months of age",
+            "DTaP vaccine booster during late infancy",
+            "Pneumococcal conjugate vaccine booster during late infancy",
+            "Haemophilus influenzae type b vaccine booster during late infancy",
+            "Seasonal influenza vaccine starting at different times depending on previous vaccinations"
+        ],
+        "options": [
+            "Measles-mumps-rubella vaccine at 12 to 15 months of age",
+            "Hepatitis B vaccine at birth",
+            "Haemophilus influenzae type b vaccine booster during late infancy",
+            "Varicella vaccine at 12 to 18 months of age",
+            "DTaP vaccine booster during late infancy",
+            "Pneumococcal conjugate vaccine booster during late infancy",
+            "Meningococcal vaccine at 11 to 12 years of age",
+            "Seasonal influenza vaccine starting at 2 years of age",
+            "Hib vaccine booster during late infancy",
+            "HPV vaccine at adolescence"
+        ],
+        "question": "What vaccines are specified as being administered within certain age ranges according to the text?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 791,
+            "paragraph_id": "978-0071484800-p791-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lax abdominal musculature",
+            "Swallowed air",
+            "Relatively large intra-abdominal organs",
+            "Bowel obstruction",
+            "Constipation",
+            "Necrotizing enterocolitis",
+            "Ileus due to sepsis",
+            "Gastroenteritis",
+            "Congenital organomegaly"
+        ],
+        "options": [
+            "Lax abdominal musculature",
+            "Swallowed air",
+            "Bowel obstruction",
+            "Necrotizing enterocolitis",
+            "Ileus due to sepsis",
+            "Gastroenteritis",
+            "Congenital organomegaly"
+        ],
+        "question": "What are the possible causes of abdominal distention in neonates?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 802,
+            "paragraph_id": "978-0071484800-p802-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Intracranial hemorrhage",
+            "Meningitis",
+            "Elevated intracranial pressure"
+        ],
+        "options": [
+            "Intracranial hemorrhage",
+            "Meningitis",
+            "Elevated intracranial pressure",
+            "Nasal obstruction",
+            "Otitis media",
+            "Anal fissure",
+            "Intestinal colic",
+            "Hypoallergenic formula",
+            "Birthmarks"
+        ],
+        "question": "What conditions associated with uncontrollable crying, irritability, and/or lethargy in neonates are categorized under central nervous system issues?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 796,
+            "paragraph_id": "978-0071484800-p796-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Spinal cord compression (myelopathy)",
+            "Nerve root compression (radiculopathy)",
+            "Trauma"
+        ],
+        "options": [
+            "Nerve root compression",
+            "Myocardial infarction",
+            "Rotator cuff tears",
+            "Deltoid muscle strains",
+            "Axillary nerve injuries",
+            "Trauma",
+            "Radiculopathy",
+            "Motor neuron diseases",
+            "Herniated discs"
+        ],
+        "question": "What conditions does orthopedic treatment of the cervical spine address?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2002,
+            "paragraph_id": "978-0071484800-p2002-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Interference screws",
+            "Staples",
+            "Screw and spiked washer",
+            "Suture buttons",
+            "Suture anchors",
+            "Absorbable sutures"
+        ],
+        "options": [
+            "Interference screws",
+            "Staples",
+            "Sutures",
+            "Bone plates",
+            "Screws",
+            "Absorbable sutures"
+        ],
+        "question": "What types of orthopedic implants are used for stabilizing soft tissue to bone?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1986,
+            "paragraph_id": "978-0071484800-p1986-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Suture buttons",
+            "Staples",
+            "Interference screws"
+        ],
+        "options": [
+            "Suture buttons",
+            "Staples",
+            "Interference screws",
+            "Patella tendon bone blocks",
+            "Hamstring tendons",
+            "Bone fragments",
+            "Ligaments"
+        ],
+        "question": "What kinds of materials can secure the graft during ACL reconstruction according to medical practices involving hamstring autografts and other methods?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1988,
+            "paragraph_id": "978-0071484800-p1988-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Traditional external fixation",
+            "Ring (Ilizarov) external fixation",
+            "Hybrid external fixation"
+        ],
+        "options": [
+            "Internal fixation",
+            "Traditional external fixation",
+            "Hybrid external fixation",
+            "Arthroscopic fixation"
+        ],
+        "question": "What are the main types of external fixation devices?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1985,
+            "paragraph_id": "978-0071484800-p1985-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Antipyrine",
+            "Lignocaine"
+        ],
+        "options": [
+            "Antipyrine",
+            "Lignocaine",
+            "Ibuprofen",
+            "Hydrocodone"
+        ],
+        "question": "What topical analgesics are typically avoided due to potential risks when treating patients with a confirmed hole in their eardrum?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 819,
+            "paragraph_id": "978-0071484800-p819-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Snellen eye chart",
+            "Snellen number chart",
+            "Allen picture chart",
+            "Single tumbling \"E\" chart",
+            "Rosenbaum chart"
+        ],
+        "options": [
+            "Snellen eye chart",
+            "Single tumbling \"E\" chart",
+            "Rosenbaum chart",
+            "Allen picture chart",
+            "Normal Saline Irrigation Method"
+        ],
+        "question": "What methods are utilized to measure visual acuity in children depending on their developmental stage?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 822,
+            "paragraph_id": "978-0071484800-p822-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neck strain",
+            "Neck sprain",
+            "Hyperextension strain",
+            "Acceleration-deceleration injury",
+            "Hyperextension-hyperflexion injury",
+            "Whiplash"
+        ],
+        "options": [
+            "Whiplash",
+            "Hyperextension-hyperflexion injury",
+            "Acceleration-deceleration injury",
+            "Ankylosing Spondylitis",
+            "Rheumatoid Arthritis",
+            "Psoriatic Spondyloarthropathy"
+        ],
+        "question": "What types of mechanical neck disorders are identified?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2014,
+            "paragraph_id": "978-0071484800-p2014-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rods with segmental sublaminar wires",
+            "Pedicle screws attached to posterior bars"
+        ],
+        "options": [
+            "Rods alone",
+            "Pedicle screws",
+            "Segmental sublaminar wires",
+            "Posterior bars alone",
+            "Compression bandages"
+        ],
+        "question": "What different types of implant stabilization methods are described?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2006,
+            "paragraph_id": "978-0071484800-p2006-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Stage 1: Back pain at the level of the affected spine",
+            "Stage 2: Nerve-root pain radiating from the involved spinal area",
+            "Stage 3: Motor weakness, sensory deficit, and bladder and bowel dysfunction",
+            "Stage 4: Paralysis"
+        ],
+        "options": [
+            "Stage 1: Severe back pain",
+            "Stage 1: Nerve-root pain radiating from the involved spinal area",
+            "Stage 1: Motor weakness, sensory deficit, and bladder and bowel dysfunction",
+            "Stage 2: Back pain at the level of the affected spine",
+            "Stage 2: Paralysis",
+            "Stage 3: Severe back pain, fever, and neurologic deficits",
+            "Stage 3: Back pain at the level of the affected spine",
+            "Stage 4: Nerve-root pain radiating from the involved spinal area",
+            "Stage 1: Back pain at the level of the affected spine",
+            "Stage 2: Nerve-root pain radiating from the involved spinal area",
+            "Stage 3: Motor weakness, sensory deficit, and bladder and bowel dysfunction",
+            "Stage 4: Paralysis"
+        ],
+        "question": "What are the stages outlined for the progression of symptoms and physical findings in spinal epidural abscess?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2021,
+            "paragraph_id": "978-0071484800-p2021-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Removing constrictive casts or dressings",
+            "Supporting the blood pressure in the hypotensive patient",
+            "Initiating fasciotomy immediately upon clinical confirmation",
+            "Supplemental oxygen administration",
+            "Placing the affected limb at the level of the heart"
+        ],
+        "options": [
+            "Removing constrictive casts or dressings",
+            "Elevation higher than the heart",
+            "Supporting the blood pressure in the hypotensive patient",
+            "Initiating fasciotomy immediately upon clinical confirmation",
+            "Supplemental oxygen administration",
+            "Placing the affected limb at the level of the heart"
+        ],
+        "question": "What procedures are recommended during initial treatment of compartment syndrome?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2012,
+            "paragraph_id": "978-0071484800-p2012-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Stage 1 (acute synovial inflammation)",
+            "Stage 2 (freezing stage)",
+            "Stage 3 (frozen stage)",
+            "Stage 4 (thawing stage)"
+        ],
+        "options": [
+            "Initial inflammatory stage",
+            "Freezing stage",
+            "Frozen stage",
+            "Thawing stage",
+            "Acute injury stage"
+        ],
+        "question": "What are the four distinct stages described for adhesive capsulitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2026,
+            "paragraph_id": "978-0071484800-p2026-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rheumatoid Arthritis",
+            "Systemic Sclerosis",
+            "Polymyositis/Dermatomyositis",
+            "Henoch-Sch\u00f6nlein Purpura"
+        ],
+        "options": [
+            "Ankylosing Spondylitis",
+            "Antiphospholipid Syndrome",
+            "Beh\u00e7et Disease",
+            "Dermatomyositis/Polymyositis",
+            "Giant Cell (Temporal) Arteritis",
+            "Henoch-Sch\u00f6nlein Purpura",
+            "Microscopic Polyangiitis",
+            "Polyarteritis Nodosa",
+            "Relapsing Polychondritis",
+            "Rheumatoid Arthritis",
+            "Sj\u00f6gren Syndrome",
+            "Systemic Lupus Erythematosus",
+            "Systemic Sclerosis",
+            "Takayasu Arteritis",
+            "Wegener Granulomatosis"
+        ],
+        "question": "What conditions are specifically identified as being commonly associated with interstitial lung disease according to medical understanding?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2042,
+            "paragraph_id": "978-0071484800-p2042-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Anterior approach",
+            "Medial approach"
+        ],
+        "options": [
+            "Anterior approach",
+            "Posterior approach",
+            "Medial approach",
+            "Lateral approach"
+        ],
+        "question": "What are the approaches described for performing hip arthrocentesis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2056,
+            "paragraph_id": "978-0071484800-p2056-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Methicillin-resistant Staphylococcus aureus (MRSA)",
+            "Eikenella corrodens",
+            "S. anginosus",
+            "Pasteurella multocida",
+            "Streptococcus",
+            "Anaerobic bacteria"
+        ],
+        "options": [
+            "Escherichia coli",
+            "Methicillin-resistant Staphylococcus aureus (MRSA)",
+            "Bacillus cereus",
+            "Eikenella corrodens",
+            "Lactobacillus plantarum",
+            "S. anginosus",
+            "Pasteurella multocida",
+            "Klebsiella pneumoniae",
+            "Streptococcus",
+            "Proteus mirabilis",
+            "Anaerobic bacteria"
+        ],
+        "question": "What types of bacteria are commonly associated with hand infections?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2048,
+            "paragraph_id": "978-0071484800-p2048-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ondansetron"
+        ],
+        "options": [
+            "Ondansetron",
+            "Promethazine",
+            "Metoclopramide",
+            "Droperidol",
+            "Dopamine receptor agonist"
+        ],
+        "question": "What types of medication can be considered for treating vomiting in pediatric patients undergoing Oral Rehydration Therapy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 897,
+            "paragraph_id": "978-0071484800-p897-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Laryngomalacia",
+            "Tracheomalacia",
+            "Vocal cord paralysis",
+            "Subglottic stenosis",
+            "Airway hemangioma",
+            "Vascular ring/sling"
+        ],
+        "options": [
+            "Tracheomalacia",
+            "Vocal cord paralysis",
+            "Subglottic stenosis",
+            "Croup",
+            "Epiglottitis",
+            "Bacterial tracheitis",
+            "Foreign body aspiration",
+            "Retropharyngeal abscess",
+            "Parapharyngeal space infection",
+            "Vascular sling",
+            "Hemangioma"
+        ],
+        "question": "What are the conditions listed under children less than six months old that could potentially cause stridor?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 849,
+            "paragraph_id": "978-0071484800-p849-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Corticosteroids",
+            "Heliox",
+            "L-Epinephrine",
+            "Racemic epinephrine"
+        ],
+        "options": [
+            "Antipyretics",
+            "\u03b2-Agonists such as albuterol",
+            "Corticosteroids",
+            "Heliox",
+            "Humidified air or cool mist",
+            "L-Epinephrine",
+            "Racemic epinephrine"
+        ],
+        "question": "What are the standard treatments used for managing croup in pediatric patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 851,
+            "paragraph_id": "978-0071484800-p851-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Enteroviruses",
+            "Mumps",
+            "Varicella-zoster virus",
+            "Poliovirus",
+            "Influenza virus",
+            "Human Immunodeficiency Virus",
+            "Chronic Epstein-Barr myocarditis"
+        ],
+        "options": [
+            "Enteroviruses",
+            "Mumps",
+            "Varicella-zoster virus",
+            "Poliovirus",
+            "Human Immunodeficiency Virus",
+            "Ebola",
+            "Influenza virus",
+            "HIV-associated myocarditis",
+            "Chronic Epstein-Barr myocarditis",
+            "Rotavirus"
+        ],
+        "question": "What are the names of the viruses causing myocarditis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 888,
+            "paragraph_id": "978-0071484800-p888-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inhaled method via a metered-dose inhaler with a valved holding chamber",
+            "Intravenous route",
+            "Subcutaneous injection",
+            "Nebulizer treatment"
+        ],
+        "options": [
+            "Inhaled method via a metered-dose inhaler with a valved holding chamber",
+            "Intravenous route",
+            "Subcutaneous injection",
+            "Nebulizer treatment",
+            "Heliox therapy"
+        ],
+        "question": "What options are considered for treating asthma exacerbations in terms of medication delivery methods?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 866,
+            "paragraph_id": "978-0071484800-p866-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Trouble breathing",
+            "Trouble speaking",
+            "Lips or fingers turning blue",
+            "Very fast heartbeat",
+            "Neck vein sticking out",
+            "Being unable to walk because of difficulty breathing"
+        ],
+        "options": [
+            "Trouble breathing",
+            "Being unable to speak clearly",
+            "Lips or fingers turning blue",
+            "Very slow heartbeat",
+            "Neck vein sticking out",
+            "Inability to perform daily activities"
+        ],
+        "question": "What are the danger signs included in an Asthma Action Plan?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 870,
+            "paragraph_id": "978-0071484800-p870-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Repair of tetralogy of Fallot",
+            "Reconstruction of the mitral valve",
+            "Replacement of the pulmonary valve",
+            "Implantation of pacemaker leads",
+            "Fontan procedure",
+            "Norwood procedure",
+            "Arterial switch operation",
+            "Hemi-Fontan procedure",
+            "Bidirectional Glenn procedure"
+        ],
+        "options": [
+            "Repair of tetralogy of Fallot",
+            "Reconstruction of the mitral valve",
+            "Replacement of the pulmonary valve",
+            "Implantation of pacemaker leads",
+            "Fontan procedure",
+            "Norwood procedure",
+            "Arterial switch operation",
+            "Hemi-Fontan procedure",
+            "Bidirectional Glenn procedure"
+        ],
+        "question": "What are some common types of surgeries performed on individuals with congenital heart defects?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 880,
+            "paragraph_id": "978-0071484800-p880-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bursitis",
+            "Nail disorders",
+            "Plantar Fasciitis",
+            "Deep Peroneal Nerve Entrapment",
+            "Tarsal Tunnel Syndrome"
+        ],
+        "options": [
+            "Bursitis",
+            "Nail disorders",
+            "Plantar Fasciitis",
+            "Deep Peroneal Nerve Entrapment",
+            "Tarsal Tunnel Syndrome",
+            "Gout",
+            "Rheumatoid Arthritis",
+            "Osteophytes",
+            "Ganglion Cysts"
+        ],
+        "question": "What types of foot-related problems are detailed in medical literature concerning their effects on individuals, particularly focusing on issues related to nails, bursae, plantar fascia, nerves, and various forms of discomfort or injury?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2063,
+            "paragraph_id": "978-0071484800-p2063-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Plantar interdigital neuroma (Morton neuroma)",
+            "Flexor hallucis longus rupture",
+            "Disruption of the peroneal retinaculum",
+            "Chronic exertional compartment syndrome",
+            "Plantar fibromatosis",
+            "Malignant melanoma"
+        ],
+        "options": [
+            "Plantar interdigital neuroma (Morton neuroma)",
+            "Flexor hallucis longus rupture",
+            "Disruption of the peroneal retinaculum",
+            "Chronic exertional compartment syndrome",
+            "Plantar fibromatosis",
+            "Malignant melanoma"
+        ],
+        "question": "What types of conditions affecting the foot are discussed?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2065,
+            "paragraph_id": "978-0071484800-p2065-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gender being male",
+            "History of chaotic family",
+            "Antisocial or disruptive behavior",
+            "Excessive drug or alcohol use",
+            "Presence of depressive symptoms (e.g., SIG E CAPS + MOOD)",
+            "Family history of suicide"
+        ],
+        "options": [
+            "Gender being male",
+            "Having a job",
+            "History of chaotic family",
+            "Physical good health",
+            "Antisocial or disruptive behavior",
+            "Excessive drug or alcohol use",
+            "Lack of suicidal ideation",
+            "Being married",
+            "Employment stability",
+            "Low lethality of the agent or method",
+            "Rescue highly likely",
+            "Presence of depressive symptoms (e.g., SIG E CAPS + MOOD)",
+            "Family history of suicide"
+        ],
+        "question": "What factors indicate higher risk of further suicidal behavior according to guidelines for assessing patient risk?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2073,
+            "paragraph_id": "978-0071484800-p2073-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Minimal-change disease",
+            "Focal segmental sclerosis",
+            "Membranous nephropathy",
+            "Membranoproliferative nephritis",
+            "Proliferative nephritis"
+        ],
+        "options": [
+            "Lupus",
+            "Sickle cell anemia",
+            "Focal segmental sclerosis",
+            "Membranous nephropathy",
+            "Systemic infections",
+            "Proliferative nephritis",
+            "Minimal-change disease",
+            "Mesangial proliferative nephritis",
+            "Malignancies"
+        ],
+        "question": "What types of diseases are classified under primary nephrotic syndromes?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 930,
+            "paragraph_id": "978-0071484800-p930-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Biliary atresia",
+            "Cystic fibrosis",
+            "Hepatitis",
+            "\u03b1\u2081-antitrypsin deficiency",
+            "Congenital hepatic fibrosis"
+        ],
+        "options": [
+            "Biliary atresia",
+            "Cystic fibrosis",
+            "Hepatitis",
+            "\u03b1\u2081-antitrypsin deficiency",
+            "Congenital hepatic fibrosis"
+        ],
+        "question": "What primary diseases of the liver can result in portal hypertension in children?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 912,
+            "paragraph_id": "978-0071484800-p912-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dehydration from GI losses",
+            "Tubular diseases due to contrast agents",
+            "Blood loss from trauma",
+            "Limited cardiac output in congenital heart disease",
+            "Liver cirrhosis",
+            "Sepsis",
+            "Viral infections",
+            "Neurogenic bladder"
+        ],
+        "options": [
+            "Dehydration from GI losses",
+            "Tubular diseases due to contrast agents",
+            "Blood loss from trauma",
+            "Limited cardiac output in congenital heart disease",
+            "Liver cirrhosis",
+            "Sepsis",
+            "Viral infections",
+            "Neurogenic bladder",
+            "Uterine dysfunction",
+            "Imperforate hymen"
+        ],
+        "question": "What conditions or scenarios can lead to a child experiencing acute renal failure?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 927,
+            "paragraph_id": "978-0071484800-p927-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Calcium stones",
+            "Uric acid stones",
+            "Struvite stones"
+        ],
+        "options": [
+            "Calcium stones",
+            "Struvite stones",
+            "Uric acid stones",
+            "Oxalate stones"
+        ],
+        "question": "What types of renal stones can occur in children?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 909,
+            "paragraph_id": "978-0071484800-p909-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glucose",
+            "Sodium",
+            "Calcium",
+            "Magnesium"
+        ],
+        "options": [
+            "Glucose",
+            "Sodium",
+            "Calcium",
+            "Magnesium"
+        ],
+        "question": "What substances can cause seizures due to abnormal levels according to medical knowledge about treating status epilepticus?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 938,
+            "paragraph_id": "978-0071484800-p938-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diaphysis",
+            "Epiphysis",
+            "Physis",
+            "Apophysis",
+            "Metaphysis"
+        ],
+        "options": [
+            "Diaphysis",
+            "Epiphysis",
+            "Physis",
+            "Apophysis",
+            "Metaphysis",
+            "Periosteum"
+        ],
+        "question": "What are the different anatomical regions of a pediatric long bone?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 953,
+            "paragraph_id": "978-0071484800-p953-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ulnar fracture",
+            "Dislocation of the radial head",
+            "Elbow dislocation",
+            "Distal radius fracture",
+            "Monteggia fracture"
+        ],
+        "options": [
+            "Ulnar fracture",
+            "Dislocation of the radial head",
+            "Elbow dislocation",
+            "Distal radius fracture",
+            "Monteggia fracture"
+        ],
+        "question": "What types of musculoskeletal disorders can occur in children's elbows?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 962,
+            "paragraph_id": "978-0071484800-p962-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ibuprofen",
+            "Nasal Sumatriptan",
+            "Acetaminophen",
+            "Prochlorperazine",
+            "Metoclopramide",
+            "Oral Triptans"
+        ],
+        "options": [
+            "Aspirin",
+            "Ibuprofen",
+            "Nasal Sumatriptan",
+            "Acetaminophen",
+            "Narcotics",
+            "Prochlorperazine",
+            "Metoclopramide",
+            "Oral Triptans",
+            "Antibiotics"
+        ],
+        "question": "What medications are potentially used as abortive therapies for various categories of primary headache?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 944,
+            "paragraph_id": "978-0071484800-p944-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aged cheese",
+            "Pickled herring",
+            "Yeast extracts",
+            "Chopped liver",
+            "Yogurt",
+            "Sour cream",
+            "Fava beans",
+            "Beer",
+            "Wine"
+        ],
+        "options": [
+            "Aged cheese",
+            "Fresh vegetables",
+            "Pickled herring",
+            "Fruits",
+            "Yeast extracts",
+            "Chopped liver",
+            "Yogurt",
+            "Sour cream",
+            "Fava beans",
+            "Beer",
+            "Wine"
+        ],
+        "question": "What types of food can trigger a hypertensive crisis in individuals taking monoamine oxidase inhibitors?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2085,
+            "paragraph_id": "978-0071484800-p2085-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Uncued panic attacks",
+            "Situationally bound panic attacks",
+            "Situationally predisposed panic attacks"
+        ],
+        "options": [
+            "Spontaneously triggered panic attacks",
+            "Uncued panic attacks",
+            "Expected panic attacks",
+            "Situationally bound panic attacks",
+            "Situational predisposition panic attacks"
+        ],
+        "question": "What types of panic attacks are described in terms of their relationship to specific triggers?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2091,
+            "paragraph_id": "978-0071484800-p2091-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Burns",
+            "Lacerations",
+            "Skeletal injuries",
+            "Bites"
+        ],
+        "options": [
+            "Burns",
+            "Lacerations",
+            "Skeletal injuries",
+            "Bites",
+            "Head trauma",
+            "Poisonings"
+        ],
+        "question": "What types of inflicted injuries are discussed in relation to signs of child abuse?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2106,
+            "paragraph_id": "978-0071484800-p2106-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sexually transmitted infections",
+            "Increased risk of victimization as an adult",
+            "Fertility problems",
+            "Increased incidence of poor school performance and school dropout",
+            "Eating disorders",
+            "Increased chances of unwanted pregnancy and associated complications of pregnancy, frequent pregnancies",
+            "Back pain",
+            "Behavioral disorders",
+            "Increased incidence of involvement with the legal system and courts",
+            "Increased incidence of victimization later in life",
+            "Cognitive functioning problems\u2014lower verbal and quantitative skills",
+            "Aggression, hostility, withdrawal, acting out",
+            "Suicide attempts",
+            "Depression",
+            "Alcoholism, smoking, drug abuse"
+        ],
+        "options": [
+            "Human immunodeficiency virus infection",
+            "Unintended pregnancy",
+            "Chronic pelvic pain",
+            "Suicidal thoughts",
+            "Lack of interest in education",
+            "Frequent headaches",
+            "Eating disorders",
+            "Substance abuse issues",
+            "Post-traumatic stress disorder",
+            "Urinary tract infections",
+            "Lower academic achievement"
+        ],
+        "question": "What consequences do adolescents experience due to intimate partner violence?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2112,
+            "paragraph_id": "978-0071484800-p2112-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Multiple Sclerosis",
+            "Amyotrophic Lateral Sclerosis",
+            "Parkinson's Disease"
+        ],
+        "options": [
+            "Multiple Sclerosis",
+            "Amyotrophic Lateral Sclerosis",
+            "Parkinson's Disease",
+            "Rhabdomyolysis"
+        ],
+        "question": "What are the types of advanced neurologic disorders that individuals might experience which increase their vulnerability?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2122,
+            "paragraph_id": "978-0071484800-p2122-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Physical abuse",
+            "Sexual abuse",
+            "Emotional abuse",
+            "Parental substance abuse",
+            "Physical neglect",
+            "Nutritional neglect",
+            "Emotional neglect",
+            "Supervisional neglect",
+            "Munchausen syndrome by proxy"
+        ],
+        "options": [
+            "Physical abuse",
+            "Sexual abuse",
+            "Emotional abuse",
+            "Parental substance abuse",
+            "Nutritional neglect",
+            "Supervisional neglect",
+            "Failure to thrive due to neglect"
+        ],
+        "question": "What types of child maltreatment does the spectrum of child abuse and neglect encompass?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2103,
+            "paragraph_id": "978-0071484800-p2103-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reactive or toxic synovitis",
+            "Trauma",
+            "Septic arthritis",
+            "Acute rheumatic fever",
+            "Poststreptococcal reactive arthritis",
+            "Gonococcal arthritis",
+            "Lyme disease",
+            "Sickle cell crisis",
+            "Henoch-Sch\u00f6nlein purpura",
+            "Legg-Calv\u00e9-Perthes disease",
+            "Slipped capital femoral epiphysis",
+            "Osteomyelitis",
+            "Juvenile rheumatic arthritis",
+            "Transient synovitis",
+            "Hemophilia",
+            "Osgood-Schlatter disease"
+        ],
+        "options": [
+            "Reactive or toxic synovitis",
+            "Trauma",
+            "Septic arthritis",
+            "Acute rheumatic fever",
+            "Poststreptococcal reactive arthritis",
+            "Gonococcal arthritis",
+            "Lyme disease",
+            "Sickle cell crisis",
+            "Henoch-Sch\u00f6nlein purpura",
+            "Legg-Calv\u00e9-Perthes disease",
+            "Slipped capital femoral epiphysis",
+            "Osteomyelitis",
+            "Juvenile rheumatic arthritis",
+            "Transient synovitis",
+            "Hemophilia",
+            "Osgood-Schlatter disease",
+            "Tuberculosis",
+            "Cancer"
+        ],
+        "question": "What are the possible causes listed under differential considerations for the acutely inflamed pediatric joint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 968,
+            "paragraph_id": "978-0071484800-p968-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Non-Hodgkin's lymphoma (NHL)",
+            "Acute Lymphoblastic Leukemia (ALL)",
+            "Burkitt lymphoma"
+        ],
+        "options": [
+            "Neuroblastoma",
+            "Sarcoma",
+            "Germ cell tumors",
+            "Non-Hodgkin's lymphoma (NHL)",
+            "Acute Lymphoblastic Leukemia (ALL)",
+            "Burkitt lymphoma"
+        ],
+        "question": "What types of cancer are specifically noted to be complicated by metabolic complications such as tumor lysis syndrome?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 999,
+            "paragraph_id": "978-0071484800-p999-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pneumocystis jiroveci",
+            "Nocardia",
+            "Legionella pneumophila",
+            "Aspergillus"
+        ],
+        "options": [
+            "Coccidioidomycosis",
+            "Histoplasmosis",
+            "Cryptococcus neoformans",
+            "Pneumocystis jiroveci",
+            "Nocardia",
+            "Legionella pneumophila",
+            "Aspergillus",
+            "Blastomyces dermatitidis"
+        ],
+        "question": "What types of pulmonary infections are encountered frequently in transplant patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2135,
+            "paragraph_id": "978-0071484800-p2135-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "S. aureus",
+            "Streptococcus species"
+        ],
+        "options": [
+            "S. aureus",
+            "Streptococcus species",
+            "Klebsiella pneumoniae",
+            "Pseudomonas aeruginosa",
+            "Escherichia coli"
+        ],
+        "question": "What types of bacteria can cause empiric antibiotic selection issues in suspected endocarditis cases among injection drug users?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2127,
+            "paragraph_id": "978-0071484800-p2127-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cytomegalovirus (CMV)",
+            "Varicella-Zoster Virus",
+            "Parvovirus B19",
+            "Human Herpesvirus 6",
+            "Respiratory Syncytial Virus"
+        ],
+        "options": [
+            "Human Immunodeficiency Virus (HIV)",
+            "Hepatitis B",
+            "Hepatitis C",
+            "Cytomegalovirus (CMV)",
+            "Varicella-Zoster Virus",
+            "Parvovirus B19",
+            "Human Herpesvirus 6",
+            "Respiratory Syncytial Virus"
+        ],
+        "question": "What types of viruses commonly infect transplant patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2139,
+            "paragraph_id": "978-0071484800-p2139-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "A standardized form",
+            "A method of identifying at-risk children",
+            "Completion of a data set by the child\u2019s physicians and other health care professionals",
+            "Education of families, other caregivers, and health care professionals in the use of the emergency plan",
+            "Regular updates of the information",
+            "24-hour access to the information by authorized emergency health care professionals",
+            "Maintenance of patient confidentiality"
+        ],
+        "options": [
+            "Standardized forms",
+            "Identification methods for at-risk children",
+            "Regular updates of the information",
+            "Provisions for special training",
+            "Maintenance of patient confidentiality",
+            "Education of families and healthcare professionals"
+        ],
+        "question": "What are essential components of care plans for children with special health care needs?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1014,
+            "paragraph_id": "978-0071484800-p1014-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Poor feeding",
+            "Altered mental status",
+            "Vomiting"
+        ],
+        "options": [
+            "Vomiting alone",
+            "Poor feeding and altered mental status together",
+            "High fever only",
+            "Poor feeding, altered mental status, and vomiting combined"
+        ],
+        "question": "What are the common clinical features of metabolic emergencies in infants?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1009,
+            "paragraph_id": "978-0071484800-p1009-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type 1 diabetes",
+            "Type 2 diabetes"
+        ],
+        "options": [
+            "Insulin-dependent diabetes",
+            "Adult-onset diabetes",
+            "Juvenile diabetes",
+            "Hyperinsulinemia",
+            "Gestational diabetes",
+            "Type 1 diabetes",
+            "Type 2 diabetes"
+        ],
+        "question": "What types of diabetes are discussed in relation to children?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1020,
+            "paragraph_id": "978-0071484800-p1020-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Respiratory failure",
+            "Acute rejection",
+            "Rapidly progressive airflow limitation",
+            "Systemic infection",
+            "Febrile neutropenia",
+            "Pneumothorax"
+        ],
+        "options": [
+            "Respiratory failure",
+            "Systemic infection",
+            "Decompensated congestive heart failure or pulmonary edema",
+            "Rapidly progressive airflow limitation",
+            "Graft failure",
+            "Cardiovascular issues",
+            "Bronchiolitis Obliterans",
+            "Malignancies"
+        ],
+        "question": "What are the possible reasons why lung transplant patients might require immediate medical attention or hospitalization?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2145,
+            "paragraph_id": "978-0071484800-p2145-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Iron-deficiency anemia",
+            "Vitamin B12 deficiency",
+            "Protein calorie malabsorption",
+            "Deficiency of vitamin B1 (thiamine)",
+            "Stomach ulcers",
+            "Dumping syndrome"
+        ],
+        "options": [
+            "Vitamin K deficiency",
+            "Protein calorie malabsorption",
+            "Peripheral neuropathy",
+            "Thiamine deficiency",
+            "Hypertension",
+            "Hyperglycemia",
+            "Gastritis",
+            "Nausea and vomiting",
+            "Dumping syndrome",
+            "Constipation",
+            "Stomach ulcers",
+            "Diarrhea"
+        ],
+        "question": "What complications commonly follow certain types of obesity surgeries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2150,
+            "paragraph_id": "978-0071484800-p2150-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Radiography",
+            "Minor surgical treatment room",
+            "Consulting rooms for ambulatory care visits by local specialists"
+        ],
+        "options": [
+            "Radiography",
+            "Minor surgical treatment room",
+            "Consulting rooms for ambulatory care visits by local specialists",
+            "General practice clinic",
+            "Pharmacy"
+        ],
+        "question": "What kinds of facilities can you find inside a prison for treating simple medical issues?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2158,
+            "paragraph_id": "978-0071484800-p2158-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Long QT syndrome",
+            "Wolff-Parkinson-White syndrome",
+            "Atrioventricular block",
+            "Sick sinus syndrome",
+            "Supraventricular Tachycardia",
+            "Pacemaker malfunction"
+        ],
+        "options": [
+            "Long QT syndrome",
+            "Wolff-Parkinson-White syndrome",
+            "Atrioventricular block",
+            "Sick sinus syndrome",
+            "Supraventricular Tachycardia",
+            "Pacemaker malfunction",
+            "None of the Above"
+        ],
+        "question": "What conditions characterized by problems with electrical pathways of the heart are described?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1027,
+            "paragraph_id": "978-0071484800-p1027-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Decreased intake",
+            "Increased output (renal, GI, or insensible losses from the skin or respiratory tract)",
+            "Systemic responses to specific disease states such as burns or sepsis"
+        ],
+        "options": [
+            "Burns",
+            "Sepsis",
+            "Increased renal output",
+            "Decreased food intake",
+            "Systemic responses to diseases"
+        ],
+        "question": "What are common causes of dehydration?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1032,
+            "paragraph_id": "978-0071484800-p1032-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Suction catheters",
+            "Right-angle hooks and ear curettes",
+            "Curved hooks and forceps",
+            "Balloon catheters",
+            "Positive pressure",
+            "Irrigation"
+        ],
+        "options": [
+            "Suction catheters",
+            "Right-angle hooks and ear curettes",
+            "Curved hooks and forcets",
+            "Balloon catheters",
+            "Positive pressure",
+            "Irrigation",
+            "Magnets",
+            "Other methods"
+        ],
+        "question": "What types of tools/methods are available for pediatric foreign-body removal?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1042,
+            "paragraph_id": "978-0071484800-p1042-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium",
+            "Potassium",
+            "Chloride"
+        ],
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Potassium",
+            "Phosphate",
+            "Chloride",
+            "Sodium"
+        ],
+        "question": "What are the primary electrolytes whose requirements are specified for pediatric patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1035,
+            "paragraph_id": "978-0071484800-p1035-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mafenide acetate",
+            "Silver sulfadiazine",
+            "Bacitracin"
+        ],
+        "options": [
+            "Mafenide acetate",
+            "Silver sulfadiazine",
+            "Bacitracin",
+            "Penicillin G"
+        ],
+        "question": "What types of topical antibiotics might be applied to burn patients in a combat environment?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2169,
+            "paragraph_id": "978-0071484800-p2169-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Light-emitting diode headlamp with green lens filter",
+            "Combat Application Tourniquet",
+            "Examination gloves",
+            "Nasopharyngeal airway 32F",
+            "Compact percutaneous cricothyrotomy device",
+            "Trauma shears or rescue knife",
+            "Adhesive one-way flutter valve/seal \u00d7 2 with benzoin swabs",
+            "12- or 14-gauge 3-in. long catheter",
+            "6-in. Israeli Battle Dressing \u00d7 2",
+            "Kerlix Large Roll dressing",
+            "3-in. 3M self-adherent elastic roll dressing",
+            "1-in. medical tape",
+            "9-Line medical evacuation card",
+            "Burn blanket",
+            "Small MRE heater packet"
+        ],
+        "options": [
+            "Light-emitting diode headlamp with green lens filter",
+            "Hemostatic agent powder",
+            "Folding pocket magnifying glass",
+            "Kerlix Large Roll dressing",
+            "Biphasic defibrillator pads",
+            "Ammonia inhalants",
+            "Compact percutaneous cricothyrotomy device",
+            "Nasogastric tubes",
+            "Oral airways",
+            "Scalpel handle",
+            "Flashlight",
+            "Small MRE heater packet",
+            "Needle holders",
+            "Burn blanket",
+            "O2 cylinders",
+            "Examination gloves",
+            "IV saline bags",
+            "6-in. Israeli Battle Dressing",
+            "Combat Application Tourniquet",
+            "Other items"
+        ],
+        "question": "What items might be included in a drop-down leg pouch according to the recommended packing list?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2163,
+            "paragraph_id": "978-0071484800-p2163-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Red for URGENT",
+            "Green/Yellow for PRIORITY",
+            "Blue for ROUTINE"
+        ],
+        "options": [
+            "Red and yellow for both URGENT and PRIORITY",
+            "Green for MINIMAL and blue for EXPECTANT",
+            "Blue for ROUTINE, green/yellow for PRIORITY, and red for URGENT",
+            "White for CONVENIENCE"
+        ],
+        "question": "What are the colors universally used to mark casualties according to their priorities?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2173,
+            "paragraph_id": "978-0071484800-p2173-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Supraventricular tachycardia",
+            "Atrial fibrillation",
+            "Asymptomatic wide-complex tachycardia",
+            "Stable wide-complex tachycardia",
+            "Unstable wide-complex tachycardia",
+            "Wide-complex tachycardia with prolonged QT"
+        ],
+        "options": [
+            "Supraventricular tachycardia",
+            "Atrial fibrillation",
+            "Asymptomatic wide-complex tachycardia",
+            "Stable wide-complex tachycardia",
+            "Unstable wide-complex tachycardia",
+            "Wide-complex tachycardia with prolonged QT"
+        ],
+        "question": "What conditions necessitate particular considerations regarding their respective treatments as outlined?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1048,
+            "paragraph_id": "978-0071484800-p1048-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Abdominal pain",
+            "Chest pain",
+            "Headache",
+            "Back pain",
+            "Shortness of breath"
+        ],
+        "options": [
+            "Hypertension",
+            "Stroke",
+            "Sepsis",
+            "Abdominal pain",
+            "Myocardial infarction",
+            "Chest pain",
+            "Respiratory distress"
+        ],
+        "question": "What are the high-risk conditions identified for diagnostic errors?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2183,
+            "paragraph_id": "978-0071484800-p2183-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chest x-ray",
+            "Head CT",
+            "Invasive coronary angiogram",
+            "Chest CT",
+            "Coronary CT angiogram, retrospective ECG gating",
+            "Prospectively triggered coronary CT angiography",
+            "Chest, abdomen, and pelvis CT",
+            "Single photon emission CT myocardial perfusion imaging",
+            "PET myocardial perfusion imaging"
+        ],
+        "options": [
+            "Chest x-ray",
+            "Head CT",
+            "Abdominal ultrasound",
+            "Coronary CT angiogram",
+            "Single photon emission CT myocardial perfusion imaging",
+            "PET myocardial perfusion imaging",
+            "MRI",
+            "Prospective echocardiography"
+        ],
+        "question": "What types of examinations are listed along with their typical effective doses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2192,
+            "paragraph_id": "978-0071484800-p2192-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Density of the structure",
+            "Material composition"
+        ],
+        "options": [
+            "Size of the object being scanned",
+            "Type of tissue being examined",
+            "Material composition",
+            "Density of the structure",
+            "Shape of the object"
+        ],
+        "question": "What determines the amount of x-ray energy passing through a structure according to computed tomography principles?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2197,
+            "paragraph_id": "978-0071484800-p2197-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ischemia",
+            "Viable, ischemic",
+            "Viable, nonischemic",
+            "Infarction",
+            "Normal"
+        ],
+        "options": [
+            "Ischemia",
+            "Viable, ischemic",
+            "Infarction",
+            "Normal",
+            "Hypertension",
+            "Dyslipidemia"
+        ],
+        "question": "What types of diagnoses are associated with different patterns of resting function and stress responses according to Table 299.1-2?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2190,
+            "paragraph_id": "978-0071484800-p2190-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "First-generation scanners",
+            "Second-generation scanners",
+            "Third-generation scanners",
+            "Fourth-generation scanners"
+        ],
+        "options": [
+            "First-generation scanners",
+            "Second-generation scanners",
+            "Third-generation scanners",
+            "Fourth-generation scanners",
+            "Fifth-generation scanners",
+            "Sixth-generation scanners"
+        ],
+        "question": "What types of scanner generations exist according to their technological development?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2198,
+            "paragraph_id": "978-0071484800-p2198-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Early bacterial respiratory infections",
+            "Sinusitis",
+            "Central line infection",
+            "Infection with MAC",
+            "Fever caused by HIV infection alone",
+            "Pneumocystis carini pneumonia",
+            "Drug fever",
+            "CMV infection"
+        ],
+        "options": [
+            "Early bacterial respiratory infections",
+            "Sinusitis",
+            "Central line infection",
+            "Neoplasm",
+            "Drug fever",
+            "Infection with MAC",
+            "Fever caused by HIV infection alone",
+            "Lymphoma",
+            "Tuberculosis",
+            "Progressive multifocal leukoencephalopathy",
+            "Hepatitis",
+            "Herpes zoster",
+            "CMV infection",
+            "Endocarditis",
+            "Pneumocystis carini pneumonia"
+        ],
+        "question": "What are the causes of fever in HIV-positive patients without obvious localizing signs or symptoms?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1095,
+            "paragraph_id": "978-0071484800-p1095-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "*Staphylococcus aureus*",
+            "*Streptococcus pneumoniae*",
+            "*Neisseria meningitidis*",
+            "*Salmonella*",
+            "*Haemophilus influenzae*",
+            "*Pseudomonas aeruginosa*"
+        ],
+        "options": [
+            "*Staphylococcus aureus*",
+            "*Salmonella*",
+            "*Haemophilus influenzae*",
+            "*Neisseria meningitidis*",
+            "*Streptococcus pneumoniae*",
+            "*Pseudomonas aeruginosa*"
+        ],
+        "question": "What are the common causes of primary bacteremia identified in outpatient settings, specifically considering encapsulated species significant in asplenic individuals and other notable pathogens?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1069,
+            "paragraph_id": "978-0071484800-p1069-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Skin",
+            "Pharynx",
+            "Mucosa",
+            "Vagina"
+        ],
+        "options": [
+            "Skin",
+            "Pharynx",
+            "Mucosa",
+            "Vagina",
+            "Burns"
+        ],
+        "question": "What are the sources where Streptococcus enters the body?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1064,
+            "paragraph_id": "978-0071484800-p1064-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Deep injury",
+            "Visible blood on the injuring device",
+            "Needle placement in a vein or an artery of the source patient",
+            "A source patient with late-stage HIV infection"
+        ],
+        "options": [
+            "Deep injury",
+            "Visible blood on the injuring device",
+            "Needle placement in muscle tissue",
+            "A source patient with early-stage HIV infection",
+            "Needle placement in a vein or an artery of the source patient",
+            "Mucocutaneous exposure",
+            "Non-intact skin exposure",
+            "Late-stage HIV infection of the source patient"
+        ],
+        "question": "What factors increase the risk for seroconversion following occupational exposure?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1102,
+            "paragraph_id": "978-0071484800-p1102-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Intra-abdominal infections",
+            "Sinus infections",
+            "Soft tissue infections"
+        ],
+        "options": [
+            "Fungal infections",
+            "Viral infections",
+            "Gram-positive bacterial infections",
+            "Intra-abdominal infections",
+            "Soft tissue infections",
+            "Sinus infections",
+            "Indwelling device-related infections"
+        ],
+        "question": "What types of infections necessitate prompt removal of their sources when treating patients for septic shock?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1072,
+            "paragraph_id": "978-0071484800-p1072-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Noncontrast head CT",
+            "Contrast-enhanced CT",
+            "Magnetic Resonance Venography",
+            "MRI"
+        ],
+        "options": [
+            "Computed Tomography (CT)",
+            "Magnetic Resonance Venography",
+            "Magnetic Resonance Angiography (MRA)",
+            "Digital Subtraction Angiography"
+        ],
+        "question": "What imaging techniques are described for diagnosing conditions related to cerebral venous sinus thrombosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2211,
+            "paragraph_id": "978-0071484800-p2211-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fluid Attenuated Inversion Recovery Image",
+            "Diffusion-Weighted Image",
+            "Axial T2-Weighted Image"
+        ],
+        "options": [
+            "Magnetic Resonance Angiography",
+            "Computed Tomography Scan",
+            "Fluid Attenuated Inversion Recovery Image",
+            "Diffusion-Weighted Image",
+            "Positron Emission Tomography",
+            "Single Photon Emission Computed Tomography",
+            "Axial T2-Weighted Image"
+        ],
+        "question": "What types of images are utilized in diagnosing acute neurological conditions?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2214,
+            "paragraph_id": "978-0071484800-p2214-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Biliary disease",
+            "Renal disease",
+            "Deep venous thrombosis (DVT)",
+            "Soft tissue abscess drainage"
+        ],
+        "options": [
+            "Detecting and screening for pneumothorax",
+            "Screening for biliary disease",
+            "Assistance with vascular access",
+            "Deep venous thrombosis (DVT) diagnosis",
+            "Cardiac arrest state management",
+            "Ectopic pregnancy diagnosis",
+            "General surgical guidance",
+            "Testicular issues assessment",
+            "Ocular assessment",
+            "Procedural guidance"
+        ],
+        "question": "What indications exist for emergency ultrasound (ED US) in urgent situations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2222,
+            "paragraph_id": "978-0071484800-p2222-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Puncture wounds",
+            "Deep lacerations",
+            "Minor abrasions",
+            "Otitis media",
+            "Abortion",
+            "Injection drug use with contaminated heroin",
+            "Surgical procedures",
+            "Umbilical stump infection in neonates"
+        ],
+        "options": [
+            "Puncture wounds",
+            "Deep lacerations",
+            "Minor abrasions",
+            "Otitis media",
+            "Abortion",
+            "Injection drug use with contaminated heroin",
+            "Surgical procedures",
+            "Umbilical stump infection in neonates",
+            "Animal bites"
+        ],
+        "question": "What types of infections can lead to tetanus?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1108,
+            "paragraph_id": "978-0071484800-p1108-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chloroquine phosphate",
+            "Primaquine phosphate",
+            "Quinine sulfate",
+            "Doxycycline",
+            "Atovaquone-proguanil",
+            "Artemether-lumefantrine",
+            "Me\ufb02oquine"
+        ],
+        "options": [
+            "Chloroquine phosphate",
+            "Primaquine phosphate",
+            "Quinine sulfate",
+            "Doxycycline",
+            "Atovaquone-proguanil",
+            "Artemether-lumefantrine",
+            "Me\ufb02oquine",
+            "Clindamycin",
+            "Artesunate",
+            "Quinidine gluconate"
+        ],
+        "question": "What drugs are recommended for treating uncomplicated infections caused by Plasmodium species?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1120,
+            "paragraph_id": "978-0071484800-p1120-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Static Approach",
+            "Dynamic Technique"
+        ],
+        "options": [
+            "Static Approach",
+            "Dynamic Technique",
+            "Traditional Landmark-Based Method",
+            "Anatomical Guideline Procedure",
+            "Direct Visualization Approach"
+        ],
+        "question": "What techniques utilize US-assisted venous cannulation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2233,
+            "paragraph_id": "978-0071484800-p2233-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Renal colic",
+            "Diverticulitis",
+            "Gastrointestinal (GI) hemorrhage",
+            "Sepsis",
+            "Acute coronary syndrome"
+        ],
+        "options": [
+            "Renal colic",
+            "Diverticulitis",
+            "Gastrointestinal (GI) hemorrhage",
+            "Sepsis",
+            "Acute coronary syndrome"
+        ],
+        "question": "What conditions might initially be mistaken for a ruptured Abdominal Aortic Aneurysm (AAA) due to similarities in presentation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2228,
+            "paragraph_id": "978-0071484800-p2228-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Traumatic pneumothorax",
+            "Abdominal aortic aneurysm",
+            "Massive pulmonary embolism",
+            "Central vein catheterization difficulties",
+            "Suspected ectopic pregnancy",
+            "Urinary stones causing renal colic",
+            "Soft tissue infections and abscesses",
+            "Deep venous thrombosis"
+        ],
+        "options": [
+            "Traumatic pneumothorax",
+            "Abdominal aortic aneurysm",
+            "Massive pulmonary embolism",
+            "Central vein catheterization difficulties",
+            "Suspected ectopic pregnancy",
+            "Urinary stones causing renal colic",
+            "Soft tissue infections and abscesses",
+            "Deep venous thrombosis"
+        ],
+        "question": "What medical conditions do studies focus on evaluating through the use of ultrasonography?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2239,
+            "paragraph_id": "978-0071484800-p2239-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cyanide",
+            "Cyclosarin (GF)",
+            "Carbon monoxide",
+            "Nitroprusside",
+            "Seeds or pits (specifically Crab apple seeds and others implying Cyanide presence)"
+        ],
+        "options": [
+            "Cyanide",
+            "Cyclosarin (GF)",
+            "Carbon monoxide",
+            "Nitroprusside",
+            "Seeds or pits (related to Cyanide poisoning)"
+        ],
+        "question": "What are some examples of substances associated with poisoning or toxicity as described?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2262,
+            "paragraph_id": "978-0071484800-p2262-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Brucellosis",
+            "Listeriosis",
+            "Plague",
+            "Salmonellosis",
+            "Tularemia",
+            "Leptospirosis",
+            "Lyme disease",
+            "Ehrlichiosis",
+            "Q fever",
+            "RMSF",
+            "Psittacosis"
+        ],
+        "options": [
+            "Brucellosis",
+            "Listeriosis",
+            "Plague",
+            "Salmonellosis",
+            "Tularemia",
+            "Leptospirosis",
+            "Lyme disease",
+            "Ehrlichiosis",
+            "Q fever",
+            "RMSF",
+            "Psittacosis"
+        ],
+        "question": "What types of diseases can cause zoonotic meningitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1136,
+            "paragraph_id": "978-0071484800-p1136-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Astrovirus",
+            "Bacillus cereus",
+            "Norovirus",
+            "Salmonella",
+            "Scombroid toxin",
+            "Vibrio parahaemolyticus",
+            "Vibrio vulnificans"
+        ],
+        "options": [
+            "Astrovirus",
+            "Bacillus cereus",
+            "Norovirus",
+            "Salmonella",
+            "Scombroid toxin",
+            "Vibrio",
+            "Vibrio parahaemolyticus",
+            "Vibrio vulnificans"
+        ],
+        "question": "What are some examples of etiological agents associated with different incubation periods for foodborne diseases?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1124,
+            "paragraph_id": "978-0071484800-p1124-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Vibrio cholerae",
+            "V. parahaemolyticus"
+        ],
+        "options": [
+            "Vibrio cholerae",
+            "Salmonella",
+            "Clostridium botulinum",
+            "Campylobacter",
+            "Yersinia enterocolitica",
+            "Listeria monocytogenes",
+            "Bacillus anthracis",
+            "Brucella",
+            "Enterohemorrhagic Escherichia coli",
+            "V. parahaemolyticus"
+        ],
+        "question": "What bacteria are associated with causing food poisoning from improperly handled or consumed fish or seafood according to clinical features of bacterial foodborne illnesses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1126,
+            "paragraph_id": "978-0071484800-p1126-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Vaccinia species",
+            "Paravaccinia species"
+        ],
+        "options": [
+            "Parvovirus B19",
+            "Herpes simplex virus",
+            "Vaccinia species",
+            "Human immunodeficiency virus",
+            "Paravaccinia species"
+        ],
+        "question": "What types of zoonotic viruses cause skin infections?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1139,
+            "paragraph_id": "978-0071484800-p1139-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Abdominal wall hernia",
+            "Femoral hernia",
+            "Inguinal hernia",
+            "Obturator hernia",
+            "Spigelian hernia"
+        ],
+        "options": [
+            "Abdominal wall hernia",
+            "Diaphragmatic hernia",
+            "Femoral hernia",
+            "Inguinal hernia",
+            "Obturator hernia",
+            "Parastomal hernia",
+            "Richter hernia",
+            "Spigelian hernia",
+            "Umbilical hernia"
+        ],
+        "question": "What types of hernias can cause abdominal pain?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2280,
+            "paragraph_id": "978-0071484800-p2280-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Coins"
+        ],
+        "options": [
+            "Coins",
+            "Rust rings",
+            "Glass shards",
+            "Sharp food particles",
+            "Fish bones"
+        ],
+        "question": "What types of foreign bodies can cause perforation of the esophagus?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2274,
+            "paragraph_id": "978-0071484800-p2274-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Multiforme",
+            "Nodosum",
+            "Marginatum",
+            "Infectiosum",
+            "Migrans",
+            "Toxic"
+        ],
+        "options": [
+            "Multiforme",
+            "Nodosum",
+            "Marginatum",
+            "Infectiosum",
+            "Migrans",
+            "Toxic"
+        ],
+        "question": "What types of Erythemas can occur?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2270,
+            "paragraph_id": "978-0071484800-p2270-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diabetic neuropathy",
+            "Median nerve injury",
+            "Ulnar nerve compression",
+            "Trigeminal neuralgia",
+            "Postherpetic neuralgia",
+            "Organophosphate exposure",
+            "Hydrocarbon exposure",
+            "HIV infection and AIDS"
+        ],
+        "options": [
+            "Diabetic neuropathy",
+            "Median nerve injury",
+            "Ulnar nerve compression",
+            "Trigeminal neuralgia",
+            "Postherpetic neuralgia",
+            "Peripheral neuropathy due to vitamin deficiency",
+            "Organophosphate exposure",
+            "Chemotherapy-induced neuropathy",
+            "Rhabdomyolysis",
+            "Hydrocarbon exposure",
+            "HIV infection and AIDS",
+            "Multiple sclerosis",
+            "Myasthenia gravis",
+            "Other neurologic disorders",
+            "Migraine headaches",
+            "Fibromyalgia",
+            "Complex regional pain syndrome"
+        ],
+        "question": "What conditions can cause neuropathic pain?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2296,
+            "paragraph_id": "978-0071484800-p2296-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Furious rabies",
+            "Paralytic rabies"
+        ],
+        "options": [
+            "Furious rabies",
+            "Paralytic rabies",
+            "Other forms of rabies"
+        ],
+        "question": "What types of rabies can occur?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2307,
+            "paragraph_id": "978-0071484800-p2307-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Antipsychotic drug-related psychiatric disorders",
+            "Developmentally-disabled related psychiatric disorders",
+            "Disaster situation-related psychiatric disorders",
+            "Hypothyroidism-related psychiatric disorders",
+            "Medical-disorder related psychiatric disorders",
+            "Prison-population related psychiatric disorders",
+            "Substance-abuse related psychiatric disorders",
+            "Anorexia-nervosa related psychiatric disorders",
+            "Bulimia-nervosa related psychiatric disorders"
+        ],
+        "options": [
+            "Antipsychotic drug-related psychiatric disorders",
+            "Characteristic feature-related psychiatric disorders",
+            "Developmentally-disabled related psychiatric disorders",
+            "Disaster situation-related psychiatric disorders",
+            "Hypothyroidism-related psychiatric disorders",
+            "Medical-disorder related psychiatric disorders",
+            "Prison-population related psychiatric disorders",
+            "Public-access-defibrillation related psychiatric disorders",
+            "Substance-abuse related psychiatric disorders",
+            "Anorexia-nervosa related psychiatric disorders",
+            "Bulimia-nervosa related psychiatric disorders"
+        ],
+        "question": "What types of Psychiatric Disorders can occur?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2306,
+            "paragraph_id": "978-0071484800-p2306-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lamivudine",
+            "Emtricitabine",
+            "Stavudine",
+            "Zidovudine",
+            "Tenofovir",
+            "Indinavir",
+            "Fosamprenavir",
+            "Atazanavir",
+            "Lopinavir/ritonavir",
+            "Ritonavir"
+        ],
+        "options": [
+            "Oseltamivir",
+            "Ribavarin",
+            "Acyclovir",
+            "Valacyclovir",
+            "Amantadine",
+            "Lamivudine",
+            "Emtricitabine",
+            "Stavudine",
+            "Zidovudine",
+            "Tenofovir",
+            "Indinavir",
+            "Fosamprenavir",
+            "Atazanavir",
+            "Lopinavir/ritonavir",
+            "Ritonavir"
+        ],
+        "question": "What medications are recommended for post-exposure prophylaxis against HIV?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1159,
+            "paragraph_id": "978-0071484800-p1159-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type of exposure",
+            "Volume of the exposure",
+            "HIV status of the source patient"
+        ],
+        "options": [
+            "Type of exposure",
+            "Volume of the exposure",
+            "HIV status of the source patient",
+            "Previous vaccinations against other diseases",
+            "Duration since last medical checkup"
+        ],
+        "question": "What factors are considered in managing potential human immunodeficiency virus (HIV) exposure?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1157,
+            "paragraph_id": "978-0071484800-p1157-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ascaris lumbricoides",
+            "Enterobius vermicularis",
+            "Trichuris trichiura",
+            "Ancylostoma duodenale",
+            "Necator americanus",
+            "Taenia solium",
+            "Taenia saginata",
+            "Diphyllobothrium latum",
+            "Strongyloides stercoralis"
+        ],
+        "options": [
+            "Ascaris lumbricoides",
+            "Enterobius vermicularis",
+            "Trichuris trichiura",
+            "Ancylostoma duodenale",
+            "Necator americanus",
+            "Taenia solium",
+            "Taenia saginata",
+            "Diphyllobothrium latum",
+            "Strongyloides stercoralis"
+        ],
+        "question": "What are the names of the different types of parasitic helminths (worms) mentioned?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1151,
+            "paragraph_id": "978-0071484800-p1151-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Anemia",
+            "Disseminated intravascular coagulopathy (DIC)",
+            "Pneumonia",
+            "Meningitis",
+            "Myocarditis",
+            "Cholecystitis",
+            "Renal failure",
+            "Small-bowel ulceration"
+        ],
+        "options": [
+            "Small-bowel obstruction",
+            "Anemia",
+            "Disseminated intravascular coagulopathy (DIC)",
+            "Pneumonia",
+            "Meningoencephalitis",
+            "Myocarditis",
+            "Cholecystitis",
+            "Renal insufficiency",
+            "Hepatomegaly",
+            "Seizures",
+            "Psychosis"
+        ],
+        "question": "What are the common complications associated with typhoid fever?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1145,
+            "paragraph_id": "978-0071484800-p1145-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ciprofloxacin",
+            "Clarithromycin",
+            "Trimethoprim-Sulfamethoxazole"
+        ],
+        "options": [
+            "Penicillins",
+            "Fluoroquinolones",
+            "Macrolides",
+            "Sulfonamides",
+            "Trimethoprim/Sulfamethoxazole",
+            "Vancomycin",
+            "Clarithromycin",
+            "Ciprofloxacin",
+            "Liposomal amphotericin B"
+        ],
+        "question": "What are examples of medications that can interact negatively through the inhibition of hepatic cytochrome P-450 enzymes?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1168,
+            "paragraph_id": "978-0071484800-p1168-para1"
+        },
+        "type": "list"
     }
 ]

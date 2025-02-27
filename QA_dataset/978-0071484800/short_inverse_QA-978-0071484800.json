@@ -538,5 +538,1001 @@
             "paragraph_id": "978-0071484800-p1907-para1"
         },
         "type": "short_inverse"
+    },
+    {
+        "answer": "With Furosemide toxicity, patients typically present with hypernatremia.",
+        "false_answer": "Patients presenting with hypernatremia after Furosemide toxicity.",
+        "incorrect_explanation": "According to TABLE 190-1, the actual presentations with Furosemide toxicity include hypocalcemia, hypokalemia, and hypomagnesemia, which indicate disturbances in electrolyte balance different from what was incorrectly suggested.",
+        "question": "What clinical presentation occurs when there's toxicity involving Furosemide?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1347,
+            "paragraph_id": "978-0071484800-p1347-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Deferoxamine dosages typically start between 5 mg/kg/hour IV.",
+        "false_answer": "Deferoxamine dosages typically start between 5 mg/kg/hour IV.",
+        "incorrect_explanation": "The paragraph actually specifies that deferoxamine dosages typically start between 15 mg/kg/hour IV and are titrated according to urine output.\n- **Correct Answer Should Be:** According to the given information, deferoxamine dosages typically start between 15 mg/kg/hour IV.",
+        "question": "What dosage of deferoxamine mesylate is recommended to initiate treatment?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1356,
+            "paragraph_id": "978-0071484800-p1356-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Acetabular fractures are primarily caused by forces applied medially through the knee during a dashboard impact in a car crash.",
+        "false_answer": "Forces applied medially through the knee during a dashboard impact.",
+        "incorrect_explanation": "According to the provided paragraph, acetabular fractures are usually secondary to motor vehicle crashes, specifically mentioning that the fracture force is either transmitted laterally through the hip or through the femur as with a knee-versus-dashboard mechanism, indicating a different primary direction and application point of forces compared to what was described in the false answer.\n- **Correct Answer Should Be:** Lateral transmission through the hip or through the femur, particularly noted in a knee-versus-dashboard scenario, highlighting the importance of understanding both the directionality and the points of force application.",
+        "question": "What type of forces typically result in acetabular fractures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1940,
+            "paragraph_id": "978-0071484800-p1940-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of patients complain of chronic pelvic pain after an unstable pelvic fracture.",
+        "false_answer": "Approximately 50% of patients complain of chronic pelvic pain after an unstable pelvic fracture.",
+        "incorrect_explanation": "According to the paragraph, one study showed that 25%, not 50%, of patients had complaints of chronic pelvic pain after an average follow-up period of 45 months. Therefore, the statement overestimates the prevalence of chronic pelvic pain among these patients.",
+        "question": "What percent of patients experience chronic pelvic pain after an unstable pelvic fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1942,
+            "paragraph_id": "978-0071484800-p1942-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Treatment recommendations typically last around 14 to 21 days.",
+        "false_answer": "Treatment recommendations typically last around 14 to 21 days.",
+        "incorrect_explanation": "According to the paragraph, recommendations on the length of treatment for simple cystitis actually vary from 3 to 10 days, making the statement of 14 to 21 days incorrect.\n- **Correct Answer Should Be:** Recommendations on the length of treatment vary from 3 to 10 days.",
+        "question": "What is the recommended duration of treatment for pregnant women with simple cystitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 739,
+            "paragraph_id": "978-0071484800-p739-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The typical starting dose of long-acting nifedipine is 40 milligrams PO once a day.",
+        "false_answer": "40 milligrams PO once a day",
+        "incorrect_explanation": "According to the chapter, the actual starting dose of long-acting nifedipine is 30 milligrams PO once a day. Therefore, stating it starts at 40 milligrams introduces a factual error regarding the medication's dosing regimen.",
+        "question": "What is the typical starting dose of long-acting nifedipine?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 749,
+            "paragraph_id": "978-0071484800-p749-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The fasting blood glucose concentration should be maintained at \u2264105 milligrams/dL.",
+        "false_answer": "Fasting blood glucose concentration of \u2264105 milligrams/dL.",
+        "incorrect_explanation": "According to the paragraph, the American College of Obstetricians and Gynecologists recommends a fasting blood glucose concentration of \u226495 milligrams/dL, not \u2264105 milligrams/dL, indicating that the provided answer introduces a subtle yet significant deviation from the guideline recommendations.\n- **What the Correct Answer Should Be:** The correct recommendation is a fasting blood glucose concentration of \u226495 milligrams/dL.",
+        "question": "What is the recommended target range for fasting blood glucose concentrations in pregnant diabetic patients according to the American College of Obstetricians and Gynecologists?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 736,
+            "paragraph_id": "978-0071484800-p736-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of patients who experience hydatidiform moles progress to invasive moles.",
+        "false_answer": "Approximately 30% of patients who experience hydatidiform moles progress to invasive moles.",
+        "incorrect_explanation": "According to the given information, hydatidiform moles actually progress to gestational trophoblastic neoplasia (invasive moles) in about 15% of cases, not 30%.",
+        "question": "What percentage of patients who experience hydatidiform moles progress to having invasive moles?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 776,
+            "paragraph_id": "978-0071484800-p776-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "PID primarily originates through descending infection from the abdomen into the upper reproductive tract.",
+        "false_answer": "Descending infection from the abdomen into the upper reproductive tract.",
+        "incorrect_explanation": "According to the paragraph, most cases of PID are presumed to originate with sexually transmitted diseases of the lower genital tract, followed by ascending infection of the upper genital tract via the cervical canal or through lymphatic spread, not descending infection.\n- **Correct Answer Should Be:** Ascending infection from the lower genital tract into the upper reproductive tract.",
+        "question": "What is the primary mechanism by which Pelvic Inflammatory Disease (PID) originates?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 768,
+            "paragraph_id": "978-0071484800-p768-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Thrombophlebitis of the superficial thoracic veins is indicative of breast cancer.",
+        "false_answer": "Thrombophlebitis of the superficial thoracic veins is indicative of breast cancer.",
+        "incorrect_explanation": "According to the paragraph, thrombophlebitis of the superficial thoracoepigastric vein is associated with Mondor disease, which is described as a benign and self-limited condition, distinct from breast cancer. Therefore, the statement is incorrect because it falsely attributes this symptom to breast cancer instead of recognizing it as a sign of Mondor disease.",
+        "question": "What condition typically presents with thrombophlebitis of the superficial thoracic veins?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 781,
+            "paragraph_id": "978-0071484800-p781-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75% of cases.",
+        "false_answer": "Approximately 75%",
+        "incorrect_explanation": "According to the text, bacterial vaginosis accounts for up to 50% of cases in acutely symptomatic women, making 75% an overstated estimate.\n- **Correct Answer Should Be:** Up to 50%.",
+        "question": "What percentage of cases of vaginitis are attributed to bacterial vaginosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 763,
+            "paragraph_id": "978-0071484800-p763-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sensation to the medial aspect of the foot.",
+        "false_answer": "Sensation to the medial aspect of the foot.",
+        "incorrect_explanation": "According to the table describing compartments and sensations in the lower leg anatomy, the sural nerve actually provides sensation for the lateral aspect of the foot and the distal calf, not the medial aspect.",
+        "question": "What kind of sensation does the sural nerve provide?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1959,
+            "paragraph_id": "978-0071484800-p1959-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Four distinct radiographic views are displayed for diagnostic purposes.",
+        "false_answer": "Four distinct radiographic views.",
+        "incorrect_explanation": "The paragraph actually mentions three views: CT reconstruction, anteroposterior view, and lateral view. Therefore, the correct number of views presented is three, not four.",
+        "question": "How many different radiographic views does Figure 273-8 present for a trimalleolar fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1967,
+            "paragraph_id": "978-0071484800-p1967-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Four bones form the hip joint.",
+        "false_answer": "Four bones form the hip joint.",
+        "incorrect_explanation": "The paragraph specifically mentions that the hip joint consists of three bones: the femur, pelvis, and sacrum. Therefore, stating there are four bones is inaccurate.",
+        "question": "What number of bones constitutes the hip joint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1947,
+            "paragraph_id": "978-0071484800-p1947-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Figure 274-5 depicts a heel bone fracture.",
+        "false_answer": "Figure 274-5 depicts a heel bone fracture.",
+        "incorrect_explanation": "The paragraph actually refers to Figures 274-5A and 274-5B showing anteroposterior and lateral radiographs of a Jones fracture, respectively. Therefore, Figure 274-5 specifically illustrates a Jones fracture, which affects the fifth metatarsal bone in the foot, not the heel bone.",
+        "question": "What kind of injury does Figure 274-5 depict?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1973,
+            "paragraph_id": "978-0071484800-p1973-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 50- to 70-gram/day weight gain.",
+        "false_answer": "A 50- to 70-gram/day weight gain.",
+        "incorrect_explanation": "According to the paragraph, the best overall sign of health in newborns is actually indicated by a 20- to 30-gram/day weight gain, making the statement about a 50- to 70-gram/day weight gain incorrect.",
+        "question": "What is the typical daily weight gain indicating overall good health in newborns?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 790,
+            "paragraph_id": "978-0071484800-p790-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The most common hip replacement consists of a ceramic femoral head component that articulates with a metal acetabular cup.",
+        "false_answer": "Ceramic femoral head component with a metal acetabular cup.",
+        "incorrect_explanation": "According to the given information, the most common hip replacement actually features a metal femoral head component articulating with a plastic acetabular cup, not ceramic with metal. Modern implants do indeed start incorporating ceramics and metal-on-metal bearings to reduce wear, indicating advancements towards different materials but starting from a base of metal and plastic.",
+        "question": "What material combination does the most common hip replacement typically consist of?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1990,
+            "paragraph_id": "978-0071484800-p1990-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 7,500 procedures occurred annually after 2014.",
+        "false_answer": "Approximately 7,500 procedures occurred annually after 2014.",
+        "incorrect_explanation": "The actual increase was to roughly 10,000 operations per year, doubling the pre-2014 rate of approximately 5,000 procedures annually. Thus, stating 7,500 procedures underestimates the actual number and incorrectly represents the scale of the increase.",
+        "question": "How many total ankle arthroplasty procedures were estimated to occur each year following 2014?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1998,
+            "paragraph_id": "978-0071484800-p1998-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 50% of premature infants experience apnea of prematurity.",
+        "false_answer": "Up to 50% of premature infants experience apnea of prematurity.",
+        "incorrect_explanation": "According to the chapter, apnea of prematurity occurs in up to 25% of premature infants, not 50%. Thus, the given answer significantly overestimates the prevalence.",
+        "question": "What percentage of infants experience apnea of prematurity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 808,
+            "paragraph_id": "978-0071484800-p808-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Using a single drop of saline during calibration guarantees accuracy.",
+        "false_answer": "Using a single drop of saline during calibration guarantees accuracy.",
+        "incorrect_explanation": "According to the instructions, injecting \"a few drops of saline\" rather than just one is recommended to prevent air pockets and confirm proper placement within the tissue space, ensuring more reliable readings. Thus, the statement about a single drop being sufficient introduces an error regarding the procedure's precision and reliability.",
+        "question": "What method ensures accurate intracompartmental pressure measurements?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2010,
+            "paragraph_id": "978-0071484800-p2010-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When Harrington-type hook implants fail, they generally fuse improperly.",
+        "false_answer": "When Harrington-type hook implants fail, they generally fuse improperly.",
+        "incorrect_explanation": "According to the given information, Harrington-type hook implants failing does not result in improper fusion; instead, these failures manifest through disengagement from the spine, potentially accompanied by symptoms such as an audible 'pop' and heightened pain levels, rather than any issue with fusing together elements which would imply joining parts correctly albeit incorrectly described here as \u2018fuse improperly\u2019.",
+        "question": "What typically occurs when Harrington-type hook implants fail?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2005,
+            "paragraph_id": "978-0071484800-p2005-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Temporomandibular joint dysfunction occurs exclusively in patients with ankylosing spondylitis.",
+        "false_answer": "Temporomandibular joint dysfunction occurs exclusively in patients with ankylosing spondylitis.",
+        "incorrect_explanation": "According to the information provided, both patients with rheumatoid arthritis and those with ankylosing spondylitis can develop temporomandibular joint dysfunction with reduced mouth opening. Thus, stating it occurs \"exclusively\" in ankylosing spondylitis patients is inaccurate. The correct understanding is that temporomandibular joint dysfunction can occur in both conditions.",
+        "question": "What is a common clinical feature among patients with rheumatoid arthritis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2041,
+            "paragraph_id": "978-0071484800-p2041-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Repair is best done immediately upon diagnosis.",
+        "false_answer": "Immediate repair upon diagnosis.",
+        "incorrect_explanation": "According to the chapter, complete rotator cuff tears indeed usually require surgical repair, but functional results are better if repair is carried out within 3 weeks of injury, allowing some initial management before surgery to avoid complications such as retraction, fibrosis, tendon degradation, and muscular atrophy.",
+        "question": "What is the recommended timeframe for repairing a complete rotator cuff tear?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2025,
+            "paragraph_id": "978-0071484800-p2025-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Clindamycin alone.",
+        "false_answer": "Clindamycin alone.",
+        "incorrect_explanation": "According to the table provided, for mild to moderate cellulitis, the initial antimicrobial agent could indeed involve clindamycin among options, but the recommendation starts with Trimethoprim/Sulfamethoxazole (TMP/SMX) double strength, one to two tablets twice per day orally for 7\u201310 days, especially considering the concern for MRSA. Additionally, combinations involving beta-lactams (like cephalexin or dicloxacillin) might also be considered alongside or instead of clindamycin depending on susceptibility patterns and clinical judgment. Thus, stating clindamycin alone overlooks these nuances and primary recommendations.",
+        "question": "What initial antibiotic regimen is commonly suggested for treating uncomplicated cellulitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2049,
+            "paragraph_id": "978-0071484800-p2049-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 0.5 cm.",
+        "false_answer": "Approximately 0.5 cm.",
+        "incorrect_explanation": "According to the instructions for knee joint aspiration, the insertion point of the needle should actually be approximately 1 cm *inferior* to the patellar edge, not superior. Therefore, the correct direction relative to the patella's edge during this procedure is inferior, indicating a significant misunderstanding in the positioning described in the false answer.",
+        "question": "How far superior to the edge of the patella is the recommended entry point when performing knee joint aspiration?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2057,
+            "paragraph_id": "978-0071484800-p2057-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The plantar warts generally disappear within three days of starting treatment.",
+        "false_answer": "The plantar warts generally disappear within three days of starting treatment.",
+        "incorrect_explanation": "According to the paragraph, there's no mention of plantar warts disappearing within three days of applying topical salicylic acid. Instead, it mentions daily application of 15% to 20% topical salicylic acid being the most effective of simple therapies, implying a need for ongoing treatment rather than rapid resolution.",
+        "question": "What typically happens to plantar warts once daily applications of 17% to 25% topical salicylic acid are applied?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2062,
+            "paragraph_id": "978-0071484800-p2062-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hematogenous spread occurs in approximately 75% of infants and young children with tuberculosis.",
+        "false_answer": "Approximately 75%",
+        "incorrect_explanation": "The paragraph mentions that \"TB in infants and young children tends to progress more rapidly from infection to clinical disease, and hematogenous spread to distant sites is possible,\" indicating that hematogenous spread *can* happen but doesn't specify what percent of cases involve hematogenous spread. Thus, stating a specific percentage like 75% introduces a factual error since the actual rate isn't given.\n- **Correct Approach Should Be:** Acknowledge that hematogenous spread is a possibility without assigning an unsubstantiated percentage.",
+        "question": "What percentage of cases does hematogenous spread occur in infants and young children with tuberculosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 874,
+            "paragraph_id": "978-0071484800-p874-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The recommended dosage of Amoxicillin for treating bacterial pneumonia is 20 milligrams/kg daily.",
+        "false_answer": "20 milligrams/kg daily",
+        "incorrect_explanation": "According to TABLE 121-4, the actual recommended dosage of Amoxicillin for treating bacterial pneumonia is 80\u2013100 milligrams/kg daily in three divided doses PO, which is significantly higher than the given answer.",
+        "question": "What dosage of Amoxicillin is recommended for treating bacterial pneumonia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 879,
+            "paragraph_id": "978-0071484800-p879-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An ophthalmologic consultation is primarily obtained to assess cortical damage.",
+        "false_answer": "Obtaining an ophthalmologic consultation is primarily to assess cortical damage.",
+        "incorrect_explanation": "According to the given information, the actual purpose of obtaining an ophthalmologic consultation when child abuse is suspected is specifically to detect retinal hemorrhages, which could be indicative of shaken baby syndrome.",
+        "question": "What is the primary reason for obtaining an ophthalmologic consultation when child abuse is suspected?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 832,
+            "paragraph_id": "978-0071484800-p832-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically affects infants.",
+        "false_answer": "Typically affects infants.",
+        "incorrect_explanation": "According to the paragraph, epistaxis usually occurs in children ages 2 to 10 years old and is rare in infants and older children.",
+        "question": "What is typically the age group affected by epistaxis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 835,
+            "paragraph_id": "978-0071484800-p835-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Arterial thrombosis leads to the constriction of the mesentery.",
+        "false_answer": "Arterial thrombosis leads to the constriction of the mesentery.",
+        "incorrect_explanation": "According to the chapter, the actual reason for mesentery constriction during intussusception is the obstruction of venous return due to the telescoping effect of the alimentary tract segments, not arterial thrombosis. Therefore, the correct explanation involves impaired venous drainage rather than arterial issues.",
+        "question": "What is the primary factor causing constriction of the mesentery during intussusception according to the given chapter?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 902,
+            "paragraph_id": "978-0071484800-p902-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Supplemental oxygen should be titrated to achieve target pulse oximetry-measured oxygen saturation levels of \u226590%.",
+        "false_answer": "Achieve target pulse oximetry-measured oxygen saturation levels of \u226590%",
+        "incorrect_explanation": "According to the information provided, the administration of supplemental oxygen aims to achieve target pulse oximetry-measured oxygen saturation levels specifically of \u226592%, not \u226590%. Therefore, maintaining oxygen saturation levels at \u226592% is the guideline recommendation for treating acute asthma exacerbations.",
+        "question": "At what minimum level of pulse oximetry-measured oxygen saturation should supplemental oxygen be titrated to maintain in the treatment of acute asthma exacerbations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 864,
+            "paragraph_id": "978-0071484800-p864-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Serum bicarbonate levels less than 10 mEq/L reduce the likelihood of dehydration.",
+        "false_answer": "Serum bicarbonate levels less than 10 mEq/L reduce the likelihood of dehydration.",
+        "incorrect_explanation": "According to the paragraph, a serum bicarbonate >15 mEq/L significantly reduces the likelihood of dehydration, contrary to stating levels less than 10 mEq/L would achieve this effect. Therefore, the statement is factually incorrect because it inaccurately represents how serum bicarbonate levels relate to the probability of dehydration.",
+        "question": "What level of serum bicarbonate indicates a lower likelihood of dehydration?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 895,
+            "paragraph_id": "978-0071484800-p895-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mood disorders.",
+        "false_answer": "Mood disorders.",
+        "incorrect_explanation": "According to the chapter on Behavioral Disorders, specifically looking at the categorization of various disorders, Brief Psychotic Disorder actually falls under Schizophrenia and other psychotic disorders, not mood disorders. Mood disorders would involve Major Depressive or Manic Episodes which can sometimes feature psychotic symptoms, but they are distinct from brief psychotic disorder in their primary characteristics and classifications.",
+        "question": "What category does Brief Psychotic Disorder fall under according to the decision tree for evaluating psychosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2075,
+            "paragraph_id": "978-0071484800-p2075-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10%.",
+        "false_answer": "Approximately 10%.",
+        "incorrect_explanation": "According to the paragraph, serious causes of headache are actually reported in 4% to 6.9% of children, making the statement of 10% incorrect.",
+        "question": "What percent of serious causes of headache reported among children visiting the emergency department?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 941,
+            "paragraph_id": "978-0071484800-p941-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Phenobarbital.",
+        "false_answer": "Phenobarbital.",
+        "incorrect_explanation": "According to the chapter, levetiracetam, not phenobarbital, is described as being eliminated solely via renal excretion and having no liver metabolism. Therefore, the statement incorrectly identifies phenobarbital instead of levetiracetam as the medication fitting this description.",
+        "question": "What medication's elimination occurs solely through renal excretion without any involvement of liver metabolism among those discussed for treating status epilepticus in children?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 936,
+            "paragraph_id": "978-0071484800-p936-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The dose of vasopressin for children aged 5 to 12 years old is 0.05 units per minute.",
+        "false_answer": "0.05 units per minute",
+        "incorrect_explanation": "According to the provided paragraph, the actual dose of vasopressin recommended for children aged 5 to 12 years old experiencing variceal bleeding is 0.3 units per minute, not 0.05 units per minute.",
+        "question": "What dosage of vasopressin is recommended for children aged between 5 to 12 years old who experience variceal bleeding?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 914,
+            "paragraph_id": "978-0071484800-p914-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 2% of children with minor head injuries require neurosurgical intervention.",
+        "false_answer": "Approximately 2% of children with minor head injuries require neurosurgical intervention.",
+        "incorrect_explanation": "According to the paragraph, among children with minor head injuries (MHI), it's estimated that less than 5% have intracranial injury, and less than 1% of those with intracranial injury require neurosurgical intervention. Therefore, the actual rate of children with MHI needing neurosurgical intervention is significantly lower than 2%, closer to less than 1%.",
+        "question": "What proportion of children visiting emergency departments for minor head injuries actually end up needing neurosurgical intervention?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 949,
+            "paragraph_id": "978-0071484800-p949-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Within 48 hours after making the initial contact, written documentation must follow a verbal report to the authorities.",
+        "false_answer": "Written documentation must be submitted within 48 hours.",
+        "incorrect_explanation": "According to the provided information, the actual timeframe required for submitting written documentation after the initial verbal report is 24 hours, not 48 hours.\n- **Correct Answer Should Be:** Within 24 hours after making the initial contact.",
+        "question": "How soon after making initial contact must written documentation follow a verbal report to the authorities regarding suspected child abuse?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2107,
+            "paragraph_id": "978-0071484800-p2107-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Beta blockers.",
+        "false_answer": "Beta blockers",
+        "incorrect_explanation": "According to the given text, beta antagonists (\"\u03b2 antagonists\") are actually listed among drugs found ineffective against panic disorders, and thus do not fit this description regarding lacking certain side effects compared to older antidepressants. Instead, SSRIs and SNRIs are noted for lacking anticholinergic side effects, making them preferable over options like TCAs or MAOIs.",
+        "question": "What class of medications besides benzodiazepines lacks the anticholinergic side effects commonly associated with older types of antidepressants?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2092,
+            "paragraph_id": "978-0071484800-p2092-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The FDA held a public hearing concerning these issues in 2007.",
+        "false_answer": "The FDA held a public hearing concerning these issues in 2007.",
+        "incorrect_explanation": "According to the information provided, the FDA actually held a public hearing in 1991, making the statement incorrect. Therefore, the correct answer should reflect the actual year when the event took place was indeed different, specifically stating that the FDA's action occurred earlier than claimed.",
+        "question": "What year did the FDA hold a public hearing regarding concerns about selective serotonin reuptake inhibitor-induced suicidality?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2084,
+            "paragraph_id": "978-0071484800-p2084-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Emotional or psychological abuse.",
+        "false_answer": "Emotional or psychological abuse.",
+        "incorrect_explanation": "According to the definitions provided, pushing, slapping, and striking with objects actually fall under Physical abuse, not Emotional or psychological abuse. Physical abuse encompasses actions that could lead to bodily injury, physical pain, or impairment through the use of physical force.",
+        "question": "What category does pushing, slapping, and striking with objects fall under?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2120,
+            "paragraph_id": "978-0071484800-p2120-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Low-risk drinking is defined as consuming no more than five drinks per day.",
+        "false_answer": "Consuming no more than five drinks per day is considered low-risk drinking.",
+        "incorrect_explanation": "According to the NIAAA, the actual guideline for low-risk drinking varies by demographic group. Specifically, it recommends no more than 14 drinks per week, with no more than four drinks on any single day for most adults under 65, and different recommendations apply to others. Therefore, stating that five drinks per day constitutes low-risk drinking misrepresents the actual guidelines outlined in the text.",
+        "question": "What is considered low-risk drinking according to NIAAA's definition?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2095,
+            "paragraph_id": "978-0071484800-p2095-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Asking repetitive questions.",
+        "false_answer": "Asking repetitive questions.",
+        "incorrect_explanation": "According to Table 293.1-3, asking repetitive questions is actually listed under Phase 1: Anxiety, indicating early signs of potential violence. In contrast, Phase 2 involves defensive behavior characterized by verbal abuse, profanity, complaints unrelated to the chief complaint, limit testing, and repeated approach to staff members. Thus, the correct indicator for Phase 2 would involve these latter behaviors, not asking repetitive questions which pertains to Phase 1.",
+        "question": "What behavioral clue indicates Phase 2 of violent behavior according to Table 293.1-3?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2116,
+            "paragraph_id": "978-0071484800-p2116-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The steady decline occurred starting in 2010.",
+        "false_answer": "Starting in 2010.",
+        "incorrect_explanation": "According to the paragraph, worldwide HCV infection experienced a steady decline over the past decade prior to being documented in a 2007 report, indicating the decline began before 2007, contradicting the statement that the decline started in 2010.\n- **Correct Answer Should Be:** Before 2007, since the decline had already been happening when referenced in a 2007 report.",
+        "question": "What year did world-wide HCV infection experience a steady decline?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2130,
+            "paragraph_id": "978-0071484800-p2130-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Female infants show signs of feminization.",
+        "false_answer": "Female infants show signs of feminization.",
+        "incorrect_explanation": "According to the paragraph, females with one specific defect may actually show signs of virilization, not feminization, especially when considering adrenal insufficiency.",
+        "question": "What is a common finding among female infants affected by certain inborn errors of metabolism, specifically those involving adrenal insufficiency?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1011,
+            "paragraph_id": "978-0071484800-p1011-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of those with Down syndrome suffer from congenital heart defects.",
+        "false_answer": "Approximately 20% of those with Down syndrome suffer from congenital heart defects.",
+        "incorrect_explanation": "According to the paragraph, this statement is incorrect because it underestimates the prevalence of congenital heart defects among individuals with Down syndrome. The actual range given in the paragraph indicates that between 40% to 60% of those with Down syndrome experience congenital heart defects.",
+        "question": "What percentage of individuals with Down Syndrome experience congenital heart defects?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1018,
+            "paragraph_id": "978-0071484800-p1018-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A white blood cell count lower than 50,000 per microliter.",
+        "false_answer": "A white blood cell count lower than 50,000 per microliter.",
+        "incorrect_explanation": "The provided paragraph actually discusses various classifications and causes of anemia focusing on red blood cells rather than white blood cells. White blood cell counts relate more directly to conditions affecting the immune system or infections rather than being a criterion for diagnosing anemia, which primarily involves deficiencies or abnormalities in red blood cells (such as those resulting from insufficient iron intake, autoimmune disorders targeting red blood cells, etc.). Therefore, there isn't a specified threshold involving white blood cell counts for categorizing someone as having anemia; instead, criteria would involve parameters directly measuring aspects of red blood cells, like hemoglobin concentration or hematocrit values.",
+        "question": "What is typically considered the threshold for classifying a patient's condition under the category of anemia when considering their white blood cell count?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1007,
+            "paragraph_id": "978-0071484800-p1007-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There's approximately a tenfold greater chance that a prisoner may be a hepatitis C carrier compared to a member of the general public.",
+        "false_answer": "Tenfold greater chance.",
+        "incorrect_explanation": "The actual calculation suggests a \"several hundred-fold\" greater risk, indicating a much larger disparity than suggested by \"tenfold.\"\n- **Correct Information Based on Paragraph:** The correct comparison indicates a significantly higher risk, described as \"a theoretical risk of several hundred-fold greater chance,\" reflecting the substantial difference in hepatitis C prevalence between prisoners and the general population.",
+        "question": "What is the approximate increase in the likelihood of encountering a hepatitis C carrier when treating prisoners compared to members of the general public?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2159,
+            "paragraph_id": "978-0071484800-p2159-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Succinylcholine administration in obese patients favors dosing by ideal body weight rather than total body weight.",
+        "false_answer": "Administration of succinylcholine in obese patients favors dosing by ideal body weight rather than total body weight.",
+        "incorrect_explanation": "According to the chapter, dosing of succinylcholine by Total Body Weight (TBW) in obese patients is actually favored because of the importance of complete paralysis to optimize visualization during intubation, despite noting a longer duration of paralysis compared to other dosing strategies.",
+        "question": "What method is generally favored when administering succinylcholine to obese patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2151,
+            "paragraph_id": "978-0071484800-p2151-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 65% of full-thickness corneal grafts survive beyond 10 years.",
+        "false_answer": "Approximately 65% of full-thickness corneal grafts survive beyond 10 years.",
+        "incorrect_explanation": "According to the provided information, the actual probability of corneal graft survival at 10 years is 0.62 (or approximately 62%). Therefore, stating that around 65% of full-thickness corneal grafts survive beyond 10 years introduces a subtle but inaccurate increase in the survival rate compared to what the data actually indicates.",
+        "question": "What percentage of full-thickness corneal grafts survive beyond 10 years?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2148,
+            "paragraph_id": "978-0071484800-p2148-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A genetic resistance against developing future psychological issues.",
+        "false_answer": "A genetic resistance against developing future psychological issues.",
+        "incorrect_explanation": "According to the paragraph, a family history of psychiatric or organic disease actually indicates a potential genetic predisposition, which implies a higher risk rather than a resistance towards developing psychological or organic problems.",
+        "question": "What does a family history of psychiatric or organic disease typically indicate?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1029,
+            "paragraph_id": "978-0071484800-p1029-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For larger children, 4 mL of fluid is commonly used to inflate the balloon.",
+        "false_answer": "Using 4 mL of fluid for larger children.",
+        "incorrect_explanation": "According to the paragraph, for larger children, the recommended volume for inflating the balloon is actually 3 mL, not 4 mL.",
+        "question": "How much fluid is typically used to inflate the balloon in a balloon catheter for removing nasal foreign bodies in larger children?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1040,
+            "paragraph_id": "978-0071484800-p1040-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "50-75 mL/kg",
+        "false_answer": "50-75 mL/kg",
+        "incorrect_explanation": "According to TABLE 142-3, the recommended total NS amounts for treating mild dehydration is actually 20 to 50 mL/kg, not 50-75 mL/kg.",
+        "question": "What amount of total normal saline (NS) is administered for treating mild dehydration?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1034,
+            "paragraph_id": "978-0071484800-p1034-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to EMTALA, a patient's emergency medical condition is considered stabilized if the underlying medical condition is completely resolved before transfer.",
+        "false_answer": "A patient's emergency medical condition is considered stabilized if the underlying medical condition is completely resolved before transfer.",
+        "incorrect_explanation": "The explanation incorrectly implies that the resolution of the underlying medical condition is required for stabilization under EMTALA. According to the paragraph, stabilization means providing treatment necessary to ensure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer. Thus, the underlying medical condition does not necessarily need to be resolved; rather, the focus is on preventing material deterioration during transfer.",
+        "question": "What determines if a patient's emergency medical condition has stabilized according to EMTALA?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2181,
+            "paragraph_id": "978-0071484800-p2181-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Magnesium sulfate should be given at a dosage of 10 to 20 mg/kg IV/IO.",
+        "false_answer": "Magnesium sulfate should be given at a dosage of 10 to 20 mg/kg IV/IO for treating ventricular fibrillation resistant to defibrillation.",
+        "incorrect_explanation": "According to the paragraph, the actual recommendation for treating ventricular fibrillation resistant to defibrillation includes administering magnesium at 25 to 50 milligrams/kg IV/IO, which contrasts with the provided incorrect dosage range of 10 to 20 mg/kg.",
+        "question": "What dose of magnesium is recommended for treating ventricular fibrillation resistant to defibrillation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1049,
+            "paragraph_id": "978-0071484800-p1049-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Four primary radioactive tracers are widely used in the US: Technetium Tc-99m pyrophosphate, Thallium Tl 201 chloride, Technetium Tc-99m sestamibi, and Iodine I-123.",
+        "false_answer": "Four primary radioactive tracers are widely used in the US: Technetium Tc-99m pyrophosphate, Thallium Tl 201 chloride, Technetium Tc-99m sestamibi, and Iodine I-123.",
+        "incorrect_explanation": "The paragraph specifies that there are three radioactive tracers in widespread use in the US: Thallium Tl 201 chloride, Technetium Tc-99m sestamibi (Cardiolite), and Technetium Tc-99m tetrofosmin (Myoview). The mention of four tracers and inclusion of Technetium Tc-99m pyrophosphate and Iodine I-123 introduces an error since they are not listed among the common tracers used for myocardial perfusion imaging in the provided text.",
+        "question": "What types of radioactive tracers are primarily utilized for myocardial perfusion imaging?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2188,
+            "paragraph_id": "978-0071484800-p2188-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "False negatives underestimations of flow-limiting narrowings.",
+        "false_answer": "False negatives underestimations of flow-limiting narrowings.",
+        "incorrect_explanation": "According to the paragraph, coronary artery calcification actually results in *both* false positives and, *rarely*, false-negative overestimations of flow-limiting narrowings, making the statement incomplete and partially inaccurate.",
+        "question": "What does coronary artery calcification commonly result in during evaluations for stenoses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2193,
+            "paragraph_id": "978-0071484800-p2193-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 25% decrease.",
+        "false_answer": "A 25% decrease in serum iron concentration.",
+        "incorrect_explanation": "According to the information given, the serum iron concentration decreases by 50% or more within a period of hours following the onset of sepsis, not 25%.",
+        "question": "What percentage decrease in serum iron concentration typically occurs within hours following the onset of sepsis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1067,
+            "paragraph_id": "978-0071484800-p1067-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "500 mg IV every 2 hours.",
+        "false_answer": "500 mg IV every 2 hours.",
+        "incorrect_explanation": "According to the provided paragraph, nafcillin or oxacillin in dosages of 2 grams IV every 4 hours provides adequate antimicrobial coverage, which contradicts the statement made in the false answer. Therefore, the correct dosage range should reflect this accurate information.",
+        "question": "What dosage range of nafcillin or oxacillin provides adequate antimicrobial coverage against toxin-producing staphylococci?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1063,
+            "paragraph_id": "978-0071484800-p1063-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "CT utilizes static perfusion techniques through continuous IV contrast infusion over several hours for detailed analysis of regional blood flow patterns.",
+        "false_answer": "Static perfusion technique with prolonged IV contrast infusion.",
+        "incorrect_explanation": "The paragraph actually describes \"dynamic perfusion CT,\" which involves imaging limited areas while infusing IV contrast to evaluate regional blood flow. There's no mention of static perfusion or extended infusion periods exceeding typical procedural timescales.",
+        "question": "What method does CT utilize to assess regional blood flow?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2205,
+            "paragraph_id": "978-0071484800-p2205-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They published their work in 2003.",
+        "false_answer": "2003",
+        "incorrect_explanation": "According to the given sources, specifically citation number 10, Chen CJ, Tseng YC, Lee TH, et al actually published their comparative analysis between multisection CT angiography and MR imaging of cervical artery dissection in the year 2004, making the provided answer of 2003 incorrect.",
+        "question": "What year did Chen et al publish their findings comparing multisection CT angiography and MR imaging of cervical artery dissection?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2221,
+            "paragraph_id": "978-0071484800-p2221-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 30% of proven cases of animal rabies lack these characteristic lesions.",
+        "false_answer": "Approximately 30% of proven cases of animal rabies do not show Negri bodies.",
+        "incorrect_explanation": "According to the paragraph, Negri bodies are found in about 75% of proven cases of animal rabies, indicating that approximately 25%, not 30%, of proven cases would lack these characteristic lesions.",
+        "question": "What percent of proven cases of animal rabies do not display Negri bodies?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1111,
+            "paragraph_id": "978-0071484800-p1111-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For P. falciparum, a parasitemia level of around 0.1% of red blood cells is considered moderate.",
+        "false_answer": "Around 0.1% of infected red blood cells indicating a moderate parasitemia level for P. falciparum.",
+        "incorrect_explanation": "According to the paragraph, 1% of red blood cells being infected (equivalent to 100 parasites per high power field) is actually considered a moderate parasitemia for P. falciparum, which can infect more than 30% of red blood cells.",
+        "question": "What amount of infected red blood cells is typically considered indicative of a moderate parasitemia level for P. falciparum?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1119,
+            "paragraph_id": "978-0071484800-p1119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To address potential side effects such as hypoglycemia.",
+        "false_answer": "Combination therapy addresses potential side effects such as hypoglycemia.",
+        "incorrect_explanation": "According to the chapter, combination therapy is recommended because artesunate has a short half-life and there's a risk of resistance development, not primarily to mitigate side effects like hypoglycemia; indeed, the text notes artesunate is not associated with cardiac issues or hypoglycemia.",
+        "question": "What is the primary reason for combining artesunate with other antimalarial medications?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1122,
+            "paragraph_id": "978-0071484800-p1122-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Suspecting endocarditis in a patient typically indicates immediate outpatient treatment.",
+        "false_answer": "Immediate outpatient treatment upon suspicion of endocarditis.",
+        "incorrect_explanation": "According to the guidelines, suspicion for endocarditis actually requires hospital admission because the cornerstone components of the current diagnostic criteria need time to obtain, and there are no reliable prediction rules excluding the diagnosis. Thus, hospital admission allows for thorough evaluation and monitoring given the potential severity of endocarditis.",
+        "question": "What is typically indicated when suspecting endocarditis in a patient?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1105,
+            "paragraph_id": "978-0071484800-p1105-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Any free pelvic fluid indicates a 90% chance of ectopic pregnancy.",
+        "false_answer": "Any free pelvic fluid indicates a 90% chance of ectopic pregnancy.",
+        "incorrect_explanation": "According to TABLE 299.4-1, any free pelvic fluid actually corresponds to a 52% likelihood of ectopic pregnancy, not 90%. Therefore, the statement significantly overestimates the risk associated with this particular sonographic finding.",
+        "question": "What is the likelihood of ectopic pregnancy when any free pelvic fluid is identified?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2232,
+            "paragraph_id": "978-0071484800-p2232-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The presence of both indicates a high likelihood of a small pneumothorax.",
+        "false_answer": "The presence of both lung sliding and comet tail artifacts indicates a high likelihood of a small pneumothorax.",
+        "incorrect_explanation": "According to the text, if both lung sliding and comet tail artifacts are present, then the clinician can confidently exclude the presence of a pneumothorax, not indicate a high likelihood of one. Therefore, the correct interpretation is that the presence of both lung sliding and comet tail artifacts rules out a pneumothorax rather than suggesting its presence.",
+        "question": "What does the presence of both lung sliding and comet tail artifacts indicate regarding the possibility of a pneumothorax?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2227,
+            "paragraph_id": "978-0071484800-p2227-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cardiostatin",
+        "false_answer": "Cardiostatin",
+        "incorrect_explanation": "There's no mention of \"Cardiostatin\" being associated with any toxin derived from fish within the provided paragraphs.\n- **Correct Answer Should Be:** While there isn't explicit information regarding toxins named specifically after their effect on the heart (\"cardio\") in relation to fish, one might consider looking at substances affecting the cardiovascular system indirectly through other sources mentioned, such as venom or poisonous compounds from marine life. Without further specification, however, pinpointing the exact term for a cardiotoxin from fish proves challenging based solely on this text.",
+        "question": "What is the name given to cardiotoxin found in certain species of fish?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2253,
+            "paragraph_id": "978-0071484800-p2253-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Febrile seizures usually occur after the age of 10 years.",
+        "false_answer": "After the age of 10 years.",
+        "incorrect_explanation": "Because febrile seizures predominantly affect younger children, primarily those aged between 6 months and 5 years.\n- **What the Correct Answer Should Be:** Typically between 6 months and 5 years of age, peaking at approximately 12 to 18 months.",
+        "question": "At what typical minimum age do children begin experiencing their first febrile seizures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2257,
+            "paragraph_id": "978-0071484800-p2257-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 1% of those infected.",
+        "false_answer": "About 1% of those infected with Campylobacter experience seronegative reactive arthritis.",
+        "incorrect_explanation": "According to the paragraph, the actual percentage of people who develop seronegative reactive arthritis following a Campylobacter infection is around 2%, not 1%.",
+        "question": "What percentage of individuals infected with Campylobacter experience seronegative reactive arthritis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1128,
+            "paragraph_id": "978-0071484800-p1128-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Scleral icterus.",
+        "false_answer": "Scleral icterus.",
+        "incorrect_explanation": "While jaundice can indeed occur in both conditions, indicating liver dysfunction which might suggest hepatomegaly more commonly aligns with these diagnoses rather than specifically mentioning scleral icterus in this context. According to TABLE 156-5, hepatomegaly is listed as being associated with amebiasis and malaria, making it the more accurate association between the two conditions.",
+        "question": "What physical finding is most likely associated with both amebiasis and malaria?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1142,
+            "paragraph_id": "978-0071484800-p1142-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The blacklegged tick, *Ixodes* *scapularis*, serves as the main vector.",
+        "false_answer": "The blacklegged tick, *Ixodes* *scapularis*, serves as the main vector.",
+        "incorrect_explanation": "According to the given information, the actual vectors for *Francisella tularensis*, which causes tularemia, are ticks of the *Dermacentor* species and the *Amblyomma* species, making the statement about the blacklegged tick (*Ixodes* *scapularis*) serving as the main vector incorrect.\n- **Correct Answer Should Be:** Ticks of the *Dermacentor* species and the *Amblyomma* species are the primary vectors for transmitting *Francisella tularensis*.",
+        "question": "What is the primary vector responsible for transmitting the bacterial infection Francisella tularensis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1135,
+            "paragraph_id": "978-0071484800-p1135-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Japanese Encephalitis Pattern.",
+        "false_answer": "Japanese Encephalitis Pattern.",
+        "incorrect_explanation": "Herpes Simplex Virus (HSV) encephalitis typically shows focal or diffuse slowing, lateralized periodic discharges, or other patterns indicative of inflammation rather than being specifically referred to as \"Japanese Encephalitis Pattern.\" Japanese Encephalitis refers to another condition caused by a flavivirus transmitted primarily through mosquitoes, which presents differently both clinically and electrophysiologically compared to HSV encephalitis.",
+        "question": "What is the name of the electrographic pattern associated with herpes simplex virus encephalitis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2268,
+            "paragraph_id": "978-0071484800-p2268-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hypertension",
+        "false_answer": "Dexamethasone is primarily used to treat hypertension in pregnant women.",
+        "incorrect_explanation": "While managing blood pressure is crucial in pregnancy, Dexamethasone's primary roles do not typically center around treating hypertension directly. Instead, it may be used for conditions such as promoting fetal lung maturity, reducing inflammation in certain maternal health issues, or addressing other specific obstetric concerns under close supervision.\n- **Correct Information Based on Provided Text:** According to the snippet, Dexamethasone's mention includes treatments unrelated to directly addressing hypertension in pregnancy; rather, its application spans across various scenarios, including asthma in children, certain types of cancer, and other non-pregnancy-related conditions.",
+        "question": "In pregnant women, what primary condition is Dexamethasone commonly used to treat?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2264,
+            "paragraph_id": "978-0071484800-p2264-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary concern is that Rifampin causes severe hypoglycemia.",
+        "false_answer": "Rifampin causing severe hypoglycemia.",
+        "incorrect_explanation": "There is no mention in the provided text that Rifampin causes severe hypoglycemia. In fact, the discussion around Rifampin focuses on its use in treating tuberculosis, its resistance patterns, and potential interactions with other drugs, particularly concerning its effect on liver enzymes rather than any impact on glucose levels or diabetes management.",
+        "question": "What is the primary concern when prescribing Rifampin to patients with diabetes?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2309,
+            "paragraph_id": "978-0071484800-p2309-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A transfusion reaction in this scenario would always result in a severe allergic reaction.",
+        "false_answer": "A transfusion reaction due to a blood type mismatch results in a severe allergic reaction.",
+        "incorrect_explanation": "While some reactions can present similarly to allergic reactions, the primary concern with a blood type mismatch leading to a transfusion reaction is actually a hemolytic reaction, which involves the immune system attacking the foreign red blood cells. Severe allergic reactions do occur but are categorized differently under transfusion reactions, specifically classified as allergic reactions rather than being synonymous with hemolytic reactions caused by blood type mismatches.",
+        "question": "What type of transfusion reaction occurs when there is a mismatch in blood types?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2320,
+            "paragraph_id": "978-0071484800-p2320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Treatment against pneumothoraces.",
+        "false_answer": "Treatment against pneumothoraces.",
+        "incorrect_explanation": "There's no mention of Polypodium leucotomos being associated with treatments for pneumothoraxes; instead, it seems unrelated given the context focused around various other medical topics without mentioning this condition specifically.\n- **Correct Answer Should Be:** Not applicable based on the provided paragraph since there's no discussion regarding Polypodium leucotomos offering any form of treatment within the text.",
+        "question": "What treatment option does Polypodium leucotomos offer?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2303,
+            "paragraph_id": "978-0071484800-p2303-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Healthcare workers should wear surgical masks during patient encounters at risk for TB.",
+        "false_answer": "Surgical masks are recommended for healthcare workers during patient encounters at risk for TB.",
+        "incorrect_explanation": "According to the information provided, the routine use of particulate filtration respirator masks (N95) approved by the National Institute for Occupational Safety and Health is recommended during patient encounters at risk for TB, not surgical masks.",
+        "question": "What type of mask is recommended for healthcare workers to wear during encounters with patients suspected of having tuberculosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1161,
+            "paragraph_id": "978-0071484800-p1161-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Skin penetration through swimming in freshwater lakes.",
+        "false_answer": "Skin penetration through swimming in freshwater lakes.",
+        "incorrect_explanation": "According to the table, Malaria's mode of transmission is actually through an infected mosquito bite, not skin penetration through swimming in freshwater lakes. The confusion might arise because some diseases listed do involve aquatic activities, but specifically for Malaria, the vector is the mosquito.",
+        "question": "What mode of transmission is responsible for spreading Malaria?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1144,
+            "paragraph_id": "978-0071484800-p1144-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Two 20-milligram/kg doses given over a single day.",
+        "false_answer": "Two 20-milligram/kg doses given over a single day.",
+        "incorrect_explanation": "According to the provided information, this dosing regimen is actually recommended for treating all *Schistosoma* parasites except for *S. japonicum*. Specifically, *S. japonicum* infections require three 20-milligram/kg doses administered within a single day, making the statement incorrect regarding the appropriate treatment dose for *S. japonicum*.",
+        "question": "What dosage regimen of praziquantel is recommended for treating *S. japonicum* infections?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1149,
+            "paragraph_id": "978-0071484800-p1149-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ISBN number of this eBook is 978-0-08-123456-7.",
+        "false_answer": "The ISBN number of this eBook is 978-0-08-123456-7.",
+        "incorrect_explanation": "The provided answer incorrectly identifies the ISBN number. According to the information given, the actual ISBN number of this eBook is 978-0-07-177006-4, which differs significantly from the falsely provided number.",
+        "question": "What is the ISBN number associated with this eBook?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2330,
+            "paragraph_id": "978-0071484800-p2330-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They disrupt the synthesis of nucleotides needed for DNA replication.",
+        "false_answer": "Disrupt the synthesis of nucleotides needed for DNA replication.",
+        "incorrect_explanation": "According to FIGURE 158-1, penicillins actually prevent the necessary cross-linking within the peptidoglycan layer, rendering it incompetent, rather than affecting DNA replication through disrupting nucleotide synthesis.",
+        "question": "What mechanism do penicillins utilize to render the peptidoglycan layer in bacterial cell walls incompetent?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1165,
+            "paragraph_id": "978-0071484800-p1165-para1"
+        },
+        "type": "short_inverse"
     }
 ]

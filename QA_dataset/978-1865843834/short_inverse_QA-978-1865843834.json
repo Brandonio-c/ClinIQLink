@@ -1,0 +1,1826 @@
+[
+    {
+        "answer": "Rachel Brown oversaw the production.",
+        "false_answer": "Rachel Brown",
+        "incorrect_explanation": "According to the given information, Sharon Lee, the Project Manager, actually oversaw the production of the textbook, making the statement about Rachel Brown incorrect since she is not even mentioned in this capacity within the provided text.",
+        "question": "Who managed the production of the textbook?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 10,
+            "paragraph_id": "978-1865843834-p10-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "$\\mathbf{D_{L}O_2}$ decreases significantly towards the end of expiration.",
+        "false_answer": "$D_{L}O_2$ decreases significantly towards the end of expiration.",
+        "incorrect_explanation": "According to the paragraph, $D_{L}O_2$ actually increases during inspiration because lung expansion increases the surface area ($A$) available for diffusion and decreases the thickness of the barrier ($a$). This implies that $D_{L}O_2$ should be maximal at the end of inspiration, not decreasing towards the end of expiration.",
+        "question": "What happens to the diffusing capacity for oxygen ($\\mathbf{D_{L}O_2}$) at different points during the respiratory cycle?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 701,
+            "paragraph_id": "978-1865843834-p701-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Tight junctions mainly act as channels allowing free flow of fluids across adjacent epithelial cells' boundaries.",
+        "false_answer": "Tight junctions mainly act as channels allowing free flow of fluids across adjacent epithelial cells' boundaries.",
+        "incorrect_explanation": "According to the given chapter's description, tight junctions actually form barriers separating compartments and controlling what passes through them rather than acting merely as channels for fluid flow; they also function as selective gates and fences defining apical and basolateral domains of the epithelial plasma membrane. Therefore, the primary functions described involve separation, selection, and segregation, contrasting sharply with the idea of facilitating unrestricted fluid passage.",
+        "question": "What role do tight junctions primarily serve in maintaining cellular integrity within epithelial layers?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 59,
+            "paragraph_id": "978-1865843834-p59-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The storage vesicles break down internally, releasing their contents into the cytosol.",
+        "false_answer": "The storage vesicles break down internally, releasing their contents into the cytosol.",
+        "incorrect_explanation": "According to the paragraph, when the cells receive the requisite message, the storage vesicles actually fuse with the plasma membrane in a process known as exocytosis, dumping their contents into the extracellular space, not breaking down internally to release their contents into the cytosol.",
+        "question": "What happens when the cell receives the requisite message regarding the release of stored secretory proteins?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 50,
+            "paragraph_id": "978-1865843834-p50-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gap junctions primarily regulate the flow through mechanical contraction and relaxation cycles.",
+        "false_answer": "Mechanical contraction and relaxation cycles",
+        "incorrect_explanation": "The explanation provided does not match how gap junctions work. According to the text, gap junctions facilitate the passage of inorganic ions and small molecules, and their regulation is influenced by changes in cytosolic concentrations of substances like Ca\u00b2\u207a, cAMP, and H\u207a, as well as by the voltage across the cell membrane. There's no mention of mechanical contractions being involved in the regulatory process of gap junctions' permeability.\n- **Correct Approach Should Have Been:** Focusing on the actual mechanisms described in the chapter regarding how gap junctions operate would yield accurate insights into their functioning.",
+        "question": "What is the primary method through which mammalian gap junctions regulate the flow of electrical current and small molecules between adjacent cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 54,
+            "paragraph_id": "978-1865843834-p54-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Erythrocytes spend approximately 10 seconds navigating the pulmonary capillary bed at rest.",
+        "false_answer": "Approximately 10 seconds",
+        "incorrect_explanation": "According to the paragraph, the actual duration is ~0.75 seconds, making the statement significantly inaccurate regarding the time erythrocytes take to navigate the pulmonary capillary bed at rest.",
+        "question": "What is the approximate duration spent by erythrocytes navigating the pulmonary capillary bed during rest?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 723,
+            "paragraph_id": "978-1865843834-p723-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The shipping rate increases.",
+        "false_answer": "The shipping rate increases.",
+        "incorrect_explanation": "According to the given explanation, shipping rate is considered speed (perfusion) limited when cars leave the siding fully filled, indicating limitations based on the ability to move goods rather than fill them. Similarly, a decrease in Hb (carrying capacity) does not inherently suggest an increase in shipping rate; instead, it suggests potential limitations in transporting substances efficiently through the blood, analogous to reduced cargo-carrying capabilities. Therefore, the correct interpretation should reflect concerns regarding decreased efficiency or capability, not increased rates under conditions of diminished capacity.",
+        "question": "What happens to the shipping rate of oxygen if there's a significant decrease in Hb levels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 709,
+            "paragraph_id": "978-1865843834-p709-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Yes, constant positive-pressure breathing improves the distribution of ventilation.",
+        "false_answer": "Constant positive-pressure breathing improves the distribution of ventilation.",
+        "incorrect_explanation": "There's no mention of whether CPPB actually enhances the distribution of ventilation beyond stating its application method. The passage highlights differences in regional lung ventilation due to gravity and posture, focusing on spontaneous breathing patterns rather than comparing outcomes between spontaneous breathing and CPPB specifically regarding improvement in healthy individuals.",
+        "question": "Does applying constant positive-pressure breathing via nasal mask improve the distribution of ventilation relative to spontaneous breathing in healthy individuals?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 720,
+            "paragraph_id": "978-1865843834-p720-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Distension primarily begins when there's a decrease in perfusion pressure.",
+        "false_answer": "Distension primarily begins when there's a decrease in perfusion pressure.",
+        "incorrect_explanation": "According to the paragraph, once a vessel is open and conducting, further pressure increases will increase P_TM_ and thus cause the vessel to dilate. Therefore, distension actually tends to occur after an increase in perfusion pressure, especially under conditions where the initial pressure was already relatively high.",
+        "question": "At what point do vessels start to experience distension?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 726,
+            "paragraph_id": "978-1865843834-p726-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of the lung volume.",
+        "false_answer": "Approximately 20% of the lung volume.",
+        "incorrect_explanation": "According to Table 31-3, the region corresponding to the highest ventilation-perfusion ratio, which is found at the apex, accounts for approximately 7% of the total lung volume, not 20%.",
+        "question": "What fraction of the total lung volume corresponds to the region with the highest ventilation-perfusion ratio?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 729,
+            "paragraph_id": "978-1865843834-p729-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When a ligand binds to its receptor, covalent chemical reactions take place.",
+        "false_answer": "Covalent chemical reactions take place during ligand-receptor binding.",
+        "incorrect_explanation": "According to the given information, ligand binding to its receptor involves weak, non-covalent interactions rather than strong covalent ones. These include ionic bonds between oppositely charged groups, van der Waals interactions involving temporary dipoles, and hydrophobic interactions among non-polar groups. Therefore, the statement that covalent chemical reactions occur during this process is incorrect; instead, these weaker forces facilitate the interaction.",
+        "question": "What kinds of interactions are involved when a ligand binds to its receptor?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 64,
+            "paragraph_id": "978-1865843834-p64-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When PCs are acted upon by phospholipase D, they are directly converted into DAG.",
+        "false_answer": "Direct conversion of PCs to DAG by phospholipase D.",
+        "incorrect_explanation": "According to the paragraph, phospholipase D actually converts PCs to choline and phosphatidic acid (PA), not directly to DAG. Instead, the PA can then be converted to DAG by PA-phosphohydrolase.",
+        "question": "What happens when Phosphatidylcholines (PCs) undergo conversion by phospholipase D?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 75,
+            "paragraph_id": "978-1865843834-p75-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cyclophilin",
+        "false_answer": "Cyclophilin",
+        "incorrect_explanation": "The paragraph specifies that the enzyme responsible for converting arachidonic acid into various products, including those leading to prostaglandin synthesis, involves the action of cyclooxygenase (COX), specifically noting the cyclooxygenase pathway producing thromboxanes, prostacyclins, and prostaglandins. Therefore, the correct enzyme involved in this step would relate to cyclooxygenase activity.",
+        "question": "What enzyme catalyzes the conversion of arachidonic acid into prostaglandin H2?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 78,
+            "paragraph_id": "978-1865843834-p78-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mechanosensitive and irritant receptors in the larynx triggering a cough begin with a large inspiratory effort.",
+        "false_answer": "Mechanosensitive and irritant receptors in the larynx triggering a cough begin with a large inspiratory effort.",
+        "incorrect_explanation": "According to the paragraph, when mechanosensitive and irritant receptors in the larynx trigger a cough, the inspiration is absent, minimizing the chances that the offending foreign body will be pulled deeper into the lungs.",
+        "question": "What occurs when mechanosensitive and irritant receptors in the larynx trigger a cough?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 758,
+            "paragraph_id": "978-1865843834-p758-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Metabolic acid-base disturbances alter steady-state brain pH up to 90% as much as identical blood pH changes during respiratory acid-base disturbances.",
+        "false_answer": "Up to 90%.",
+        "incorrect_explanation": "The paragraph states that metabolic acid-base disturbances alter steady-state brain pH only 10% to 35% as much as identical blood pH changes during respiratory acid-base disturbances, making the claim of a 90% alteration incorrect.",
+        "question": "How much do metabolic acid-base disturbances alter steady-state brain pH compared to identical blood pH changes during respiratory acid-base disturbances?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 753,
+            "paragraph_id": "978-1865843834-p753-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The dorsal respiratory group primarily contains both inspiratory and expiratory neurons equally distributed throughout its region.",
+        "false_answer": "The dorsal respiratory group primarily contains both inspiratory and expiratory neurons equally distributed throughout its region.",
+        "incorrect_explanation": "According to the paragraph, the dorsal respiratory group actually primarily contains inspiratory neurons, not a mix of both inspiratory and expiratory neurons as suggested in the false answer. The correct distribution shows that many neurons in the dorsal respiratory group fire exclusively during inspiration, indicating a predominance of inspiratory neurons over expiratory ones.",
+        "question": "What type of neurons does the dorsal respiratory group primarily contain?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 744,
+            "paragraph_id": "978-1865843834-p744-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The 11-nm fiber of chromatin typically condenses to form a 40-nm fiber.",
+        "false_answer": "The 11-nm fiber of chromatin typically condenses to form a 40-nm fiber.",
+        "incorrect_explanation": "The given answer incorrectly states that the 11-nm fiber condenses to a 40-nm fiber. According to the provided information, the 11-nm fiber actually condenses to form a 30-nm fiber, indicating a discrepancy in the specified dimensions.",
+        "question": "What size does the 11-nm fiber of chromatin typically condense to?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 92,
+            "paragraph_id": "978-1865843834-p92-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A zinc ion exhibits hexahedral coordination to six tyrosine residues.",
+        "false_answer": "A zinc ion exhibits hexahedral coordination to six tyrosine residues.",
+        "incorrect_explanation": "According to the paragraph, a zinc ion actually tetrahedrally coordinates to either two histidine residues and two cysteine residues or four cysteine residues in the zinc finger motif, sometimes coordinating to six cysteine groups with two zinc ions. There's no mention of tyrosine residues being coordinated by the zinc ion in this context.",
+        "question": "What type of coordination does a zinc ion exhibit in the zinc finger motif?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 100,
+            "paragraph_id": "978-1865843834-p100-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They act primarily through enhancing cell membrane fluidity.",
+        "false_answer": "Nonsteroidal anti-inflammatory drugs acting primarily through enhancing cell membrane fluidity according to Vane JR and Botting RM's work.",
+        "incorrect_explanation": "There is no mention of how nonsteroidal anti-inflammatory drugs enhance cell membrane fluidity in their described mechanism of action. Instead, they discuss mechanisms involving enzyme interactions, particularly focusing on cyclooxygenases involved in inflammation processes, which isn't specified here but would typically involve inhibiting these enzymes rather than altering physical properties of membranes.",
+        "question": "What role do the authors Vane JR and Botting RM suggest nonsteroidal anti-inflammatory drugs play?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 88,
+            "paragraph_id": "978-1865843834-p88-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Step number 3.",
+        "false_answer": "Step number 3.",
+        "incorrect_explanation": "The initiation of transcription is actually listed under step 2 in the sequence described, making the statement incorrect. According to the information, step 2 refers to the Initiation of transcription.",
+        "question": "What step number involves the Initiation of transcription according to the physiology of cells and molecules?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 94,
+            "paragraph_id": "978-1865843834-p94-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The fraction of filtered water reabsorbed equals the fraction of filtered water remaining.",
+        "false_answer": "The fraction of filtered water reabsorbed equals the fraction of filtered water remaining.",
+        "incorrect_explanation": "This statement incorrectly equates the fraction of filtered water reabsorbed with the fraction of filtered water remaining, rather than stating that the fraction of filtered water reabsorbed is actually calculated as 1 minus the fraction of filtered water remaining, according to equation (33-17).",
+        "question": "What is the formula used to calculate the Fraction of filtered water reabsorbed?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 775,
+            "paragraph_id": "978-1865843834-p775-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Besides the descending and ascending thin limbs, the loop of Henle consists primarily of cortical collecting tubules.",
+        "false_answer": "Cortical collecting tubules being primary constituents beyond thin limbs.",
+        "incorrect_explanation": "This statement incorrectly identifies cortical collecting tubules as main parts of the loop of Henle aside from the thin limbs. Correctly, after the thin limbs, the next significant segment would typically involve thicker portions leading towards collection; specifically, the thick ascending limb plays this role rather than cortical collecting tubules which follow later in water absorption and ion regulation processes outside the loop itself.",
+        "question": "What parts make up the loop of Henle besides the descending and ascending thin limbs?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 769,
+            "paragraph_id": "978-1865843834-p769-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vascular Endothelial Growth Hormone",
+        "false_answer": "Vascular Endothelial Growth Hormone",
+        "incorrect_explanation": "The answer incorrectly identifies \"hormone\" instead of \"factor.\" According to the given definitions, VEGF stands for vascular endothelial growth *factor*.",
+        "question": "What does VEGF stand for?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 119,
+            "paragraph_id": "978-1865843834-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most of the listed steroid receptors bind to DNA as heterodimers with another partner receptor.",
+        "false_answer": "Most of the listed steroid receptors bind to DNA as heterodimers with another partner receptor.",
+        "incorrect_explanation": "According to Table 4-4, several receptors like GR, MR, PR, ER, and AR actually bind to DNA as homodimers rather than heterodimers. Heterodimer formation is more characteristic of receptors like VDR, TR, RAR, and PPAR, which specifically pair with RXR.",
+        "question": "What kind of arrangement do most of the listed steroid receptors typically adopt when they bind to their respective target DNA sequences?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 109,
+            "paragraph_id": "978-1865843834-p109-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "DNA methylation activates the binding of STAT3 to the GFAP promoter.",
+        "false_answer": "DNA methylation activates the binding of STAT3 to the GFAP promoter.",
+        "incorrect_explanation": "According to the paragraph, methylation of CpG dinucleotides within the GFAP promoter actually prevents STAT3 binding, rather than activating it. Therefore, the correct statement should reflect that DNA methylation inhibits the binding of STAT3 to the GFAP promoter.",
+        "question": "What is the effect of DNA methylation on the GFAP promoter?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 113,
+            "paragraph_id": "978-1865843834-p113-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of the filtered load.",
+        "false_answer": "Approximately 20% of the filtered load.",
+        "incorrect_explanation": "According to the provided information, the Medullary Collecting Duct actually reabsorbs only a minute amount of Na+, specifically around ~3% of the filtered load, not 20%.",
+        "question": "What percentage of filtered Na+ is typically reabsorbed in the Medullary Collecting Duct?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 801,
+            "paragraph_id": "978-1865843834-p801-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of the filtered sodium load.",
+        "false_answer": "Approximately 50% of the filtered sodium load.",
+        "incorrect_explanation": "According to the given data, the approximate percentages of sodium reabsorbed by different parts of the kidney do not specify the thick ascending limb (TAL) alone as being responsible for 50%. Instead, Figure 35-2 indicates various segments' contributions, with significant portions attributed before reaching the TAL. For instance, around 67%, then further amounts in subsequent sections until the final urinary output, suggesting most reabsorption happens elsewhere, notably in the Proximal Tubule.",
+        "question": "What percentage of the filtered sodium load does the thick ascending limb (TAL) reabsorb?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 798,
+            "paragraph_id": "978-1865843834-p798-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Constriction of just the efferent arteriole significantly lowers GFR due to increased back-pressure reducing filtration efficiency.",
+        "false_answer": "Constriction of just the efferent arteriole significantly lowers GFR due to increased back-pressure reducing filtration efficiency.",
+        "incorrect_explanation": "According to the passage, constriction of the efferent arteriole actually raises \\(P_{GC}\\) (glomerular capillary pressure) slightly and doesn't alter RPF much, implying it wouldn't necessarily lower GFR under typical conditions described. Instead, significant lowering of GFR would more likely result from scenarios affecting overall kidney perfusion negatively, such as marked elevations in total resistance.",
+        "question": "What happens to Glomerular Filtration Rate (GFR) when there's significant alteration in total arteriolar resistance resulting from exclusive constriction of the efferent arteriole?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 788,
+            "paragraph_id": "978-1865843834-p788-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When renal arterial pressure rises, afferent arteriolar resistance decreases.",
+        "false_answer": "When renal arterial pressure rises, afferent arteriolar resistance decreases.",
+        "incorrect_explanation": "According to the paragraph, the actual response to an increase in renal arterial pressure is an increase in the resistance of the afferent arterioles, not a decrease. This adjustment helps protect the delicate structures within the kidney by preventing excessive blood flow and potential damage.",
+        "question": "What happens to afferent arteriolar resistance when there's an increase in renal arterial pressure?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 792,
+            "paragraph_id": "978-1865843834-p792-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They have higher clearance ratios due to their rigidity allowing them to bypass the filtering mechanism more easily.",
+        "false_answer": "That rigid or globular molecules have higher clearance ratios compared to highly deformable molecules like dextrans.",
+        "incorrect_explanation": "According to the provided paragraph, the opposite is actually true. Rigid or globular molecules have *lower* clearance ratios (i.e., sieving coefficients) than molecules of a similar size, such as dextrans, which are highly deformable. Therefore, the statement made in the answer is incorrect, contradicting the information given in the paragraph.",
+        "question": "What effect do rigid or globular molecules have compared to similarly sized, highly deformable molecules like dextrans on the permselectivity of the glomerular barrier?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 785,
+            "paragraph_id": "978-1865843834-p785-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Always after reaching equilibrium.",
+        "false_answer": "Always after reaching equilibrium.",
+        "incorrect_explanation": "According to the given information, maintaining a nonequilibrium steady state requires mechanisms compensating for passive movement, ensuring concentrations remain stable despite ongoing flux. Reaching equilibrium implies no net driving force or transport; hence, this explanation incorrectly suggests equilibrium precedes a nonequilibrium steady state instead of recognizing they serve distinct roles under differing conditions.",
+        "question": "When does a cell maintain a nonequilibrium steady state for a solute?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 124,
+            "paragraph_id": "978-1865843834-p124-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 150 mM.",
+        "false_answer": "Approximately 150 mM.",
+        "incorrect_explanation": "The given answer incorrectly states that the Na-K pump maintains approximately 150 mM of sodium inside the cell. According to the paragraph, the actual concentration maintained by the Na-K pump is significantly lower; specifically, it mentions that \"[Na+] is relatively excluded from the intracellular space,\" implying a much lower concentration compared to the extracellular environment. The correct statement regarding sodium concentration outside the cell is around 145 mM, indicating the pump's action results in a substantial reduction of internal sodium levels.",
+        "question": "What concentration of sodium does the Na-K pump maintain inside the cell?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 143,
+            "paragraph_id": "978-1865843834-p143-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ions",
+        "false_answer": "Ions",
+        "incorrect_explanation": "According to the text, aquaporin water channels primarily facilitate the passage of water molecules, not ions. While the text mentions that some aquaporin isoforms can transport small neutral molecules other than water, it does not specify ions as being transported through aquaporin channels specifically designed for water. Instead, gated ion channels are described separately as facilitating the passive crossing of ions.",
+        "question": "What type of molecule passes through aquaporin water channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 127,
+            "paragraph_id": "978-1865843834-p127-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 1 ATP/NADH.",
+        "false_answer": "Approximately 1 ATP/NADH.",
+        "incorrect_explanation": "According to the given information, the actual calculation yields approximately 2.5 ATP/NADH because the mitochondrion utilizes the energy from pumping 10 H+ per NADH across the inner membrane, with each ATP synthesized requiring roughly 4 H+. Therefore, the formula (10 H+/NADH) * (1 ATP/4 H+) equals 2.5 ATP/NADH, making the statement of 1 ATP/NADH inaccurate.",
+        "question": "What number of ATP molecules does the mitochondrion typically synthesize when utilizing the energy from 1 molecule of NADH?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 137,
+            "paragraph_id": "978-1865843834-p137-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The kidneys consume around 15% of the body's total oxygen supply due to their extensive role in filtering waste and excess fluids from the blood.",
+        "false_answer": "The kidneys consuming around 15% of the body's total oxygen supply.",
+        "incorrect_explanation": "According to the given information, the kidneys are responsible for approximately 7% to 10% of total oxygen consumption, not 15%. Their significant contribution to oxygen consumption stems from the energy-intensive processes involved in actively transporting ions against their gradients, particularly through the action of the ATP-driven Na-K pump.",
+        "question": "What percentage of total oxygen consumption do the kidneys account for despite being under 0.5% of the body's weight?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 804,
+            "paragraph_id": "978-1865843834-p804-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nearly half of the arterial load of PAH remains in the renal veins.",
+        "false_answer": "Nearly half of the arterial load of PAH remains in the renal veins.",
+        "incorrect_explanation": "According to the paragraph, at low plasma concentrations of PAH, the kidneys excrete nearly all (~90%) of the PAH entering the renal arteries, leaving very little PAH in the renal veins. Therefore, the statement that nearly half of the arterial load of PAH remains in the renal veins is incorrect.",
+        "question": "What happens to the majority of the arterial load of PAH after passing through the kidneys?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 822,
+            "paragraph_id": "978-1865843834-p822-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The final equilibrium concentration of sodium ions (Na+) is approximately 120 mM.",
+        "false_answer": "Approximately 120 mM.",
+        "incorrect_explanation": "According to Figure 5-15C representing the FINAL EQUILIBRIUM, the final equilibrium concentration of sodium ions (Na+) is actually around 100 mM, not 120 mM, indicating that my calculation was off by 20 mM.",
+        "question": "What is the final equilibrium concentration of sodium ions (Na+) when reaching the Donnan equilibrium?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 148,
+            "paragraph_id": "978-1865843834-p148-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Immediately after adding 50mM urea to the ECF, the cell swells due to rapid entry of urea into the cell.",
+        "false_answer": "The cell swells due to rapid entry of urea into the cell immediately after adding 50mM urea to the ECF.",
+        "incorrect_explanation": "According to the given information, initially, no urea crosses the membrane; instead, water leaves the cell causing it to begin shrinking. Only later does urea cross the membrane followed by water, leading to swelling back towards the original volume.",
+        "question": "What happens immediately after adding 50mM urea to the Extracellular Fluid (ECF)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 152,
+            "paragraph_id": "978-1865843834-p152-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Leaky epithelia fail to maintain large transepithelial ion or osmotic gradients primarily because they lack the Na-K pump.",
+        "false_answer": "Leaky epithelia fail to maintain large transepithelial ion or osmotic gradients primarily because they lack the Na-K pump.",
+        "incorrect_explanation": "The statement is incorrect because the presence or absence of the Na-K pump does not determine whether an epithelium is classified as 'leaky' or 'tight'. According to the paragraph, what distinguishes leaky from tight epithelia is the relative resistance of their tight junctions, allowing substances to pass more easily through them, thereby reducing their ability to maintain significant ion or osmotic gradients.",
+        "question": "What is the primary reason why leaky epithelia cannot maintain large transepithelial ion or osmotic gradients?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 156,
+            "paragraph_id": "978-1865843834-p156-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75%.",
+        "false_answer": "Approximately 75%",
+        "incorrect_explanation": "There's no mention in the given paragraph specifying exactly what proportion of filtered calcium ions Furosemide prevents from being reabsorbed. Instead, it explains how Furosemide works in reducing calcium reabsorption without providing a specific percentage.",
+        "question": "What proportion of filtered calcium ions does the Loop Diuretic Furosemide typically prevent from being reabsorbed?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 832,
+            "paragraph_id": "978-1865843834-p832-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20%",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "According to the paragraph, the loop of Henle reabsorbs only negligible amounts of phosphate, indicating less than what would typically consider significant for quantification purposes, unlike the suggested substantial amount of approximately 20%.",
+        "question": "What percent of filtered phosphate does the loop of Henle reabsorb?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 826,
+            "paragraph_id": "978-1865843834-p826-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A net gain of K+ leads to cell lysis.",
+        "false_answer": "A net gain of K+ leads to cell lysis.",
+        "incorrect_explanation": "According to Table 37-1 under roles of intracellular K+, a net gain of K+ actually results in cell swelling, not cell lysis. Cell lysis would imply bursting due to excessive water entry, which isn't mentioned as a consequence of high intracellular K+. Instead, the table indicates that a net gain of K+ causes cell swelling, suggesting an increase in volume rather than structural integrity compromise leading to lysis.",
+        "question": "What happens when there's a net gain of potassium ions within cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 836,
+            "paragraph_id": "978-1865843834-p836-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Potassium reabsorption primarily occurs through transcellular pathways facilitated by sodium-potassium pumps and potassium channels.",
+        "false_answer": "Potassium reabsorption primarily occurs through transcellular pathways facilitated by sodium-potassium pumps and potassium channels.",
+        "incorrect_explanation": "According to the provided text, potassium reabsorption along the entire length of the proximal tubule actually occurs mainly through paracellular pathways, not transcellular ones. While the proximal tubule does possess various cellular components capable of moving potassium, such as sodium-potassium pumps and potassium channels, these primarily facilitate intracellular potassium balance rather than contributing to significant amounts of reabsorption into the bloodstream.",
+        "question": "What primary mechanism facilitates potassium reabsorption along the entire length of the proximal tubule?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 840,
+            "paragraph_id": "978-1865843834-p840-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These ion channels typically have 12 transmembrane segments.",
+        "false_answer": "These ion channels typically have 12 transmembrane segments.",
+        "incorrect_explanation": "According to the given table describing different types of ion channels, those involved with conditions leading to generalized epilepsy with febrile seizures belong to the family described under point 6 (Voltage-gated Na+ channels), which indicates these channels actually have a topology characterized by 6 TM x 4 = 24 subunit TMs total pseudo tetramerically arranged rather than simply having 12 transmembrane segments per polypeptide chain. Thus, this condition relates more accurately to SCN channels possessing a characteristic arrangement but not specifically 12 TMs across their structural components as implied here.",
+        "question": "What number of Transmembrane segments do Generalized Epilepsy With Febrile Seizures associated ion channels typically possess?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 182,
+            "paragraph_id": "978-1865843834-p182-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "ENa+ is approximately \u201330 mV.",
+        "false_answer": "ENa+ is approximately \u201330 mV.",
+        "incorrect_explanation": "According to Table 6-1, the actual ENa+ for mammalian skeletal muscle is around +67 mV, making it significantly more positive than the resting membrane potential (Vm) of \u201380 mV. Therefore, the statement that ENa+ is approximately \u201330 mV is incorrect because it incorrectly suggests ENa+ is close to or more negative than Vm when, in reality, it's substantially more positive.",
+        "question": "What is the approximate Nernst potential for sodium ions (ENa+) compared to the resting membrane potential (Vm) in mammalian skeletal muscle?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 167,
+            "paragraph_id": "978-1865843834-p167-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately +20 to +30 mV.",
+        "false_answer": "Approximately +20 to +30 mV.",
+        "incorrect_explanation": "The given answer incorrectly suggests a positive resting membrane potential for skeletal muscle cells. According to the paragraph, these cells typically have resting membrane potentials ranging from approximately \u221260 to \u221290 mV, which indicates negative values rather than the falsely suggested positive ones.",
+        "question": "What is the approximate resting membrane potential of skeletal muscle cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 164,
+            "paragraph_id": "978-1865843834-p164-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The receiver boosts the signal back down to Earth.",
+        "false_answer": "The receiver boosts the signal back down to Earth.",
+        "incorrect_explanation": "According to the paragraph, it's actually the transponder, not the receiver, that acts as a repeater by boosting the received signal back down to Earth. Therefore, the correct component that performs this action is the transponder.",
+        "question": "What component acts as a repeater in establishing communication via satellite?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 175,
+            "paragraph_id": "978-1865843834-p175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Arginine vasopressin decreases the water permeability of the collecting tubules and ducts.",
+        "false_answer": "Arginine vasopressin decreases the water permeability of the collecting tubules and ducts.",
+        "incorrect_explanation": "According to the given information, arginine vasopressin actually increases the water permeability of the collecting tubules and ducts by causing AQP2 water channels to insert into the apical membrane, thereby enhancing water reabsorption.",
+        "question": "What happens to the water permeability of the collecting tubules and ducts under the influence of arginine vasopressin?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 860,
+            "paragraph_id": "978-1865843834-p860-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During maximal concentration, the urine becomes hypo-osmotic compared to plasma.",
+        "false_answer": "The urine becomes hypo-osmotic compared to plasma during maximal concentration.",
+        "incorrect_explanation": "According to the given text, when the kidney maximally concentrates the urine, it makes the urine hyperosmotic, not hypo-osmotic, compared to plasma. Specifically, it mentions that during maximal concentration, the urine can reach up to 1200 mOsm, making it more concentrated than plasma.",
+        "question": "What happens to the urine's osmolarity relative to plasma during maximal concentration?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 850,
+            "paragraph_id": "978-1865843834-p850-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sodium reabsorption in the kidneys permanently increases following long-term administration of mineralocorticoids.",
+        "false_answer": "Sodium reabsorption in the kidneys permanently increases following long-term administration of mineralocorticoids.",
+        "incorrect_explanation": "Long-term administration of mineralocorticoids actually leads to what's known as aldosterone escape, where initial sodium retention due to aldosterone action results in volume expansion, causing subsequent decrease in proximal sodium reabsorption. This adjustment allows sodium excretion to return towards pre-aldosterone levels, indicating that the permanent increase described is inaccurate.",
+        "question": "What happens to sodium reabsorption in the kidneys after long-term administration of mineralocorticoids?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 844,
+            "paragraph_id": "978-1865843834-p844-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of the filtered load of urea is secreted back into the bloodstream.",
+        "false_answer": "Approximately 50% of the filtered load of urea is secreted back into the bloodstream.",
+        "incorrect_explanation": "According to the given text, especially referencing Figure 38-5, around 50% of the filtered load of urea is actually reabsorbed in the early parts of the nephron before being recycled rather than secreted back into the bloodstream. Specifically, in juxtamedullary nephrons, some urea is secreted into the tubular lumen later on, but this does not account for 50% of the filtered load being returned to the bloodstream. Instead, most of the initial filtering and reabsorption happen in the proximal tubules with further adjustments happening throughout the nephron's length.",
+        "question": "What happens to approximately 50% of the filtered load of urea during its passage through certain parts of the urinary system?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 856,
+            "paragraph_id": "978-1865843834-p856-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There are five genes encoding the human ORAI store-operated Ca2+ channels.",
+        "false_answer": "Five genes encode the human ORAI store-operated Ca2+ channels.",
+        "incorrect_explanation": "According to the given data, there are actually three genes (ORAI with 3 genes) responsible for encoding the human ORAI store-operated Ca2+ channels, not five. Thus, the statement incorrectly inflates the number of genes associated with these channels.",
+        "question": "What number of genes encode the human ORAI store-operated Ca2+ channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 185,
+            "paragraph_id": "978-1865843834-p185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The time constant is primarily influenced by the temperature of the experiment environment.",
+        "false_answer": "The time constant is primarily influenced by the temperature of the experiment environment.",
+        "incorrect_explanation": "According to the passage, the time constant (\u03c4) is actually determined by the product of membrane resistance and capacitance (\u03c4 = RC), not by environmental factors such as temperature.",
+        "question": "What determines the time constant in experiments involving applying a small square pulse of hyperpolarizing current to a cell membrane?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 194,
+            "paragraph_id": "978-1865843834-p194-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They received the prize in 1978.",
+        "false_answer": "A. L. Hodgkin and A. F. Huxley received the Nobel Prize in Physics in 1978.",
+        "incorrect_explanation": "According to the paragraph, A. L. Hodgkin and A. F. Huxley were actually awarded the Nobel Prize in Physiology or Medicine in 1963, not the Nobel Prize in Physics, and certainly not in 1978.",
+        "question": "What year did A. L. Hodgkin and A. F. Huxley receive the Nobel Prize in Physics?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 197,
+            "paragraph_id": "978-1865843834-p197-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They made this recording in 1964.",
+        "false_answer": "1964",
+        "incorrect_explanation": "According to the given paragraph, Armstrong and Bezanilla's recording actually occurred in 1973, making the statement incorrect. Therefore, the correct answer should reflect the accurate year of the event, which is indeed specified in the paragraph.",
+        "question": "What year did Armstrong and Bezanilla first record the small, rapid outward current produced by the activation of a voltage-gated sodium channel?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 203,
+            "paragraph_id": "978-1865843834-p203-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Primarily, ammonium ions are secreted back into the tubular lumen after being absorbed.",
+        "false_answer": "Primarily, ammonium ions are secreted back into the tubular lumen after being absorbed.",
+        "incorrect_explanation": "According to Figure 39-5 described, once NH4+ is reabsorbed by the Thick Ascending Limb (TAL), there are several possible paths it can take, none of which involve primary secretion back into the tubular lumen immediately upon absorption; rather, these paths concern further metabolism within cells, indicating a misunderstanding of how NH4+ is handled post-reabsorption.",
+        "question": "What happens primarily with ammonium ion (NH4+) reabsorption in the thick ascending limb (TAL)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 874,
+            "paragraph_id": "978-1865843834-p874-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An increase in the extracellular fluid volume leads to decreased urinary sodium excretion.",
+        "false_answer": "Decreased urinary sodium excretion following an increase in extracellular fluid volume.",
+        "incorrect_explanation": "According to the paragraph, expanding the extracellular fluid (ECF) volume actually triggers an increase in urinary sodium excretion through mechanisms sensitive to changes in ECF volume, especially within critical compartments such as the thoracic blood vessels. Thus, increasing ECF volume typically leads to an increase, rather than a decrease, in urinary sodium excretion to maintain homeostasis.",
+        "question": "What happens to urinary sodium excretion when there's an increase in the extracellular fluid volume?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 882,
+            "paragraph_id": "978-1865843834-p882-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The permeability ratio of Na+ relative to K+ (PNa/PK) typically ranges between 25 to 35.",
+        "false_answer": "The permeability ratio of Na+ relative to K+ (PNa/PK) typically ranges between 25 to 35.",
+        "incorrect_explanation": "This answer is incorrect because the paragraph specifies that the PNa/PK ratio actually lies within the range of 11 to 20 under physiological conditions, not between 25 to 35.",
+        "question": "What is the typical range of the permeability ratio of Na+ relative to K+ (PNa/PK) under physiological conditions?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 206,
+            "paragraph_id": "978-1865843834-p206-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During the activation of Kv channels, they immediately allow inward flow of potassium ions.",
+        "false_answer": "Immediate inward flow of potassium ions during Kv channel activation.",
+        "incorrect_explanation": "According to the provided information, Kv channels exhibit outward rectification, allowing current to flow primarily in one direction\u2014outward. Moreover, their activation does not involve immediate inward flow; rather, these channels often display characteristics such as delayed activation before they open to let potassium ions move outwards. Thus, the statement about immediate inward flow is both inaccurate regarding the nature of the ion flow and the timing of channel activation.",
+        "question": "What happens during the activation of Kv channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 216,
+            "paragraph_id": "978-1865843834-p216-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vasopressin promotes sodium retention through aldosterone.",
+        "false_answer": "Vasopressin promotes sodium retention through aldosterone.",
+        "incorrect_explanation": "According to the given information, it's actually Angiotensin II (ANG II) alongside aldosterone that plays a role in promoting Na+ retention. While arginine vasopressin (AVP), also referred to as antidiuretic hormone (ADH), does affect water balance within the body, there is no mention of it specifically acting with aldosterone to promote sodium retention in this context. Therefore, the statement incorrectly attributes the promotion of sodium retention via aldosterone to vasopressin instead of correctly identifying angiotensin II as one of the substances involved in this action.",
+        "question": "What promotes sodium retention through aldosterone?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 884,
+            "paragraph_id": "978-1865843834-p884-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During severe dehydration, aldosterone levels increase significantly.",
+        "false_answer": "Aldosterone levels increase significantly during severe dehydration.",
+        "incorrect_explanation": "According to the given paragraph, during severe dehydration, the net effect includes the loss of Na+ (natriuresis) occurring because aldosterone levels are actually inappropriately low for the effective circulating volume. This indicates that instead of increasing, aldosterone levels decrease under these conditions.",
+        "question": "What happens to aldosterone levels during severe dehydration?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 894,
+            "paragraph_id": "978-1865843834-p894-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The TAL usually reabsorbs around 30% to 50% of the filtered load of sodium.",
+        "false_answer": "The TAL usually reabsorbs around 30% to 50% of the filtered load of sodium.",
+        "incorrect_explanation": "According to the paragraph, the TAL actually reabsorbs only 15% to 25% of the filtered load of sodium, making the given range significantly higher than what is accurately described.",
+        "question": "What percentage of filtered sodium ions does the thick ascending limb (TAL) typically reabsorb?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 892,
+            "paragraph_id": "978-1865843834-p892-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15 nanometers.",
+        "false_answer": "Approximately 15 nanometers.",
+        "incorrect_explanation": "The given answer incorrectly states the distance between the two opposing cell membranes at an electrical synapse. According to the paragraph, the actual distance is approximately 3 nm, allowing for direct electrical connection via gap junctions. Therefore, the statement that the distance is around 15 nanometers is inaccurate regarding electrical synapses, as this larger distance refers to a hypothetical scenario illustrating signal attenuation, not the morphology of electrical synapses themselves.",
+        "question": "What is the approximate distance between the two opposing cell membranes at an electrical synapse?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 226,
+            "paragraph_id": "978-1865843834-p226-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During development from fetal to adult stages, there's a decrease in both the mean open time and the single-channel conductance of acetylcholine receptors.",
+        "false_answer": "Decrease in both the mean open time and the single-channel conductance.",
+        "incorrect_explanation": "According to the information given, transitioning from fetal to adult stages actually involves an increase in single-channel conductance (from 40 pS to 59 pS) and a decrease in mean open times, contrary to what was stated in the answer. Thus, the statement regarding the changes in properties contains inaccuracies concerning the effect on single-channel conductance.",
+        "question": "What change occurs in the properties of acetylcholine receptors during development from fetal to adult stages?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 236,
+            "paragraph_id": "978-1865843834-p236-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30 nm",
+        "false_answer": "Approximately 30 nm",
+        "incorrect_explanation": "The paragraph specifies that the synaptic cleft is approximately 50 nm wide, filled with proteins and proteoglycans that are part of the extracellular matrix, indicating the given answer is too narrow compared to what's described in the passage.",
+        "question": "What is the approximate width of the synaptic cleft found within the neuromuscular junction?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 231,
+            "paragraph_id": "978-1865843834-p231-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Synaptic depression primarily results from permanent damage to the presynaptic terminal's ability to synthesize new neurotransmitter-filled vesicles.",
+        "false_answer": "Synaptic depression primarily results from permanent damage to the presynaptic terminal's ability to synthesize new neurotransmitter-filled vesicles.",
+        "incorrect_explanation": "According to the passage, synaptic depression actually results from a temporary depletion of transmitter-loaded vesicles from the presynaptic terminal, indicating a reversible condition rather than permanent damage. Therefore, the correct understanding is that synaptic depression stems from a reduction in the number of available quanta due to their temporary depletion following frequent stimulation, not from any irreversible synthesis issue.",
+        "question": "What is the primary reason behind synaptic depression occurring after periods of frequent nerve stimulation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 240,
+            "paragraph_id": "978-1865843834-p240-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When PLC breaks down PIP2, it releases diacylglycerol (DAG) alone.",
+        "false_answer": "Diacylglycerol (DAG) alone.",
+        "incorrect_explanation": "According to the paragraph, when PLC breaks down PIP2, it actually produces two key molecules: inositol 1,4,5-triphosphate (IP3) and diacylglycerol (DAG). Therefore, the correct answer should mention both IP3 and DAG being produced from the breakdown of PIP2 by PLC.",
+        "question": "What signaling molecule is released when phospholipase C (PLC) breaks down phosphatidylinositol 4,5-bisphosphate (PIP2)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 913,
+            "paragraph_id": "978-1865843834-p913-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The concentration of H+ ions reaches approximately 50 mM at this boundary before entering the bloodstream.",
+        "false_answer": "The concentration of H+ ions reaches approximately 50 mM at the boundary between the neutralization zone and the bloodstream.",
+        "incorrect_explanation": "According to the given data within the description associated with Figure 42-13, specifically regarding the concentrations across different zones, there's mention of \"[H+] = 20 mM\" in one area and another level closer to the bloodstream (\"[H+] = 0.0001 mM\"), indicating these values represent conditions deeper within the mucus gel layer and near the bloodstream, respectively. There isn't explicit mention supporting a concentration of exactly 50 mM at the specified boundary; instead, we observe significant drops in acidity moving towards the bloodstream, suggesting effective buffering mechanisms reducing hydrogen ion availability far below what would be harmful to tissues.",
+        "question": "What concentration does the H+ ion reach at the boundary between the neutralization zone and the bloodstream according to Figure 42-13?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 922,
+            "paragraph_id": "978-1865843834-p922-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Striated muscle",
+        "false_answer": "Striated muscle",
+        "incorrect_explanation": "According to the paragraph, the muscle layers of the GI tract consist almost entirely of smooth muscle, except for certain exceptions such as the upper esophageal sphincter, the upper third of the esophagus, and the external anal sphincter, which are made up of striated muscle. Therefore, the correct answer is smooth muscle.",
+        "question": "What type of muscle primarily composes the muscle layers of the GI tract?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 904,
+            "paragraph_id": "978-1865843834-p904-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Within smooth muscle cells, these structures are primarily known as caveolae.",
+        "false_answer": "Caveolae serving as primary storage organelles for intracellular calcium ions in smooth muscle cells.",
+        "incorrect_explanation": "According to the given information, the sarcoplasmic reticulum (SR), a specialized version of the endoplasmic reticulum found in muscle cells, acts as the main storage organelle for intracellular Ca\u00b2\u207a across muscle types, including both skeletal/cardiac and smooth muscles. While caveolae do represent shallow invaginations of the plasma membrane in smooth muscle, they themselves are not described as storing intracellular calcium ions but rather interact with parts of the SR system indirectly. Therefore, the statement incorrectly identifies caveolae instead of the sarcoplasmic reticulum as the key storage sites for calcium ions.",
+        "question": "What structures serve as storage organelles for intracellular calcium ions within muscle cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 253,
+            "paragraph_id": "978-1865843834-p253-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The slow decrease in [Ca\u00b2\u207a]i leads to the deactivation of troponin C, preventing the formation of cross-bridges between myofilaments.",
+        "false_answer": "The slow decrease in [Ca\u00b2\u207a]i leads to the deactivation of troponin C, preventing the formation of cross-bridges between myofilaments.",
+        "incorrect_explanation": "The paragraph actually describes a rapid increase in [Ca\u00b2\u207a]i following the depolarization of the L-type Ca\u00b2\u207a channel, leading to the activation of troponin C and the subsequent formation of cross-bridges between myofilaments. Therefore, the correct sequence is opposite to what was given in the false answer.",
+        "question": "What happens after depolarization of the L-type Ca\u00b2\u207a channel on the T-tubule membrane?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 255,
+            "paragraph_id": "978-1865843834-p255-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The maximal velocity varies significantly with changes in the initial muscle length.",
+        "false_answer": "The maximal velocity varies significantly with changes in the initial muscle length.",
+        "incorrect_explanation": "According to the passage, \"The maximal velocity is the same at all three initial muscle lengths.\" Thus, the statement that maximal velocity varies with initial muscle length is incorrect; instead, the maximal velocity remains consistent regardless of the starting length of the muscle.",
+        "question": "What happens to the maximal velocity when comparing isotonic contractions across different initial muscle lengths?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 262,
+            "paragraph_id": "978-1865843834-p262-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sympathetic neurons trigger the initiation of cardiac muscle function.",
+        "false_answer": "Sympathetic neurons trigger the initiation of cardiac muscle function.",
+        "incorrect_explanation": "According to the paragraph, cardiac muscle receives synaptic input from both sympathetic and parasympathetic neurons, but their role is to modulate rather than initiate cardiac muscle function. Instead, cardiac muscle contraction is initiated by electrical excitation originating from the heart's own pacemaker, specifically the sino-atrial node, generating spontaneous and periodic action potentials.",
+        "question": "What triggers initiation of cardiac muscle function?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 266,
+            "paragraph_id": "978-1865843834-p266-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Termination of contraction in skeletal muscles occurs mainly via action potential repolarization.",
+        "false_answer": "Termination of contraction in skeletal muscles occurs mainly via action potential repolarization.",
+        "incorrect_explanation": "According to Table 9-3 under Skeletal muscle's Excitation-Contraction Coupling column, breakdown of acetylcholine by acetylcholinesterase terminates contraction, indicating this is how contraction ends in skeletal muscles, making the statement regarding action potential repolarization being the primary method incorrect.",
+        "question": "What mechanism primarily regulates the termination of contraction in skeletal muscles?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 276,
+            "paragraph_id": "978-1865843834-p276-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary mechanism for Ca2+ release from the SR in smooth muscle cells is through L-type Ca2+ channels inducing Calcium-induced Calcium Release (CICR).",
+        "false_answer": "The primary mechanism for Ca2+ release from the SR in smooth muscle cells is through L-type Ca2+ channels inducing Calcium-induced Calcium Release (CICR).",
+        "incorrect_explanation": "According to the paragraph, although CICR does occur in smooth muscle, it requires higher [Ca2+]i levels than typically found physiologically, making it less significant. Instead, the IP3 pathway is highlighted as a more important mechanism for Ca2+ release from the SR in smooth muscle cells.",
+        "question": "What is the primary mechanism for Ca2+ release from the sarcoplasmic reticulum (SR) in smooth muscle cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 271,
+            "paragraph_id": "978-1865843834-p271-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Secretion is triggered primarily by physical pressure exerted on the cells.",
+        "false_answer": "Secretion is triggered primarily by physical pressure exerted on the cells.",
+        "incorrect_explanation": "According to the text, secretion is actually triggered by either hormones or neural activity, not physical pressure. Therefore, the correct trigger for secretion in acinar cells would be hormonal or neural stimuli rather than mechanical forces.",
+        "question": "What triggers the secretion in the acinar cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 928,
+            "paragraph_id": "978-1865843834-p928-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of total saliva volume is produced by the major salivary glands.",
+        "false_answer": "Approximately 80% of total saliva volume is produced by the major salivary glands.",
+        "incorrect_explanation": "The given answer incorrectly states that the major salivary glands produce approximately 80% of total saliva volume. According to the information provided, the majority of saliva (~90%) is actually produced by these glands.",
+        "question": "What proportion of total saliva volume is generated by the major salivary glands according to typical human physiology?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 943,
+            "paragraph_id": "978-1865843834-p943-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of total pancreatic fluid secretion comes from the acinar cells' production of isotonic NaCl-rich fluid.",
+        "false_answer": "Approximately 50%",
+        "incorrect_explanation": "According to the given paragraph, the acinar cells account for approximately 25%, not 50%, of total pancreatic fluid secretion through their production of isotonic NaCl-rich fluid.",
+        "question": "What percentage of total pancreatic fluid secretion is accounted for by the secretion of isotonic NaCl-rich fluid produced by acinar cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 932,
+            "paragraph_id": "978-1865843834-p932-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Maldigestion of dietary fat generally happens when 50% to 60% of the pancreas has been removed.",
+        "false_answer": "Maldigestion of dietary fat occurs when 50% to 60% of the pancreas is removed.",
+        "incorrect_explanation": "According to the information provided, maldigestion of dietary fat actually doesn't occur until 80% to 90% of the pancreas has been removed, indicating significant reserve capacity for lipid digestion despite having limited enzymes specifically for lipid breakdown compared to carbohydrates and proteins.",
+        "question": "What percentage of the pancreas needs to be removed before maldigestion of dietary fat typically occurs?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 940,
+            "paragraph_id": "978-1865843834-p940-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vesicles are moved down the axon at a rate of approximately 500 mm/day by kinesin motors.",
+        "false_answer": "Approximately 500 mm/day",
+        "incorrect_explanation": "The paragraph actually mentions that kinesins can move vesicles down the axon at rates of up to 400 mm/day, indicating that 500 mm/day exceeds the specified maximum velocity associated with kinesin-driven transport.",
+        "question": "What is the rate at which kinesins typically move vesicles down the axon?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 285,
+            "paragraph_id": "978-1865843834-p285-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Radial glial cells primarily act as neurotransmitters between different parts of the nervous system.",
+        "false_answer": "Radial glial cells primarily act as neurotransmitters between different parts of the nervous system.",
+        "incorrect_explanation": "This statement is incorrect because according to the given information, radial glial cells serve as guides for migrating neurons rather than acting as neurotransmitters. They extend from the ventricular surface to the pial surface, providing paths along which migratory neuroblasts move towards the cortex. There's no mention of them functioning as neurotransmitters.",
+        "question": "What is the primary role of radial glial cells during neuronal development?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 294,
+            "paragraph_id": "978-1865843834-p294-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Aldosterone decreases sodium ion absorption in the colon by reducing the activity of the Na-K pump.",
+        "false_answer": "Aldosterone decreases sodium ion absorption in the colon by reducing the activity of the Na-K pump.",
+        "incorrect_explanation": "According to the paragraph, aldosterone actually enhances sodium ion absorption in the colon by increasing Na+ entry through the apical Na+ channel and stimulating the activity of the Na-K pump, contrary to decreasing it.",
+        "question": "How does aldosterone enhance sodium ion absorption in the colon?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 954,
+            "paragraph_id": "978-1865843834-p954-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The heat-stable toxin primarily works by stimulating adenylate cyclase activity, leading to an increase in cyclic AMP levels within intestinal epithelial cells.",
+        "false_answer": "The heat-stable toxin primarily works by stimulating adenylate cyclase activity, leading to an increase in cyclic AMP levels within intestinal epithelial cells.",
+        "incorrect_explanation": "The statement incorrectly identifies the mechanism through which the heat-stable toxin operates; actually, the heat-stable toxin of *Escherichia coli* binds to and activates an apical receptor guanylyl cyclase, thereby increasing cyclic GMP (cGMP) levels rather than cyclic AMP (cAMP).",
+        "question": "What is the primary mechanism through which the heat-stable toxin of *Escherichia coli* increases fluid and electrolyte secretion?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 959,
+            "paragraph_id": "978-1865843834-p959-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10.0 mM",
+        "false_answer": "Approximately 10.0 mM",
+        "incorrect_explanation": "According to the paragraph, the concentration of potassium ions (K+) in freshly secreted CSF is approximately 3.3 mM, significantly lower than what was given as the answer. Thus, stating that the concentration is around 10.0 mM introduces a substantial and inaccurate increase over the actual value provided in the paragraph.",
+        "question": "What concentration of potassium ions does the cerebrospinal fluid typically maintain?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 310,
+            "paragraph_id": "978-1865843834-p310-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Orally administered dopamine works well for treating Parkinson's disease because it uses a unique pathway to avoid being broken down by monoamine oxidase.",
+        "false_answer": "Orally administered dopamine avoids breakdown by monoamine oxidase via a special pathway.",
+        "incorrect_explanation": "This is incorrect because orally administered dopamine actually gets rapidly broken down by monoamine oxidase in the capillaries before it can reach the central nervous system, making it ineffective for treating Parkinson's disease. In contrast, L-dopa crosses the blood-brain barrier and is then converted to dopamine within the brain, thus providing therapeutic effects.",
+        "question": "Why is orally administered dopamine considered an ineffective treatment option for Parkinson's disease?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 315,
+            "paragraph_id": "978-1865843834-p315-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fluid moving from the vein to the subarachnoid space occurs regularly via arachnoid villi.",
+        "false_answer": "Fluid moving from the vein to the subarachnoid space occurs regularly via arachnoid villi.",
+        "incorrect_explanation": "According to the text, arachnoid villi serve as one-way valves; thus, fluid cannot move from the vein back into the subarachnoid space, making the statement incorrect. Instead, the movement facilitated by arachnoid villi allows fluid to exit the subarachnoid space into the venous system, not the reverse.",
+        "question": "What happens if fluid moves from the vein to the subarachnoid space?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 307,
+            "paragraph_id": "978-1865843834-p307-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 0.01 \u03bcM.",
+        "false_answer": "Approximately 0.01 \u03bcM.",
+        "incorrect_explanation": "The actual concentration of glutamate ([Glutamate]\u00b0) outside the postsynaptic neuron is approximately 1\u03bcM, as indicated in Figure 11-12 within the provided paragraph.",
+        "question": "What concentration of glutamate does exist outside the postsynaptic neuron according to Figure 11-12?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 320,
+            "paragraph_id": "978-1865843834-p320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Less than 90% of ingested nitrogen is utilized.",
+        "false_answer": "Less than 90% of ingested nitrogen is utilized.",
+        "incorrect_explanation": "According to the given information, overall protein digestion-absorption efficiency is high, with *less than 4%* of ingested nitrogen being excreted in the stool, implying over 96% utilization rather than under 90%.",
+        "question": "What percentage of dietary protein is typically digested and absorbed in individuals consuming standard diets?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 970,
+            "paragraph_id": "978-1865843834-p970-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "High doses of Vitamin A improve the absorption of Vitamins E and K significantly.",
+        "false_answer": "High doses of Vitamin A improve the absorption of Vitamins E and K significantly.",
+        "incorrect_explanation": "According to the information provided, high doses of Vitamin A actually impair the absorption of Vitamins E and K, contrary to what was stated in the false answer. Therefore, the statement made about improving absorption is inaccurate.",
+        "question": "What happens when high doses of Vitamin A are ingested?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 982,
+            "paragraph_id": "978-1865843834-p982-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Maltase",
+        "false_answer": "Maltase",
+        "incorrect_explanation": "While maltase does break down maltose into glucose units, the enzyme responsible for breaking down both maltose and sucrose is actually sucrase-isomaltase, which consists of two enzymatic activities: one splitting sucrose and another splitting maltose among other substrates.",
+        "question": "What enzyme complex breaks down both maltose and sucrose?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 966,
+            "paragraph_id": "978-1865843834-p966-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Through vesicular solubilization",
+        "false_answer": "Vesicular solubilization",
+        "incorrect_explanation": "According to the passage, although vesicular solubilization plays a role in delivering lipolytic products to the enterocytes, it's actually micellar solubilization that significantly enhances the delivery of these products, doing so approximately tenfold more efficiently than vesicular solubilization or dissolution in water alone.",
+        "question": "What is the primary method by which fatty acids and MAGs are delivered to the enterocytes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 978,
+            "paragraph_id": "978-1865843834-p978-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lipids can be classified as being soluble in water.",
+        "false_answer": "Lipids can be classified as being soluble in water.",
+        "incorrect_explanation": "According to the paragraph, lipids are actually classified based on their physicochemical interactions with water, specifically whether they are non-polar and completely insoluble in water or polar and amphiphilic. There's no mention of lipids being categorized purely as soluble in water; instead, their solubility characteristics vary widely depending on these classifications.",
+        "question": "What types of classifications do lipids undergo according to their interaction with water?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 975,
+            "paragraph_id": "978-1865843834-p975-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Multiple sclerosis is triggered by a bacterial antigen.",
+        "false_answer": "Multiple sclerosis is triggered by a bacterial antigen.",
+        "incorrect_explanation": "The paragraph suggests that the trigger for multiple sclerosis remains unclear but mentions proposals involving a viral antigen rather than a bacterial antigen. There's no mention of bacteria being implicated in triggering the disease.",
+        "question": "What triggers multiple sclerosis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 335,
+            "paragraph_id": "978-1865843834-p335-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cable theory predicts that the thickness of the dendrite's myelin sheath determines how much current flows down the length of the dendrite.",
+        "false_answer": "The thickness of the dendrite's myelin sheath determines how much current flows down the length of the dendrite.",
+        "incorrect_explanation": "According to the paragraph, factors influencing current flow include the resistance per unit area of dendritic membrane (specific membrane resistance, \\(R_m\\)), the intracellular resistance per cross-sectional area of dendrite (specific resistivity of the cytoplasm, \\(R_i\\)), and the cable diameter; however, there is no mention of the thickness of the dendrite's myelin sheath affecting this. Instead, thicker dendrites allow more current to flow towards the soma compared to thinner ones due to differences in cable properties.",
+        "question": "What determines how much current flows down the length of the dendrite?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 326,
+            "paragraph_id": "978-1865843834-p326-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% decrease.",
+        "false_answer": "Approximately 60% decrease.",
+        "incorrect_explanation": "According to the paragraph, the absence of K+ currents actually decreases the metabolic expense of a single action potential by approximately 40%, not 60%.",
+        "question": "What proportion of the metabolic expense of a single action potential is decreased due to the absence of K+ currents in mature myelinated axons?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 332,
+            "paragraph_id": "978-1865843834-p332-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The periportal hepatocytes surrounding the central veins are specialized for these tasks.",
+        "false_answer": "Periportal hepatocytes surrounding the central veins are specialized for biotransformation and detoxification.",
+        "incorrect_explanation": "According to the information provided, it's actually the pericentral hepatocytes of zone III surrounding the central vein that specialize in biotransformations and drug detoxification, not those around the portal tracts which would typically be associated with higher oxygen levels and different primary functions.",
+        "question": "What is primarily responsible for the expression of enzymes involved in biotransformation and detoxification within the liver?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 998,
+            "paragraph_id": "978-1865843834-p998-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10 uM.",
+        "false_answer": "Approximately 10 uM.",
+        "incorrect_explanation": "The paragraph indicates that inside the intestinal lumen's epithelial cells, there is a much lower concentration of free [Ca2+], specifically around 100 nM rather than micromoles. Therefore, the correct concentration of free calcium ions within these cells is approximately 100 nM, making the statement about 10 uM incorrect.",
+        "question": "What concentration of free calcium ions ([Ca2+] ) does the given data indicate exists within intestinal epithelial cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 988,
+            "paragraph_id": "978-1865843834-p988-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cytochrome P450 converts biliverdin to bilirubin.",
+        "false_answer": "Cytochrome P450 converts biliverdin to bilirubin.",
+        "incorrect_explanation": "The statement is incorrect because it inaccurately identifies Cytochrome P450 as the enzyme responsible for converting biliverdin to bilirubin. In reality, biliverdin reductase catalyzes this reaction.",
+        "question": "What enzyme converts biliverdin to bilirubin during the breakdown of heme?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1003,
+            "paragraph_id": "978-1865843834-p1003-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10 pS.",
+        "false_answer": "Approximately 10 pS.",
+        "incorrect_explanation": "The given answer incorrectly states the single-channel conductance of NMDA-gated channels. According to the paragraph, NMDA-gated channels actually have a higher conductance of approximately 50 pS compared to the lower conductance of other receptor channels.\n- **Correct Answer Should Be:** Approximately 50 pS.",
+        "question": "What is the approximate single-channel conductance of NMDA-gated channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 356,
+            "paragraph_id": "978-1865843834-p356-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dopamine, norepinephrine, and epinephrine belong to the purines.",
+        "false_answer": "Dopamine, norepinephrine, and epinephrine belong to the purines.",
+        "incorrect_explanation": "According to the paragraph, dopamine, norepinephrine, and epinephrine actually fall within the category of catecholamines, not purines. Catecholamines are specifically identified as a subgroup of amines in the provided text, highlighting the distinction between this category and purines, which include compounds like adenosine triphosphate (ATP).",
+        "question": "What category of chemicals includes neurotransmitters like dopamine, norepinephrine, and epinephrine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 345,
+            "paragraph_id": "978-1865843834-p345-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary factor determining whether synapses undergo LTP or LTD is the amplitude of the action potential generated during stimulation.",
+        "false_answer": "The primary factor determining whether synapses undergo LTP or LTD is the amplitude of the action potential generated during stimulation.",
+        "incorrect_explanation": "According to the paragraph, the critical feature that determines whether the synapses will strengthen (LTP) or weaken (LTD) is actually the frequency of stimulation that they receive, not the amplitude of the action potential. For instance, several hundred stimuli delivered at 50 Hz produce LTP, whereas the same number delivered at 1 Hz produces LTD.",
+        "question": "What is the primary factor determining whether synapses undergo Long-Term Potentiation (LTP) or Long-Term Depression (LTD), according to the given information?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 362,
+            "paragraph_id": "978-1865843834-p362-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of these neurons display sustained firing.",
+        "false_answer": "Approximately 90% of the neurons within the inferior mesenteric ganglion exhibit sustained firing.",
+        "incorrect_explanation": "According to the given information, upon depolarization, approximately 80%, not 90%, of the postganglionic sympathetic neurons in the inferior mesenteric ganglion show sustained firing.",
+        "question": "What percentage of the neurons within the inferior mesenteric ganglion exhibit sustained firing when subjected to depolarization?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 379,
+            "paragraph_id": "978-1865843834-p379-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They rapidly increase cyclic adenosine monophosphate (cAMP) levels and directly open calcium channels.",
+        "false_answer": "They rapidly increase cyclic adenosine monophosphate (cAMP) levels and directly open calcium channels.",
+        "incorrect_explanation": "This statement incorrectly describes the mechanism of muscarinic receptor activation. Instead of increasing cAMP levels, muscarinic receptors inhibit adenylyl cyclase, leading to decreased cAMP levels. Furthermore, they increase intracellular calcium through the hydrolysis of phosphoinositide rather than directly opening calcium channels.",
+        "question": "How do muscarinic receptors respond when stimulated by their agonist?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 373,
+            "paragraph_id": "978-1865843834-p373-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "If the vagus nerve stimulator fails after being surgically implanted, it typically leads to complete paralysis.",
+        "false_answer": "Complete paralysis results from the failure of a surgically implanted vagus nerve stimulator.",
+        "incorrect_explanation": "There's no indication in the provided information that failure of a vagus nerve stimulator would lead to paralysis. The actual discussion around the vagus nerve stimulator focuses on its application in treating epilepsy through electrical stimulation, mentioning potential benefits and side effects like hoarseness, coughing, and breathlessness, rather than any severe physical debilitation such as paralysis.",
+        "question": "What happens if the surgical implantation of a vagus nerve stimulator fails?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 382,
+            "paragraph_id": "978-1865843834-p382-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ten percent of these fibers are myelinated.",
+        "false_answer": "Ten percent of visceral afferent fibers are myelinated.",
+        "incorrect_explanation": "According to the paragraph, ninety percent of these visceral afferents are actually unmyelinated, implying that ten percent could potentially be myelinated if we were considering the remaining portion. However, the statement made here incorrectly suggests this without clarifying the actual distribution based on the given data; the correct interpretation should highlight that most are indeed unmyelinated, indicating a much smaller proportion being myelinated, though the exact percentage isn't specified beyond the ninety percent that are unmyelinated.",
+        "question": "What percentage of visceral afferent fibers traveling to the central nervous system are myelinated?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 368,
+            "paragraph_id": "978-1865843834-p368-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Acetyltransferase",
+        "false_answer": "Acetyltransferase",
+        "incorrect_explanation": "The paragraph specifically mentions that the rate-limiting step in cholesterol synthesis involves the conversion of 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) to mevalonate, which is catalyzed by HMG-CoA reductase, not acetyltransferase. Therefore, the correct answer should be HMG-CoA reductase.",
+        "question": "What is the primary enzyme involved in the regulation of cholesterol synthesis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1018,
+            "paragraph_id": "978-1865843834-p1018-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Steroid hormones primarily interact with cells by binding to receptors located on the cell surface.",
+        "false_answer": "Steroid hormones primarily interact with cells by binding to receptors located on the cell surface.",
+        "incorrect_explanation": "According to the information given, steroid hormones actually enter their target cell by simple diffusion across the plasma membrane and then bind with high affinity to receptor proteins located in the cytosol or the nucleus, not on the cell surface. Therefore, the correct answer should reflect that steroid hormones diffuse through the cell membrane before interacting with intracellular receptors.",
+        "question": "What is the primary mechanism by which steroid hormones interact with cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1038,
+            "paragraph_id": "978-1865843834-p1038-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adults who develop a GH deficiency starting in adulthood experience significant reduction in their overall physical stature.",
+        "false_answer": "Adults who develop a GH deficiency starting in adulthood experience significant reduction in their overall physical stature.",
+        "incorrect_explanation": "According to the provided text, a GH deficiency beginning in adult life does not result in any major clinical illness affecting physical stature significantly. Instead, what is noted is that replacement of GH in adults with GH deficiency leads to beneficial effects such as increased lean body mass and decreased body fat.",
+        "question": "What happens if Growth Hormone (GH) deficiency begins in adulthood?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1042,
+            "paragraph_id": "978-1865843834-p1042-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During pregnancy, the increased production of T4-binding globulin leads to an elevated concentration of free T4.",
+        "false_answer": "An elevation in free T4 concentration results from increased T4-binding globulin synthesis during pregnancy.",
+        "incorrect_explanation": "According to the paragraph, when the liver synthesizes more T4-binding globulin during pregnancy, this actually causes the free T4 concentration to fall initially because more T4 gets bound. Although the overall plasma levels of total T4 may rise due to feedback mechanisms leading to increased T4 production, the free T4 level remains largely unaffected after compensatory changes.",
+        "question": "What effect does the increase in liver's synthesis of T4-binding globulin during pregnancy have on the free T4 concentration?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1027,
+            "paragraph_id": "978-1865843834-p1027-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most of the canalicular bile flow in humans is bile acid-independent.",
+        "false_answer": "Most of the canalicular bile flow in humans is bile acid-independent.",
+        "incorrect_explanation": "According to the paragraph, in humans, most of the canalicular bile flow is actually bile acid-dependent, not bile acid-independent. The paragraph specifically mentions that \"In humans, most of the canalicular bile flow is bile acid dependent.\"",
+        "question": "What drives the majority of canalicular bile flow in humans?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1009,
+            "paragraph_id": "978-1865843834-p1009-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, K_d ranges from 10^-5 to 10^-9 M.",
+        "false_answer": "The range of K_d values given is from 10^-5 to 10^-9 M.",
+        "incorrect_explanation": "According to the paragraph, the actual range of K_d values for peptide hormone receptors is from 10^-8 to 10^-12 M, indicating higher affinity than suggested by the false answer.",
+        "question": "What is the typical range of affinity (K_d) values for peptide hormone receptors?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1033,
+            "paragraph_id": "978-1865843834-p1033-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An influx of sodium ions results in the hyperpolarization of the cell.",
+        "false_answer": "An influx of sodium ions results in the hyperpolarization of the cell.",
+        "incorrect_explanation": "According to the information given, the entry of Na+ into the outer segment actually causes depolarization of the cell, leading to increased transmitter release. When light reduces cGMP levels, causing these channels to close, fewer Na+ ions can enter, resulting in hyperpolarization and decreased transmitter release. Thus, the statement incorrectly attributes hyperpolarization to the influx of sodium ions instead of recognizing their role in depolarization.",
+        "question": "What happens when there's an influx of sodium ions (Na+) entering the outer segment of a rod?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 398,
+            "paragraph_id": "978-1865843834-p398-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When an eye is too long compared to its focusing power, this condition is referred to as hyperopia.",
+        "false_answer": "Hyperopia",
+        "incorrect_explanation": "According to the given information, hyperopia actually refers to a condition resulting from an eye being too short for its focusing power, leading to difficulty seeing nearby objects clearly because images focus behind the retina. The correct term for the condition described by having an eye too long relative to its focusing power is myopia, which causes close objects to be seen clearly but makes distant objects appear blurry since those images focus in front of the retina.",
+        "question": "What condition results when an individual's eye is too long relative to its focusing power?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 394,
+            "paragraph_id": "978-1865843834-p394-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Less than 50%",
+        "false_answer": "Less than 50%",
+        "incorrect_explanation": "According to the given paragraph, more than 90% of IGF-1 measured in the serum is actually bound to these proteins, making the statement significantly inaccurate.",
+        "question": "What percentage of IGF-1 measured in the serum is said to be bound to IGF-1-binding proteins?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1048,
+            "paragraph_id": "978-1865843834-p1048-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Consuming less iodized salt leads to increased risk of hyperthyroidism.",
+        "false_answer": "Consuming less iodized salt leads to increased risk of hyperthyroidism.",
+        "incorrect_explanation": "According to the chapter, insufficient iodine intake actually leads to hypothyroidism, not hyperthyroidism. Reduced iodine consumption, possibly resulting from lower intake of iodized salt, can decrease the production of thyroid hormones, leading to symptoms associated with hypothyroidism such as decreased metabolic rate, weight gain, and fatigue. Therefore, the correct outcome of reduced iodized salt consumption would be an increased risk of hypothyroidism, not hyperthyroidism.",
+        "question": "What happens if people consume less iodized salt?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1058,
+            "paragraph_id": "978-1865843834-p1058-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During periods of caloric restriction, the levels of T3 increase significantly.",
+        "false_answer": "Levels of T3 increase significantly during caloric restriction.",
+        "incorrect_explanation": "According to the paragraph, caloric restriction actually decreases the conversion of T4 to T3, leading to lower levels of T3 rather than higher ones. The decrease in T3 levels is accompanied by a reduction in metabolic rate.",
+        "question": "What happens to the levels of T3 during periods of caloric restriction?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1062,
+            "paragraph_id": "978-1865843834-p1062-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hyperinsulinemia causes decreased fetal growth.",
+        "false_answer": "Hyperinsulinemia causes decreased fetal growth.",
+        "incorrect_explanation": "According to the given information, hyperinsulinemia actually leads to increased fetal growth, resulting in conditions such as fetal macrosomia. High blood glucose levels stimulate the fetus to secrete additional insulin, leading to enhanced growth. Therefore, the statement that hyperinsulinemia decreases fetal growth is contrary to what is described.",
+        "question": "What effect does hyperinsulinemia typically have on fetal development?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1052,
+            "paragraph_id": "978-1865843834-p1052-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 120 mM",
+        "false_answer": "Approximately 120 mM",
+        "incorrect_explanation": "The paragraph specifies that the endolymph has a [K+] concentration of 150 mM, making the statement of 120 mM incorrect.",
+        "question": "What is the approximate concentration of [K+] in the endolymph surrounding the vestibular hair cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 404,
+            "paragraph_id": "978-1865843834-p404-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 35 degrees",
+        "false_answer": "Approximately 35 degrees",
+        "incorrect_explanation": "The paragraph specifies that the lateral canal is tipped ~25 degrees back from the horizontal plane, making the given answer of 35 degrees incorrect.",
+        "question": "How many degrees back is the lateral canal tipped from the horizontal plane?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 407,
+            "paragraph_id": "978-1865843834-p407-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dopamine",
+        "false_answer": "Dopamine",
+        "incorrect_explanation": "According to the paragraph, the main efferent neurotransmitter is acetylcholine, which activates ionotropic ACh receptors \u2014 nonselective cation channels \u2014 and triggers an entry of Ca\u00b2\u207a. Therefore, the correct answer should be Acetylcholine, not dopamine.",
+        "question": "What substance does the main efferent neurotransmitter activate non-selective cation channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 414,
+            "paragraph_id": "978-1865843834-p414-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, local circuits include only input axons and projection neurons without incorporating interneurons.",
+        "false_answer": "Typically, local circuits include only input axons and projection neurons without incorporating interneurons.",
+        "incorrect_explanation": "According to the given information, most local circuits actually have three main elements: input axons, interneurons, and projection (output) neurons. Therefore, the inclusion of interneurons alongside input axons and projection neurons is crucial for understanding the typical composition of local circuits.",
+        "question": "What do local circuits typically consist of?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 423,
+            "paragraph_id": "978-1865843834-p423-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most of the cholesterol comes from the adrenal gland's ability to synthesize it de novo from acetate.",
+        "false_answer": "Most of the cholesterol comes from the adrenal gland's ability to synthesize it de novo from acetate.",
+        "incorrect_explanation": "According to the given information, although the adrenal gland can synthesize cholesterol de novo from acetate, circulating LDL cholesterol imported via LDL receptor-mediated endocytosis is quantitatively more important for providing the cholesterol needed for cortisol and aldosterone synthesis.",
+        "question": "What is the origin of the majority of cholesterol utilized for cortisol synthesis in the adrenal gland?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1072,
+            "paragraph_id": "978-1865843834-p1072-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Graves' disease.",
+        "false_answer": "Graves' disease.",
+        "incorrect_explanation": "According to the paragraph, Graves' disease involves a symmetrically enlarged goiter due to the stimulation of the thyroid gland by thyroid-stimulating immunoglobulin (TSI), mimicking the action of TSH. An asymmetrical enlargement would not characterize Graves' disease correctly.",
+        "question": "What condition results when there's excessive TSH simulation causing the thyroid gland to become asymmetrically enlarged?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1068,
+            "paragraph_id": "978-1865843834-p1068-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The adrenal medulla primarily functions in producing mineralocorticoids such as aldosterone for regulating blood pressure.",
+        "false_answer": "The adrenal medulla primarily functions in producing mineralocorticoids such as aldosterone for regulating blood pressure.",
+        "incorrect_explanation": "This statement is incorrect because according to the provided paragraph, the adrenal cortex, not the adrenal medulla, is responsible for producing mineralocorticoids like aldosterone. Instead, the adrenal medulla plays a key role in secreting catecholamines such as adrenaline (or epinephrine) and noradrenaline (norepinephrine), facilitating quick responses in emergency situations often referred to as \u2018fight-or-flight\u2019 reactions.",
+        "question": "What primary role does the adrenal medulla serve?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1077,
+            "paragraph_id": "978-1865843834-p1077-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of a full activity cycle.",
+        "false_answer": "Approximately 5% of a full activity cycle.",
+        "incorrect_explanation": "The paragraph actually mentions that there's a lag of ~1% of a full activity cycle for normal forward swimming, making the given answer five times larger than what is specified in the text. Therefore, the correct answer should be approximately 1%.",
+        "question": "What fraction of a full activity cycle constitutes the lag between consecutive spinal segments' commands to contract during normal forward swimming in lampreys?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 430,
+            "paragraph_id": "978-1865843834-p430-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Superior olivary neurons in mammals primarily use delay lines alone to measure interaural timing.",
+        "false_answer": "Delay lines alone.",
+        "incorrect_explanation": "According to the paragraph, while delay lines are discussed as a component involved in measuring interaural timing, particularly in the context of birds and potentially some mechanisms, it specifically mentions that in the auditory system of gerbils (mammals), synaptic inhibition rather than delay lines generates the sensitivity of superior olivary neurons to interaural delay. Therefore, stating that superior olivary neurons in mammals rely exclusively on delay lines overlooks the complexity and variation noted in the text, including the role of synaptic inhibition.",
+        "question": "What method do superior olivary neurons primarily utilize to measure interaural timing in mammalian brains?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 438,
+            "paragraph_id": "978-1865843834-p438-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10,000 \u2013 12,000 Da.",
+        "false_answer": "Approximately 10,000 \u2013 12,000 Da.",
+        "incorrect_explanation": "According to the given information, the preproglucagon's molecular weight after removal of the signal sequence becomes approximately 9000 Da (when referring to proglucagon, not preproglucagon specifically). There is no mention of a range around 10,000 \u2013 12,000 Da for any precursor forms directly associated with preproglucagon's immediate description in the context provided. Thus, the statement seems plausible because it closely relates to the actual described size of proglucagon but introduces confusion between different stages of glucagon synthesis.",
+        "question": "What molecular weight range characterizes the synthesized preproglucagon before processing?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1103,
+            "paragraph_id": "978-1865843834-p1103-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At around 3.5 mM, the body initiates a central parasympathetic response.",
+        "false_answer": "At around 3.5 mM, the body initiates a central parasympathetic response.",
+        "incorrect_explanation": "According to the paragraph, decreases in blood glucose to less than ~3.5 mM actually trigger a central sympathetic response, not a parasympathetic one. This sympathetic response leads to various physiological reactions aimed at restoring plasma glucose levels.",
+        "question": "What happens when decreases in blood glucose reach approximately 3.5 mM?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1087,
+            "paragraph_id": "978-1865843834-p1087-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The concentration of insulin in portal venous blood is roughly twice as great as its concentration in the systemic circulation.",
+        "false_answer": "The concentration of insulin in portal venous blood is roughly twice as great as its concentration in the systemic circulation.",
+        "incorrect_explanation": "According to the paragraph, the actual ratio is that the concentration of insulin in portal venous blood is *three to four times* greater than its concentration in the systemic circulation, not merely twice as great.",
+        "question": "What happens to the concentration of insulin in portal venous blood compared to its concentration in the systemic circulation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1098,
+            "paragraph_id": "978-1865843834-p1098-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sliding a fluid-filled catheter into the carotid artery.",
+        "false_answer": "Sliding a fluid-filled catheter into the carotid artery.",
+        "incorrect_explanation": "According to the text, during catheterizations of the right side of the heart, the clinician actually starts by sliding a fluid-filled catheter into an antecubital vein, not the carotid artery. Therefore, the initial step involves accessing the venous system rather than an arterial route.",
+        "question": "What method does the clinician begin by performing when conducting catheterizations of the right side of the heart?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 454,
+            "paragraph_id": "978-1865843834-p454-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Blood flowing towards the transducer gets encoded as blue.",
+        "false_answer": "Blood flowing towards the transducer gets encoded as blue.",
+        "incorrect_explanation": "According to Figure 17-18 described in the chapter, when blood flows away from the transducer, its velocity is actually encoded as blue, not when it's flowing towards the transducer. When moving towards the transducer, the encoding color is red. Therefore, the statement incorrectly assigns the direction-color relation.",
+        "question": "What color does the velocity of blood flow away from the transducer get encoded as according to Figure 17-18?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 461,
+            "paragraph_id": "978-1865843834-p461-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nutrients increase their concentration moving from the stirred external environment towards the central cell.",
+        "false_answer": "Nutrients increase their concentration moving from the stirred external environment towards the central cell.",
+        "incorrect_explanation": "According to the given information, the concentration of nutrients actually *gradually decreases* in its path from the right (stirred external milieu) to the left (central cell), indicating a reduction rather than an increase in nutrient concentration when approaching the central cell.",
+        "question": "What direction does the concentration of nutrients decrease within a multicellular organism?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 444,
+            "paragraph_id": "978-1865843834-p444-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Calcitonin stimulates osteoclasts, leading to increased bone resorption.",
+        "false_answer": "Calcitonin stimulates osteoclasts, leading to increased bone resorption.",
+        "incorrect_explanation": "According to the paragraph, calcitonin actually inhibits osteoclasts rather than stimulating them. This results in decreased bone resorption, not increased. Therefore, the correct statement should reflect that calcitonin reduces the activity of osteoclasts, thereby slowing the rate of bone turnover.",
+        "question": "What happens to osteoclasts under the influence of calcitonin?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1122,
+            "paragraph_id": "978-1865843834-p1122-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Somatostatin's 14-amino acid form predominantly occurs in the gastrointestinal tract, including delta cells, while the 28-amino acid form is more prevalent in the hypothalamus.",
+        "false_answer": "The statement claiming the 14-amino acid form of somatostatin is primarily found in the gastrointestinal tract and the 28-amino acid form is mainly in the hypothalamus.",
+        "incorrect_explanation": "According to the paragraph, this description actually reverses the locations' prevalence for the respective forms of somatostatin. Correctly, the 14-amino acid form is predominant in the hypothalamus, and the 28-amino acid form prevails in the gastrointestinal tract, including the delta cells.",
+        "question": "What is the primary difference between the two forms of somatostatin regarding their distribution within the body?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1107,
+            "paragraph_id": "978-1865843834-p1107-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of the body's vitamin D is turned over each day.",
+        "false_answer": "Approximately 20% of the body's vitamin D is turned over each day.",
+        "incorrect_explanation": "According to the given information, only 1% to 2% of the body's vitamin D is turned over each day, indicating a much slower rate of depletion than suggested by the false answer.",
+        "question": "What percentage of the body's vitamin D turnover happens daily?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1118,
+            "paragraph_id": "978-1865843834-p1118-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An individual with just one X chromosome will normally develop into a male because the presence of any X chromosome dictates male development.",
+        "false_answer": "Development into a male occurs when there's only one X chromosome present.",
+        "incorrect_explanation": "According to the chapter, having just one X chromosome leads to ovarian dysgenesis, resulting in undeveloped ovaries resembling streaks on the pelvic sidewalls in adults, characteristic of Turner syndrome, indicating that the absence of a second X chromosome does not result in typical male development but rather disrupts normal ovarian formation. Instead, male development typically requires the presence of a Y chromosome, regardless of how many X chromosomes are present. Therefore, the correct understanding is that the presence of a Y chromosome, not merely an X chromosome, influences male sexual differentiation.",
+        "question": "What happens if there's only one X chromosome present during embryonic development?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1129,
+            "paragraph_id": "978-1865843834-p1129-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Extremely high concentrations of testosterone after 13 weeks of gestation lead to further enlargement of the penis.",
+        "false_answer": "Extremely high concentrations of testosterone after 13 weeks of gestation lead to further enlargement of the penis.",
+        "incorrect_explanation": "According to the paragraph, formation of the penis and scrotum is complete by ~13 weeks, and even extremely high concentrations of testosterone after this time fail to cause significant changes, specifically mentioning that they cannot induce midline fusion of the urethral groove or scrotum. While high testosterone levels might influence some aspects of development, the critical point made in the text regarding timing suggests completion rather than continued modification past 13 weeks.",
+        "question": "What happens to the formation of the penis and scrotum when there are extremely high concentrations of testosterone present after approximately 13 weeks of gestation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1140,
+            "paragraph_id": "978-1865843834-p1140-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 8.0 \u03bcm",
+        "false_answer": "Approximately 8.0 \u03bcm",
+        "incorrect_explanation": "The paragraph specifies that the average diameter of erythrocytes is approximately 7.5 \u03bcm, not 8.0 \u03bcm. Thus, the statement providing 8.0 \u03bcm as the average diameter is incorrect.",
+        "question": "What is the approximate average diameter of erythrocytes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 465,
+            "paragraph_id": "978-1865843834-p465-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Three",
+        "false_answer": "Three kringle domains are present at the N terminus of Plasminogen.",
+        "incorrect_explanation": "According to Table 18-5 regarding fibrinolytic factors, specifically under the properties listed for Plasminogen, it mentions that the N terminus contains five kringles, which directly contradicts our given answer stating three kringle domains. Therefore, the correct number of kringle domains present at the N terminus of Plasminogen is actually five.",
+        "question": "How many kringle domains are present at the N terminus of Plasminogen?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 480,
+            "paragraph_id": "978-1865843834-p480-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Its viscosity decreases approximately 2.5 times.",
+        "false_answer": "Decreases approximately 2.5 times.",
+        "incorrect_explanation": "According to the text, cooling normal whole blood from 37\u00b0C to 0\u00b0C actually *increases* its viscosity ~2.5-fold, rather than decreasing it. Therefore, the correct statement would reflect an increase, not a decrease.",
+        "question": "What happens to the viscosity of normal whole blood when cooled from 37\u00b0C to 0\u00b0C?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 472,
+            "paragraph_id": "978-1865843834-p472-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During puberty, the sensitivity of the hypothalamic-pituitary system to inhibition by sex steroids increases.",
+        "false_answer": "Sensitivity of the hypothalamic-pituitary system to inhibition by sex steroids increases during puberty.",
+        "incorrect_explanation": "According to Figure 55-2C, the opposite is true; as a girl goes through puberty, the sensitivity of the hypothalamic-pituitary system to inhibition by sex steroids actually decreases until it reaches the lower level characteristic of adulthood.",
+        "question": "What happens to the sensitivity of the hypothalamic-pituitary system to inhibition by sex steroids as a female progresses through puberty?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1163,
+            "paragraph_id": "978-1865843834-p1163-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "3\u03b2-hydroxysteroid dehydrogenase initiates the conversion of cholesterol to pregnenolone.",
+        "false_answer": "3\u03b2-hydroxysteroid dehydrogenase initiates the conversion of cholesterol to pregnenolone.",
+        "incorrect_explanation": "According to the paragraph, the initiation of testosterone synthesis involves converting cholesterol to pregnenolone through the action of P-450 scc (also called 20,22-desmolase), not 3\u03b2-hydroxysteroid dehydrogenase. Instead, 3\u03b2-hydroxysteroid dehydrogenase plays a later role, specifically oxidizing the hydroxyl group at position 3 of the A ring to a ketone to form testosterone from androstenediol.",
+        "question": "What role does 3\u03b2-hydroxysteroid dehydrogenase play in testosterone synthesis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1148,
+            "paragraph_id": "978-1865843834-p1148-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Parasympathetic.",
+        "false_answer": "Parasympathetic.",
+        "incorrect_explanation": "According to the provided information, emission is actually primarily under sympathetic control, involving peristaltic contractions of parts of the reproductive tract and accessory glands, rather than being initiated by parasympathetic mechanisms.",
+        "question": "What is the primary nervous control mechanism responsible for initiating the process of emission?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1157,
+            "paragraph_id": "978-1865843834-p1157-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A single primary spermatocyte produces one mature sperm after undergoing both meiotic divisions.",
+        "false_answer": "A single primary spermatocyte produces one mature sperm after undergoing both meiotic divisions.",
+        "incorrect_explanation": "According to the given information, each primary spermatocyte actually gives rise to *two* secondary spermatocytes after Meiosis I, and then those secondary spermatocytes further divide into four mature sperm (or spermatozoa), making the statement inaccurate regarding the outcome of just Meiosis I alone and the overall yield per primary spermatocyte.",
+        "question": "What happens when a primary spermatocyte goes through Meiosis I?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1152,
+            "paragraph_id": "978-1865843834-p1152-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Crossing over does not occur.",
+        "false_answer": "Crossing over does not occur.",
+        "incorrect_explanation": "According to the chapter, crossing over actually does occur during prophase of the first meiosis when the primary oocytes have a duplicated set of 23 chromosomes.",
+        "question": "What happens during prophase of the first meiosis in the formation of primary oocytes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1175,
+            "paragraph_id": "978-1865843834-p1175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Estrogen levels significantly increase.",
+        "false_answer": "Estrogen levels significantly increase.",
+        "incorrect_explanation": "According to the given text, during the late luteal phase of the menstrual cycle, just before the next menstruation, levels of both estrogens and progestins actually diminish, leading to the demise of the upper two-thirds of the endometrium. Therefore, the correct statement regarding estrogen levels before menstruation would reflect a decrease rather than an increase.",
+        "question": "What happens to estrogen levels right before the onset of menstruation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1180,
+            "paragraph_id": "978-1865843834-p1180-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The corpus luteum maintains high levels of progesterone and estrogens throughout pregnancy.",
+        "false_answer": "The corpus luteum maintains high levels of progesterone and estrogens throughout pregnancy.",
+        "incorrect_explanation": "According to the passage, while the corpus luteum initially supports the production of progesterone and estrogens, its role significantly diminishes around weeks 6-10 of gestation. Afterward, the placenta becomes the primary site of synthesis for these hormones, indicating the false statement regarding the corpus luteum's sustained role throughout pregnancy.",
+        "question": "What primarily manufactures progesterone and estrogens during most of the pregnancy?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1194,
+            "paragraph_id": "978-1865843834-p1194-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Stage 1 includes both active labor and the period after delivery until the final uterine contraction.",
+        "false_answer": "Stage 1 includes both active labor and the period after delivery until the final uterine contraction.",
+        "incorrect_explanation": "According to Table 56-6, Stage 1 refers specifically to uterine awakening, initiation of parturition, extending to complete cervical dilatation. Active labor actually corresponds more closely to Stage 2, and the period after delivery until the final uterine contraction aligns with Stage 3. Therefore, the description given does not accurately represent Stage 1 characteristics as outlined in the table.",
+        "question": "What typically characterizes Stage 1 of labor according to Table 56-6?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1199,
+            "paragraph_id": "978-1865843834-p1199-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fluid-filled holes called lacunae develop.",
+        "false_answer": "Lacunae develop around 10 to 11 days after fertilization.",
+        "incorrect_explanation": "According to the given information, fluid-filled holes called lacunae actually develop 8 to 9 days after fertilization, making the statement incorrect regarding the timing.",
+        "question": "What happens within the syncytium of the invading syncytiotrophoblast around 10 to 11 days after fertilization?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1191,
+            "paragraph_id": "978-1865843834-p1191-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "T3 downregulates uncoupling proteins (UCPs), which leads to reduced heat production.",
+        "false_answer": "T3 downregulates uncoupling proteins (UCPs).",
+        "incorrect_explanation": "According to the given text, T3 actually *upregulates* uncoupling proteins (UCPs), making them more active. Upregulated UCPs become part of the mitochondrial inner membrane and act as H+ channels, leading to increased heat production when free fatty acids relieve their normal blockade by purine nucleotides.",
+        "question": "What role does T3 play in relation to uncoupling proteins within mitochondria?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1221,
+            "paragraph_id": "978-1865843834-p1221-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Suckling stimulates the release of GnRH, thus promoting the ovarian cycle.",
+        "false_answer": "Suckling stimulates the release of GnRH.",
+        "incorrect_explanation": "According to the given information, suckling actually inhibits GnRH release because neurons from the spinal cord inhibit neurons in the arcuate nucleus and the preoptic area of the hypothalamus, leading to a decrease in GnRH production. This reduction in GnRH results in less stimulation of gonadotrophs, ultimately inhibiting the ovarian cycle rather than promoting it.",
+        "question": "What effect does suckling have on GnRH release in relation to the ovarian cycle?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1204,
+            "paragraph_id": "978-1865843834-p1204-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During fetal development, approximately 75% of the combined cardiac output bypasses the lungs via shunts.",
+        "false_answer": "Approximately 75% of the combined cardiac output bypasses the lungs via shunts.",
+        "incorrect_explanation": "According to the given data, specifically looking at the percentages associated with the flow towards and away from the lungs, the majority of the blood does indeed bypass the lungs, primarily because oxygenation occurs in the placenta rather than the lungs before birth. However, the actual distribution can be inferred more accurately from understanding how much goes through each pathway; notably, most of the blood coming back to the fetus's heart gets directed around the lungs through shunts. Yet, stating 75% might overestimate slightly considering the pathways' complexity and varying distributions across different stages of development. In reality, less than half of what could potentially go to the lungs actually ends up there when you consider both ventricular outputs together since the significant portion goes through the foramen ovale and then some also joins after passing through the liver via the ductus venosus, eventually joining systemic circulation without going through pulmonary capillaries.",
+        "question": "What percentages of combined cardiac output pass through the lungs during fetal development?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1215,
+            "paragraph_id": "978-1865843834-p1215-para1"
+        },
+        "type": "short_inverse"
+    }
+]

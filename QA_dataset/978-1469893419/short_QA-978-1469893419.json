@@ -1,0 +1,32 @@
+[
+    {
+        "answer": "Closed-ended yes/no questions are used in the Past History, Family History, Personal and Social History, and the Review of Systems.",
+        "question": "When are closed-ended yes/no questions typically used?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 50,
+            "paragraph_id": "978-1469893419-p50-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Relatively high-pitched sounds like S1 and S2.",
+        "question": "What sounds are detected using the diaphragm during heart examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 186,
+            "paragraph_id": "978-1469893419-p186-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Lid retraction and exophthalmos.",
+        "question": "What condition involves a wide-eyed stare suggesting hyperthyroidism?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 142,
+            "paragraph_id": "978-1469893419-p142-para1"
+        },
+        "type": "short_answer"
+    }
+]

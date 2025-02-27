@@ -1,0 +1,1802 @@
+[
+    {
+        "answer": "The proposal occurred in 2005.",
+        "false_answer": "The proposal occurred in 2005.",
+        "incorrect_explanation": "While the International Society for Cellular Therapy indeed made significant statements regarding mesenchymal stromal cells around this time, specifically proposing criteria for defining them, the explanation mistakenly suggests that the exact phrasing'multipotent mesenchymal stromal cells' being coined happened then, when actually, what's crucial here isn't just the coining of the term but how definitions evolved over years leading up to formal clarifications.\n- **Correct Information Based on Provided Text:** According to the text, the actual clarification came through proposed minimum criteria published in 2006, following discussions and developments that started before 2005, emphasizing the nuanced evolution towards understanding and classifying MSCs correctly within scientific communities.",
+        "question": "What year did the International Society for Cellular Therapy first propose the term'multipotent mesenchymal stromal cells'?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 62,
+            "paragraph_id": "978-0367618599-p62-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They received the award in 2019.",
+        "false_answer": "Emmanuelle Charpentier and Jennifer A. Doudna received the Nobel Prize in Chemistry in 2019.",
+        "incorrect_explanation": "According to the text, they actually received the Nobel Prize in Chemistry in 2020 for their work on CRISPR-Cas9, making the given answer incorrect by one year.",
+        "question": "What year did Emmanuelle Charpentier and Jennifer A. Doudna receive the Nobel Prize in Chemistry?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 70,
+            "paragraph_id": "978-0367618599-p70-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50-55% of untreated HIV patients progress to AIDS within two years.",
+        "false_answer": "Approximately 50-55% of untreated HIV patients progress to AIDS within two years.",
+        "incorrect_explanation": "According to the paragraph, within 2 years, untreated HIV can progress to acquired immunodeficiency syndrome (AIDS) in 25\u201335% of patients, making the statement of 50-55% progression rate incorrect.",
+        "question": "What percentage of untreated HIV patients typically progresses to AIDS within two years?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 81,
+            "paragraph_id": "978-0367618599-p81-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Parathyroid hormone (PTH) stops being produced in response to low serum calcium levels.",
+        "false_answer": "Parathyroid hormone (PTH) stops being produced in response to low serum calcium levels.",
+        "incorrect_explanation": "According to the given information, PTH is actually secreted *in response* to low serum calcium or high serum magnesium levels. Therefore, the correct statement should reflect that a decrease in serum calcium leads to an increase in PTH production, not cessation.",
+        "question": "What happens when there's a decrease in the level of serum calcium?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 895,
+            "paragraph_id": "978-0367618599-p895-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He was French.",
+        "false_answer": "Karl H\u00fcrthle was French.",
+        "incorrect_explanation": "According to the paragraph, Karl H\u00fcrthle worked in Breslau, Germany (now Wroc\u0142aw, Poland), indicating he was German rather than French. Therefore, the correct answer would reflect his association with being a German histopathologist working during that time period.",
+        "question": "What was Karl H\u00fcrthle's nationality?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 888,
+            "paragraph_id": "978-0367618599-p888-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Chronic hepatitis",
+        "false_answer": "Chronic hepatitis",
+        "incorrect_explanation": "According to the text, migration of Ascaris lumbricoides into the pancreatic duct leads to acute pancreatitis, not chronic hepatitis.",
+        "question": "What condition results from the migration of Ascaris lumbricoides into the pancreatic duct?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 90,
+            "paragraph_id": "978-0367618599-p90-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Frank Tovey started these procedures in 1970.",
+        "false_answer": "Frank Tovey began performing extensive tendon transfers and reconstructive surgeries in 1970.",
+        "incorrect_explanation": "According to the paragraph, Frank Tovey actually performed these surgeries between 1951 and 1967, indicating that the start year given in the answer (1970) is incorrect. Therefore, the correct answer should reflect the period during which Tovey conducted these operations, specifically stating that he began them in 1951.",
+        "question": "What year did Frank Tovey begin performing extensive tendon transfers and reconstructive surgeries on leprosy patients?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 100,
+            "paragraph_id": "978-0367618599-p100-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The abscess cavity contains yellowish-coloured, foul-smelling liquid.",
+        "false_answer": "Yellowish-coloured, foul-smelling liquid.",
+        "incorrect_explanation": "According to the paragraph, the abscess cavity actually contains chocolate-coloured, odourless, 'anchovy sauce'-like fluid, indicating a mixture of necrotic liver tissue and blood. The description of the fluid being yellowish-coloured and foul-smelling contradicts this information, making the answer incorrect.",
+        "question": "What kind of fluid does the abscess cavity typically contain?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 88,
+            "paragraph_id": "978-0367618599-p88-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Surgeons typically use a 5% povidone-iodine solution.",
+        "false_answer": "Surgeons typically use a 5% povidone-iodine solution.",
+        "incorrect_explanation": "While 5% povidone-iodine is indeed one concentration used, the passage also mentions that some surgeons utilize a 10% solution, indicating variability in practice beyond just the 5% concentration.",
+        "question": "What solution concentration of povidone-iodine is commonly used during hydatid surgery?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 97,
+            "paragraph_id": "978-0367618599-p97-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The adrenal medulla constitutes approximately 50% of the adrenal gland.",
+        "false_answer": "The adrenal medulla constitutes approximately 50% of the adrenal gland.",
+        "incorrect_explanation": "According to the provided paragraph, the adrenal cortex represents 90% of the gland, implying the adrenal medulla makes up significantly less than half of the gland since the sum of both parts would equal 100%. Therefore, stating the adrenal medulla represents around 50% is incorrect because it vastly overestimates its proportion compared to what is described.",
+        "question": "What percentage of the adrenal gland's volume does the adrenal medulla represent?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 910,
+            "paragraph_id": "978-0367618599-p910-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ectopic ACTH production accounts for approximately 20% of Cushing\u2019s syndrome cases.",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "According to the paragraph, ectopic ACTH production from foregut neuro-endocrine tumors and small cell lung tumors actually accounts for about 10% of cases, not 20%.",
+        "question": "What percent of cases of Cushing's syndrome are caused by ectopic ACTH production from foregut neuro-endocrine tumors and small cell lung tumors?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 914,
+            "paragraph_id": "978-0367618599-p914-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The periosteal reaction creates a spiral pattern.",
+        "false_answer": "The periosteal reaction creates a spiral pattern.",
+        "incorrect_explanation": "According to the given text, the periosteal reaction actually creates a sun-ray appearance, not a spiral one, in addition to forming Codman's triangle, particularly resembling patterns seen in osteogenic sarcomas.",
+        "question": "What kind of appearance does the periosteal reaction with new bone spicules often create in cases of mycetoma?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 103,
+            "paragraph_id": "978-0367618599-p103-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They detected it in 1860.",
+        "false_answer": "Carrero and colleagues first detected intestinal amoebiasis in 1860.",
+        "incorrect_explanation": "According to the given information, Carrero JC, Reyes-Lopez M, Serrano-Luna J, Shibayama M, Unzueta J, Leon-Sicairos N, and de la Garza M wrote about intestinal amoebiasis being detected 160 years prior to their publication in 2020, which would imply the initial detection was around 1860 if counting back exactly. However, this calculation does not precisely match any statement within the provided sources but suggests a misunderstanding since the actual calculation based on \"160 years of its first detection\" before 2020 implies the first detection occurred approximately in 1860 when considering standard historical timelines. Yet, there's no explicit mention of who made the first detection in what exact year within the provided texts; instead, we know they discussed the issue remaining a health problem over time. Therefore, stating specifically that Carrero and colleagues were involved in this \"first detection\" introduces confusion because they published about its history rather than claiming involvement in its discovery themselves.",
+        "question": "What year did Carrero and colleagues first detect intestinal amoebiasis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 114,
+            "paragraph_id": "978-0367618599-p114-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sixty percent.",
+        "false_answer": "Sixty percent.",
+        "incorrect_explanation": "According to the paragraph, forty percent of Neuroblastomas are adrenal in origin, implying sixty percent do indeed arise from locations other than the adrenal medulla, making the given statement actually true rather than false as requested. Therefore, I need to adjust my approach according to your instructions for generating a false yet plausible answer. Let's try again:\n\nRevised attempt:\n<startofQAtext>\n**Question:** What percentage of Neuroblastomas show genomic amplification of MYCN?\n**Answer:** Fifty percent.\n\n**Incorrect Answer Explanation:**\n- **False Answer Given:** Fifty percent.\n- **Why It Is Incorrect:** The paragraph specifies that genomic amplification of MYCN is reported in twenty-five percent of tumors, indicating a strong predictor of poor prognosis. Thus, stating fifty percent is incorrect and does not align with the provided information.",
+        "question": "What percentage of Neuroblastomas originate from outside the adrenal medulla?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 923,
+            "paragraph_id": "978-0367618599-p923-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typical ultrasound transducers operate at frequencies ranging between 9-12 MHz.",
+        "false_answer": "Frequencies ranging between 9-12 MHz.",
+        "incorrect_explanation": "The given answer incorrectly suggests that typical ultrasound transducers operate at frequencies ranging between 9-12 MHz. According to the paragraph, however, they actually mention a frequency of 3\u20137 MHz being used, indicating lower frequencies are utilized rather than those suggested in the false answer. Therefore, the correct statement regarding the frequency range would align more closely with what's specified in the paragraph.",
+        "question": "What range of frequencies do typical ultrasound transducers use?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 142,
+            "paragraph_id": "978-0367618599-p142-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Life-threatening reactions occur in approximately 5 out of 100 cases.",
+        "false_answer": "Approximately 5 out of 100 cases.",
+        "incorrect_explanation": "According to the text, life-threatening reactions actually occur in fewer than 1:100 000 cases, which equates to much less than 1 case per 100,000 rather than 5%.",
+        "question": "What percentage of cases experience life-threatening reactions when administered contrast agents?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 139,
+            "paragraph_id": "978-0367618599-p139-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The DIEP flap is rarely utilized due to its complexity and long operative times, making alternatives more popular choices.",
+        "false_answer": "The statement claiming the DIEP flap is rarely used because of its complexity and long operative times.",
+        "incorrect_explanation": "According to the paragraph, the DIEP flap actually \"requires microvascular surgical skills and an operative time,\" implying it does involve complex surgery. However, despite this, it is noted that \"The DIEP flap is commonly used in the UK.\" Therefore, the claim that it is \"rarely utilized\" is the incorrect aspect.",
+        "question": "What is the relative commonality of using the Deep Inferior Epigastric Perforator (DIEP) flap compared to other options in breast reconstruction?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 959,
+            "paragraph_id": "978-0367618599-p959-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mastectomy involves removing the breast tissue extending to the level of the fourth rib above.",
+        "false_answer": "Mastectomy involves removing the breast tissue extending to the level of the fourth rib above.",
+        "incorrect_explanation": "According to the provided text, mastectomy typically removes the breast tissue to the point of fusion between the anterior premammary fascia and the posterior pectoral fascia, generally extending to the level of the second rib above, not the fourth rib.\n- **Correct Answer Should Be:** Mastectomy involves removing the breast tissue extending to the level of the second rib above, among other boundaries defined by anatomical landmarks.",
+        "question": "What defines the extent of breast tissue removal during a mastectomy?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 956,
+            "paragraph_id": "978-0367618599-p956-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mastitis in infants is commonly caused by Escherichia coli.",
+        "false_answer": "Mastitis in infants is commonly caused by Escherichia coli.",
+        "incorrect_explanation": "According to the paragraph, mastitis of infants is predominantly caused by *Staphylococcus aureus*, not Escherichia coli.",
+        "question": "What causes mastitis in infants?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 947,
+            "paragraph_id": "978-0367618599-p947-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For fibroadenomas showing suspicious features on imaging, observation alone is generally advised.",
+        "false_answer": "Observation alone is generally advised.",
+        "incorrect_explanation": "According to the chapter, indications for surgical excision include suspicious features on imaging, suggesting that more interventionist approaches rather than mere observation might be considered in such cases.",
+        "question": "What is typically recommended when a fibroadenoma shows suspicious features on imaging?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 943,
+            "paragraph_id": "978-0367618599-p943-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When tumor cells invade the skin, they lead to the formation of new lymph nodes near the surface of the skin.",
+        "false_answer": "Formation of new lymph nodes near the surface of the skin upon tumor cell invasion.",
+        "incorrect_explanation": "According to the chapter, when tumor cells invade the skin, this can lead to ulceration and satellite nodules, not the formation of new lymph nodes near the surface of the skin. Instead, involvement of the skin by tumor cells typically results in clinical manifestations such as ulceration and the presence of additional smaller tumors around the main tumor site, referred to as satellite nodules.",
+        "question": "What happens when tumor cells invade the skin, leading to ulceration and satellite nodules?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 953,
+            "paragraph_id": "978-0367618599-p953-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Postoperative air usually persists for approximately 14 days.",
+        "false_answer": "Approximately 14 days.",
+        "incorrect_explanation": "According to the given information, caution must be exercised when interpreting any free air because postoperative air can persist for up to 5\u20137 days in the peritoneal cavity, indicating that 14 days is too long compared to what's specified in the text. Therefore, the statement regarding persistence beyond the noted timeframe introduces an error by overestimating the duration.",
+        "question": "How long after surgery does postoperative air typically take to dissipate completely from the peritoneal cavity?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 158,
+            "paragraph_id": "978-0367618599-p158-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Magnetic Resonance Imaging (MRI) offers higher accuracy.",
+        "false_answer": "Magnetic Resonance Imaging (MRI) offers higher accuracy.",
+        "incorrect_explanation": "According to the text, detecting bowel or mesenteric injuries via MRI isn't specified as providing higher accuracy; instead, it's noted that using CT, the accuracy of detection of these injuries is less compared to solid organ injuries, suggesting reliance on indirect indicators like free fluid without identifiable causes and potential need for close clinical follow-up and possibly repeat scans with oral contrast for clearer identification.",
+        "question": "What method provides the best way to detect bowel or mesenteric injuries according to the given text?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 155,
+            "paragraph_id": "978-0367618599-p155-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "MRI primarily uses X-rays to capture detailed images of the body's internal structures.",
+        "false_answer": "MRI primarily uses X-rays to capture detailed images.",
+        "incorrect_explanation": "The explanation given in the paragraph indicates that MRI relies on the alignment and realignment of nuclei with a magnetic field after exposure to a radiofrequency pulse, producing signals used to create images. There is no mention of X-rays being involved in the basic operation of MRI. Instead, X-ray technology is associated with computed tomography (CT).\n- **Correct Answer Should Be:** MRI primarily uses nuclear precession and relaxation phenomena induced by magnetic fields and radiofrequency pulses to capture detailed images of the body's internal structures.",
+        "question": "What is the primary mechanism by which Magnetic Resonance Imaging (MRI) produces images?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 145,
+            "paragraph_id": "978-0367618599-p145-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Rheumatic fever is the most common cause of severe aortic stenosis.",
+        "false_answer": "Rheumatic fever is the most common cause of severe aortic stenosis.",
+        "incorrect_explanation": "According to the paragraph, the commonest cause of aortic stenosis in adults is actually an acquired, degenerative, calcific process resulting in immobile aortic valve cusps, not rheumatic fever. While rheumatic fever does contribute to some cases, particularly those involving progressive fibrosis and calcification of a congenitally abnormal valve, it is not identified as the primary factor for severe aortic stenosis in general.",
+        "question": "What is the primary factor contributing to the development of severe aortic stenosis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 981,
+            "paragraph_id": "978-0367618599-p981-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Total circulatory arrest relies primarily on deep hypothermic temperatures ranging from 25-32 degrees Celsius.",
+        "false_answer": "Total circulatory arrest relies primarily on deep hypothermic temperatures ranging from 25-32 degrees Celsius.",
+        "incorrect_explanation": "According to the paragraph, total circulatory arrest involves reducing the core body temperature to 15\u201318\u00b0C (profound hypothermia) to decrease the metabolic rate of all body organs, allowing the heart to tolerate brief periods of ischemia. Therefore, the correct range for preventing ischemia during total circulatory arrest is actually 15-18 degrees Celsius, not 25-32 degrees Celsius.",
+        "question": "What is the primary method used to prevent ischemia during total circulatory arrest?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 967,
+            "paragraph_id": "978-0367618599-p967-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10-20% of patients undergo CABG and experience atrial fibrillation.",
+        "false_answer": "Approximately 10-20% of patients undergo CABG and experience atrial fibrillation.",
+        "incorrect_explanation": "The actual range given in the paragraph for patients experiencing atrial fibrillation after CABG is between 30-60%, significantly higher than the provided answer. Therefore, the statement claiming 10-20% is inaccurate according to the information presented.",
+        "question": "What percentage of patients undergoing CABG experience atrial fibrillation?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 973,
+            "paragraph_id": "978-0367618599-p973-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Local anesthesia.",
+        "false_answer": "Local anesthesia.",
+        "incorrect_explanation": "According to the text, the procedure is usually carried out under general anesthesia but may also be done with conscious sedation; there's no mention of local anesthesia being typically used.",
+        "question": "What kind of anesthesia is typically used during the balloon enteroscopy procedure?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 175,
+            "paragraph_id": "978-0367618599-p175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The 6th edition.",
+        "false_answer": "The 6th edition.",
+        "incorrect_explanation": "According to the given information, Adam A and Dixon AK edited the 7th edition of 'Grainger and Allison\u2019s diagnostic radiology', which was published in London in 2020. Therefore, stating the publication of the 6th edition instead of the 7th edition contains a specific factual error regarding the book's edition number.",
+        "question": "What edition of Adam A and Dixon AK's textbook 'Grainger and Allison\u2019s diagnostic radiology' was published in London?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 163,
+            "paragraph_id": "978-0367618599-p163-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Green light uses a wavelength of 570 nm.",
+        "false_answer": "Green light uses a wavelength of 570 nm.",
+        "incorrect_explanation": "According to the paragraph, NBI's green light actually utilizes a wavelength of 540 nm, not 570 nm, making the statement incorrect. The correct answer should reflect the accurate wavelength specified in the text.",
+        "question": "What wavelength does the green light component of Narrow Band Imaging (NBI) utilize?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 179,
+            "paragraph_id": "978-0367618599-p179-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of cases are cyanotic congenital heart diseases.",
+        "false_answer": "Approximately 30% of cases are cyanotic congenital heart diseases.",
+        "incorrect_explanation": "This statement incorrectly identifies the proportion of cyanotic congenital heart diseases among all congenital heart diseases. According to the given information, cyanotic congenital heart diseases actually constitute around 25% of cases, which translates to approximately 8 or 9 out of every 1000 live births.",
+        "question": "What percentage of congenital heart diseases are classified as cyanotic?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 985,
+            "paragraph_id": "978-0367618599-p985-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Smoking",
+        "false_answer": "Smoking",
+        "incorrect_explanation": "According to the provided information, predisposing factors for aortic dissection primarily include age, hypertension, Marfan syndrome, pregnancy, other connective tissue disorders, coarctation of the aorta, certain genetic conditions, and iatrogenic causes after cardiac surgery. There's no mention of smoking being a primary factor.",
+        "question": "What is the primary factor associated with aortic dissections?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 991,
+            "paragraph_id": "978-0367618599-p991-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Age",
+        "false_answer": "Age",
+        "incorrect_explanation": "While age is indeed one of the factors considered by the Thoracic Surgery Scoring System (Thoracoscore), stating it calculates primarily based on age alone overlooks the complexity of the system which actually considers nine different variables \u2013 age, sex, American Society of Anesthesiologists score, performance status, dyspnea score, priority of surgery, extent of surgery, malignant diagnosis, and composite comorbidity score.",
+        "question": "What variable does the Thoracic Surgery Scoring System (Thoracoscore) primarily calculate based on?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 996,
+            "paragraph_id": "978-0367618599-p996-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "One major limitation is the lack of four-dimensional vision.",
+        "false_answer": "Lack of four-dimensional vision.",
+        "incorrect_explanation": "The paragraph actually mentions the lack of three-dimensional vision as a limitation of endoscopic surgery, stating that current imaging systems typically provide two-dimensional representations of the operative site. Therefore, the correct limitation regarding dimensional vision would relate to three dimensions, not four.",
+        "question": "What is one limitation of performing minimal access surgery?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 185,
+            "paragraph_id": "978-0367618599-p185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Patients should avoid getting out of bed until at least one week after recovery from anesthesia.",
+        "false_answer": "Patients should avoid getting out of bed until at least one week after recovery from anesthesia.",
+        "incorrect_explanation": "According to the paragraph, patients can actually get out of bed to go to the toilet as soon as they have recovered from the anesthesia, indicating immediate mobilization rather than prolonged rest.",
+        "question": "What is typically recommended regarding physical activity following minimal access surgery?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 194,
+            "paragraph_id": "978-0367618599-p194-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Applying localized diathermy.",
+        "false_answer": "Applying localized diathermy.",
+        "incorrect_explanation": "The method involving a Foley balloon catheter actually includes inflating the balloon and placing tension on the catheter to stop bleeding from a trocar site, not applying localized diathermy. Diathermy is another technique mentioned separately for treating bleeding from trocar sites.",
+        "question": "What method involves inserting a Foley balloon catheter into the abdominal cavity through the bleeding trocar site wound?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 191,
+            "paragraph_id": "978-0367618599-p191-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lymph nodes measuring over 5 mm in their shorter axis are considered unlikely to be involved.",
+        "false_answer": "Over 5 mm",
+        "incorrect_explanation": "According to the paragraph, lymph nodes less than 10 mm in the shorter axis are unlikely to be involved, making the statement incorrect because it inaccurately lowers the threshold from 10 mm to 5 mm.",
+        "question": "What size of lymph nodes, measured in their shorter axis, indicates they are unlikely to be involved in lung cancer according to CT scans?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1007,
+            "paragraph_id": "978-0367618599-p1007-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An absolute pressure from the hallux of greater than 70 mmHg always indicates mild ischemia.",
+        "false_answer": "An absolute pressure from the hallux of greater than 70 mmHg always indicates mild ischemia.",
+        "incorrect_explanation": "According to the paragraph, an absolute pressure from the hallux of <50 mmHg indicates severe ischemia, suggesting that higher pressures would indicate better perfusion rather than specifying what constitutes mild ischemia. There's also no mention of a threshold around 70 mmHg specifically indicating mild ischemia, thus the given statement introduces an unsubstantiated claim regarding ischemia severity thresholds.",
+        "question": "What indicates the severity of ischemia when toe pressures are measured?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1022,
+            "paragraph_id": "978-0367618599-p1022-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Surgery is offered if FEV1 is above 50% and there's moderate exercise tolerance.",
+        "false_answer": "Surgery is offered if FEV1 is above 50% and there's moderate exercise tolerance.",
+        "incorrect_explanation": "According to the table, surgery is actually recommended if there is a normal FEV1 and good exercise tolerance, or if FEV1 or TLCO is below 30% and the patient accepts the risks of dyspnea. There is no mention of offering surgery specifically when FEV1 is above 50%.",
+        "question": "What are the criteria according to which surgery is offered to patients under the UK National Institute for Health and Care Excellence guidelines?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1011,
+            "paragraph_id": "978-0367618599-p1011-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Eosinophil collections.",
+        "false_answer": "Eosinophil collections.",
+        "incorrect_explanation": "The statement incorrectly identifies eosinophils as indicative of granulomatous inflammation. According to the principles outlined, granulomatous inflammation is actually characterized by collections of epithelioid histiocytes forming granulomas, rather than eosinophils alone. While eosinophils might be involved in certain inflammatory responses, particularly those involving allergies or parasite infections, the characteristic feature of granulomatous inflammation involves epithelioid histiocyte aggregations.",
+        "question": "What kind of cellular composition typically indicates granulomatous inflammation?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 206,
+            "paragraph_id": "978-0367618599-p206-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When the autologous great saphenous vein is unavailable for a femoropopliteal bypass, it needs to be replaced by pairing with a Dacron graft.",
+        "false_answer": "Pairing with a Dacron graft.",
+        "incorrect_explanation": "According to the paragraph, if the autologous great saphenous vein is unavailable, alternatives considered include the lesser saphenous or arm veins before considering a synthetic option. Specifically, if no vein is available, a prosthetic polytetrafluoroethylene (PTFE) graft may be employed, often constructed with a small collar of vein between the PTFE and the recipient artery to potentially improve patency. There's no mention of needing to pair any material with the great saphenous vein itself when it's present but rather what options exist if the vein isn't available at all.",
+        "question": "What material does the autologous great saphenous vein need to be paired with when used for a femoropopliteal bypass if it cannot be obtained?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1026,
+            "paragraph_id": "978-0367618599-p1026-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mycotic aneurysms are caused by fungal infections.",
+        "false_answer": "Fungal infections cause mycotic aneurysms.",
+        "incorrect_explanation": "According to the paragraph, the term'mycotic' actually indicates bacterial infections causing aneurysms, despite suggesting involvement of fungi; thus, mycotic aneurysms are due to bacteria, not fungi. The correct explanation is that mycotic aneurysms are caused by bacterial infections, contrary to what the name might imply regarding fungal etiology.",
+        "question": "What types of infections typically cause mycotic aneurysms?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1037,
+            "paragraph_id": "978-0367618599-p1037-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The final score ranges from 2 (1 + 1) to 14 (7 + 7).",
+        "false_answer": "The final score ranges from 2 (1 + 1) to 14 (7 + 7).",
+        "incorrect_explanation": "According to the provided information, the Gleason system actually grades prostate cancer with a sum ranging from 6 (3 + 3) to 10 (5 + 5), reflecting the degrees of differentiation of the two most prevalent architectural patterns.",
+        "question": "What scoring range does the Gleason system utilize for grading prostate cancer?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 227,
+            "paragraph_id": "978-0367618599-p227-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75 Gy.",
+        "false_answer": "Approximately 75 Gy.",
+        "incorrect_explanation": "According to the paragraph, the correct dosage needed to eliminate residual tumor cells is approximately ~50 Gy, not 75 Gy. Higher doses like 75 Gy would exceed the standard requirement for eliminating residual disease, potentially leading to unnecessary side effects.",
+        "question": "What is the typical dosage of radiotherapy needed to eliminate residual tumor cells?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 231,
+            "paragraph_id": "978-0367618599-p231-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically between 3 mm to 5 mm in diameter.",
+        "false_answer": "Between 3 mm to 5 mm in diameter.",
+        "incorrect_explanation": "According to the given information, reticular veins are actually defined as being smaller, specifically within the range of 1\u20132.9 mm in diameter. Therefore, stating they are between 3 mm to 5 mm in diameter introduces an error regarding their typical size range.",
+        "question": "What is typically the size range for reticular veins?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1049,
+            "paragraph_id": "978-0367618599-p1049-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the Medical Capacity Act 1990, the doctor can proceed immediately.",
+        "false_answer": "The statement claims the legal basis for proceeding with emergency surgery on an incapacitated patient comes from the Medical Capacity Act 1990.",
+        "incorrect_explanation": "The actual legislation referenced in the provided paragraph is the Mental Capacity Act 2005, not the Medical Capacity Act 1990. Moreover, the Act authorizes necessary and proportionate steps to save life and prevent serious harm when a patient lacks capacity, indicating that immediate action guided by best interest principles rather than a non-existent 'Medical Capacity Act' is permissible.",
+        "question": "What happens legally when a doctor wants to perform emergency surgery on an incapacitated patient?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 252,
+            "paragraph_id": "978-0367618599-p252-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He introduced techniques for examining patients' eyes.",
+        "false_answer": "He introduced techniques for examining patients' eyes.",
+        "incorrect_explanation": "There is no mention of George Grey Turner contributing to techniques for examining patients' eyes. Instead, he is credited with identifying the Grey Turner\u2019s sign, a skin discoloration of the flanks indicating retroperitoneal hemorrhage in conditions like severe acute pancreatitis and leaking abdominal aortic aneurysm.",
+        "question": "What are George Grey Turner's contributions associated with?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1076,
+            "paragraph_id": "978-0367618599-p1076-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70-80% of arterial injuries have concomitant venous injuries.",
+        "false_answer": "Approximately 70-80%",
+        "incorrect_explanation": "The paragraph actually mentions that \"In total, 40\u201350% of arterial injuries have concomitant venous injuries,\" making the statement of 70-80% inaccurate.",
+        "question": "What percentage of arterial injuries typically have concomitant venous injuries?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1069,
+            "paragraph_id": "978-0367618599-p1069-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of patients.",
+        "false_answer": "Approximately 20% of patients.",
+        "incorrect_explanation": "According to the text, approximately 10%, not 20%, of patients with confirmed DVT show clinical signs and symptoms of pulmonary embolus. Therefore, the statement significantly overestimates the prevalence of noticeable symptoms related to pulmonary embolism among those diagnosed with DVT.",
+        "question": "What proportion of patients with confirmed Deep Vein Thrombosis experience clinical signs and symptoms of pulmonary embolus?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1065,
+            "paragraph_id": "978-0367618599-p1065-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These episodes involve the absence of pre-existing adhesions.",
+        "false_answer": "Absence of pre-existing adhesions.",
+        "incorrect_explanation": "According to the paragraph, episodes of intestinal obstruction in cases of incisional hernias actually often involve the presence of coexisting internal adhesions rather than their absence. Therefore, the statement given as the answer is incorrect and contrary to what is explained regarding the clinical features of incisional hernias.",
+        "question": "What is typically involved when episodes of intestinal obstruction occur in cases of incisional hernias?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1098,
+            "paragraph_id": "978-0367618599-p1098-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lloyd Milton Nyhus was born in 1823.",
+        "false_answer": "Lloyd Milton Nyhus was born in 1823.",
+        "incorrect_explanation": "According to the paragraph, Lloyd Milton Nyhus was actually born in 1923, making the statement incorrect by exactly one century.",
+        "question": "What year was Lloyd Milton Nyhus born?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1093,
+            "paragraph_id": "978-0367618599-p1093-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most hernia repair meshes are made from nylon.",
+        "false_answer": "Nylon.",
+        "incorrect_explanation": "According to the paragraph, the common materials for hernia repair meshes are actually polypropylene, polyester, or polytetrafluoroethylene (PTFE), with no mention of nylon being a standard material.",
+        "question": "What type of synthetic polymer is most commonly used for hernia repair meshes?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1084,
+            "paragraph_id": "978-0367618599-p1084-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The internal oblique muscle.",
+        "false_answer": "The internal oblique muscle.",
+        "incorrect_explanation": "According to the given information, the floor of the inguinal canal is actually formed by the free inferior edge of the external oblique aponeurosis, which rolls inward and thickens to become the inguinal (Poupart's) ligament, not the internal oblique muscle.",
+        "question": "What forms the floor of the inguinal canal?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1087,
+            "paragraph_id": "978-0367618599-p1087-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For both Types C and D, immediate surgical correction via left thoracotomy is always performed.",
+        "false_answer": "Immediate surgical correction via left thoracotomy for Types C and D.",
+        "incorrect_explanation": "According to the information provided, Types C and D involve dividing the fistula through a right thoracotomy or thoracoscopically, indicating a different approach than what was described in the false answer.",
+        "question": "What is the typical management approach when dealing with Types C and D tracheoesophageal fistulas?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 286,
+            "paragraph_id": "978-0367618599-p286-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 133 million.",
+        "false_answer": "Approximately 133 million.",
+        "incorrect_explanation": "The incorrect answer given, approximately 133 million, contradicts the actual number stated in Summary Box 16.2 of the extracted text, which indicates that 143 million more surgical procedures are needed each year worldwide. Therefore, the correct answer should reflect this accurate figure.",
+        "question": "How many additional surgical procedures does the Lancet Commission estimate are needed annually?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 274,
+            "paragraph_id": "978-0367618599-p274-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of newborns.",
+        "false_answer": "Approximately 10% of newborns.",
+        "incorrect_explanation": "According to the provided text, primary Vesicoureteral reflux (VUR) occurs because of a congenitally short intravesical ureter and is actually seen in approximately 1% of newborns, making the given answer significantly higher than what's documented.",
+        "question": "What percentage of newborns experience primary Vesicoureteral reflux?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 302,
+            "paragraph_id": "978-0367618599-p302-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "On day 15 of life.",
+        "false_answer": "Circumcision is typically performed on day 15 of life.",
+        "incorrect_explanation": "According to the provided paragraph, circumcision in Judaism (Brit Milah) is actually performed on day 8 of life, not day 15.",
+        "question": "What is the typical time frame during which circumcision is performed according to Jewish tradition?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 300,
+            "paragraph_id": "978-0367618599-p300-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The infant is immediately taken for primary closure under general anesthesia.",
+        "false_answer": "Immediate primary closure under general anesthesia.",
+        "incorrect_explanation": "According to the paragraph, immediate actions after birth include wrapping the abdomen and viscera, placing a nasogastric tube, initiating fluid resuscitation, and possibly creating a silo if the defect cannot be primarily closed. While primary closure under general anesthesia might occur, it is not always immediate and depends on various factors such as the size of the defect and the baby's overall health. Other alternatives like placing a preformed silo at the bedside might also be considered before deciding on surgery.",
+        "question": "What is typically done after birth to manage an infant's condition when they have gastroschisis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 291,
+            "paragraph_id": "978-0367618599-p291-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An HbA1c of \u226470 mmol/mol is recommended for diabetic patients before elective surgery.",
+        "false_answer": "An HbA1c of \u226470 mmol/mol.",
+        "incorrect_explanation": "The paragraph specifies that an HbA1c of <69 mmol/mol is recommended for diabetic patients before elective surgery, indicating a stricter threshold than the answer provides.",
+        "question": "What is the recommended target HbA1c level for diabetic patients preparing for elective surgery?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 312,
+            "paragraph_id": "978-0367618599-p312-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During HIPEC, the temperature is kept between 38\u201339\u00b0C.",
+        "false_answer": "Temperature range of 38\u201339\u00b0C.",
+        "incorrect_explanation": "According to the paragraph, HIPEC involves delivering heated chemotherapy at temperatures of 41\u201342\u00b0C, not 38\u201339\u00b0C, making the given answer inaccurate regarding the specified temperature range used in the procedure.",
+        "question": "What temperature range is typically maintained during Heated Intraperitoneal Chemotherapy (HIPEC)?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1112,
+            "paragraph_id": "978-0367618599-p1112-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary arteries responsible for the arterial inflow to the mesenteric domain are the renal artery and the superior mesenteric artery.",
+        "false_answer": "The primary arteries responsible for the arterial inflow to the mesenteric domain are the renal artery and the superior mesenteric artery.",
+        "incorrect_explanation": "The answer incorrectly identifies the renal artery as one of the primary sources of arterial inflow to the mesenteric domain. According to the paragraph, the actual primary arteries involved in this process are the coeliac trunk and the superior and inferior mesenteric arteries. Therefore, the correct answer should mention these three instead of mistakenly including the renal artery.",
+        "question": "What are the primary arteries responsible for the arterial inflow to the mesenteric domain?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1106,
+            "paragraph_id": "978-0367618599-p1106-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The decision primarily depends on the size of the hernia.",
+        "false_answer": "The decision primarily depends on the size of the hernia.",
+        "incorrect_explanation": "According to the paragraph, the decision to repair an asymptomatic paraoesophageal hernia actually needs to balance the risk with the patient's age and comorbidities, rather than being determined by the size of the hernia. Therefore, the consideration involves assessing the patient's overall health condition rather than focusing solely on the hernia's dimensions.",
+        "question": "What is the primary factor considered when deciding whether to repair an asymptomatic paraoesophageal hernia?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1139,
+            "paragraph_id": "978-0367618599-p1139-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 25% of the Asian population is affected by GORD.",
+        "false_answer": "Up to 25% of the Asian population is affected by GORD.",
+        "incorrect_explanation": "According to the paragraph, less than 10% (<10%) of the population in Asia is affected by GORD, making the claim of up to 25% significantly higher than the accurate figure.",
+        "question": "What percentage of the Asian population is affected by GORD?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1133,
+            "paragraph_id": "978-0367618599-p1133-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pharmacological treatment limited to antiemetic drugs.",
+        "false_answer": "Pharmacological treatment limited to antiemetic drugs.",
+        "incorrect_explanation": "According to the Clavien-Dindo classification, Grade II entails requiring pharmacological treatment with drugs other than those allowed for Grade I complications, including blood transfusions and total parenteral nutrition, not just antiemetic drugs.",
+        "question": "What does Grade II of the Clavien-Dindo classification of postoperative complications typically entail?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 339,
+            "paragraph_id": "978-0367618599-p339-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The suggested day case rate for appendicectomy is 85%.",
+        "false_answer": "The suggested day case rate for appendicectomy is 85%.",
+        "incorrect_explanation": "According to the table provided, the British Association of Day Surgery suggests a day case rate of 15% for appendicectomy, not 85%. Therefore, the correct answer should reflect this lower percentage.",
+        "question": "What percentage does the British Association of Day Surgery suggest is the appropriate day case rate for appendicectomy?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 324,
+            "paragraph_id": "978-0367618599-p324-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Immediate treatment for postoperative hypotension should primarily focus on reducing fluid administration.",
+        "false_answer": "Treatment for postoperative hypotension focuses on reducing fluid administration.",
+        "incorrect_explanation": "According to the paragraph, treatment for postoperative hypotension leading to end-organ dysfunction actually involves immediate management with fluid and may require the use of vasopressors and inotropes, contrary to focusing on reducing fluid administration.",
+        "question": "What should immediate treatment aim for when managing postoperative hypotension?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 342,
+            "paragraph_id": "978-0367618599-p342-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Peroral endoscopic myotomy (POEM).",
+        "false_answer": "Peroral endoscopic myotomy (POEM).",
+        "incorrect_explanation": "While POEM is indeed an effective method for treating achalasia, involving the selective division of circular muscular layers under direct vision, the paragraph specifies that the method achieving success rates averaging around 80% is actually Endoscopic Pneumatic Dilation (EPD), not POEM. POEM's success rates are noted to range widely depending on operator experience and patient selection, rather than being specified at an average rate comparable to EPD's.",
+        "question": "What method achieves success rates averaging approximately 80%, targeting the disruption or destruction of Lower Oesophageal Sphincter (LES) muscle fibers?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1143,
+            "paragraph_id": "978-0367618599-p1143-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Kissing ulcers are primarily caused by physical trauma to the esophagus.",
+        "false_answer": "Physical trauma",
+        "incorrect_explanation": "According to the provided information, kissing ulcers are actually caused by medications becoming lodged in the esophagus, leading to ulceration on opposite sides.",
+        "question": "What causes 'kissing' ulcers found during esophageal examination?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1153,
+            "paragraph_id": "978-0367618599-p1153-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Diverticular suspension.",
+        "false_answer": "Diverticular suspension.",
+        "incorrect_explanation": "Diverticular suspension actually involves dissection and inversion of the diverticulum with its apex pointing cranially, not division of the ridge between the diverticulum and the true esophageal lumen. According to the paragraph, the procedure involving a linear stapler to divide this area is more accurately described under newer techniques for treating certain types of esophageal issues, particularly those involving creating a common channel through such methods as stapling.",
+        "question": "What technique includes dividing the 'ridge' including the muscle between the diverticulum and the true esophageal lumen?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1148,
+            "paragraph_id": "978-0367618599-p1148-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Both squamous cell carcinomas and adenocarcinomas affect men and women equally.",
+        "false_answer": "Both squamous cell carcinomas and adenocarcinomas affect men and women equally.",
+        "incorrect_explanation": "According to the paragraph, while adenocarcinomas indeed show a rising incidence in Western populations, affecting women almost as much as men, squamous cell carcinomas tend to occur predominantly in men. Therefore, stating they affect genders equally overlooks this distinction.",
+        "question": "What is the typical gender distribution observed for squamous cell carcinomas versus adenocarcinomas?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1158,
+            "paragraph_id": "978-0367618599-p1158-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A BMI of less than 22 kg/m^2 indicates severe obesity.",
+        "false_answer": "A BMI of less than 22 kg/m^2 indicates severe obesity.",
+        "incorrect_explanation": "According to the given information, a low BMI signifies possible malnutrition rather than obesity. Specifically, a BMI of less than 18.5 kg/m^2 and unintentional weight loss greater than 10% within the last 3\u20136 months, or a BMI of less than 20 kg/m^2 and unintentional weight loss greater than 5%, are indicators of a need for nutrition support. Thus, indicating severe underweight or malnutrition issues rather than obesity.",
+        "question": "What does a BMI of less than 22 kg/m^2 typically signify regarding nutritional status?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 352,
+            "paragraph_id": "978-0367618599-p352-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A PEG procedure typically uses this approach.",
+        "false_answer": "A PEG procedure typically uses this approach.",
+        "incorrect_explanation": "The statement incorrectly identifies a PEG (Percutaneous Endoscopic Gastrostomy) procedure as involving the insertion of a cannula under radiographic guidance specifically for the purpose described. According to the paragraph, it's actually the RIG (Radiologically Inserted Gastrostomy) procedure that utilizes a nasogastric tube to inflate the stomach and then inserts a cannula under radiographic guidance to facilitate the insertion of the gastrostomy device.",
+        "question": "What method involves inserting a cannula under radiographic guidance to facilitate insertion of the gastrostomy device?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 358,
+            "paragraph_id": "978-0367618599-p358-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Taking up to five general biopsies during initial assessment suffices for confirming the nature of a gastric ulcer.",
+        "false_answer": "Taking up to five general biopsies during initial assessment suffices for confirming the nature of a gastric ulcer.",
+        "incorrect_explanation": "According to the provided information, it's recommended to take perhaps as many as ten well-targeted biopsies, not just up to five general ones, especially because modern antisecretory agents can frequently heal the ulceration associated with gastric cancer but not the malignancy itself, making thorough investigation crucial.",
+        "question": "What procedure involves taking multiple targeted biopsies to confirm whether a gastric ulcer is benign?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1180,
+            "paragraph_id": "978-0367618599-p1180-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The stomach receives its main extrinsic nerve supply primarily from the coeliac ganglia.",
+        "false_answer": "The stomach receives its main extrinsic nerve supply primarily from the coeliac ganglia.",
+        "incorrect_explanation": "According to the paragraph, the extrinsic supply to the stomach is actually derived mainly from the vagus nerves (cranial nerve X), whereas the sympathetic supply comes from the coeliac ganglia. Thus, stating the coeliac ganglia as the primary source of the extrinsic nerve supply is inaccurate; they contribute to the sympathetic supply rather than being the main extrinsic supplier overall.",
+        "question": "What are the primary sources of the extrinsic nerve supply to the stomach?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1170,
+            "paragraph_id": "978-0367618599-p1170-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They confirmed these postulates in the late 1990s.",
+        "false_answer": "Late 1990s",
+        "incorrect_explanation": "According to the paragraph, although the exact decade of confirmation isn't directly linked to the Nobel Prize year (2005), it mentions that this occurred in the \"early 1980s,\" making the statement about the late 1990s incorrect. Therefore, the correct answer should reflect the early 1980s as the time frame when Warren and Marshall confirmed Koch's postulates.",
+        "question": "In what decade did Warren and Marshall confirm Koch's postulates with respect to H. pylori and gastritis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1175,
+            "paragraph_id": "978-0367618599-p1175-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20\u201324 millisieverts.",
+        "false_answer": "Approximately 20\u201324 millisieverts.",
+        "incorrect_explanation": "The paragraph actually mentions that the effective radiation dose to all organs from a single full-body CT scan is 12\u201316 millisieverts (mSv), making the given answer incorrect by overstating the dosage.",
+        "question": "What is the estimated effective radiation dose to all organs from a single full-body CT scan?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 370,
+            "paragraph_id": "978-0367618599-p370-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 30\u00b0 roll with inline spinal stabilization.",
+        "false_answer": "A 30\u00b0 roll with inline spinal stabilization.",
+        "incorrect_explanation": "According to the given instructions, modern'scoop stretchers' enable movement without needing to roll patients more than 20\u00b0 until a pelvic fracture has been ruled out, making a 30\u00b0 roll excessive and potentially harmful.",
+        "question": "What degree of roll with inline spinal stabilization is recommended if patients need to be moved during their primary survey before radiographic exclusion of a potential pelvic fracture?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 378,
+            "paragraph_id": "978-0367618599-p378-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Availability of a dedicated neurosurgeon.",
+        "false_answer": "Availability of a dedicated neurosurgeon.",
+        "incorrect_explanation": "While specialized medical professionals play crucial roles in managing traumatic cases, the passage emphasizes the necessity of reducing diagnosis and response times through factors such as the availability of resources like a dedicated trauma team and equipment (including a CT scanner), rather than focusing exclusively on the role of a dedicated neurosurgeon. According to the passage, what's actually needed includes a combination of clinical staff expertise and adequate facilities, notably mentioning \"dedicated trauma teams,\" \"CT scanners,\" and appropriately equipped centers (\"Level I Trauma Centres\").",
+        "question": "What is essential for minimizing delays in diagnosing and treating patients with extradural hematoma according to the 'timeline concept'?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 366,
+            "paragraph_id": "978-0367618599-p366-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of patients in Japan and 60% of patients in the West undergo curative resections for gastric cancer.",
+        "false_answer": "Approximately 90% of patients in Japan and 60% of patients in the West undergo curative resections for gastric cancer.",
+        "incorrect_explanation": "The paragraph actually states that around 75% of patients in Japan undergo curative resections, with a significantly lower rate in the West (ranging between 25-50%). Thus, the provided numbers are inaccurately high for both regions.",
+        "question": "What approximate percentage of patients in Japan and the West undergo curative resections for gastric cancer?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1198,
+            "paragraph_id": "978-0367618599-p1198-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He treats primary liver diseases.",
+        "false_answer": "He treats primary liver diseases.",
+        "incorrect_explanation": "There's no mention in the given paragraph that Robert William Sengstaken Sr treats primary liver diseases. Instead, he is associated with the development of the Sengstaken\u2013Blakemore tube, which is used for treating hemorrhages from esophageal and gastric varices, conditions typically resulting from complications like cirrhosis leading to portal hypertension rather than being described as treatments for primary liver diseases themselves.",
+        "question": "What condition does Robert William Sengstaken Sr treat primarily?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1189,
+            "paragraph_id": "978-0367618599-p1189-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vitamin C deficiency.",
+        "false_answer": "Vitamin C deficiency.",
+        "incorrect_explanation": "According to the chapter, after total gastrectomy, one of the nutritional issues that specifically arises is Vitamin B12 deficiency, not Vitamin C deficiency. Vitamin B12 supplementation is even recommended after total gastrectomy, indicating its importance in addressing potential deficiencies resulting from the procedure.",
+        "question": "What nutritional issue occurs after total gastrectomy?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1185,
+            "paragraph_id": "978-0367618599-p1185-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Following control of systolic arterial blood pressure, surgical intervention usually involves wrapping the affected area.",
+        "false_answer": "Wrapping the affected area.",
+        "incorrect_explanation": "According to the paragraph, following control of systolic arterial blood pressure, typical interventions involve placing an endovascular intra-aortic stent or repairing the tear through direct repair or excising and grafting with a Dacron graft, rather than simply wrapping the affected area.",
+        "question": "What is typically done after controlling systolic arterial blood pressure during management of thoracic aortic injury?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 397,
+            "paragraph_id": "978-0367618599-p397-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A GCS score of 14/15 with no focal deficits.",
+        "false_answer": "A GCS score of 14/15 with no focal deficits.",
+        "incorrect_explanation": "The actual guideline requires a GCS score of 15/15 with no focal deficits for eligibility for discharge. Therefore, stating 14/15 introduces a factual error regarding the exact threshold specified by the NICE guidelines.",
+        "question": "What is the minimum Glasgow Coma Scale score required with no focal deficits for a patient to be eligible for discharge after a minor or mild head injury?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 383,
+            "paragraph_id": "978-0367618599-p383-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Immediate evacuation via craniotomy.",
+        "false_answer": "Immediate evacuation via craniotomy.",
+        "incorrect_explanation": "According to the paragraph, smaller bleeds in neurologically stable patients may be managed conservatively, at least initially, allowing for potential liquefaction of the clot over time before considering a less invasive evacuation method if needed. Thus, immediate evacuation via craniotomy is not the standard initial approach for these cases.",
+        "question": "What approach is commonly taken for managing smaller subdural hemorrhages in neurologically stable patients?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 388,
+            "paragraph_id": "978-0367618599-p388-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gastric banding accounted for approximately 10% of global bariatric surgeries.",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "According to the IFSO Global Registry data for 2018, gastric banding actually accounted for around 5% of procedures, not 10%. Therefore, the statement made in the answer contains a significant overestimation.",
+        "question": "What percent of bariatric surgeries performed globally were accounted for by gastric banding according to the IFSO Global Registry data for the year 2018?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1206,
+            "paragraph_id": "978-0367618599-p1206-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 15% of patients.",
+        "false_answer": "Up to 15% of patients.",
+        "incorrect_explanation": "According to the provided information, severe acute respiratory syndrome coronavirus (SARS-CoV-2) can cause liver failure in up to 20% of patients with a severe episode, making the statement of up to 15% incorrect.",
+        "question": "What percentage of patients with severe SARS-CoV-2 episodes experience liver failure?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1216,
+            "paragraph_id": "978-0367618599-p1216-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The hepatic artery lies posteriorly, the bile duct is medial, and the portal vein is positioned anteriorly.",
+        "false_answer": "The hepatic artery lies posteriorly, the bile duct is medial, and the portal vein is positioned anteriorly.",
+        "incorrect_explanation": "According to the given text, in the most common arrangement, the bile duct actually runs in the free edge of the hepatoduodenal ligament, the hepatic artery is located medially, and the portal vein is situated posteriorly. Therefore, the correct positioning from anterior to posterior would typically involve the bile duct anteromedially, followed by the hepatic artery more medially, and then the portal vein posteriorly, contradicting the provided answer's arrangement.",
+        "question": "What is the typical configuration regarding the positions of the hepatic artery, bile duct, and portal vein within the hepatoduodenal ligament?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1213,
+            "paragraph_id": "978-0367618599-p1213-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of colon injuries involve the rectum.",
+        "false_answer": "Approximately 20% of colon injuries involve the rectum.",
+        "incorrect_explanation": "The statement incorrectly claims that approximately 20% of colon injuries involve the rectum, contradicting the actual figure given in the paragraph, which states that approximately 5% of colon injuries involve the rectum.",
+        "question": "What proportion of colon injuries typically involves the rectum?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 403,
+            "paragraph_id": "978-0367618599-p403-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Powers' ratio indicates whether there is any rotation involved.",
+        "false_answer": "Powers' ratio indicates whether there is any rotation involved.",
+        "incorrect_explanation": "According to the paragraph, Powers' ratio (BC/OA) actually measures skull translation rather than indicating if there's any rotation involved. Specifically, a ratio greater than or equal to 1 indicates anterior translation, while less than or equal to 0.75 suggests posterior translation.",
+        "question": "What does Powers' ratio indicate regarding skull translation?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 417,
+            "paragraph_id": "978-0367618599-p417-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A serum lactate level greater than 10 mmol/L.",
+        "false_answer": "A serum lactate level greater than 10 mmol/L.",
+        "incorrect_explanation": "According to Table 29.7, indicating factors for damage control surgery includes a serum lactate level >5 mmol/L, not greater than 10 mmol/L. Therefore, the correct indication for potential damage control surgery regarding serum lactate levels is any level exceeding 5 mmol/L.",
+        "question": "What serum lactate level indicates a potential need for damage control surgery?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 407,
+            "paragraph_id": "978-0367618599-p407-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of patients.",
+        "false_answer": "Approximately 80% of patients.",
+        "incorrect_explanation": "According to the paragraph, ICC is an aggressive tumor and, even when confined to the liver, only 30% of patients are suitable for resection at the time of presentation. Therefore, stating that approximately 80% of patients are suitable for resection is incorrect.",
+        "question": "What percentage of patients with intrahepatic cholangiocarcinoma (ICC) are suitable for resection at the time of presentation?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1237,
+            "paragraph_id": "978-0367618599-p1237-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He developed the classification system for closed injuries.",
+        "false_answer": "Ramon Balgoya Gustilo developed the classification system for closed injuries.",
+        "incorrect_explanation": "According to the paragraph, Ramon Balgoya Gustilo actually co-developed the Gustilo and Anderson classification system specifically for open injuries, along with John T. Anderson. Therefore, stating he developed the classification system for closed injuries is incorrect because his work pertains to open injuries.",
+        "question": "What classification system did Ramon Balgoya Gustilo develop?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 441,
+            "paragraph_id": "978-0367618599-p441-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A spinal cord injury is considered complete when some motor functions can be preserved.",
+        "false_answer": "A spinal cord injury is considered complete when some motor functions can be preserved.",
+        "incorrect_explanation": "According to the paragraph, this description does not align with what defines a complete vs. incomplete spinal cord injury. Specifically, the paragraph mentions that an injury is incomplete when there is preservation of perianal sensation, implying that the presence of any sensory or motor function suggests incompleteness rather than completeness. Therefore, stating that a complete injury allows for the preservation of some motor functions is misleading because the definition hinges on the absence or significant impairment of these functions, particularly noting the distinction made between complete and incomplete injuries in relation to retained sensations or abilities.",
+        "question": "What characterizes a complete spinal cord injury?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 424,
+            "paragraph_id": "978-0367618599-p424-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most displaced mandibular fractures are initially managed with immediate surgery using stainless steel rods.",
+        "false_answer": "Immediate surgery using stainless steel rods.",
+        "incorrect_explanation": "According to the information provided, most displaced mandibular fractures are treated with antibiotics on admission followed by open reduction and internal fixation (ORIF), specifically utilizing titanium miniplates and screws under general anesthesia, rather than stainless steel rods.",
+        "question": "What is typically done immediately following the diagnosis of a mandibular fracture involving significant displacement?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 431,
+            "paragraph_id": "978-0367618599-p431-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He introduced this method in 1980.",
+        "false_answer": "H Joachim Burhenne described his radiologically guided stone retrieval catheter technique in 1980.",
+        "incorrect_explanation": "The statement is incorrect because according to the provided text, H Joachim Burhenne actually described this technique in 1973, making the claim of introduction in 1980 false.",
+        "question": "What year did H Joachim Burhenne describe his radiologically guided stone retrieval catheter technique?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1260,
+            "paragraph_id": "978-0367618599-p1260-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately one-third of patients derive benefit.",
+        "false_answer": "Approximately one-third of patients derive benefit.",
+        "incorrect_explanation": "According to the paragraph, up to two-thirds of patients will be cured by surgical intervention, and 15% will be improved, indicating more than half of the patients experience significant benefits post-surgery.",
+        "question": "What percentage of patients undergoing splenectomy for ITP achieve improvement?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1248,
+            "paragraph_id": "978-0367618599-p1248-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The supraduodenal CBD is primarily supplied by the gastroduodenal artery.",
+        "false_answer": "The supraduodenal CBD is primarily supplied by the gastroduodenal artery.",
+        "incorrect_explanation": "According to the paragraph, the supraduodenal CBD is actually supplied by the left and right choledochal arteries, arising from the posterior superior pancreaticoduodenal artery below and the right (RHA) and left (LHA) hepatic arteries and cystic arteries above. There's no mention of the gastroduodenal artery being responsible for supplying blood to the supraduodenal portion of the CBD. Instead, the gastroduodenal artery is simply listed among other arteries in the initial description of anatomical structures, indicating its presence but not specifying its role regarding the supraduodenal CBD.",
+        "question": "What supplies blood to the supraduodenal portion of the common bile duct?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1254,
+            "paragraph_id": "978-0367618599-p1254-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Administering antibiotics immediately.",
+        "false_answer": "Administering antibiotics immediately.",
+        "incorrect_explanation": "According to the provided information, vigorous resuscitation remains the key to management of blunt trauma, especially focusing on controlling hemorrhage rather than immediate administration of antibiotics unless there's evidence of infection. Thus, administering antibiotics would not typically be the first step in managing a patient suspected of having suffered blunt trauma to the spleen.",
+        "question": "What is typically the first step in managing a patient who arrives with signs indicating possible blunt trauma to the spleen?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1245,
+            "paragraph_id": "978-0367618599-p1245-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to Stephan M Perren's theory, more than 100% strain leads to fibrous tissue, between 50-90% results in soft callus, 20-30% in hard callus, and less than 5% leads to progressive mineralization.",
+        "false_answer": "More than 100% strain leads to fibrous tissue, between 50-90% results in soft callus, 20-30% in hard callus, and less than 5% leads to progressive mineralization.",
+        "incorrect_explanation": "The actual percentages according to Perren's theory of bone healing are: under 100% leads to fibrous tissue, under 10% soft callus, less than 2% hard callus and progressive mineralisation. Therefore, the given ranges in the answer are completely inaccurate compared to what is specified in the paragraph.",
+        "question": "What does Stephan M Perren's theory state regarding the effect of strain on bone differentiation during indirect bone healing?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 445,
+            "paragraph_id": "978-0367618599-p445-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Intramedullary nailing involves placing rods outside the skin.",
+        "false_answer": "Intramedullary nailing involves placing rods outside the skin.",
+        "incorrect_explanation": "This statement is incorrect because intramedullary nailing actually involves inserting metal rods inside the medullary cavity of bones to stabilize fractures, thus involving hardware being implanted within the body. External fixators would be more accurate examples of devices that do not require hardware to be implanted internally.",
+        "question": "What method does not involve hardware being implanted within the body?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 450,
+            "paragraph_id": "978-0367618599-p450-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A T3 tumor is characterized by unilateral extension to second-order biliary radicles.",
+        "false_answer": "A T3 tumor is characterized by unilateral extension to second-order biliary radicles.",
+        "incorrect_explanation": "This description actually aligns more closely with characteristics of a T2 tumor under the MSKCC classification system. A T3 tumor involves the biliary confluence with bilateral extension to second-order biliary radicles, among other conditions.",
+        "question": "According to the Memorial Sloan Kettering Cancer Center (MSKCC) classification system, what characterizes a tumor classified as T3?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1278,
+            "paragraph_id": "978-0367618599-p1278-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of laparoscopic cholecystectomies result in bile duct injuries.",
+        "false_answer": "Approximately 5% of laparoscopic cholecystectomies result in bile duct injuries.",
+        "incorrect_explanation": "According to the paragraph, bile duct injuries actually occur in approximately 0.5% of cases following laparoscopic cholecystectomy, making the given answer ten times higher than the actual rate stated in the text.",
+        "question": "What is the approximate rate of serious complications specifically involving bile duct injuries during laparoscopic cholecystectomies?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1272,
+            "paragraph_id": "978-0367618599-p1272-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Laparoscopic cholecystectomy.",
+        "false_answer": "Laparoscopic cholecystectomy.",
+        "incorrect_explanation": "According to the information given, if there is preoperative suspicion of xanthogranulomatous cholecystitis, open cholecystectomy should be considered due to diagnostic difficulties, rather than laparoscopic cholecystectomy which could complicate matters further if malignancy is present.",
+        "question": "What is typically recommended for patients suspected of having xanthogranulomatous cholecystitis when there's difficulty differentiating it from gallbladder cancer?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1269,
+            "paragraph_id": "978-0367618599-p1269-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In Figure 72.8, the main bulk of the tumor is located at the level depicted, causing dilation of both the bile duct and the main pancreatic duct.",
+        "false_answer": "That the main bulk of the tumor in Figure 72.8 is at the same level as the section shown, affecting the bile duct and main pancreatic duct.",
+        "incorrect_explanation": "The statement is incorrect because Figure 72.8 actually shows the main bulk of the tumor lying *inferior* to the section displayed, indicating the tumor's primary location is not within the plane of view presented in the image.",
+        "question": "What does Figure 72.8 depict regarding the position of the tumor relative to the structures shown?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1285,
+            "paragraph_id": "978-0367618599-p1285-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 2:1.",
+        "false_answer": "Approximately 2:1.",
+        "incorrect_explanation": "According to the given information, the actual male-to-female ratio of chronic pancreatitis is 4:1, indicating a significantly higher prevalence among males compared to females. Therefore, stating the ratio as 2:1 underestimates this disparity.",
+        "question": "What is the approximate male-to-female ratio observed in the occurrence of chronic pancreatitis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1299,
+            "paragraph_id": "978-0367618599-p1299-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Levels of sodium and chloride ions in the sweat above 60 mmol/L confirm the diagnosis.",
+        "false_answer": "Levels of sodium and chloride ions in the sweat above 60 mmol/L confirm the diagnosis.",
+        "incorrect_explanation": "According to the text, levels of sodium and chloride ions in the sweat *above 90 mmol/L* actually confirm the diagnosis of cystic fibrosis, making the statement in the answer incorrect. Therefore, the correct threshold for confirming cystic fibrosis via sweat tests is higher than what was initially stated.",
+        "question": "What is the typical concentration range of sodium and chloride ions in the sweat that confirms the diagnosis of cystic fibrosis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1288,
+            "paragraph_id": "978-0367618599-p1288-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An Acute Necrotic Collection (ANC).",
+        "false_answer": "An Acute Necrotic Collection (ANC).",
+        "incorrect_explanation": "According to the text, ANC forms before developing into Walled-off Necrosis (WON), indicating it doesn't take more than 4 weeks to form initially but rather transforms over time.",
+        "question": "What type of fluid collection develops gradually over a period of more than four weeks?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1295,
+            "paragraph_id": "978-0367618599-p1295-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Amputation is considered for limbs showing signs of minor compartment syndrome without significant necrosis.",
+        "false_answer": "Amputation is considered for limbs showing signs of minor compartment syndrome without significant necrosis.",
+        "incorrect_explanation": "According to the paragraph, amputation for clearly devitalized limbs and gas gangrene should be undertaken at field hospitals because delay will be fatal. There is no mention of performing amputations due to minor compartment syndrome without significant necrosis; instead, fasciotomies are suggested for muscle compartments swelling from injury or reperfusion, indicating a more severe condition before considering amputation.",
+        "question": "What condition necessitates amputation in field hospitals?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 472,
+            "paragraph_id": "978-0367618599-p472-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Severe abdominal hemorrhages are the most common cause of mortality from underbody blasts.",
+        "false_answer": "Severe abdominal hemorrhages are the most common cause of mortality from underbody blasts.",
+        "incorrect_explanation": "According to the paragraph, head injury and non-compressible torso hemorrhage, including aortic disruption and liver laceration, are noted as the most common causes of mortality from underbody blast, not specifying severe abdominal hemorrhages exclusively.\n- **What the Correct Answer Should Be:** Mortality from underbody blast is most commonly caused by head injury and non-compressible torso hemorrhage, including aortic disruption and liver laceration.",
+        "question": "What is the most frequent cause of mortality among victims of underbody blast?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 490,
+            "paragraph_id": "978-0367618599-p490-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Normal lumbar flexion achieves between 20\u201330\u00b0.",
+        "false_answer": "Between 20\u201330\u00b0.",
+        "incorrect_explanation": "This range is incorrect because, according to the given instructions for measuring flexibility during the forward bending test, normal lumbar flexion actually ranges from 40\u201360\u00b0. Therefore, the statement claiming a typical achievement of 20\u201330\u00b0 is inaccurate and underestimates the actual degree of flexion considered within the normal range.",
+        "question": "What degrees does normal lumbar flexion typically achieve during the forward bending test?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 499,
+            "paragraph_id": "978-0367618599-p499-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Regions along coastal areas are primarily at risk from seismic disturbances.",
+        "false_answer": "Regions along coastal areas are primarily at risk from seismic disturbances.",
+        "incorrect_explanation": "The paragraph actually identifies areas near active volcanoes and geological fault lines as those at risk from seismic disturbances, making the statement about coastal areas incorrect. The correct geographical features at risk are those associated with volcanic activity and tectonic movements.",
+        "question": "What types of geographical features pose significant risks for seismic disturbances?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 481,
+            "paragraph_id": "978-0367618599-p481-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ninth edition.",
+        "false_answer": "The ninth edition.",
+        "incorrect_explanation": "According to the given information, the tenth edition of *Apley\u2019s System of Orthopedics and Fractures* by Blom, Warwick, and Whitehouse was published in 2017, making the statement about the ninth edition being published in this year incorrect. Therefore, the correct answer should reflect that it was indeed the tenth edition released at that time.",
+        "question": "What edition of Blom's book titled *Apley\u2019s System of Orthopedics and Fractures* was published in 2017?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 466,
+            "paragraph_id": "978-0367618599-p466-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A CEA level of \u2264150 ng/mL.",
+        "false_answer": "A CEA level of \u2264150 ng/mL.",
+        "incorrect_explanation": "According to the given information, a CEA level of \u2265192 ng/mL indicates a mucinous neoplasm, making the statement incorrect because it suggests a lower threshold and incorrectly uses less than or equal to instead of greater than or equal to.",
+        "question": "What serum marker level indicates a higher likelihood of a mucinous neoplasm in pancreatic cystic fluid?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1303,
+            "paragraph_id": "978-0367618599-p1303-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Megacolon caused by extreme senility affects males predominantly.",
+        "false_answer": "Extreme senility causing megacolon predominantly affects males.",
+        "incorrect_explanation": "According to the text, conditions leading to megacolon more commonly associated with one gender specifically mention idiopathic cases, which predominantly affect female individuals, particularly when considering the resemblance to a severe form of slow-transit constipation.",
+        "question": "What condition leads to megacolon characterized by being more prevalent among females?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1318,
+            "paragraph_id": "978-0367618599-p1318-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lymphomas of the pancreas account for more than 5% of all pancreatic cancers.",
+        "false_answer": "More than 5%",
+        "incorrect_explanation": "According to the paragraph, lymphomas of the pancreas actually constitute *less* than 3% of all pancreatic cancers.",
+        "question": "What proportion of all pancreatic cancers does lymphoma of the pancreas constitute?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1308,
+            "paragraph_id": "978-0367618599-p1308-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 10 mm indicates an isolated PCL injury.",
+        "false_answer": "More than 10 mm indicates an isolated PCL injury.",
+        "incorrect_explanation": "According to the text, if more than 10 mm of posterior tibial translation is noted at 30\u00b0 and/or 90\u00b0 of knee flexion during the posterior draw test, this suggests a combined PCL and posterolateral corner injury rather than an isolated PCL injury.",
+        "question": "What is indicated if there's more than 10 mm of posterior tibial translation during the posterior draw test?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 514,
+            "paragraph_id": "978-0367618599-p514-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When patients stand on their toes, the heel typically does not move out of a fixed varus position if they have good subtalar joint flexibility.",
+        "false_answer": "Heel maintains a fixed varus position upon standing on toes in individuals with normal subtalar joint flexibility.",
+        "incorrect_explanation": "According to the paragraph, normal subtalar joint flexibility is indicated by the heel moving from valgus to varus when the patient stands on their toes, not remaining in a fixed varus position. Thus, the correct interpretation should reflect this dynamic movement rather than static positioning.",
+        "question": "What change occurs in the heel's alignment relative to valgus and varus positions when a patient with normal subtalar joint flexibility stands on their toes?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 518,
+            "paragraph_id": "978-0367618599-p518-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The hip exhibits 50 degrees of internal rotation.",
+        "false_answer": "The hip exhibits 50 degrees of internal rotation.",
+        "incorrect_explanation": "According to the provided clinical examination guidelines, the actual degree of internal rotation exhibited by the hip is 45 degrees, which occurs when the hip is flexed to 90 degrees and the knee is in 90 degrees of flexion. Therefore, stating that the hip exhibits 50 degrees of internal rotation introduces an error regarding the specified degree of movement during this assessment.",
+        "question": "What degree of internal rotation does the hip exhibit?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 510,
+            "paragraph_id": "978-0367618599-p510-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 25% of patients.",
+        "false_answer": "Approximately 25% of patients",
+        "incorrect_explanation": "According to the paragraph, arthritis actually occurs in around 15% of patients, making the given answer incorrect. The correct answer should reflect this specified prevalence.",
+        "question": "What percentage of patients with ulcerative colitis experience arthritis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1341,
+            "paragraph_id": "978-0367618599-p1341-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Five-year patient survival after small bowel transplantation does not exceed 60%.",
+        "false_answer": "Five-year patient survival after small bowel transplantation does not exceed 60%.",
+        "incorrect_explanation": "This statement is incorrect because according to the provided information, the five-year patient survival rate after small bowel transplantation actually exceeds 80% in some centers.",
+        "question": "What is the current five-year patient survival rate following small bowel transplantation?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1338,
+            "paragraph_id": "978-0367618599-p1338-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Rudolph Nissen performed this procedure for the first time in 1963.",
+        "false_answer": "1963.",
+        "incorrect_explanation": "According to the paragraph, Rudolph Nissen first performed restorative proctocolectomy with ileoanal anastomosis in 1933, making 1963 an incorrect statement of when he first performed the procedure.",
+        "question": "What year did Rudolph Nissen first perform restorative proctocolectomy with ileoanal anastomosis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1346,
+            "paragraph_id": "978-0367618599-p1346-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An ERAS program avoids the use of manual compression boots perioperatively to prevent fluid overload.",
+        "false_answer": "An ERAS program avoids the use of manual compression boots perioperatively to prevent fluid overload.",
+        "incorrect_explanation": "The statement incorrectly suggests that avoiding manual compression boots is done to prevent fluid overload, whereas according to the paragraph, manual compression boots are actually one of the measures considered perioperatively, likely aimed at preventing thrombosis rather than addressing fluid management. Furthermore, the avoidance of perioperative fluid/salt overload is indeed a component of ERAS, but this is unrelated to the use of manual compression boots.",
+        "question": "What key element does an Enhanced Recovery After Surgery (ERAS) program typically avoid to minimize postoperative issues?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1382,
+            "paragraph_id": "978-0367618599-p1382-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of patients.",
+        "false_answer": "Approximately 50% of patients.",
+        "incorrect_explanation": "According to the paragraph, elemental diet or parenteral nutrition can induce remission in up to 80% of patients, which makes the statement claiming 50% incorrect.",
+        "question": "What proportion of patients treated with elemental diet or parenteral nutrition experience induction of remission?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1352,
+            "paragraph_id": "978-0367618599-p1352-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of patients with myelomeningocele develop hydrocephalus.",
+        "false_answer": "Approximately 90% of patients with myelomeningocele develop hydrocephalus.",
+        "incorrect_explanation": "According to the given paragraph, 75%, not 90%, of patients with myelomeningocele develop hydrocephalus.",
+        "question": "What percentage of children born with myelomeningocele develop hydrocephalus?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 543,
+            "paragraph_id": "978-0367618599-p543-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Movement within an arc of 10\u201390\u00b0 is almost always possible.",
+        "false_answer": "Movement within an arc of 10\u201390\u00b0.",
+        "incorrect_explanation": "The paragraph actually mentions that during olecranon bursitis, movement within an arc of 30\u2013130\u00b0 is almost always possible, indicating that my initial statement was inaccurate regarding both the starting and ending points of the motion arc.",
+        "question": "What angle range does movement typically remain possible during episodes of olecranon bursitis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 560,
+            "paragraph_id": "978-0367618599-p560-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A partially damaged rotator cuff allows for effective anatomical total shoulder replacement.",
+        "false_answer": "A partially damaged rotator cuff allows for effective anatomical total shoulder replacement.",
+        "incorrect_explanation": "According to the provided information, an *intact* rotator cuff is essential for anatomical total shoulder replacement, indicating that any damage could compromise the procedure's effectiveness. Therefore, the statement about a partially damaged rotator cuff being sufficient is incorrect; instead, the rotator cuff needs to be intact.",
+        "question": "What condition of the rotator cuff is preferred for performing an anatomical total shoulder replacement?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 554,
+            "paragraph_id": "978-0367618599-p554-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "X-ray imaging.",
+        "false_answer": "X-ray imaging.",
+        "incorrect_explanation": "According to the given text, it's actually both ultrasound and magnetic resonance imaging (MRI) that allow for checking the integrity and health of the rotator cuff, not X-ray imaging. MRI specifically provides detailed images allowing assessment of soft tissues like the rotator cuff better than traditional radiographs.",
+        "question": "What method allows for checking both the integrity and health of the rotator cuff?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 549,
+            "paragraph_id": "978-0367618599-p549-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mortality reaches approximately 30% in cases of fecal peritonitis.",
+        "false_answer": "Approximately 30%",
+        "incorrect_explanation": "According to the given information, mortality actually approaches 50%, not 30%, in cases of fecal peritonitis.",
+        "question": "What percentage of mortality approaches when a patient develops fecal peritonitis during diverticular disease?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1390,
+            "paragraph_id": "978-0367618599-p1390-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of childhood intussusceptions are categorized as retrograde.",
+        "false_answer": "Approximately 10% of childhood intussusceptions are categorized as retrograde.",
+        "incorrect_explanation": "According to TABLE 78.2, retrograde intussusceptions account for approximately 0.2%, not 10%. Thus, the given answer significantly overestimates the occurrence rate of this condition among children.",
+        "question": "What percentage of childhood intussusceptions are classified as retrograde?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1400,
+            "paragraph_id": "978-0367618599-p1400-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 10% of temporary diverting stomas are never closed.",
+        "false_answer": "About 10% of temporary diverting stomas are never closed.",
+        "incorrect_explanation": "The statement incorrectly claims that approximately 10% of temporary diverting stomas are never closed. According to the given information, around 25% of temporary diverting stomas are actually never closed due to complications or changes in medical comorbidity. Therefore, the correct answer should reflect this higher percentage.",
+        "question": "What percentage of temporary diverting stomas are never closed?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1394,
+            "paragraph_id": "978-0367618599-p1394-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A flexor tendon sheath infection.",
+        "false_answer": "A flexor tendon sheath infection.",
+        "incorrect_explanation": "The false answer incorrectly identifies the condition affecting the specialized fibrous septae of the fingertip pulp. According to the paragraph, this description actually refers to a feloneous condition, specifically a felon, which is characterized as an abscess within these structures leading to severe pain and potential complications if left untreated. Therefore, the correct answer should indicate that the described condition is indeed a felon.",
+        "question": "What condition involves inflammation of the specialized fibrous septae of the fingertip pulp?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 564,
+            "paragraph_id": "978-0367618599-p564-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He first described it in 1909.",
+        "false_answer": "1909",
+        "incorrect_explanation": "The paragraph actually mentions that Robert Kienb\u00f6ck described the condition in 1910, making the statement that he did so in 1909 incorrect.",
+        "question": "What year did Robert Kienb\u00f6ck describe idiopathic avascular necrosis of the lunate?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 569,
+            "paragraph_id": "978-0367618599-p569-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Trochanteric bursitis.",
+        "false_answer": "Trochanteric bursitis.",
+        "incorrect_explanation": "According to the table describing extra-articular hip impingement and externally snapping hip syndromes, compression of the quadratus femoris muscle between the lesser trochanter and the ischial tuberosity actually leads to Ischiofemoral impingement, not Trochanteric bursitis. Therefore, the correct term for the described condition should indeed reflect the specifics given in the pathology description.",
+        "question": "What condition results from compression of the quadratus femoris muscle between the lesser trochanter and the ischial tuberosity?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 576,
+            "paragraph_id": "978-0367618599-p576-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Uncomplicated meconium ileus is usually managed with oral pancreatic enzyme supplements.",
+        "false_answer": "Oral pancreatic enzyme supplements are typically recommended for managing uncomplicated meconium ileus.",
+        "incorrect_explanation": "According to the paragraph, uncomplicated meconium ileus actually responds well to treatment with a hyperosmolar Gastrografin enema rather than oral pancreatic enzyme supplements. This approach helps draw fluid into the gut lumen and liquefy the meconium through its detergent properties.",
+        "question": "What method is typically recommended for treating uncomplicated meconium ileus?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1410,
+            "paragraph_id": "978-0367618599-p1410-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 90% of patients report being satisfied.",
+        "false_answer": "About 90% of patients report being satisfied.",
+        "incorrect_explanation": "The paragraph actually mentions a \"10% rate of dissatisfaction,\" which implies that approximately 90% of patients are satisfied, making this statement technically true rather than false under normal interpretation. A corrected approach would involve finding another factual error within the given constraints.\nLet's revise:\n**Question:** At what stage does the first ray become dysfunctional during the progression of hallux valgus?\n**Answer:** Immediately after diagnosis.\n\n**Incorrect Answer Explanation:**\n- **False Answer Given:** Immediately after diagnosis.\n- **Why It Is Incorrect:** According to the paragraph, the first ray becomes dysfunctioned and elevated \"with increasing deformity,\" indicating that this happens as the condition progresses, not immediately at diagnosis. Therefore, stating it occurs right after diagnosis introduces an inaccurate timeline.",
+        "question": "What percentage of patients who undergo surgical intervention for hallux valgus express satisfaction?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 590,
+            "paragraph_id": "978-0367618599-p590-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "On T2-weighted MRI scans, chondrosarcomas usually display low signal intensity due to their dense cartilaginous composition.",
+        "false_answer": "Chondrosarcomas display low signal intensity on T2-weighted MRI scans.",
+        "incorrect_explanation": "This statement is incorrect because, generally, fluid-rich tissues like those found in some tumors tend to exhibit higher signal intensity on T2-weighted images, not lower. While the exact appearance can depend on several factors including tumor composition and stage, stating they always show low signal is misleading. In Figure 42.6, for instance, the T2-weighted MRI scan actually shows high signal in the chondrosarcoma.",
+        "question": "How does chondrosarcoma typically appear on T2-weighted magnetic resonance imaging scans?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 602,
+            "paragraph_id": "978-0367618599-p602-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They immediately undergo surgical intervention because other methods are ineffective.",
+        "false_answer": "Immediate surgical intervention for Achilles tendon inflammation.",
+        "incorrect_explanation": "According to the initial information, non-surgical treatments are actually preferred initially, especially for minor cases of Achilles tendon issues. Thus, immediate surgery isn't always the first course of action.",
+        "question": "What typically happens when someone experiences inflammation in their Achilles tendon?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 595,
+            "paragraph_id": "978-0367618599-p595-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of patients achieve a complete clinical response.",
+        "false_answer": "Approximately 40% of patients achieve a complete clinical response.",
+        "incorrect_explanation": "The paragraph actually mentions that about 20%, not 40%, of patients have a complete clinical response to neoadjuvant chemoradiotherapy, making them candidates for 'watch and wait' non-operative management.",
+        "question": "What percentage of patients with rectal cancer might opt for 'watch and wait' non-operative management after neoadjuvant chemoradiotherapy?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1432,
+            "paragraph_id": "978-0367618599-p1432-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Untreated rectal bilharziasis leads to spontaneous resolution.",
+        "false_answer": "Spontaneous resolution.",
+        "incorrect_explanation": "According to the chapter, untreated rectal bilharziasis does not resolve spontaneously but instead progresses to complications such as the formation of papillomas containing the ova of the trematode, leading to conditions like bilharzial dysentery, and potentially resulting in the rectum becoming festooned with multiple fistulae-in-ano prone to develop.",
+        "question": "What is the typical outcome of untreated rectal bilharziasis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1423,
+            "paragraph_id": "978-0367618599-p1423-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Endoscopic ultrasonography.",
+        "false_answer": "Endoscopic ultrasonography.",
+        "incorrect_explanation": "The paragraph actually mentions that John of Arderne described fistulotomy, or laying the fistula tract open and allowing it to heal by secondary intention, as his operation for treating fistulas. There is no mention of him describing endoscopic ultrasonography, which would also be historically inaccurate given the time period he lived in.",
+        "question": "What technique did John of Arderne describe around 1376 for treating fistulas?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1459,
+            "paragraph_id": "978-0367618599-p1459-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The staple line should be placed below the dentate line to minimize discomfort and promote healing.",
+        "false_answer": "Placing the staple line below the dentate line.",
+        "incorrect_explanation": "According to the paragraph, to avoid complications, the staple line must be placed above the dentate line, ensuring proper positioning to prevent issues like inclusion of the posterior vaginal wall and reducing the risk of other morbidities.",
+        "question": "What is the recommended position relative to the dentate line for placing the staple line during stapled hemorrhoidopexy?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1454,
+            "paragraph_id": "978-0367618599-p1454-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Squamous cell carcinomas.",
+        "false_answer": "Squamous cell carcinomas",
+        "incorrect_explanation": "According to the paragraph, Adenocarcinomas, not Squamous cell carcinomas, are thought to arise from anal glands. Therefore, the statement given in the answer is incorrect because it mistakenly identifies the origin of a different tumor type.",
+        "question": "What type of tumors are thought to arise from anal glands?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1465,
+            "paragraph_id": "978-0367618599-p1465-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 80% of low-grade transitional cell carcinomas produce positive voided urine cytology.",
+        "false_answer": "About 80% of low-grade transitional cell carcinomas produce positive voided urine cytology.",
+        "incorrect_explanation": "According to the paragraph, the actual proportion is approximately 15%, not 80%. This discrepancy makes the given answer incorrect because it significantly overestimates the effectiveness of voided urine cytology for detecting low-grade transitional cell carcinomas.",
+        "question": "What proportion of low-grade transitional cell carcinomas typically produces positive voided urine cytology?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 1473,
+            "paragraph_id": "978-0367618599-p1473-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He first described this condition in 1928.",
+        "false_answer": "Burrill Bernard Crohn described regional ileitis in 1928.",
+        "incorrect_explanation": "According to the provided paragraph, Burrill Bernard Crohn actually described regional ileitis in 1932, making the statement incorrect. Therefore, the correct answer should reflect the accurate year he made his description, which was during his time at Mount Sinai Hospital in New York.",
+        "question": "What year did Burrill Bernard Crohn describe regional ileitis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 635,
+            "paragraph_id": "978-0367618599-p635-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Malignant hemotapoietic tumors presenting in orthopedic clinics commonly originate from epithelial cells.",
+        "false_answer": "Malignant hemotapoietic tumors presenting in orthopedic clinics commonly originate from epithelial cells.",
+        "incorrect_explanation": "According to the given information, malignant hematopoietic tumors commonly presenting in orthopedic clinics actually arise from either plasma cells (in cases of solitary plasmacytoma/multiple myeloma) or lymphoid cells (in cases of lymphomas), not epithelial cells. Therefore, the statement is incorrect because it inaccurately identifies the cell origin of these malignancies.",
+        "question": "What types of tumors do malignant hematopoietic tumors arising in orthopedic clinics most commonly represent?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 604,
+            "paragraph_id": "978-0367618599-p604-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Antibiotics should be continued right up until the day of surgery.",
+        "false_answer": "Antibiotics should be continued right up until the day of surgery.",
+        "incorrect_explanation": "According to the given information, antibiotics should actually be stopped at least 2 weeks before biopsy or surgery in preparation for elective procedures. Continuing antibiotics until the day of surgery could interfere with obtaining accurate cultures during the procedure.",
+        "question": "What should ideally happen to antibiotics when preparing for elective surgery in osteomyelitis?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 620,
+            "paragraph_id": "978-0367618599-p620-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "By around 18 years old, spontaneous improvement always corrects any remaining femoral neck anteversion issues, eliminating the need for corrective surgery.",
+        "false_answer": "That spontaneous improvement always corrects any remaining femoral neck anteversion issues by around 18 years old.",
+        "incorrect_explanation": "According to the provided information, persistent femoral neck anteversion does not necessarily improve spontaneously after a certain age. Instead, if by 10\u201312 years a persistent deformity is associated with functional difficulties, corrective osteotomy may be justified. There's no mention of guaranteed spontaneous correction by 18 years old, making this statement both unsubstantiated and inaccurate within the given context.",
+        "question": "What typically happens to persistent femoral neck anteversion if left untreated beyond childhood?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 631,
+            "paragraph_id": "978-0367618599-p631-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These tumors should always be excised with a wide margin of healthy tissue.",
+        "false_answer": "Excising these tumors with a wide margin of healthy tissue.",
+        "incorrect_explanation": "According to the summary box regarding the treatment of soft-tissue tumors, large low-grade or benign lipomatous tumors may actually be excised in a deliberately marginal or close but complete fashion, rather than necessitating a wide margin of healthy tissue. This suggests flexibility depending on tumor specifics and does not advocate for a one-size-fits-all approach with wide margins for this category of tumors.",
+        "question": "What approach is generally recommended when surgically treating large low-grade or benign lipomatous soft-tissue tumors?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 615,
+            "paragraph_id": "978-0367618599-p615-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Morin index represents the proportion of the femoral head uncovered by the acetabulum.",
+        "false_answer": "The Morin index represents the proportion of the femoral head uncovered by the acetabulum.",
+        "incorrect_explanation": "This statement incorrectly describes what the Morin index measures. According to the given information, the Morin index actually defines the percentage of the femoral head covered by the acetabulum, not uncovered. Therefore, the correct understanding should reflect this accurate definition.",
+        "question": "What percentage does the Morin index represent in relation to the coverage of the femoral head by the acetabulum?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 638,
+            "paragraph_id": "978-0367618599-p638-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When eosinophilic granuloma affects a bone, there's usually significant swelling.",
+        "false_answer": "Significant swelling occurs when eosinophilic granuloma affects a bone.",
+        "incorrect_explanation": "According to Figure 42.23, eosinophilic granuloma presents with a 'punched-out' lesion rather than causing significant swelling, indicating localized damage rather than extensive inflammation or growth leading to noticeable swelling.",
+        "question": "What is typically observed when eosinophilic granuloma affects a bone?",
+        "source": {
+            "isbn": "978-0367618599",
+            "page": 609,
+            "paragraph_id": "978-0367618599-p609-para1"
+        },
+        "type": "short_inverse"
+    }
+]

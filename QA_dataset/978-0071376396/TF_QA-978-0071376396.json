@@ -228,5 +228,155 @@
             "paragraph_id": "978-0071376396-p159-para1"
         },
         "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Noncommunicable diseases account for more than half of global deaths.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 173,
+            "paragraph_id": "978-0071376396-p173-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The mortality associated with legal abortions continues to remain higher than other common medical procedures.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 168,
+            "paragraph_id": "978-0071376396-p168-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There is enough detailed descriptive information provided to generate a factual True/False question directly related to health topics discussed in the passage.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 176,
+            "paragraph_id": "978-0071376396-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vitamin D production requires dietary intake rather than sunlight exposure on the skin.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 182,
+            "paragraph_id": "978-0071376396-p182-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Oral contraceptives increase the risk of developing duodenal ulcers.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 202,
+            "paragraph_id": "978-0071376396-p202-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tobacco use over age 35 is an absolute contraindication to the use of oral contraceptives.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 195,
+            "paragraph_id": "978-0071376396-p195-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Total dietary fat representing more than 30% of kcal intake is recommended according to steps 1 and 2 recommendations.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 198,
+            "paragraph_id": "978-0071376396-p198-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Type 2 diabetes mellitus is associated with having a Body Mass Index (BMI) greater than 25 kg/m^2.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 189,
+            "paragraph_id": "978-0071376396-p189-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Medicare covers preventive health services except for mammography.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 217,
+            "paragraph_id": "978-0071376396-p217-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Perfect health is always valued higher than living with a chronic illness like needing hemodialysis.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 221,
+            "paragraph_id": "978-0071376396-p221-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Matching serves to eliminate confounding variables in case-control studies.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 208,
+            "paragraph_id": "978-0071376396-p208-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Environmental factors contribute to approximately 80% of cancers worldwide.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 228,
+            "paragraph_id": "978-0071376396-p228-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Uniform Anatomical Gift Act allows individuals younger than 18 years old to donate parts of their bodies for medical purposes without parental consent.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 239,
+            "paragraph_id": "978-0071376396-p239-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nonfeasance refers to a negligent act of commission where someone does something they shouldn't do, leading to potential liability.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 235,
+            "paragraph_id": "978-0071376396-p235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In addition to their role in photosynthesis, plants produce oxygen through respiration.",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 243,
+            "paragraph_id": "978-0071376396-p243-para1"
+        },
+        "type": "true_false"
     }
 ]

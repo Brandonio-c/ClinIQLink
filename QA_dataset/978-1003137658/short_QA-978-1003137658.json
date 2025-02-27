@@ -1,0 +1,42 @@
+[
+    {
+        "answer": "Four polypeptide chains: \u03b3, \u03b4, \u03b5, and \u03b6 chains.",
+        "question": "What forms the CD3 complex?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 63,
+            "paragraph_id": "978-1003137658-p63-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "More than 220",
+        "question": "How many individual gene loci are contained in the HLA complex?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 67,
+            "paragraph_id": "978-1003137658-p67-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They become more susceptible to autoimmune diseases due to excessive T-cell activation and reduced control by T-reg cells.",
+        "question": "What happens when mice are deficient in CTLA-4?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 87,
+            "paragraph_id": "978-1003137658-p87-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Activation of lymphocytes recognizing widely distributed autoantigens.",
+        "question": "What triggers organ-nonspecific autoimmune diseases?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 142,
+            "paragraph_id": "978-1003137658-p142-para1"
+        },
+        "type": "short_answer"
+    }
+]

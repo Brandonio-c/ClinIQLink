@@ -1,0 +1,922 @@
+[
+    {
+        "answer": "False",
+        "question": "A nonsynonymous single nucleotide polymorphism (SNP) always results in a change of function.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 52,
+            "paragraph_id": "978-1260117127-p52-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There are fewer than four subtypes of beta adrenoceptors identified in humans.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 61,
+            "paragraph_id": "978-1260117127-p61-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For a drug administered through a constant intravenous infusion, doubling the rate of infusion doubles the steady-state plasma concentration.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 42,
+            "paragraph_id": "978-1260117127-p42-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Induction of drug metabolism increases the amount of smooth endoplasmic reticulum.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 49,
+            "paragraph_id": "978-1260117127-p49-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Activation of the parasympathetic nervous system causes vasoconstriction.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 68,
+            "paragraph_id": "978-1260117127-p68-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Antimuscarinic drugs are primarily used to counteract the effects of cholinergic excess caused by poisoning.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 81,
+            "paragraph_id": "978-1260117127-p81-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acetylcholine's metabolism involves a phase I metabolic reaction.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 72,
+            "paragraph_id": "978-1260117127-p72-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rivastigmine is an indirect cholinesterase inhibitor primarily used for treating Lambert-Eaton myasthenic syndrome.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 78,
+            "paragraph_id": "978-1260117127-p78-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Competitive blockers can be overcome by increasing the dose of the agonist.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 96,
+            "paragraph_id": "978-1260117127-p96-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Alpha1 agonists are primarily used to treat conditions where vasodilation is beneficial.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 91,
+            "paragraph_id": "978-1260117127-p91-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Latanoprost belongs to the prostaglandins group of medications used in treating glaucoma.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 99,
+            "paragraph_id": "978-1260117127-p99-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Beta1-selective agonists include dobutamine which primarily stimulates beta-two adrenoreceptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 86,
+            "paragraph_id": "978-1260117127-p86-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Less than 80% of cases of hypertension are due to secondary factors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 104,
+            "paragraph_id": "978-1260117127-p104-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vasodilation caused by nitrates primarily affects the arteries.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 117,
+            "paragraph_id": "978-1260117127-p117-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Arrhythmias due to digitalis toxicity typically manifest as tachycardia or fibrillation in cases of extreme overdose.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 127,
+            "paragraph_id": "978-1260117127-p127-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The drug named Verapamil is associated with an unwanted effect of diarrhea.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 109,
+            "paragraph_id": "978-1260117127-p109-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Beta blockers reduce the risk of fatal arrhythmias in patients with chronic heart failure.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 137,
+            "paragraph_id": "978-1260117127-p137-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Flecainide belongs to Class 1C of antiarrhythmic drugs.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 135,
+            "paragraph_id": "978-1260117127-p135-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Histamine does not act on cholinergic receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 155,
+            "paragraph_id": "978-1260117127-p155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Spironolactone acts on the proximal convoluted tubule.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 144,
+            "paragraph_id": "978-1260117127-p144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ubrogepant works through binding the CGRP peptide itself.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 171,
+            "paragraph_id": "978-1260117127-p171-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "H1 blockers are effective in treating asthma.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 157,
+            "paragraph_id": "978-1260117127-p157-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Endothelial cells lining blood vessels have muscarinic receptors that use the Gq-coupling protein.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 181,
+            "paragraph_id": "978-1260117127-p181-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Natriuretic peptides dilate vessels through the activation of cGMP via ANP A receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 166,
+            "paragraph_id": "978-1260117127-p166-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thiamine deficiency, when combined with alcohol abuse, does not lead to Wernicke-Korsakoff syndrome.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 210,
+            "paragraph_id": "978-1260117127-p210-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sedative-hypnotic drugs belonging to the class of benzodiazepines always produce ultra-short action.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 200,
+            "paragraph_id": "978-1260117127-p200-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ethanol is primarily metabolized through two main pathways involving alcohol dehydrogenase and the microsomal ethanol-oxidizing system.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 208,
+            "paragraph_id": "978-1260117127-p208-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Activation of 5-HT1A receptors causes fast IPSPs.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 197,
+            "paragraph_id": "978-1260117127-p197-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Theophylline inhibits phosphodiesterase (PDE), increasing cAMP.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 186,
+            "paragraph_id": "978-1260117127-p186-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Valproate causes minimal sedation.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 218,
+            "paragraph_id": "978-1260117127-p218-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Older (first-generation) antipsychotic drugs primarily target serotonin 5-HT 2 receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 253,
+            "paragraph_id": "978-1260117127-p253-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thioridazine is least likely to cause urinary retention among first-generation antipsychotic drugs.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 259,
+            "paragraph_id": "978-1260117127-p259-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vasoconstrictors added to solutions of local anesthetics decrease the risk of seizure and increase the duration of anesthetic action of the local anesthetic.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 235,
+            "paragraph_id": "978-1260117127-p235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nitrous oxide is unlikely to decrease blood pressure compared to other inhaled anesthetics.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 227,
+            "paragraph_id": "978-1260117127-p227-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Selegiline has significant efficacy in treating parkinsonism when administered alone.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 248,
+            "paragraph_id": "978-1260117127-p248-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ketamine blocks excitation by glutamate at muscarinic receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 231,
+            "paragraph_id": "978-1260117127-p231-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Phenytoin blocks voltage-gated potassium channels.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 222,
+            "paragraph_id": "978-1260117127-p222-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Methadone is used exclusively in the management of opioid dependence.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 274,
+            "paragraph_id": "978-1260117127-p274-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mirtazapine increases amine release from nerve endings through agonism of presynaptic \u03b12 adrenoceptors involved in feedback inhibition.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 264,
+            "paragraph_id": "978-1260117127-p264-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Mirtazapine is associated with significant sedative properties.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 267,
+            "paragraph_id": "978-1260117127-p267-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "GHB has no medical use but possesses high addiction potential according to the classification schedules of controlled substances.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 281,
+            "paragraph_id": "978-1260117127-p281-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Erythropoiesis-stimulating agent epoetin alfa stimulates the production of white blood cells.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 295,
+            "paragraph_id": "978-1260117127-p295-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Resins increase the level of HDL cholesterol.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 312,
+            "paragraph_id": "978-1260117127-p312-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Darbepoetin alfa has a shorter half-life than recombinant human erythropoietin.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 292,
+            "paragraph_id": "978-1260117127-p292-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Benzodiazepines, including alprazolam, are classified under Schedule IV-controlled substances.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 284,
+            "paragraph_id": "978-1260117127-p284-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The patient described had his myocardial infarction diagnosed through ST elevation on an electrocardiogram (ECG) and confirmed by cardiac enzyme levels.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 303,
+            "paragraph_id": "978-1260117127-p303-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ezetimibe works by reducing intestinal uptake of cholesterol through inhibition of sterol transporter NPC1L1.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 316,
+            "paragraph_id": "978-1260117127-p316-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thyroxine (T4) therapy can lead to toxicity manifesting as thyrotoxicosis.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 340,
+            "paragraph_id": "978-1260117127-p340-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Methotrexate, being a weak acid, relies on passive diffusion rather than active transport for urinary clearance.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 324,
+            "paragraph_id": "978-1260117127-p324-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A 3-year-old girl with an XO karyotype presenting with short stature and loose skin around her neck would benefit from somatropin to achieve a higher adult height.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 334,
+            "paragraph_id": "978-1260117127-p334-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ketoco\u00adnazole is primarily used for treating fungal infections.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 348,
+            "paragraph_id": "978-1260117127-p348-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ethinyl estradiol acts through the activation of estrogen receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 359,
+            "paragraph_id": "978-1260117127-p359-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Penicillin G is ineffective against Gram-negative bacteria because it cannot penetrate their inner membranes effectively.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 381,
+            "paragraph_id": "978-1260117127-p381-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Insulin is produced by Alpha cells in the pancreas.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 363,
+            "paragraph_id": "978-1260117127-p363-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Metformin reduces blood sugar levels primarily by activating AMP-kinase which results in decreased insulin resistance throughout the body.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 371,
+            "paragraph_id": "978-1260117127-p371-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "All hormonal contraceptives contain both an estrogen and a progestin.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 353,
+            "paragraph_id": "978-1260117127-p353-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Beta-lactam antibiotics require host defense mechanisms to eradicate an infection.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 383,
+            "paragraph_id": "978-1260117127-p383-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Erythromycin has antibacterial activity against certain types of gram-negative rods.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 393,
+            "paragraph_id": "978-1260117127-p393-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Aminoglycosides kill bacteria dependent on the duration that plasma concentrations exceed the minimum inhibitory concentration.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 399,
+            "paragraph_id": "978-1260117127-p399-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Amphotericin B binds to cholesterol, causing the formation of artificial pores.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 418,
+            "paragraph_id": "978-1260117127-p418-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dapsone's mechanism of action involves inhibition of DNA replication.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 413,
+            "paragraph_id": "978-1260117127-p413-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fluoroquinolones are contraindicated during pregnancy due to potential risks associated with damaging growing cartilage.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 409,
+            "paragraph_id": "978-1260117127-p409-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The antibiotic gentamicin causes less renal damage compared to other aminoglycosides.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 402,
+            "paragraph_id": "978-1260117127-p402-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rimantadine's activity is greater than that of amantadine.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 432,
+            "paragraph_id": "978-1260117127-p432-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The Centers for Disease Control and Prevention recommends that benzalkonium chloride not be used as an antiseptic due to potential infections from certain types of bacteria.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 441,
+            "paragraph_id": "978-1260117127-p441-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tenofovir undergoes renal elimination.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 437,
+            "paragraph_id": "978-1260117127-p437-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Valacyclovir is a prodrug converted to acyclovir by hepatic metabolism after oral administration.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 427,
+            "paragraph_id": "978-1260117127-p427-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Chloroquine can still be used as a preventative measure for malaria in regions where there is no resistance to it among Plasmodium falciparum parasites.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 452,
+            "paragraph_id": "978-1260117127-p452-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Helminths are unicellular organisms.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 459,
+            "paragraph_id": "978-1260117127-p459-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amikacin requires monitoring of serum drug levels due to having a narrow therapeutic window.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 448,
+            "paragraph_id": "978-1260117127-p448-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vinblastine is used for treating pancreatic cancer.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 470,
+            "paragraph_id": "978-1260117127-p470-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mycophenolate mofetil causes severe bone marrow depression.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 481,
+            "paragraph_id": "978-1260117127-p481-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Praziquantel is the primary drug of choice for treating infections caused by all common tapeworms.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 462,
+            "paragraph_id": "978-1260117127-p462-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Doxorubicin is commonly associated with cardiomyopathy among the listed chemotherapeutic agents.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 473,
+            "paragraph_id": "978-1260117127-p473-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Benzene is associated with an increased risk of leukemia due to long-term exposure.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 496,
+            "paragraph_id": "978-1260117127-p496-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chelating agents enhance lead absorption when given orally.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 498,
+            "paragraph_id": "978-1260117127-p498-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ustekinumab binds and neutralizes the biological activity of IL-12 & IL-23.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 489,
+            "paragraph_id": "978-1260117127-p489-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sodium thiosulfate converts hemoglobin to methemoglobin in order to counteract cyanide poisoning.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 509,
+            "paragraph_id": "978-1260117127-p509-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Loperamide causes significant central nervous system (CNS) effects.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 519,
+            "paragraph_id": "978-1260117127-p519-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sedatives cause delirium.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 505,
+            "paragraph_id": "978-1260117127-p505-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nabilone and dronabinol are agonists at both CB1 and CB2 receptors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 523,
+            "paragraph_id": "978-1260117127-p523-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Warfarin's mechanism involves inhibiting the synthesis of new coagulation factors rather than altering the function of existing ones.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 534,
+            "paragraph_id": "978-1260117127-p534-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "St. John's Wort decreases the effectiveness of cyclosporine in transplant recipients.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 528,
+            "paragraph_id": "978-1260117127-p528-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nitrous oxide is a gaseous anesthetic.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 547,
+            "paragraph_id": "978-1260117127-p547-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rivaroxaban targets thrombin.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 553,
+            "paragraph_id": "978-1260117127-p553-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High cumulative doses of bleomycin are associated with cardiotoxicity.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 575,
+            "paragraph_id": "978-1260117127-p575-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cidofovir is classified as an antibiotic.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 589,
+            "paragraph_id": "978-1260117127-p589-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Allopurinol is indicated for treating gout.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 584,
+            "paragraph_id": "978-1260117127-p584-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Levetiracetam is primarily indicated for treating depression.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 598,
+            "paragraph_id": "978-1260117127-p598-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There was at least one notable change observed regarding efficacy between cabergoline and bromocriptine treatments for prolactinoma patients.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 592,
+            "paragraph_id": "978-1260117127-p592-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Paroxetine is classified as a partial agonist.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 603,
+            "paragraph_id": "978-1260117127-p603-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vildagliptin is classified under xanthine oxidase inhibitors.",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 610,
+            "paragraph_id": "978-1260117127-p610-para1"
+        },
+        "type": "true_false"
+    }
+]

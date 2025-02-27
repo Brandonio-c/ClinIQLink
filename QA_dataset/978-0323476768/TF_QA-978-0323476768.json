@@ -1,0 +1,652 @@
+[
+    {
+        "answer": "True",
+        "question": "Most microorganisms require water to grow except for certain types of viruses which do not need water to reproduce since they replicate within host cells.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 15,
+            "paragraph_id": "978-0323476768-p15-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Group B streptococcal disease led to the death of the infant male in the clinical case.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 40,
+            "paragraph_id": "978-0323476768-p40-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The patient had an allergic reaction to linezolid.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 45,
+            "paragraph_id": "978-0323476768-p45-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bacillus anthracis causes pneumonia through abnormal chest radiographs due to hemorrhagic mediastinitis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 50,
+            "paragraph_id": "978-0323476768-p50-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Some rapid-growing mycobacteria, including Mycobacterium fortuitum, cause skin infections after exposure through contaminated water sources at places like nail salons.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 59,
+            "paragraph_id": "978-0323476768-p59-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Menigoencephalitis caused by *Listeria monocytogenes* predominantly affects healthy adults.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 53,
+            "paragraph_id": "978-0323476768-p53-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of adults worldwide do not carry Moraxella catarrhalis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 76,
+            "paragraph_id": "978-0323476768-p76-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neisseria meningitidis causes non-contagious bacterial meningitis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 69,
+            "paragraph_id": "978-0323476768-p69-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "M. tuberculosis is typically spread through the air when an infected person coughs, sneezes, talks, or spits.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 63,
+            "paragraph_id": "978-0323476768-p63-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Brucella melitensis primarily enters the United States through contaminated water sources.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 82,
+            "paragraph_id": "978-0323476768-p82-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Haemophilus influenzae causes sinusitis, otitis, or bronchitis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 78,
+            "paragraph_id": "978-0323476768-p78-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bacteria cause all infectious diseases.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 85,
+            "paragraph_id": "978-0323476768-p85-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There are multiple species within the Stenotrophomonas genus of medical importance.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 102,
+            "paragraph_id": "978-0323476768-p102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vibrio parahaemolyticus requires water temperatures above 20\u00b0C to grow.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 89,
+            "paragraph_id": "978-0323476768-p89-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Klebsiella pneumoniae typically exhibits ESBL production.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 93,
+            "paragraph_id": "978-0323476768-p93-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Yersinia pestis is typically transmitted to humans through bites from infected fleas that had previously fed on small mammals.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 98,
+            "paragraph_id": "978-0323476768-p98-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tetanospasmin, produced by C. tetani, regulates the release of the excitatory neurotransmitter acetylcholine.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 112,
+            "paragraph_id": "978-0323476768-p112-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Clostridium perfringens type A is most commonly associated with human diseases including necrotizing enteritis and pneumonia.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 115,
+            "paragraph_id": "978-0323476768-p115-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Stenotrophomonas bacteria are arranged in long chains.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 107,
+            "paragraph_id": "978-0323476768-p107-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Borrelia garinii causes Lyme disease exclusively in North America.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 122,
+            "paragraph_id": "978-0323476768-p122-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There were outbreaks of leptospirosis confirmed through serologic tests in some of the triathlon participants in Illinois and Wisconsin during their respective events in 1998.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 130,
+            "paragraph_id": "978-0323476768-p130-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Herpes Simplex Virus Type 1 belongs to the alpha herpesvirus family.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 157,
+            "paragraph_id": "978-0323476768-p157-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Epstein-Barr Virus (EBV) is associated with a number of malignant diseases and is also the most common cause of infectious mononucleosis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 162,
+            "paragraph_id": "978-0323476768-p162-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There were over 5 million AIDS-related deaths worldwide in 2014.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 152,
+            "paragraph_id": "978-0323476768-p152-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chlamydophila psittaci pneumonia was diagnosed in a patient who had been exposed to parrots due to transmission via the bite of an infected tick named Amblyomma americanum.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 134,
+            "paragraph_id": "978-0323476768-p134-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chickenpox is typically characterized by a localized papular or vesicular rash primarily found on one area of the body.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 160,
+            "paragraph_id": "978-0323476768-p160-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Borrelia burgdorferi causes Lyme disease through tick-borne transmission.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 126,
+            "paragraph_id": "978-0323476768-p126-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Coxiella burnetii commonly causes disease through bites from ticks infected with this pathogen.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 136,
+            "paragraph_id": "978-0323476768-p136-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The patient's treatment included vancomycin due to suspected methicillin-resistant S. aureus infection.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 169,
+            "paragraph_id": "978-0323476768-p169-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Norovirus typically causes severe symptoms lasting longer than two weeks.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 181,
+            "paragraph_id": "978-0323476768-p181-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "HBV is an RNA virus.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 175,
+            "paragraph_id": "978-0323476768-p175-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Blastomyces dermatitidis causes blastomycosis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 202,
+            "paragraph_id": "978-0323476768-p202-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lymphocutaneous Sporotrichosis typically develops rapidly and always results in severe systemic complications.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 198,
+            "paragraph_id": "978-0323476768-p198-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ergosterol substitutes cholesterol as the major sterol component in the cell membranes of plants.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 185,
+            "paragraph_id": "978-0323476768-p185-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Human diseases such as jock itch, athlete's foot, and others are exclusively caused by Trichophyton rubrum.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 194,
+            "paragraph_id": "978-0323476768-p194-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "C. neoformans grows in the presence of azathioprine.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 215,
+            "paragraph_id": "978-0323476768-p215-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A parasite provides no benefits to its host and often results in harm due to various factors including duration of infection.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 222,
+            "paragraph_id": "978-0323476768-p222-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "More than one species of Candida causes urinary tract infections.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 211,
+            "paragraph_id": "978-0323476768-p211-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cryptosporidiosis can be transmitted through contaminated food handled by someone infected with C. parvum.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 235,
+            "paragraph_id": "978-0323476768-p235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Babesia infections occur through bites from infected ticks.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 238,
+            "paragraph_id": "978-0323476768-p238-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "P. vivax infections typically result in milder symptoms compared to other types of malaria, such as those caused by P. falciparum.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 240,
+            "paragraph_id": "978-0323476768-p240-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mars is classified as a star in our solar system.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 227,
+            "paragraph_id": "978-0323476768-p227-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Trichuris trichiura eggs are found in the anal folds.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 247,
+            "paragraph_id": "978-0323476768-p247-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fasciola hepatica resides in the human intestine.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 258,
+            "paragraph_id": "978-0323476768-p258-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Amazon rainforest covers less than 50% of Brazil.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 254,
+            "paragraph_id": "978-0323476768-p254-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Staphylococcus aureus can cause endocarditis in immunocompromised patients.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 281,
+            "paragraph_id": "978-0323476768-p281-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cats shed their fur during most times of the year.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 266,
+            "paragraph_id": "978-0323476768-p266-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "E.granulosus infection typically presents with hepatobiliary disease upon diagnosis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 271,
+            "paragraph_id": "978-0323476768-p271-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "S. mansoni is the least frequently reported cause of schistosomal myeloradiculopathy worldwide.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 263,
+            "paragraph_id": "978-0323476768-p263-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Escherichia coli was identified through urine antigen detection after causing acute renal failure in a child who consumed food contaminated during a visit to a popular dairy farm.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 295,
+            "paragraph_id": "978-0323476768-p295-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bacterial meningitis affects the lungs.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 298,
+            "paragraph_id": "978-0323476768-p298-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nocardia species and Mycobacterium species will both stain positively with the modified acid-fast stain.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 313,
+            "paragraph_id": "978-0323476768-p313-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Staphylococcus aureus was identified as an organism causing infections in two separate cases involving a dental extraction and food poisoning.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 303,
+            "paragraph_id": "978-0323476768-p303-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bacillus cereus releases an enterotoxin when growing in contaminated foods.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 320,
+            "paragraph_id": "978-0323476768-p320-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Anaplasma phagocytophilum causes an infection typically associated with leukopenia and thrombocytopenia, and often presents without a rash.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 309,
+            "paragraph_id": "978-0323476768-p309-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mosquitoes are identified as vectors of Entamoeba histolytica infection.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 329,
+            "paragraph_id": "978-0323476768-p329-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Infants under one year old presenting with progressive muscle weakness and difficulty swallowing may have contracted C. botulinum through consuming contaminated honey.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 340,
+            "paragraph_id": "978-0323476768-p340-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Enterococcus faecalis is one of the common causes of peritonitis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 326,
+            "paragraph_id": "978-0323476768-p326-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Staphylococcus epidermidis is more commonly associated with acute endocarditis than with subacute endocarditis involving artificial valves.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 337,
+            "paragraph_id": "978-0323476768-p337-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Scarlet fever's initial development always starts as pharyngitis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 331,
+            "paragraph_id": "978-0323476768-p331-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Streptococcus pneumoniae causes Pneumonic plague.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 385,
+            "paragraph_id": "978-0323476768-p385-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Meningitis is one clinical feature associated with Cryptococcus neoformans infections.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 358,
+            "paragraph_id": "978-0323476768-p358-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Plants do not need micronutrients like iron, zinc, copper, and manganese.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 351,
+            "paragraph_id": "978-0323476768-p351-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bordetella pertussis causes Pertussis.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 384,
+            "paragraph_id": "978-0323476768-p384-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Strongyloidiasis involves auto-infection via passage of larvae through the intestinal wall leading to Escherichia infections.",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 345,
+            "paragraph_id": "978-0323476768-p345-para1"
+        },
+        "type": "true_false"
+    }
+]

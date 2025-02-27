@@ -758,5 +758,1065 @@
             "paragraph_id": "978-0198795551-p219-para1"
         },
         "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "For Group 1 drivers diagnosed with schizophrenia or another chronic psychosis, they must demonstrate stable behavior for less than 3 months to resume driving.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1055,
+            "paragraph_id": "978-0198795551-p1055-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mental neurological substance misuse disorders account for more than half of the total DALYs worldwide according to the GBD Study 1990.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1060,
+            "paragraph_id": "978-0198795551-p1060-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In cases involving children or patients lacking competence to give consent, attempting to involve an appropriate person, such as one with parental responsibility, in the consultation is always recommended but never mandatory according to GMC guidelines.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1052,
+            "paragraph_id": "978-0198795551-p1052-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients have the right to refuse the sharing of their personal information among members of the healthcare team involved in their care, except when withholding such information could pose a significant risk to themselves or others.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1049,
+            "paragraph_id": "978-0198795551-p1049-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The consensus among researchers regarding the fundamental traits of personality includes six distinct dimensions similar to those proposed by Cloninger's seven-factor model.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 612,
+            "paragraph_id": "978-0198795551-p612-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rokitansky syndrome affects approximately one out of every five thousand females.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 607,
+            "paragraph_id": "978-0198795551-p607-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Personality disorder diagnosis under DSM-5 no longer utilizes a multi-axial approach but instead employs a categorical assessment method.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 614,
+            "paragraph_id": "978-0198795551-p614-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Plants carry out photosynthesis mainly via their roots.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 225,
+            "paragraph_id": "978-0198795551-p225-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive enhancement in managing dementia involves acetylcholinesterase inhibitors like donepezil and memantine.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 229,
+            "paragraph_id": "978-0198795551-p229-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Memantine is recommended for treating severe Alzheimer's disease.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 236,
+            "paragraph_id": "978-0198795551-p236-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Primary Progressive Aphasia (PPA) initially presents with impaired cognitive functions unrelated to language.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 239,
+            "paragraph_id": "978-0198795551-p239-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "It consists of 16 items covering eight broad concepts",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1064,
+            "paragraph_id": "978-0198795551-p1064-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antipsychotics may lead to increased risk of developing diabetes due to proposed mechanisms including inhibition of insulin secretion in pancreatic \u03b2-cells through antagonism of muscarinic M3 receptors.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1081,
+            "paragraph_id": "978-0198795551-p1081-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Providing information about the medication's potential side effects helps promote understanding of the illness and improves adherence to prescribed treatments among patients.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1076,
+            "paragraph_id": "978-0198795551-p1076-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amuk is categorized under sudden assault in Box 21.1.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1070,
+            "paragraph_id": "978-0198795551-p1070-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Prolonged rest is beneficial for recovery from mild Traumatic Brain Injury (TBI).",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 256,
+            "paragraph_id": "978-0198795551-p256-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Korsakoff psychosis involves both amnesia and confabulation with atrophy of the mamillary bodies.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 249,
+            "paragraph_id": "978-0198795551-p249-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Research regarding vascular dementia includes roles of cellular stress response and hormesis in neuroprotection.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 260,
+            "paragraph_id": "978-0198795551-p260-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Huntington's disease is caused by an autosomal recessive inheritance pattern.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 245,
+            "paragraph_id": "978-0198795551-p245-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "High-potency antipsychotic medication causes dystonic reactions at an incidence rate higher than lower potency alternatives.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1091,
+            "paragraph_id": "978-0198795551-p1091-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lithium therapy significantly impairs patient satisfaction with their sex life due to severe sexual dysfunction.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1085,
+            "paragraph_id": "978-0198795551-p1085-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Reintroduction of the original antidepressant typically resolves discontinuation syndrome symptoms slowly over several weeks.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1096,
+            "paragraph_id": "978-0198795551-p1096-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Olanzapine offers the best risk-benefit balance among newer antipsychotics.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1102,
+            "paragraph_id": "978-0198795551-p1102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of adults do not consume alcohol.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 655,
+            "paragraph_id": "978-0198795551-p655-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The Addenbrooke's Cognitive Examination, third edition-Revised (ACE-III-R) provides assessments for more than five different cognitive domains.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 640,
+            "paragraph_id": "978-0198795551-p640-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Elderly individuals exhibiting features of Personality Disorder (PD) typically do not require medical attention unless they live in care facilities.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 645,
+            "paragraph_id": "978-0198795551-p645-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A universally accepted method exists for assessing personality disorders through structured clinical interviews.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 626,
+            "paragraph_id": "978-0198795551-p626-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Old age psychiatry is a relatively long-standing medical specialty that has existed unchanged since before the development of geriatric medicine.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 637,
+            "paragraph_id": "978-0198795551-p637-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Mentalization-based therapy is specifically designed and manualized for individuals with borderline personality disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 632,
+            "paragraph_id": "978-0198795551-p632-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Substance misuse includes problems arising from the misuse of harmful or addictive substances such as alcohol, street drugs, prescription medications, and volatile chemicals.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 652,
+            "paragraph_id": "978-0198795551-p652-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Lorazepam's elimination half-life ranges from 12 to 15 hours.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1123,
+            "paragraph_id": "978-0198795551-p1123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Always making the fullest assessment possible overrides the importance of ensuring staff's safety during assessments.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1109,
+            "paragraph_id": "978-0198795551-p1109-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chlordiazepoxide is preferred over Diazepam due to being faster acting when considering outpatient care.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 682,
+            "paragraph_id": "978-0198795551-p682-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The minimum price per unit introduced by the Scottish Government's Alcohol (Minimum Pricing) (Scotland) Act 2012 is \u00a31 per unit.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 667,
+            "paragraph_id": "978-0198795551-p667-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "New low-risk drinking guidelines published in August 2016 recommend that adults consume less than 18 units of alcohol weekly.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 675,
+            "paragraph_id": "978-0198795551-p675-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The term \u201calcoholic\u201d is used in DSM-5 or ICD-11 to diagnose alcohol dependence or harmful use.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 663,
+            "paragraph_id": "978-0198795551-p663-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ganser syndrome is characterized by approximate answers, disorientation, clouding of consciousness, hallucinations, motor disturbances, anxiety, or apathy, and usually resolves suddenly with amnesia for the duration of the illness.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 299,
+            "paragraph_id": "978-0198795551-p299-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lurasidone tends to cause significant weight gain compared to other antipsychotics.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 284,
+            "paragraph_id": "978-0198795551-p284-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Capgras delusion involves believing oneself is being impersonated by another identical individual.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 301,
+            "paragraph_id": "978-0198795551-p301-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High-potency FGAs such as haloperidol are typically administered multiple times throughout the day.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 278,
+            "paragraph_id": "978-0198795551-p278-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Presence of at least one non-bizarre delusion is sufficient for diagnosing delusional disorder even if accompanied by evidence of cognitive impairment.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 267,
+            "paragraph_id": "978-0198795551-p267-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Abrupt discontinuation of clozapine is always recommended when the patient's white cell count drops significantly low.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 289,
+            "paragraph_id": "978-0198795551-p289-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A full neurological examination is always conducted during the assessment process of patients presenting with psychosis.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 271,
+            "paragraph_id": "978-0198795551-p271-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizoaffective disorder is classified under ICD-10/11 and DSM-5 as having features exclusively of affective disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 293,
+            "paragraph_id": "978-0198795551-p293-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Malignant catatonia is characterized by acute onset of excitement, delirium, fever, autonomic instability, and catalepsy.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1126,
+            "paragraph_id": "978-0198795551-p1126-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Doctors who suspect a colleague has a problem have a duty to take action to protect patient care and their colleague's health.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1139,
+            "paragraph_id": "978-0198795551-p1139-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pathological intoxication is recognized in both DSM-5 and ICD-11 diagnoses.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 691,
+            "paragraph_id": "978-0198795551-p691-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Disulfiram works by irreversible inhibition of the enzyme converting alcohol to carbon dioxide and water.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 688,
+            "paragraph_id": "978-0198795551-p688-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Untreated Wernicke encephalopathy results in a mortality rate of approximately 10%.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 698,
+            "paragraph_id": "978-0198795551-p698-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "According to available data, there were approximately three times fewer female smokers compared to male smokers worldwide.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 701,
+            "paragraph_id": "978-0198795551-p701-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients diagnosed with a depressive disorder always complain about low mood during their initial consultation.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 317,
+            "paragraph_id": "978-0198795551-p317-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Melancholia refers specifically to feelings of happiness and joy.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 306,
+            "paragraph_id": "978-0198795551-p306-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals with established depression are at lower risk of further stressors of various kinds.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 322,
+            "paragraph_id": "978-0198795551-p322-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Acute medical problems associated with heroin use include nausea, constipation, and loss of consciousness due to aspiration.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 713,
+            "paragraph_id": "978-0198795551-p713-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Urine tests for cannabis can remain positive for up to 4 weeks after regular use has ceased.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 722,
+            "paragraph_id": "978-0198795551-p722-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Gabapentin and pregabalin reduce excitatory neurotransmitter release through binding to GABA receptors.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 716,
+            "paragraph_id": "978-0198795551-p716-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "SANE is a mental health charity that campaigns on behalf of patients with mental illness and also provides helplines.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1144,
+            "paragraph_id": "978-0198795551-p1144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There is sufficient information in the given paragraph to create a factual True/False question about psychiatric journals.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1155,
+            "paragraph_id": "978-0198795551-p1155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "F66 includes Gender dysphoria.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1180,
+            "paragraph_id": "978-0198795551-p1180-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "F23.3 refers specifically to Delusional Disorder among the schizophrenia spectrum and other psychotic disorders classifications.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1166,
+            "paragraph_id": "978-0198795551-p1166-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In ICD-11, mental health conditions related to specific diseases or disorders are categorized similarly to how they are handled in DSM-5.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1191,
+            "paragraph_id": "978-0198795551-p1191-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In Northern Ireland, according to the Mental Health Order 1986, patients may sometimes be detained directly under order a7(2).",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1265,
+            "paragraph_id": "978-0198795551-p1265-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Abnormalities in the thyroid-stimulating hormone (TSH) response to thyrotropin-releasing hormone (TRH) always result in abnormal thyroid hormone levels.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 326,
+            "paragraph_id": "978-0198795551-p326-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Pharmacological treatment for non-psychotic depressive illnesses can typically begin on an outpatient basis unless the case is severe enough to necessitate hospitalization.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 331,
+            "paragraph_id": "978-0198795551-p331-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For patients experiencing recurrent episodes of major depressive disorder with periods less than three years apart, particularly those with severe episodes including marked suicidal thoughts or actions, prophylactic treatment should generally be maintained for five years or even indefinitely due to high risk of relapse upon stopping medication.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 336,
+            "paragraph_id": "978-0198795551-p336-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Spontaneous remission of depression symptoms typically lasts between 12 months to two years after onset.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 340,
+            "paragraph_id": "978-0198795551-p340-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Reboxetine's half-life is approximately 24 hours.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 355,
+            "paragraph_id": "978-0198795551-p355-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amitriptyline's usual maintenance dose ranges between 100 mg and 150 mg per day.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 349,
+            "paragraph_id": "978-0198795551-p349-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hyperventilation with oxygen is always used during the administration of ECT.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 360,
+            "paragraph_id": "978-0198795551-p360-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Manic-depressive insanity was first comprehensively described by Emil Kraepelin in the seventh edition of his textbook Psychiatrie: Ein Lehrbuch f\u00fcr Studirende und \u00c4rzte.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 373,
+            "paragraph_id": "978-0198795551-p373-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Current criteria for psychosurgery require that the patient wants the operation and has tried all other treatments, including pharmacological and psychological interventions.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 365,
+            "paragraph_id": "978-0198795551-p365-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hypomania is caused by taking steroids including dexamethasone and testosterone.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 378,
+            "paragraph_id": "978-0198795551-p378-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An individual's earliest attachment influences their future attachment pattern according to John Bowlby's ideas.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 759,
+            "paragraph_id": "978-0198795551-p759-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children's behavioral issues before the development of modern child psychiatry were viewed primarily as moral rather than developmental concerns.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 745,
+            "paragraph_id": "978-0198795551-p745-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Substitute prescribing requires objective evidence of past dependence before initiation.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 732,
+            "paragraph_id": "978-0198795551-p732-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A young person aged over 16 is automatically considered capable of understanding and consenting to medical treatment decisions without needing further assessment of competence.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 754,
+            "paragraph_id": "978-0198795551-p754-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dyslexia affects approximately twenty percent of school-age children.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 781,
+            "paragraph_id": "978-0198795551-p781-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Conduct Disorders are more commonly found among girls than boys according to epidemiologic data.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 765,
+            "paragraph_id": "978-0198795551-p765-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients prescribed with benzodiazepines (BDZ) require regular reviews but these may occur less frequently than once per fortnight.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 737,
+            "paragraph_id": "978-0198795551-p737-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Regular monitoring is always required when administering medications for Attention Deficit Hyperactivity Disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 773,
+            "paragraph_id": "978-0198795551-p773-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Anabolic steroids are used exclusively for treating medical conditions such as osteoporosis.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 724,
+            "paragraph_id": "978-0198795551-p724-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cyclothymia typically presents first during childhood rather than adulthood.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 407,
+            "paragraph_id": "978-0198795551-p407-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bipolar disorder does not show a significant genetic contribution among first-degree relatives.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 389,
+            "paragraph_id": "978-0198795551-p389-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sodium valproate affects GABA's action in the central nervous system by increasing its bioavailability.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 415,
+            "paragraph_id": "978-0198795551-p415-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Maintenance doses of lamotrigine typically exceed 2000mg/day for treating bipolar disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 420,
+            "paragraph_id": "978-0198795551-p420-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Lithium may be used in conjunction with benzodiazepines for treating bipolar spectrum disorders.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 398,
+            "paragraph_id": "978-0198795551-p398-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Lithium carbonate is associated with reduced mortality rates compared to alternative treatments for bipolar disorder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 391,
+            "paragraph_id": "978-0198795551-p391-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "According to DSM-5, a diagnosis of Bipolar Disorder requires at least two episodes, including one hypomanic, manic, or mixed episode.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 384,
+            "paragraph_id": "978-0198795551-p384-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In patients diagnosed with anorexia nervosa, calculating the percentage weight for height can provide a more accurate indication than relying solely on Body Mass Index (BMI) due to ongoing developmental changes.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 793,
+            "paragraph_id": "978-0198795551-p793-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizophrenia in children typically presents acutely without a prolonged prodromal phase.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 799,
+            "paragraph_id": "978-0198795551-p799-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Daniel M'Naghten shot and killed Prime Minister Robert Peel's private secretary because of his persecution delusions.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 813,
+            "paragraph_id": "978-0198795551-p813-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Normal separation anxiety in children typically peaks around the age of 12 months but then subsides significantly by the time they reach adolescence due to their increased understanding of safe environments beyond immediate caregivers.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 786,
+            "paragraph_id": "978-0198795551-p786-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Secure inpatient services in Scotland do not exist and therefore require patient referrals to England.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 804,
+            "paragraph_id": "978-0198795551-p804-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "One in five males are stalked at some point in their lifetime according to epidemiological data.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 823,
+            "paragraph_id": "978-0198795551-p823-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Homicides predominantly involve male perpetrators.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 817,
+            "paragraph_id": "978-0198795551-p817-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Palpitations occur more frequently than sweating during panic attacks according to the listed symptoms.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 436,
+            "paragraph_id": "978-0198795551-p436-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Quetiapine was studied for safety and efficacy specifically in bipolar depression according to Bogart & Chavez's review in 2009.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 424,
+            "paragraph_id": "978-0198795551-p424-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hyperventilation syndrome results from an imbalance between ventilation rate and metabolic needs.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 432,
+            "paragraph_id": "978-0198795551-p432-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In Northern Ireland, when transferring unsentenced prisoners due to a mental disorder, one of the two reporting doctors must be recognized as an approved medical practitioner under the terms of the Commission according to Article 54 MH(NI)O 1986.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 836,
+            "paragraph_id": "978-0198795551-p836-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In England and Wales, under Section 136 MHA 1983, a person suspected of being mentally disordered can be detained for up to 96 hours.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 831,
+            "paragraph_id": "978-0198795551-p831-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Anencephaly results from dorsal induction occurring between weeks three through seven of gestation.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 862,
+            "paragraph_id": "978-0198795551-p862-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "According to classification systems, the term \"profound\" describes individuals whose IQ falls below 20 according to both ICD-10 and DSM-IV definitions.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 856,
+            "paragraph_id": "978-0198795551-p856-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In England and Wales, according to the Homicide Act 1957 as amended by The Coroners and Justice Act 2009, a person who kills another while suffering from an abnormality of mind that substantially impairs their mental responsibility can be convicted of manslaughter instead of murder.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 848,
+            "paragraph_id": "978-0198795551-p848-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A significant proportion of children with Down\u2019s syndrome exhibit sensorineural hearing loss.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 874,
+            "paragraph_id": "978-0198795551-p874-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Assessments of the severity of intellectual disability use the ICD-9 criteria exclusively.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 865,
+            "paragraph_id": "978-0198795551-p865-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Phenylketonuria is caused by a deficiency of phenylalanine hydroxylase.",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 881,
+            "paragraph_id": "978-0198795551-p881-para1"
+        },
+        "type": "true_false"
     }
 ]

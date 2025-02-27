@@ -1,0 +1,994 @@
+[
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Chapter 4",
+            "B": "Chapter 5",
+            "C": "hapter 4\nB: Chapter 5\nC: Chapter 6",
+            "D": "Chapter 10"
+        },
+        "question": "What chapter number specifically deals with drug metabolism?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 20,
+            "paragraph_id": "978-1264258086-p20-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Cyclooxygenase (COX)",
+            "B": "Cytochrome P450 (CYP)",
+            "C": "yclooxygenase (COX)\nB: Cytochrome P450 (CYP)\nC: Peroxidase (POX)",
+            "D": "Lipoxygenase (LOX)"
+        },
+        "question": "What enzyme specifically needs a fatty acid substrate having two cis double bonds separated by a methylene group?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 835,
+            "paragraph_id": "978-1264258086-p835-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Low concentrations of PGE2 decrease platelet aggregation through the IP receptor.",
+            "B": "Low concentrations of PGE2 have no significant impact on platelet aggregation.",
+            "C": "Low concentrations of PGE2, via the EP3 receptor, inhibit platelet aggregation.",
+            "D": "Low concentrations of PGE2, via the EP3 receptor, enhance platelet aggregation."
+        },
+        "question": "What effect do low concentrations of PGE2 have on platelet aggregation?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 840,
+            "paragraph_id": "978-1264258086-p840-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Clinical Trials in Humans",
+            "B": "Computer-Aided Drug Discovery",
+            "C": "linical Trials in Humans\nB: Computer-Aided Drug Discovery\nC: Three-Dimensional Bioprinting",
+            "D": "rug Discovery\nC: Three-Dimensional Bioprinting\nD: Clinical Trials in a Dish"
+        },
+        "question": "What is another term for creating three-dimensional organoids in culture from human pluripotent stem cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 28,
+            "paragraph_id": "978-1264258086-p28-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "High-throughput screening",
+            "B": "Fragment-based drug discovery",
+            "C": "Computer-aided drug design",
+            "D": "Lead compound optimization"
+        },
+        "question": "What approach involves breaking down drug-sized compounds into smaller substructures called fragments, testing them individually against a target, and then assembling or optimizing these fragments to create effective drugs?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 27,
+            "paragraph_id": "978-1264258086-p27-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Because hospital-based pharmacy and therapeutics committees handle all reports",
+            "B": "ecause hospital-based pharmacy and therapeutics committees handle all reports\nB: Due to the involvement of nurses, pharmacists, and students in these disciplines",
+            "C": "As it generates early signals that a drug may cause an adverse reaction due primarily to reports from responsible physicians and third-party payers",
+            "D": "ue to the involvement of nurses, pharmacists, and students in these disciplines\nC: As it generates early signals that a drug may cause an adverse reaction due primarily to reports from responsible physicians and third-party payers\nD: Since consumers alone submit comprehensive reports"
+        },
+        "question": "Which of the following statements accurately describes why voluntary reporting of adverse events has proven to be effective?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 35,
+            "paragraph_id": "978-1264258086-p35-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Lipid solubility of the non-ionized form",
+            "B": "Volume of distribution combined with clearance rate",
+            "C": "Degree of protein binding in tissues and organs",
+            "D": "egree of protein binding in tissues and organs  \nD: Extent of first-pass metabolism before reaching systemic circulation"
+        },
+        "question": "What primary factor determines how long an oral drug remains in circulation?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 42,
+            "paragraph_id": "978-1264258086-p42-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Large intrapatient variation in drug metabolism",
+            "B": "Small molecular weight of the drug",
+            "C": "High degree of protein binding",
+            "D": "Significant interindividual variation in drug metabolism"
+        },
+        "question": "What primary factor contributes to a medication having a narrow therapeutic index?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 56,
+            "paragraph_id": "978-1264258086-p56-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They are immediately eliminated from the body through the kidneys.",
+            "B": "They are stored indefinitely in the gallbladder.",
+            "C": "They are released into the GI tract during digestion and can potentially undergo enterohepatic cycling.",
+            "D": "They bypass the intestines and go straight to the lungs for further processing."
+        },
+        "question": "What happens to the drugs and metabolites secreted into the bile?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 51,
+            "paragraph_id": "978-1264258086-p51-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Acidic drugs accumulate on the more acidic side, while basic drugs accumulate on the more basic side.",
+            "B": "Acidic drugs accumulate on the less acidic side, while basic drugs accumulate on the more basic side.",
+            "C": "Acidic drugs accumulate on the more basic side, while basic drugs accumulate on the more acidic side.",
+            "D": "Both types of drugs accumulate equally regardless of the pH level."
+        },
+        "question": "What occurs with respect to the accumulation of acidic and basic drugs due to ion trapping?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 43,
+            "paragraph_id": "978-1264258086-p43-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Biosynthesis of eicosanoids",
+            "B": "iosynthesis of eicosanoids\nB: Synthesis of platelet-activating factors",
+            "C": "Cycloaddition reactions in lipid metabolism",
+            "D": "Degradation of prostaglandins"
+        },
+        "question": "What process involves enzymes described by Smith WL, et al., specifically related to the biosynthesis pathway?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 847,
+            "paragraph_id": "978-1264258086-p847-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Aspirin",
+            "B": "Sildenafil",
+            "C": "Misoprostol",
+            "D": "Tadalafil"
+        },
+        "question": "What medication is used to prevent NSAID-induced gastric ulcers?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 843,
+            "paragraph_id": "978-1264258086-p843-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Phagocytes increase in activity",
+            "B": "It provides a route for histamine release that is independent of the traditional IgE pathway",
+            "C": "Interferons decrease inflammation",
+            "D": "Chemokinesis reduces significantly"
+        },
+        "question": "What happens after the activation of MRGPRX2 on mast cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 877,
+            "paragraph_id": "978-1264258086-p877-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "0.05%",
+            "B": "0.5%",
+            "C": "1%",
+            "D": "Up to 5%"
+        },
+        "question": "What percentage of regular NSAID users can be expected to develop hypertension?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 854,
+            "paragraph_id": "978-1264258086-p854-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Cancer development",
+            "B": "Cardiovascular events",
+            "C": "ancer development  \nB: Cardiovascular events  \nC: Neurological disorders",
+            "D": "Respiratory infections"
+        },
+        "question": "According to recent studies on aspirin's therapeutic applications, what primary aspect of health does low-dose aspirin intake mainly focus on preventing?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 875,
+            "paragraph_id": "978-1264258086-p875-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Around 70%",
+            "B": "About 40%",
+            "C": "About 30%",
+            "D": "More than 90%"
+        },
+        "question": "What percentage of naproxen's total dose undergoes 6-desmethylation?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 864,
+            "paragraph_id": "978-1264258086-p864-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Bradykinin",
+            "B": "radykinin\nB: PGE2",
+            "C": "Leukotrienes",
+            "D": "Interleukin-10"
+        },
+        "question": "What molecule acts as both a mediator of inflammation and a contributor to central sensitization?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 849,
+            "paragraph_id": "978-1264258086-p849-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Opioids acting primarily through adenylate cyclase inhibition",
+            "B": "Signaling via \u03b2-arrestin-2 mediating adverse responses while G-protein mediated signals facilitate analgesia",
+            "C": "Direct blockade of NMDA receptors reducing excitability",
+            "D": "irect blockade of NMDA receptors reducing excitability\nD: Preferential interaction with \u03ba-opioid receptors over \u03bc-opioid receptors"
+        },
+        "question": "What mechanism do some researchers believe underlies the separation of opioid analgesic actions and their undesirable side effects?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 80,
+            "paragraph_id": "978-1264258086-p80-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Uncompetitive inhibition",
+            "B": "Noncompetitive inhibition",
+            "C": "Competitive inhibition",
+            "D": "Reversible inhibition"
+        },
+        "question": "What term describes the type of inhibition where the inhibitor binds to the enzyme regardless of whether the substrate is already bound?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 66,
+            "paragraph_id": "978-1264258086-p66-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased contraction due to enhanced Ca2+ mobilization",
+            "B": "Relaxation via the phosphorylation of proteins involved in Ca2+ signaling",
+            "C": "a2+ mobilization  \nB: Relaxation via the phosphorylation of proteins involved in Ca2+ signaling  \nC: Enhanced excitability through increased expression of nicotinic acetylcholine receptors",
+            "D": "Stabilized resting membrane potential by reducing potassium permeability"
+        },
+        "question": "What kind of effect do elevated levels of cyclic AMP typically lead to in smooth muscle cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 76,
+            "paragraph_id": "978-1264258086-p76-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Second-generation antihistamines",
+            "B": "First-generation antihistamines",
+            "C": "Third-generation antihistamines",
+            "D": "Fourth-generation antihistamines"
+        },
+        "question": "What class of medications do carbinoxamine, clemastine, diphenhydramine, and dimenhydrate belong to?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 890,
+            "paragraph_id": "978-1264258086-p890-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It increases significantly",
+            "B": "It decreases slightly",
+            "C": "It remains unchanged",
+            "D": "It is very low"
+        },
+        "question": "What happens to the expression of GRK2 in airway smooth muscle?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 900,
+            "paragraph_id": "978-1264258086-p900-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They impair memory, learning, and attention.",
+            "B": "They enhance memory, learning, and attention.",
+            "C": "They have no impact on cognitive function.",
+            "D": "They decrease cognitive performance across various tasks."
+        },
+        "question": "What effect do H3 antagonists have regarding cognitive function?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 885,
+            "paragraph_id": "978-1264258086-p885-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Exocytosis",
+            "B": "Endocytosis",
+            "C": "Neurotransmission",
+            "D": "Cholinergic neurotransmission"
+        },
+        "question": "What process involves the steps of docking and fusion of synaptic vesicles with neuronal membranes?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 93,
+            "paragraph_id": "978-1264258086-p93-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Promoting cell growth by activating anabolic pathways",
+            "B": "Increasing ATP consumption while decreasing ATP synthesis",
+            "C": "Reducing ATP consumption, increasing ATP synthesis, and inhibiting cell growth",
+            "D": "Having no direct impact on ATP levels or cell proliferation"
+        },
+        "question": "What effect does activated AMPK have on cell growth?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 89,
+            "paragraph_id": "978-1264258086-p89-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Cholesterol-lowering medications",
+            "B": "Gliflozins, inhibitors of Na+-glucose transporters",
+            "C": "holesterol-lowering medications\nB: Gliflozins, inhibitors of Na+-glucose transporters\nC: Antihypertensive agents",
+            "D": "Anti-inflammatory medications"
+        },
+        "question": "What class of drugs includes canagliflozin, dapagliflozin, and empagliflozin?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 99,
+            "paragraph_id": "978-1264258086-p99-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Every 2 hours",
+            "B": "Every 6\u20138 hours",
+            "C": "Every 12 hours",
+            "D": "As needed"
+        },
+        "question": "What is the recommended dosage frequency for Albuterol when administered orally?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 913,
+            "paragraph_id": "978-1264258086-p913-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Frequent exacerbations and high levels of blood eosinophils",
+            "B": "Sarcoidosis and pulmonary eosinophilic syndromes",
+            "C": "Chronic obstructive pulmonary disease (COPD)",
+            "D": ")\nD: Acute bronchitis"
+        },
+        "question": "What condition is treated mainly by oral corticosteroids according to their primary application?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 905,
+            "paragraph_id": "978-1264258086-p905-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only PXR (NR1I2)",
+            "B": "Type II nuclear receptors, excluding CAR (NR1I3)",
+            "C": "AR (NR1I3)\nC: Type II nuclear receptors, including PXR (NR1I2), CAR (NR1I3), FXR (NR1H4), PPAR\u03b1, and RAR",
+            "D": "None of the listed receptors"
+        },
+        "question": "What nuclear receptor forms heterodimers with the 9-cis-retinoic acid receptor (RXR) and regulates the transcription of genes for drug-metabolizing enzymes and transporters?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 106,
+            "paragraph_id": "978-1264258086-p106-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increased water solubility of the drug",
+            "B": "Little alteration in the pharmacological properties of the drug",
+            "C": "Significant alterations in the pharmacological properties of the drug",
+            "D": "Immediate termination of the biological activity of the drug"
+        },
+        "question": "What typically results from the introduction of functional groups during phase 1 reactions in drug metabolism?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 121,
+            "paragraph_id": "978-1264258086-p121-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Molecular weight alone",
+            "B": "Presence of hydrogen bonds",
+            "C": "Lipid solubility (oil/water partition coefficient)",
+            "D": "Number of chiral centers"
+        },
+        "question": "What primary characteristic of a drug molecule significantly influences its ability to diffuse across the blood-brain barrier?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 115,
+            "paragraph_id": "978-1264258086-p115-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "About 40%",
+            "C": "Around 25%",
+            "D": "About 30%"
+        },
+        "question": "What percentage of reproductive-aged women experience menstrual bleeding over 80 mL per cycle?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 939,
+            "paragraph_id": "978-1264258086-p939-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "70%",
+            "B": "50%",
+            "C": "30%",
+            "D": "6%"
+        },
+        "question": "What percentage of the daily iron intake consists of heme iron?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 927,
+            "paragraph_id": "978-1264258086-p927-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Up to 70%",
+            "C": "Around 80%, with some variation depending on overall health",
+            "D": "About 90%"
+        },
+        "question": "What percentage of body's stores of vitamin B12 is stored in the liver?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 932,
+            "paragraph_id": "978-1264258086-p932-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Starting with an infusion of 6 mU/min for high-dose protocol and 10 mU/min for low-dose protocol",
+            "B": "Starting with an infusion of 6 mU/min for high-dose protocol and 0.5\u20132 mU/min for low-dose protocol",
+            "C": "Starting with an infusion of 10 mU/min for high-dose protocol and 6 mU/min for low-dose protocol",
+            "D": "Starting with an infusion of 0.5\u20132 mU/min for high-dose protocol and 6 mU/min for low-dose protocol"
+        },
+        "question": "What is the typical starting point for oxytocin infusion rates when following both high-dose and low-dose protocols for inducing labor?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 956,
+            "paragraph_id": "978-1264258086-p956-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "10 mg/day orally",
+            "B": "40-mg loading dose followed by administration of 10 mg/day subcutaneously",
+            "C": "20 mg intravenously",
+            "D": "60 mg orally"
+        },
+        "question": "What is pegvisomant typically administered as initially?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 948,
+            "paragraph_id": "978-1264258086-p948-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Less than 5%",
+            "B": "More than 15%",
+            "C": "Over 12%, but under 13%",
+            "D": "More than 10%"
+        },
+        "question": "What percentage of pregnancies in the United States experience preterm birth?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 999,
+            "paragraph_id": "978-1264258086-p999-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ovarian production",
+            "B": "Testicular production",
+            "C": "Adipose tissue stroma",
+            "D": "Placental production"
+        },
+        "question": "What is the primary source of circulating estrogens in postmenopausal women?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 979,
+            "paragraph_id": "978-1264258086-p979-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 1% to 3%",
+            "B": "etween 1% to 3%\nB: Between 3% to 6%",
+            "C": "Between 6% to 10%",
+            "D": "Between 10% to 15%"
+        },
+        "question": "What percentage range of women experience expulsion of intrauterine devices?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 995,
+            "paragraph_id": "978-1264258086-p995-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Every 12 hours",
+            "B": "Every 4 to 6 hours",
+            "C": "Every 8 hours initially, potentially adjusted to more frequent intervals if higher doses are needed",
+            "D": "Daily"
+        },
+        "question": "What is the typical dosing schedule for propylthiouracil?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 970,
+            "paragraph_id": "978-1264258086-p970-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 50%",
+            "B": "Approximately 20%",
+            "C": "Approximately 70%",
+            "D": "Approximately 10%"
+        },
+        "question": "What approximate percentage of daily T4 production is converted to reverse T3 (rT3)?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 963,
+            "paragraph_id": "978-1264258086-p963-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "First-pass metabolism",
+            "B": "Removal of the charged sulfate groups by enzymes",
+            "C": "Lipid digestion",
+            "D": "Hydrogenation"
+        },
+        "question": "What process enables the absorption of estrogen across the intestinal epithelium?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 985,
+            "paragraph_id": "978-1264258086-p985-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "About 60%",
+            "B": "Approximately 70%",
+            "C": "About 75%",
+            "D": "Around 85%"
+        },
+        "question": "What percentage of circulating estradiol in men results from the conversion of testosterone?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1011,
+            "paragraph_id": "978-1264258086-p1011-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increase dihydrotestosterone levels in the prostate.",
+            "B": "Suppress LH and FSH secretion leading to hypogonadism.",
+            "C": "Shrink the size of the prostate by reducing dihydrotestosterone production.",
+            "D": "Enhance the absorption of testosterone undecanoate into lymphatics."
+        },
+        "question": "What is the primary action of finasteride and dutasteride regarding their effect on the prostate?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1019,
+            "paragraph_id": "978-1264258086-p1019-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It remains constantly elevated throughout",
+            "B": "It becomes undetectable",
+            "C": "It drops back to pretreatment levels immediately",
+            "D": "It should be normal"
+        },
+        "question": "What occurs to serum testosterone concentration midway between doses when testosterone enanthate or cypionate ester of testosterone is administered once every two weeks?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1015,
+            "paragraph_id": "978-1264258086-p1015-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Mineralocorticoids",
+            "B": "Androgens",
+            "C": "Progestogens",
+            "D": "Glucocorticoids"
+        },
+        "question": "What class of adrenocortical steroids includes cortisol?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1027,
+            "paragraph_id": "978-1264258086-p1027-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "600 mg/day",
+            "B": "900 mg/day",
+            "C": "1500 mg/day",
+            "D": "1200 mg/day"
+        },
+        "question": "What dosage of calcium is typically recommended to be provided daily to patients undergoing glucocorticoid therapy?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1033,
+            "paragraph_id": "978-1264258086-p1033-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "At least once a month",
+            "B": "With intervals of less than 3 months",
+            "C": "At least every 6 months",
+            "D": "With intervals of at least 3 months"
+        },
+        "question": "What is the general recommendation regarding the interval for performing intra-articular injections in order to minimize complications?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1036,
+            "paragraph_id": "978-1264258086-p1036-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They enhance the metabolic breakdown of sulfonylureas.",
+            "B": "They transiently decrease the concentration of free drug.",
+            "C": "They displace sulfonylureas from binding proteins, thereby decreasing the concentration of bound drug but not affecting the free drug level significantly.",
+            "D": "They displace the sulfonylureas from binding proteins, thereby transiently increasing the concentration of free drug."
+        },
+        "question": "What happens to the concentration of free drug when certain medications, including sulfonamides, clofibrate, and salicylates, interact with sulfonylureas?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1054,
+            "paragraph_id": "978-1264258086-p1054-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Reduced risk of gastrointestinal issues due to improved gut motility",
+            "B": "Increased rates of weight gain",
+            "C": "Decreased risk of hypoglycemia",
+            "D": "ecreased risk of hypoglycemia\nD: Increased rates of hypoglycemia, potentially leading to severe episodes"
+        },
+        "question": "What effect does adding pramlintide to insulin at mealtimes typically result in?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1060,
+            "paragraph_id": "978-1264258086-p1060-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Addition of Arg31 and Arg32 to the B chain",
+            "B": "chain\nB: Deletion of Thr30B and addition of a myristoyl group to the \u03b5-amino group of Lys29B",
+            "C": "Modification of Asp3B to Lys and Lys29B to Glu",
+            "D": "eletion of Thr30B and addition of a myristoyl group to the \u03b5-amino group of Lys29B\nC: Modification of Asp3B to Lys and Lys29B to Glu\nD: Lengthening the B chain"
+        },
+        "question": "What characteristic allows insulin detemir to enhance reversible binding, leading to slowed transport across vascular endothelium?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1051,
+            "paragraph_id": "978-1264258086-p1051-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It decreases because of reduced ATP production.",
+            "B": "It decreases because of increased ATP levels.",
+            "C": "It remains unchanged despite fluctuations in glucose levels.",
+            "D": "It increases due to enhanced mitochondrial function."
+        },
+        "question": "What happens to K+ conductance through the KATP channel when there is an increase in intracellular glucose due to higher blood glucose levels?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1045,
+            "paragraph_id": "978-1264258086-p1045-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 60%",
+            "B": "Approximately 55%",
+            "C": "More than 80%",
+            "D": "Around 65%"
+        },
+        "question": "What percentage of total body phosphorus is approximately found in bone?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1069,
+            "paragraph_id": "978-1264258086-p1069-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Circulating estrogen and androgens alone",
+            "B": "Years of lowest growth velocity",
+            "C": "irculating estrogen and androgens alone\nB: Years of lowest growth velocity\nC: Adolescence, mainly during years of highest growth velocity",
+            "D": "Dietary calcium supplementation"
+        },
+        "question": "What is the major increase in bone mass attributed to, according to the information?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1075,
+            "paragraph_id": "978-1264258086-p1075-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Up to 1%",
+            "B": "Up to 2% to 3%",
+            "C": "Up to 5% to 6%",
+            "D": "Up to 10%"
+        },
+        "question": "What percentage of the population older than 60 years of age can be affected by Paget's disease?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1077,
+            "paragraph_id": "978-1264258086-p1077-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Clearance increases significantly due to enhanced metabolic activity",
+            "B": "Clearance remains unchanged because liver function doesn't impact their elimination",
+            "C": "learance increases significantly due to enhanced metabolic activity  \nB: Clearance remains unchanged because liver function doesn't impact their elimination  \nC: Their clearance is substantially reduced",
+            "D": "Their clearance becomes dependent on renal excretion instead of hepatic metabolism"
+        },
+        "question": "What happens to the clearance of esomeprazole and lansoprazole in patients with hepatic disease?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1094,
+            "paragraph_id": "978-1264258086-p1094-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Postmenopausal men with osteoporosis",
+            "B": "Pre-menopausal women with osteoporosis",
+            "C": "Postmenopausal women with osteoporosis",
+            "D": "Men over 50 years old with normal bone density"
+        },
+        "question": "What was the focus group for the 2016 study on romosozumab conducted by Cosman et al.?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1088,
+            "paragraph_id": "978-1264258086-p1088-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By forming a protective barrier in the stomach lining",
+            "B": "y forming a protective barrier in the stomach lining\nB: By reducing acid production through inhibition of proton pumps",
+            "C": "By increasing prostaglandin generation in the gastric mucosa and scavenging reactive oxygen species",
+            "D": "By blocking histamine receptors"
+        },
+        "question": "What is the primary way that rebamipide works to exert its healing effects?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1098,
+            "paragraph_id": "978-1264258086-p1098-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "By stimulating cyclic AMP production.",
+            "B": "y stimulating cyclic AMP production.\nB: Inhibiting the action of Na+/K+-ATPase.",
+            "C": "Blocking the epithelial sodium channel (ENaC).",
+            "D": "Inhibiting NHE3, the most abundant isoform of the Na+/H+ exchanger in the intestine."
+        },
+        "question": "What is the primary way tenapanor acts to decrease sodium absorption in the gut?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1110,
+            "paragraph_id": "978-1264258086-p1110-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Chemotherapy-induced nausea",
+            "B": "Motion sickness",
+            "C": "hemotherapy-induced nausea\nB: Motion sickness\nC: Hyperemesis of pregnancy",
+            "D": "Upper abdominal irradiation"
+        },
+        "question": "What condition do 5-HT3 receptor antagonists show limited effectiveness against?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1120,
+            "paragraph_id": "978-1264258086-p1120-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By increasing intestinal motility",
+            "B": "y increasing intestinal motility\nB: Through its direct interaction with viral pathogens causing diarrhea",
+            "C": "Via \u03bc-opioid receptors located on neurons in the myenteric plexus, slowing intestinal transit",
+            "D": "By enhancing the absorption of water and electrolytes in the intestines"
+        },
+        "question": "What is the primary mechanism through which loperamide manages diarrhea?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1114,
+            "paragraph_id": "978-1264258086-p1114-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They exacerbate nausea and vomiting.",
+            "B": "They relieve nausea and vomiting by antagonism of dopamine receptors in the CTZ of the brainstem.",
+            "C": "TZ of the brainstem.\nC: They increase the severity of both conditions temporarily until tolerance develops.",
+            "D": "They completely eliminate nausea but have no impact on vomiting."
+        },
+        "question": "What effect do dopamine receptor antagonists have on nausea and vomiting?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1106,
+            "paragraph_id": "978-1264258086-p1106-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

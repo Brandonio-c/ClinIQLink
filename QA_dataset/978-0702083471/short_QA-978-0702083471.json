@@ -1,0 +1,252 @@
+[
+    {
+        "answer": "Familial Mediterranean Fever (FMF)",
+        "question": "What condition characterized by recurrent episodes of fever and organ inflammation affects primarily Mediterranean populations?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 100,
+            "paragraph_id": "978-0702083471-p100-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The weight distribution shifts upwards; the slim become less slim, while the overweight and obese become heavier.",
+        "question": "What happens to the weight distribution of nearly the entire population regarding obesity?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 116,
+            "paragraph_id": "978-0702083471-p116-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Prime-boost strategy",
+        "question": "What method involves giving one type of vaccine first followed by another type to improve efficacy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 139,
+            "paragraph_id": "978-0702083471-p139-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Ivermectin is used to treat Strongyloides infection, filariasis, and onchocerciasis.",
+        "question": "What is Ivermectin primarily used to treat?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 152,
+            "paragraph_id": "978-0702083471-p152-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "A category of mechanism of action where they form crosslinks between strands of DNA, thereby preventing replication.",
+        "question": "What category includes Alkylating agent drugs and platinum-based compounds?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 174,
+            "paragraph_id": "978-0702083471-p174-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "HER2 receptor positivity in breast or gastric cancers.",
+        "question": "What indicates that the cancer may respond to HER2 inhibitor targeted therapy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 165,
+            "paragraph_id": "978-0702083471-p165-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Hospitalists",
+        "question": "What is the name given to the physicians managing adult medical takes in the US?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 210,
+            "paragraph_id": "978-0702083471-p210-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Pulmonary artery capillary wedge pressure is a reasonable indication of left atrial pressure, typically ranging between 2-10 mmHg.",
+        "question": "What is pulmonary artery capillary wedge pressure?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 243,
+            "paragraph_id": "978-0702083471-p243-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Rectal measurements.",
+        "question": "What is considered the gold standard measurement for core temperature?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 289,
+            "paragraph_id": "978-0702083471-p289-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Every 2\u20134 days.",
+        "question": "What is the typical duration between new crops of lesions occurring in chickenpox?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 321,
+            "paragraph_id": "978-0702083471-p321-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Painless terminal haematuria.",
+        "question": "What is the first and most common symptom of S. haematobium infection?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 378,
+            "paragraph_id": "978-0702083471-p378-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Nirfurtimox and eflornithine combination therapy (NECT).",
+        "question": "What is the preferred therapy for late-stage *Trypanosoma brucei gambiense* causing nervous system disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 388,
+            "paragraph_id": "978-0702083471-p388-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It produces a positive deflection in the ECG.",
+        "question": "What happens when depolarization moves towards a positive electrode?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 436,
+            "paragraph_id": "978-0702083471-p436-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately 7.2 million, consisting of 3.8 million men and 3.4 million women.",
+        "question": "What is the estimated number of deaths per year caused by coronary heart disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 432,
+            "paragraph_id": "978-0702083471-p432-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Reduction of heart rate via acting on the inward current in the sinoatrial (SA) node.",
+        "question": "What is the primary mechanism through which ivabradine exerts its therapeutic effect?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 451,
+            "paragraph_id": "978-0702083471-p451-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Clinical examination and measurement of the ankle-brachial pressure index (ABPI).",
+        "question": "What is the primary method to determine the presence and severity of ischemia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 486,
+            "paragraph_id": "978-0702083471-p486-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Staging lung cancer and sampling peribronchial nodes.",
+        "question": "What is Endobronchial Ultrasound primarily used for?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 533,
+            "paragraph_id": "978-0702083471-p533-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It represents accumulation of fluid where the position of the mediastinum remains unchanged and there's evidence of an air bronchogram indicating patent proximal bronchi.",
+        "question": "What is meant by uncomplicated consolidation?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 530,
+            "paragraph_id": "978-0702083471-p530-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Chronic obstructive pulmonary disease (COPD).",
+        "question": "What condition complicates severe hypoxaemia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 554,
+            "paragraph_id": "978-0702083471-p554-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Peak Expiratory Flow (PEF).",
+        "question": "What measurement is crucial during management of acute severe asthma to assess severity?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 550,
+            "paragraph_id": "978-0702083471-p550-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Rifampicin, ethambutol, isoniazid, and pyrazinamide for 2 months, then rifampicin and isoniazid for 4 months.",
+        "question": "What constitutes the standard first-line treatment regimen for tuberculosis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 564,
+            "paragraph_id": "978-0702083471-p564-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Inspiratory crackles, and digital clubbing often develops.",
+        "question": "What is commonly revealed during physical examination of patients with Diffuse Parenchymal Lung Diseases?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 579,
+            "paragraph_id": "978-0702083471-p579-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Decreased or absent breath sounds and a resonant percussion note.",
+        "question": "What is typically observed during clinical examination in cases where there's a large pneumothorax?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 599,
+            "paragraph_id": "978-0702083471-p599-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Farmer's lung, Bird fancier's lung, among others listed in Box 17.81.",
+        "question": "What kind of lung condition presents as hypersensitivity pneumonitis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 590,
+            "paragraph_id": "978-0702083471-p590-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Greater than 1 g/day of protein excretion is indicative of glomerular pathology.",
+        "question": "What amount of protein excretion in the urine each day typically signifies significant renal disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 616,
+            "paragraph_id": "978-0702083471-p616-para1"
+        },
+        "type": "short_answer"
+    }
+]

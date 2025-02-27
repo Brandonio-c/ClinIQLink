@@ -1,0 +1,1474 @@
+[
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Carrier-mediated transport",
+            "B": "Active transport",
+            "C": "arrier-mediated transport\nB: Active transport\nC: Aqueous diffusion",
+            "D": "Osmosis"
+        },
+        "question": "What process governs the passive movement of molecules through the watery extracellular and intracellular spaces?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 14,
+            "paragraph_id": "978-1260117127-p14-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Graded dose-biasing relationship",
+            "B": "Pharmacodynamic analysis",
+            "C": "Graded dose-response relationship",
+            "D": "Drug-effect measurement"
+        },
+        "question": "What term describes the process where the response of a particular receptor-effector system is measured against increasing concentrations of a drug?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 26,
+            "paragraph_id": "978-1260117127-p26-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The effect observed decreases linearly according to Curve 1",
+            "B": "The effect observed remains constant regardless of the partial agonist's concentration",
+            "C": "urve 1\nB: The effect observed remains constant regardless of the partial agonist's concentration\nC: The effect observed follows the pattern described by Curve 3",
+            "D": "The effect observed is completely blocked by the partial agonist"
+        },
+        "question": "What happens when the concentration of a partial agonist is increased from low to very high levels in the presence of a large dose of full agonist?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 33,
+            "paragraph_id": "978-1260117127-p33-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Both first-order and zero-order kinetics",
+            "B": "oth first-order and zero-order kinetics\nB: Only zero-order kinetics",
+            "C": "Only first-order kinetics",
+            "D": "Neither first-order nor zero-order kinetics"
+        },
+        "question": "What types of kinetic processes exhibit rates of elimination that are independent of drug concentration?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 17,
+            "paragraph_id": "978-1260117127-p17-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They undergo degradation immediately.",
+            "B": "They are always reinsened back into the membrane.",
+            "C": "They may be either reinsensed into the membrane or degraded depending on their type.",
+            "D": "They become permanently inactive."
+        },
+        "question": "What happens to internalized receptor molecules after they are removed from further exposure to extracellular molecules?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 32,
+            "paragraph_id": "978-1260117127-p32-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the rate of elimination",
+            "B": "The rate of input, rate of distribution, and rate of elimination",
+            "C": "Just the volume of distribution",
+            "D": "Exclusively the molecular weight of the drug"
+        },
+        "question": "What determines the plasma concentration of a drug?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 37,
+            "paragraph_id": "978-1260117127-p37-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 30%",
+            "B": "Approximately 40%",
+            "C": "Approximately 60%",
+            "D": "Approximately 75%"
+        },
+        "question": "What percentage of drugs metabolized by phase I cytochrome P450s are estimated to be handled specifically by the combination of CYP3A4/5 and CYP2D6?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 46,
+            "paragraph_id": "978-1260117127-p46-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Acetaminophen, aspirin, ibuprofen",
+            "B": "Abacavir, flucloxacillin, allopurinol, carbamazepine",
+            "C": "Warfarin, simvastatin, pravastatin",
+            "D": "Metformin, glipizide, glyburide"
+        },
+        "question": "Polymorphisms have been associated with adverse reactions to certain medications; among these medications, which ones are specifically linked to polymorphic responses?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 54,
+            "paragraph_id": "978-1260117127-p54-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Acetylcholine and serotonin.",
+            "B": "Norepinephrine, peptides, purines, acetylcholine.",
+            "C": "Dopamine, GABA, glutamate.",
+            "D": "opamine, GABA, glutamate.\nD: Serotonin, histamine, melatonin."
+        },
+        "question": "What primary neurotransmitters are utilized within the autonomic nervous system during the transmission process?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 57,
+            "paragraph_id": "978-1260117127-p57-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increasing their volume of distribution",
+            "B": "Decreasing their extraction ratio due to decreased liver function",
+            "C": "Reducing the half-life of substrates",
+            "D": "ecreasing their extraction ratio due to decreased liver function\nC: Reducing the half-life of substrates\nD: Enhancing renal excretion"
+        },
+        "question": "What is the primary method through which induction of Phase I metabolizing enzymes affects substrate drugs?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 43,
+            "paragraph_id": "978-1260117127-p43-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Effectiveness in treating myasthenia gravis",
+            "B": "Impact on vascular endothelium",
+            "C": "Ability to induce sweat gland secretion",
+            "D": "Capacity to stimulate salivary gland function"
+        },
+        "question": "What is the main difference in the way neostigmine and bethanechol act on the body, considering their pharmacological properties?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 75,
+            "paragraph_id": "978-1260117127-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It binds to cholinesterase and undergoes slow hydrolysis.",
+            "B": "It prevents access of acetylcholine for a short duration without being an ester.",
+            "C": "It forms an extremely stable phosphate complex with the enzyme.",
+            "D": "It releases the acidic portion quickly from the enzyme active site."
+        },
+        "question": "What is unique about how edrophonium works compared to carbamate and organophosphate inhibitors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 74,
+            "paragraph_id": "978-1260117127-p74-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Myopia",
+            "B": "Dry mouth",
+            "C": "Bradycardia",
+            "D": "ry mouth\nC: Bradycardia\nD: Postural hypotension"
+        },
+        "question": "What sign distinguishes between an overdose of a ganglion blocker versus a muscarinic blocker?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 83,
+            "paragraph_id": "978-1260117127-p83-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They relax the muscles.",
+            "B": "They contract the muscles, thereby increasing vascular resistance.",
+            "C": "They inhibit transmitter release.",
+            "D": "They stimulate insulin release."
+        },
+        "question": "What effect do alpha-1 adrenoceptors have on most vascular smooth muscle?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 87,
+            "paragraph_id": "978-1260117127-p87-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Blood pressure remains unchanged.",
+            "B": "lood pressure remains unchanged.\nB: Blood pressure decreases.",
+            "C": "Blood pressure fluctuates unpredictably.",
+            "D": "Blood pressure significantly increases."
+        },
+        "question": "What happens to blood pressure when a new autonomic drug is administered orally for 1 week?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 92,
+            "paragraph_id": "978-1260117127-p92-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Angiotensin-converting enzyme inhibitor",
+            "B": "Beta-1 selective adrenoceptor agonist",
+            "C": "Vasodilator",
+            "D": "Aldosterone antagonist"
+        },
+        "question": "What class of medication does dobutamine belong to?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 129,
+            "paragraph_id": "978-1260117127-p129-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Adenosine",
+            "B": "Digoxin",
+            "C": "Lidocaine",
+            "D": "igoxin\nC: Lidocaine\nD: Quinidine"
+        },
+        "question": "What medication would likely be used first to treat a patient experiencing ventricular tachycardia with rare normal sinus beats and ST-segment elevation?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 140,
+            "paragraph_id": "978-1260117127-p140-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "By blocking beta receptors",
+            "B": "y blocking beta receptors\nB: By reducing a late, prolonged sodium current in myocardial cells",
+            "C": "By opening potassium channels",
+            "D": "By enhancing cardiac metabolism"
+        },
+        "question": "How does ranolazine primarily exert its effect in treating angina?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 119,
+            "paragraph_id": "978-1260117127-p119-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Atenolol",
+            "B": "Hydralazine",
+            "C": "Isosorbide mononitrate",
+            "D": "Sildenafil"
+        },
+        "question": "What medication's effect on nitroglycerin involves increasing the levels of cyclic guanosine monophosphate (cGMP) by inhibiting its breakdown?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 120,
+            "paragraph_id": "978-1260117127-p120-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "About 50%",
+            "B": "Approximately 20%",
+            "C": "Approximately 10%",
+            "D": "Less than 5%"
+        },
+        "question": "What percentage of angina cases constitute variant angina?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 113,
+            "paragraph_id": "978-1260117127-p113-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "About 30 seconds",
+            "B": "About 60 minutes",
+            "C": "About 15 seconds",
+            "D": "Several hours"
+        },
+        "question": "How long does the action of adenosine last?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 139,
+            "paragraph_id": "978-1260117127-p139-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They significantly improve cardiac output.",
+            "B": "They enhance diastolic function.",
+            "C": "They may increase the sensitivity of the contractile protein system to calcium and potentially cause arrhythmias.",
+            "D": "They completely eliminate the need for vasodilator therapy."
+        },
+        "question": "What is a potential consequence of high concentrations of phosphodiesterase inhibitors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 128,
+            "paragraph_id": "978-1260117127-p128-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Activation of Dopamine D1 Receptors",
+            "B": "Release of Nitric Oxide From Endothelial Cells",
+            "C": "ells\nC: Blockade Of Calcium Channels By Dihydropyridines Such As Nifedipine",
+            "D": "opamine D1 Receptors\nB: Release of Nitric Oxide From Endothelial Cells\nC: Blockade Of Calcium Channels By Dihydropyridines Such As Nifedipine\nD: Hyperpolarization Through Opening Of Potassium Channels"
+        },
+        "question": "What mechanism of smooth muscle relaxation involves reduction of calcium influx via L-type channels?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 107,
+            "paragraph_id": "978-1260117127-p107-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ubrogepant",
+            "B": "Triptans",
+            "C": "Lasmiditan",
+            "D": "Sumatriptan"
+        },
+        "question": "What medication has been approved by the FDA for treating migraines due to its high selectivity as a 5-HT1F receptor agonist?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 162,
+            "paragraph_id": "978-1260117127-p162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Aspirin",
+            "B": "Leukotriene LTC4",
+            "C": "4\nC: Prednisone",
+            "D": "Prostaglandin PGE1"
+        },
+        "question": "What substance is crucial for maintaining patency of the ductus arteriosus in infants awaiting surgical correction of transposed great vessels?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 176,
+            "paragraph_id": "978-1260117127-p176-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Increased potassium levels",
+            "B": "Elevated blood urea nitrogen",
+            "C": "Metabolic alkalosis",
+            "D": "Hyperkalemia"
+        },
+        "question": "What condition might result from chronic therapy with certain types of diuretics?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 151,
+            "paragraph_id": "978-1260117127-p151-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They decrease significantly",
+            "B": "They remain unchanged",
+            "C": "They increase slightly",
+            "D": "They increase"
+        },
+        "question": "What happens to circulating levels of bradykinin due to the mechanism of action of ACE inhibitors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 169,
+            "paragraph_id": "978-1260117127-p169-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Decreased significantly due to increased breakdown by ACE",
+            "B": "Increased because of reduced degradation by NEP and ACE",
+            "C": "E\nB: Increased because of reduced degradation by NEP and ACE\nC: Remain unchanged since their disposition is unaffected by these inhibitors",
+            "D": "ecreased significantly due to increased breakdown by ACE\nB: Increased because of reduced degradation by NEP and ACE\nC: Remain unchanged since their disposition is unaffected by these inhibitors\nD: Reduced slightly as a result of competitive inhibition with angiotensin-converting enzyme"
+        },
+        "question": "What happens to the concentration of natriuretic peptides when vasopeptidase inhibitors are used?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 167,
+            "paragraph_id": "978-1260117127-p167-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)",
+            "B": "Selective Cox-2 Inhibitors",
+            "C": "ox-2 Inhibitors\nC: Oral Inhibitors at CysLT1 (LTD4 Receptor)",
+            "D": "rugs (NSAIDs)\nB: Selective Cox-2 Inhibitors\nC: Oral Inhibitors at CysLT1 (LTD4 Receptor)\nD: Corticosteroid"
+        },
+        "question": "What class of medications do montelukast and zafirlukast belong to?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 175,
+            "paragraph_id": "978-1260117127-p175-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Causes significant increase in blood pressure.",
+            "B": "Acts as a neutral agent on blood vessels.",
+            "C": "auses significant increase in blood pressure.\nB: Acts as a neutral agent on blood vessels.\nC: Is a potent vasodilator causing decrease in blood pressure.",
+            "D": "Has variable effects depending on dosage."
+        },
+        "question": "What effect does CGRP have on blood pressure?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 168,
+            "paragraph_id": "978-1260117127-p168-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Activation of mast cells leading to degranulation",
+            "B": "Prevention of new IgE bindings without activating existing ones",
+            "C": "Release of inflammatory mediators due to IgE activation",
+            "D": "Stimulation of further production of IgE"
+        },
+        "question": "What happens when Omalizumab binds to human IgE?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 188,
+            "paragraph_id": "978-1260117127-p188-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Albuterol",
+            "B": "Aminophylline",
+            "C": "Ipratropium",
+            "D": "Zafirlukast"
+        },
+        "question": "What medication would be considered appropriate for treating asthma in children due to being an orally active inhibitor of leukotriene receptors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 189,
+            "paragraph_id": "978-1260117127-p189-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Activation of different receptor sites affecting serotonin.",
+            "B": "Direct inhibition of acetylcholine release.",
+            "C": "No direct effects on GABA-ergic neurotransmission in the CNS.",
+            "D": "irect inhibition of acetylcholine release.\nC: No direct effects on GABA-ergic neurotransmission in the CNS.\nD: Increased sensitivity of dopamine receptors."
+        },
+        "question": "What distinguishes ramelteon from traditional benzodiazepine-like drugs regarding their potential impact on GABA-ergic neurotransmission?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 204,
+            "paragraph_id": "978-1260117127-p204-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Cholinesterase inhibitors",
+            "B": "Beta-blockers",
+            "C": "holinesterase inhibitors\nB: Beta-blockers\nC: Anti-inflammatory drugs",
+            "D": "Muscarinic agonists"
+        },
+        "question": "For a patient suffering from physiologic and essential tremors, what class of medications has been found to alleviate their symptoms?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 249,
+            "paragraph_id": "978-1260117127-p249-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Selegiline",
+            "B": "Pramipexole",
+            "C": "Tolcapone",
+            "D": "Apomorphine"
+        },
+        "question": "What medication is typically administered to provide immediate relief during episodes of significant immobility experienced by individuals undergoing Parkinson's disease management?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 250,
+            "paragraph_id": "978-1260117127-p250-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To provide postoperative analgesia",
+            "B": "To enhance the action of pyridostigmine",
+            "C": "To counteract potential bradycardia caused by increased acetylcholine levels",
+            "D": "To reverse the effects of the muscle relaxant"
+        },
+        "question": "What is the primary purpose of administering atropine alongside pyridostigmine when reversing the effects of a non-depolarizing muscle relaxant?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 242,
+            "paragraph_id": "978-1260117127-p242-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Based on their chemical composition alone.",
+            "B": "ased on their chemical composition alone.\nB: Basis of their major therapeutic uses.",
+            "C": "Their ability to interact with neurotransmitters exclusively.",
+            "D": "Only according to their strength of analgesia."
+        },
+        "question": "What method can opioid analgesics and related drugs be classified by regarding their therapeutic applications?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 270,
+            "paragraph_id": "978-1260117127-p270-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Blockage of norepinephrine and serotonin transporters along with significant effects on other neurotransmitters.",
+            "B": "lockage of norepinephrine and serotonin transporters along with significant effects on other neurotransmitters.\nB: Weak inhibition of norepinephrine transporters combined with strong antagonism of the 5-HT2 receptor.",
+            "C": "Potentiation of dopamine's neurotransmitter actions via noncompetitive blockade of its transporter.",
+            "D": "Selective inhibition of serotonin (5-HT) transporters with minimal impact on other neurotransmitters."
+        },
+        "question": "What primary mechanism characterizes the action of Selective Serotonin Reuptake Inhibitors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 263,
+            "paragraph_id": "978-1260117127-p263-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Strong \u00b5-receptor agonism",
+            "B": "Blockade of the reuptake of norepinephrine and serotonin",
+            "C": "Pure opioid receptor antagonist activity",
+            "D": "Modest \u00b5-opioid receptor affinity combined with norepinephrine reuptake inhibition"
+        },
+        "question": "What is the primary mechanism behind Tramadol's analgesic activity?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 275,
+            "paragraph_id": "978-1260117127-p275-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Anemia",
+            "B": "Thalassemia Major",
+            "C": "Sideroblastic Anemia",
+            "D": "Hemochromatosis"
+        },
+        "question": "What condition results from excessive storage of iron in various organs including heart, liver, and pancreas?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 290,
+            "paragraph_id": "978-1260117127-p290-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Group 1 antiarrhythmic drugs",
+            "B": "Group 2 \u03b2-adrenoceptor-blocking drugs",
+            "C": "Direct oral anticoagulants",
+            "D": "irect oral anticoagulants  \nD: Calcium channel-blocking drugs"
+        },
+        "question": "What class of drug includes medications such as propranolol and acebutolol?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 305,
+            "paragraph_id": "978-1260117127-p305-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Full agonist at CB1 receptors",
+            "B": "1 receptors\nB: Partial agonist at CB1 receptors",
+            "C": "B1 receptors\nB: Partial agonist at CB1 receptors\nC: Inverse agonist at CB1 receptors",
+            "D": "Competitive antagonist at CB1 receptors"
+        },
+        "question": "What is the primary mechanism of action of Rimonabant regarding cannabinoid receptors?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 286,
+            "paragraph_id": "978-1260117127-p286-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Activated Partial Thromboplastin Time (aPTT)",
+            "B": "International Normalized Ratio (INR)",
+            "C": "Clotting Cascade Test",
+            "D": "Glycoprotein IIb/IIIa Assay"
+        },
+        "question": "What laboratory test is specifically utilized to monitor the effectiveness of warfarin's anticoagulant properties?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 297,
+            "paragraph_id": "978-1260117127-p297-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Decrease the release of dopamine, norepinephrine, and serotonin",
+            "B": "Have no impact on dopamine, norepinephrine, and serotonin levels",
+            "C": "Increase the release of dopamine, norepinephrine, and serotonin",
+            "D": "ecrease the release of dopamine, norepinephrine, and serotonin\nB: Have no impact on dopamine, norepinephrine, and serotonin levels\nC: Increase the release of dopamine, norepinephrine, and serotonin\nD: Only decrease the level of serotonin"
+        },
+        "question": "What effect do amphetamines have on neurotransmitter levels?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 282,
+            "paragraph_id": "978-1260117127-p282-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Levels of VLDL and triglycerides remain unchanged.",
+            "B": "Levels of VLDL and triglycerides decrease.",
+            "C": "Levels of VLDL and triglycerides may increase.",
+            "D": "L and triglycerides remain unchanged.\nB: Levels of VLDL and triglycerides decrease.\nC: Levels of VLDL and triglycerides may increase.\nD: Only the levels of VLDL decrease."
+        },
+        "question": "What happens to the levels of VLDL and triglycerides in some patients with familial combined hyperlipidemia who take cholestyramine?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 314,
+            "paragraph_id": "978-1260117127-p314-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Elevated HDL cholesterol",
+            "B": "Hypertriglyceridemia",
+            "C": "Decreased LDL cholesterol",
+            "D": "L cholesterol\nB: Hypertriglyceridemia\nC: Decreased LDL cholesterol\nD: Increased VLDL cholesterol"
+        },
+        "question": "What condition do gemfibrozil and other fibrates primarily aim to treat?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 313,
+            "paragraph_id": "978-1260117127-p313-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Progestins",
+            "B": "Estrogens",
+            "C": "Oral contraceptives",
+            "D": "Dopamine agonists"
+        },
+        "question": "In treating conditions associated with high levels of prolactin, such as those causing galactorrhea, oligomenorrhea, or amenorrhea, which class of drugs is commonly utilized due to their ability to mimic the effects of dopamine?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 333,
+            "paragraph_id": "978-1260117127-p333-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They enhance the uptake of iodide by increasing the activity of the iodide transporter.",
+            "B": "They competitively inhibit the uptake of iodide by blocking the action of the iodide transporter.",
+            "C": "They increase the production of thyroid hormones by stimulating the thyroid-stimulating hormone (TSH) receptor.",
+            "D": "They decrease the peripheral conversion of T4 to T3."
+        },
+        "question": "How do anions such as thiocyanate and perchlorate affect the uptake of iodide by the thyroid gland?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 341,
+            "paragraph_id": "978-1260117127-p341-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Irreversible inhibition of COX-1 resulting in decreased thromboxane synthesis.",
+            "B": "Reversible inhibition of both COX-1 and COX-2 leading to decreased prostaglandin synthesis.",
+            "C": "OX-1 resulting in decreased thromboxane synthesis.\nB: Reversible inhibition of both COX-1 and COX-2 leading to decreased prostaglandin synthesis.\nC: Selective, reversible inhibition of COX-2 resulting in decreased prostaglandin synthesis.",
+            "D": "Non-selective irreversible acetylation of COX-1 and COX-2 affecting thromboxane production."
+        },
+        "question": "What mechanism of action characterizes selective inhibitors like Celecoxib among the listed subclasses?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 326,
+            "paragraph_id": "978-1260117127-p326-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Glucocorticoids suppress gluconeogenesis.",
+            "B": "Glucocorticoids stimulate glycolysis exclusively.",
+            "C": "Glucocorticoids stimulate gluconeogenesis.",
+            "D": "Glucocorticoids have no direct impact on carbohydrate metabolism."
+        },
+        "question": "What effect do glucocorticoids have on carbohydrate metabolism?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 344,
+            "paragraph_id": "978-1260117127-p344-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Selective Estrogen Receptor Modulator",
+            "B": "Pure Estrogen Receptor Antagonist",
+            "C": "Synthesis Inhibitor",
+            "D": "Androgen"
+        },
+        "question": "What class of medication is fulvestrant classified under?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 355,
+            "paragraph_id": "978-1260117127-p355-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Up to 5 hours",
+            "B": "Up to 60 hours",
+            "C": "Between 10 to 24 hours",
+            "D": "Less than 4 hours"
+        },
+        "question": "What duration of action characterizes the medication Chlorpropamide among the listed oral antidiabetic drugs?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 366,
+            "paragraph_id": "978-1260117127-p366-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ketoconazole",
+            "B": "Cortisol",
+            "C": "ortisol\nC: Metyrapone",
+            "D": "Triamcinolone"
+        },
+        "question": "What medication could potentially accompany another agent for treating someone showing symptoms of severe acute adrenal insufficiency?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 349,
+            "paragraph_id": "978-1260117127-p349-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It activates a steroid receptor that inhibits expression of the PTH gene.",
+            "B": "It activates the calcium-sensing receptor in parathyroid cells.",
+            "C": "It induces the liver enzyme responsible for converting vitamin D3 to 25-hydroxyvitamin D3.",
+            "D": "3 to 25-hydroxyvitamin D3.\nD: It inhibits the farnesyl pyrophosphate synthase found in osteoclasts."
+        },
+        "question": "What mechanism does cinacalcet utilize to lower PTH levels?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 378,
+            "paragraph_id": "978-1260117127-p378-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases both the rate and force of contraction of the heart.",
+            "B": "It stimulates the release of adrenaline, leading to increased cardiac activity indirectly.",
+            "C": "It increases the contractility of the heart muscles via direct stimulation.",
+            "D": "It reduces systemic vascular resistance, thereby lowering blood pressure."
+        },
+        "question": "What effect does glucagon primarily exert on the heart?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 369,
+            "paragraph_id": "978-1260117127-p369-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "70S and 80S ribosomes",
+            "B": "Only 70S ribosomes",
+            "C": "Both 60S and 50S ribosomes",
+            "D": "Primarily 90S ribosomes"
+        },
+        "question": "What types of ribosomes do bacteria have?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 391,
+            "paragraph_id": "978-1260117127-p391-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Reduced sensitivity due to faster metabolism.",
+            "B": "Increased risk of gastrointestinal side effects.",
+            "C": "Sensitivity to lower doses because they cannot adequately metabolize the drug.",
+            "D": "No significant impact since chloramphenicol primarily acts topically."
+        },
+        "question": "What effect does inhibition of hepatic glucuronosyltransferase deficiency in neonates lead to regarding their sensitivity to doses of chloramphenicol?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 395,
+            "paragraph_id": "978-1260117127-p395-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Single intramuscular dose of ceftriaxone",
+            "B": "Oral amoxicillin therapy for seven days",
+            "C": "Intramuscular procaine penicillin G combined with oral probenecid",
+            "D": "Seven-day oral meropenem"
+        },
+        "question": "What is the recommended method for treating gonorrhea considering the emergence of beta-lactamase-producing strains?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 387,
+            "paragraph_id": "978-1260117127-p387-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Disruption of DNA replication",
+            "B": "Impaired formation of arabinoglycan",
+            "C": "Blockage of RNA transcription",
+            "D": "isruption of DNA replication  \nB: Impaired formation of arabinoglycan   \nC: Blockage of RNA transcription  \nD: Interruption of cell membrane integrity"
+        },
+        "question": "Isoniazid's mechanism of action involves inhibiting mycolic acid synthesis. What cellular effect occurs due to this inhibition?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 417,
+            "paragraph_id": "978-1260117127-p417-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Antiviral Agents",
+            "B": "Anti-inflammatory Agents",
+            "C": "Antibacterial Agents",
+            "D": "Antifungal Agents"
+        },
+        "question": "What class of antimicrobials do fluoroquinolones belong to?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 406,
+            "paragraph_id": "978-1260117127-p406-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Sequential enhancement of bacterial cell walls",
+            "B": "Synergistic blockade of protein synthesis",
+            "C": "Competitive inhibition of viral replication",
+            "D": "Sequential blockade of folic acid synthesis"
+        },
+        "question": "What action do sulfonamides combined with trimethoprim cause?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 404,
+            "paragraph_id": "978-1260117127-p404-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Clarithromycin alone",
+            "B": "Azithromycin with or without rifabutin",
+            "C": "larithromycin alone\nB: Azithromycin with or without rifabutin\nC: Isoniazid (INH) and pyrazinamide",
+            "D": "Ethambutol and cephalexin"
+        },
+        "question": "What combination of drugs is currently recommended for primary prophylaxis in patients with CD4 counts less than 50/\u03bcL?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 414,
+            "paragraph_id": "978-1260117127-p414-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By inhibiting the synthesis and polymerization of nucleic acids",
+            "B": "y inhibiting the synthesis and polymerization of nucleic acids\nB: Through interference with mitochondrial function leading to cellular death",
+            "C": "By disrupting microtubule function in dermatophytes",
+            "D": "Via inhibition of cytochrome P450 enzymes"
+        },
+        "question": "What is the primary mechanism by which griseofulvin acts against dermatophytes?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 421,
+            "paragraph_id": "978-1260117127-p421-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Clotrimazole",
+            "B": "Fluconazole",
+            "C": "lotrimazole  \nB: Fluconazole  \nC: Griseofulvin",
+            "D": "Itraconazole"
+        },
+        "question": "What medication should ideally be avoided in the treatment of esophageal candidiasis due to its lack of effectiveness against yeasts?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 422,
+            "paragraph_id": "978-1260117127-p422-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Activation of host cell RNase to degrade viral RNA.",
+            "B": "Inhibiting viral DNA replication through inhibition of viral DNA polymerase after being activated by viral thymidine kinase (TK).",
+            "C": "Blocking of M2 proton channels.",
+            "D": "NA replication through inhibition of viral DNA polymerase after being activated by viral thymidine kinase (TK).\nC: Blocking of M2 proton channels.\nD: Degradation of viral RNA via activation of host cell enzymes."
+        },
+        "question": "What mechanism of action do Antiherpes drugs including Acyclovir, Valacyclovir, Penciclovir, and Famciclovir exhibit?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 436,
+            "paragraph_id": "978-1260117127-p436-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It causes fungal superinfections.",
+            "B": "It leads to neuropathy due to renal dysfunction.",
+            "C": "It results in seizures among children.",
+            "D": "It prevents resistance emergence in urinary tract infections."
+        },
+        "question": "What happens if an individual accidentally ingests Lindane?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 442,
+            "paragraph_id": "978-1260117127-p442-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Tuberculosis",
+            "B": "Meningitis",
+            "C": "Peritonitis",
+            "D": "Urinary tract infections"
+        },
+        "question": "What condition requires the use of antibiotic combinations to prevent the development of resistance?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 447,
+            "paragraph_id": "978-1260117127-p447-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Cryptosporidiosis",
+            "B": "Toxoplasmosis",
+            "C": "ryptosporidiosis  \nB: Toxoplasmosis  \nC: Pneumocystis pneumonia",
+            "D": "Leishmaniasis"
+        },
+        "question": "What condition requires the use of pentamidine via aerosol once monthly for primary and secondary prophylaxis?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 454,
+            "paragraph_id": "978-1260117127-p454-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Hepatic abscess",
+            "B": "Intestinal amebic infection",
+            "C": "Toxoplasmosis",
+            "D": "Giardiasis"
+        },
+        "question": "What condition requires metronidazole to be frequently used, though another option called tinidazole is also considered equally effective?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 457,
+            "paragraph_id": "978-1260117127-p457-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It acts by reversibly inhibiting the chymotrypsin-like activity of the 26S proteasome.",
+            "B": "It binds oxygen free radicals to DNA, causes strand breakage, inhibits topoisomerase II, and intercalates into DNA.",
+            "C": "It works by inhibiting the binding of EGF to the HER-2/neu growth receptor.",
+            "D": "NA, causes strand breakage, inhibits topoisomerase II, and intercalates into DNA.  \nC: It works by inhibiting the binding of EGF to the HER-2/neu growth receptor.  \nD: It functions primarily through the inhibition of hormone receptors involved in certain cancers."
+        },
+        "question": "What mechanism of action characterizes doxorubicin among the listed drugs?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 476,
+            "paragraph_id": "978-1260117127-p476-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Administration of mercaptoethanesulfonate",
+            "B": "Overexpression of P-glycoprotein",
+            "C": "Administration of leucovorin",
+            "D": "Enhanced activity of dihydrofolate reductase"
+        },
+        "question": "What mechanism allows normal cells to recover after administration of high doses of methotrexate?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 467,
+            "paragraph_id": "978-1260117127-p467-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Requires hospitalization before administration.",
+            "B": "Should always be administered alongside praziquantel.",
+            "C": "Can be safely prescribed under close medical supervision.",
+            "D": "Is recommended over praziquantel regardless of seizure risks."
+        },
+        "question": "What classifies oxamniquine's usage regarding individuals with a history of convulsive disorders?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 464,
+            "paragraph_id": "978-1260117127-p464-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Treatment of iron overdose",
+            "B": "Adjunctive therapy in rheumatoid arthritis",
+            "C": "Treatment of lead poisoning",
+            "D": "Management of copper poisoning"
+        },
+        "question": "What is the primary clinical use of ethylenediaminetetraacetic acid (EDTA)?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 500,
+            "paragraph_id": "978-1260117127-p500-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Nephrotoxicity",
+            "B": "Hyperglycemia",
+            "C": "Gastrointestinal disturbances",
+            "D": "Thrombocytopenia"
+        },
+        "question": "What significant side effect is more commonly associated with sirolimus compared to cyclosporine?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 486,
+            "paragraph_id": "978-1260117127-p486-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Hydrocarbons",
+            "B": "Ozone",
+            "C": "Particles from incomplete combustion",
+            "D": "Nitrogen dioxide"
+        },
+        "question": "What chemical is responsible for the main component of smog's color, especially when it appears light brown?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 495,
+            "paragraph_id": "978-1260117127-p495-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To inhibit cell proliferation",
+            "B": "To promote the production of cytotoxic T lymphocytes and activate NK cells",
+            "C": "To prevent IL-1 from binding to its receptor",
+            "D": "To increase the synthesis of TNF"
+        },
+        "question": "Which of the following best describes the primary role of aldesleukin?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 484,
+            "paragraph_id": "978-1260117127-p484-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Over 50%",
+            "B": "Over 60%",
+            "C": "Over 70%",
+            "D": "Over 80%"
+        },
+        "question": "What percentage of patients with duodenal ulcers were reported to have the bacterium Helicobacter pylori?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 512,
+            "paragraph_id": "978-1260117127-p512-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Whole bowel irrigation",
+            "B": "Gastric lavage",
+            "C": "Activated charcoal administration",
+            "D": "Hemodialysis"
+        },
+        "question": "What method involves pumping a patient's blood through a column containing a semipermeable membrane to allow the removal of various toxic compounds?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 506,
+            "paragraph_id": "978-1260117127-p506-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Antacids",
+            "B": "Prokinetic agents",
+            "C": "Proton Pump Inhibitors (PPIs)",
+            "D": "Cholinomimetics"
+        },
+        "question": "What drug class reduces stomach acid production by irreversibly blocking the H+/K+ ATPase in active gastric parietal cells?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 518,
+            "paragraph_id": "978-1260117127-p518-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Ciprofloxacin",
+            "B": "Cyclosporine",
+            "C": "iprofloxacin\nB: Cyclosporine\nC: Erythromycin",
+            "D": "Rifampin"
+        },
+        "question": "What drug might cause a need for higher doses of methadone during treatment for tuberculosis?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 533,
+            "paragraph_id": "978-1260117127-p533-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "20%",
+            "B": "5%",
+            "C": "0% - No significant benefit",
+            "D": "10%"
+        },
+        "question": "What percentage reduction in the risk of catching a cold was observed in pooled clinical trials using echinacea?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 524,
+            "paragraph_id": "978-1260117127-p524-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Buspirone",
+            "B": "uspirone\nB: Chlordiazepoxide",
+            "C": "hlordiazepoxide\nC: Diazepam",
+            "D": "iazepam\nD: Midazolam"
+        },
+        "question": "Which drug was identified by recognizing that chlordiazepoxide, diazepam, and midazolam are all benzodiazepines?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 537,
+            "paragraph_id": "978-1260117127-p537-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They slow down subcutaneous absorption.",
+            "B": "They increase gastrointestinal absorption due to inhibition of transporters.",
+            "C": "They enhance metabolic clearance of most pharmaceuticals.",
+            "D": "They cause direct chemical reactions altering molecular structures."
+        },
+        "question": "What effect do compounds in grapefruit juice have on certain drugs?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 529,
+            "paragraph_id": "978-1260117127-p529-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Antiarrhythmic",
+            "B": "Bisphosphonate",
+            "C": "Antifungal",
+            "D": "Beta-blocker"
+        },
+        "question": "What class of drugs does Alendronate belong to?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 539,
+            "paragraph_id": "978-1260117127-p539-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Bupropion",
+            "B": "upropion\nB: Disulfiram",
+            "C": "Olanzapine",
+            "D": "isulfiram\nC: Olanzapine\nD: Naltrexone"
+        },
+        "question": "What medication might be given to a patient with an alcohol-use disorder because it reduces the desire to drink alcohol without posing risks even if the patient consumes alcohol?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 561,
+            "paragraph_id": "978-1260117127-p561-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Phosphodiesterase",
+            "B": "Cyclooxygenase",
+            "C": "yclooxygenase\nC: Lipoxygenase",
+            "D": "Glyceraldehyde phosphate dehydrogenase"
+        },
+        "question": "Which enzyme system involved in platelet aggregation is inhibited by aspirin, leading to increased bleeding time?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 557,
+            "paragraph_id": "978-1260117127-p557-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Swollen lymph nodes",
+            "B": "Prolonged period of fever",
+            "C": "Decreased ability to phosphorylate pyrimidines",
+            "D": "ecreased ability to phosphorylate pyrimidines\nD: Weight loss"
+        },
+        "question": "What symptom experienced by SW might indicate a need to investigate possible resistance to certain chemotherapeutic agents?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 559,
+            "paragraph_id": "978-1260117127-p559-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Anticholinergic",
+            "B": "Corticosteroid",
+            "C": "orticosteroid\nC: Long-acting \u03b2-selective agonist",
+            "D": "Phosphodiesterase inhibitor"
+        },
+        "question": "What type of drug is used as an inhaled prophylactic therapy for moderate or severe asthma, acting as a long-acting \u03b2-selective agonist?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 571,
+            "paragraph_id": "978-1260117127-p571-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inhibition of cell wall synthesis",
+            "B": "Interference with DNA replication",
+            "C": "Binding to bacterial ribosomes to inhibit protein synthesis",
+            "D": "NA replication\nC: Binding to bacterial ribosomes to inhibit protein synthesis\nD: Disruption of the bacterial cytoplasmic membrane"
+        },
+        "question": "What is the primary mechanism by which erythromycin exerts antibacterial activity?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 593,
+            "paragraph_id": "978-1260117127-p593-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "MIC (Minimum Inhibitory Concentration)",
+            "B": "MW (Molecular Weight)",
+            "C": "(Minimum Inhibitory Concentration)\nB: MW (Molecular Weight)\nC: MRSA (Methicillin-resistant Staphylococcus aureus)",
+            "D": "MEC (Minimum Effective Concentration)"
+        },
+        "question": "What term refers to the minimum amount of an antibiotic needed to inhibit bacterial growth?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 600,
+            "paragraph_id": "978-1260117127-p600-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Hypertension",
+            "B": "Hyperglycemia",
+            "C": "Thyrotoxicosis",
+            "D": "Tardive Dyskinesias"
+        },
+        "question": "What condition is thiazide diuretics often used to treat besides edema?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 608,
+            "paragraph_id": "978-1260117127-p608-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Protcacs Inhibitors",
+            "B": "Lipids",
+            "C": "Hormones",
+            "D": "Eicosanoids"
+        },
+        "question": "What classification includes prostaglandins?",
+        "source": {
+            "isbn": "978-1260117127",
+            "page": 605,
+            "paragraph_id": "978-1260117127-p605-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

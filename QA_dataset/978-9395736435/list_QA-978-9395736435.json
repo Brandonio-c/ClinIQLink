@@ -1,0 +1,288 @@
+[
+    {
+        "answer": [
+            "Eliciting and documenting an appropriate history for common forms of congenital heart diseases",
+            "Documenting and demonstrating a physical examination for vascular and cardiac issues",
+            "Generating a differential diagnosis based on clinical presentations",
+            "Counseling and communicating lifestyle changes for post-coronary syndromes",
+            "Performing a systematic examination to establish the diagnosis and severity of fever-related cases",
+            "Discussing vaccine communications for pneumococcal and influenza infections",
+            "Conducting an examination focused on lung health for diagnosing pneumonia",
+            "Prioritizing diagnoses based on their likelihood and potential impact"
+        ],
+        "options": [
+            "Eliciting and documenting an appropriate history for common forms of congenital heart diseases",
+            "Documenting and demonstrating a physical examination for vascular and cardiac issues",
+            "Generating a differential diagnosis based on clinical presentations",
+            "Counseling and communicating lifestyle changes for post-coronary syndromes",
+            "Performing a systematic examination to establish the diagnosis and severity of fever-related cases",
+            "Discussing vaccine communications for pneumococcal and influenza infections",
+            "Conducting an examination focused on lung health for diagnosing pneumonia",
+            "Prioritizing diagnoses based on their likelihood and potential impact"
+        ],
+        "question": "What competences related to eliciting, documenting, and presenting histories along with performing examinations do the specified competency numbers cover?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 18,
+            "paragraph_id": "978-9395736435-p18-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Thyroid palpation",
+            "Generating differential diagnoses for thyroid dysfunction",
+            "Breast exam",
+            "Rectal examination",
+            "Cervical examination",
+            "Pap smear",
+            "Eliciting history related to obesity",
+            "Performing physical examinations for obesity",
+            "Generating differential diagnoses for obesity",
+            "Communicating and counseling patient on lifestyle modifications for obesity",
+            "Demonstrating an understanding of patient's inability to adhere to lifestyle instructions",
+            "Eliciting and documenting history for GI bleeding",
+            "Performing physical examinations for GI bleeding",
+            "Distinguishing between upper and lower gastrointestinal bleeding",
+            "Demonstrating the correct technique to perform an anal and rectal examination",
+            "Generating a differential diagnosis based on presenting symptoms and clinical features for GI bleeding"
+        ],
+        "options": [
+            "Thyroid palpation",
+            "Breast exam",
+            "Rectal examination",
+            "Cervical examination",
+            "Pap smear",
+            "Eliciting history related to obesity",
+            "Performing physical examinations for obesity",
+            "Generating differential diagnoses for thyroid dysfunction",
+            "Demonstrating understanding of GI bleeding",
+            "Distinguishing between upper and lower GI bleeding",
+            "Counseling patients about diarrhea"
+        ],
+        "question": "What medical procedures are covered by competencies IM12.7 through IM15.8?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 21,
+            "paragraph_id": "978-9395736435-p21-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Engage from a position of play",
+            "Introduce yourself to the patient first and then to the family",
+            "When possible pull the school-aged child into the interview by asking age-appropriate questions"
+        ],
+        "options": [
+            "Begin the interaction through focused conversation about medical history",
+            "Start by assessing autonomy levels",
+            "Introduce themselves first to the parents before addressing the child",
+            "Engage from a position of play",
+            "Immediately conduct a thorough physical examination"
+        ],
+        "question": "What strategies do clinicians use to initially engage young and school-aged children during encounters?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 33,
+            "paragraph_id": "978-9395736435-p33-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Context",
+            "Associations",
+            "Chronology"
+        ],
+        "options": [
+            "Context",
+            "Associations",
+            "Chronology",
+            "Pain level",
+            "Medications taken"
+        ],
+        "question": "What are key aspects considered when gathering detailed information about each symptom during a physical examination?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 38,
+            "paragraph_id": "978-9395736435-p38-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Demonstrating the correct examination of the vascular system",
+            "Describing the applied anatomy of the venous system of lower limb",
+            "Describing the pathophysiology, clinical features, investigations, and principles of management of DVT and varicose veins",
+            "Demonstrating the correct examination of the lymphatic system",
+            "Demonstrating the correct technique to examine the patient with hernia and identify different types of hernias",
+            "Demonstrating the correct technique of examination of a patient with disorders of the stomach",
+            "Describing and demonstrating clinical examination of abdomen"
+        ],
+        "options": [
+            "Demonstrating the correct examination of the vascular system",
+            "Describing the applied anatomy of the cardiovascular system",
+            "Describing the pathophysiology, clinical features, investigations, and principles of management of DVT and varicose veins",
+            "Identifying common patterns of respiratory distress",
+            "Demonstrating the correct technique to examine the patient with disorders of the stomach"
+        ],
+        "question": "What competency topics related to patient examinations fall under the category labeled as \"SU\", which pertains to General Surgery?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 30,
+            "paragraph_id": "978-9395736435-p30-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Beneficence",
+            "Confidentiality",
+            "Decisional Capacity",
+            "Informed Consent",
+            "Justice",
+            "Nonmaleficence (\u201cFirst, Do No Harm\u201d)",
+            "Respect For Autonomy",
+            "Truth Telling"
+        ],
+        "options": [
+            "Beneficence",
+            "Confidentiality",
+            "Decisional Capacity",
+            "Informed Consent",
+            "Justice",
+            "Nonmaleficence (\u201cFirst, Do No Harm\u201d)",
+            "Respect For Autonomy",
+            "Truth Telling"
+        ],
+        "question": "What are the core values of medical ethics according to the discipline's foundational principles?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 42,
+            "paragraph_id": "978-9395736435-p42-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "What is my main problem?",
+            "What do I need to do?",
+            "Why is it important for me to do this?"
+        ],
+        "options": [
+            "How long until I'm cured?",
+            "What medications am I taking now?",
+            "When was my last appointment?",
+            "What is my main problem?",
+            "Who else needs to know about my condition?",
+            "What do I need to do?",
+            "Can someone accompany me home after discharge?",
+            "Why is it important for me to do this?",
+            "Are there any follow-up appointments scheduled already?"
+        ],
+        "question": "What are the three main questions that patients are recommended to ask during each clinical encounter, according to an interviewing strategy?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 51,
+            "paragraph_id": "978-9395736435-p51-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Centimeters",
+            "Degrees Celsius",
+            "Degrees Fahrenheit",
+            "Hours",
+            "Kilograms",
+            "Pounds",
+            "Ounces",
+            "Micrograms",
+            "Milligrams",
+            "Minutes"
+        ],
+        "options": [
+            "Inches",
+            "Fruits (e.g., pea)",
+            "Vegetables (e.g., walnut)",
+            "Nuts",
+            "Centimeters",
+            "Grams",
+            "Liters",
+            "Hours",
+            "Minutes",
+            "Seconds",
+            "Degrees Celsius",
+            "Degrees Fahrenheit",
+            "Kilograms",
+            "Pounds",
+            "Ounces",
+            "Micrograms",
+            "Milligrams"
+        ],
+        "question": "What units of measurement are recommended for documentation purposes according to medical standards?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 46,
+            "paragraph_id": "978-9395736435-p46-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Eye contact",
+            "Facial expression",
+            "Posture",
+            "Head position",
+            "Movement (such as shaking or nodding)",
+            "Interpersonal distance",
+            "Placement of the arms or legs (such as crossed, neutral, or open)"
+        ],
+        "options": [
+            "Verbal cues only",
+            "Written reports",
+            "Facial expressions",
+            "Paralanguage qualities",
+            "Interpersonal distance",
+            "Eye contact",
+            "Posture"
+        ],
+        "question": "What types of communication require sensitivity during interactions involving patients?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 52,
+            "paragraph_id": "978-9395736435-p52-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chief Complaint (CC)",
+            "History of Present Illness (HPI)",
+            "Past Medical History",
+            "Family History",
+            "Personal and Social History",
+            "Review of Systems (ROS)"
+        ],
+        "options": [
+            "Chief Complaint (CC)",
+            "History of Present Illness (HPI)",
+            "Past Medical History",
+            "Family History",
+            "Personal and Social History",
+            "Review of Systems (ROS)",
+            "Dietary Habits Assessment",
+            "Economic Status Evaluation",
+            "Physical Examination Report",
+            "Medication List"
+        ],
+        "question": "What are the main sections included in a comprehensive adult health history?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 61,
+            "paragraph_id": "978-9395736435-p61-para1"
+        },
+        "type": "list"
+    }
+]

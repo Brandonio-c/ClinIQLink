@@ -1,0 +1,2978 @@
+[
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It increases significantly due to increased renal absorption.",
+            "B": "It decreases because the kidneys secrete more hydrogen ions.",
+            "C": "Plasma bicarbonate remains unchanged throughout the process.",
+            "D": "The kidneys decrease secretion of acid into the urine and increase bicarbonate levels in the blood."
+        },
+        "question": "What happens to plasma bicarbonate concentration during a compensatory metabolic response to a primary respiratory alkalosis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 680,
+            "paragraph_id": "978-1865843834-p680-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Milieu Ext\u00e9rieur",
+            "B": "Organic Liquid Environment",
+            "C": "Extracellular Fluid",
+            "D": "Milieu Int\u00e9rieur"
+        },
+        "question": "What term did Claude Bernard introduce to describe the internal environment where cells and tissues of an organism live?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 18,
+            "paragraph_id": "978-1865843834-p18-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "How diseases affect organ functions",
+            "B": "How organs and systems function in unhealthy individuals",
+            "C": "How organs and systems function in the healthy person",
+            "D": "The impact of medication on physiological processes"
+        },
+        "question": "What is considered crucial to understand in order to identify potential malfunctions in patients?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 20,
+            "paragraph_id": "978-1865843834-p20-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unchanged because there's no direct correlation between PO2 and PCO2 levels.",
+            "B": "It increases due to a decrease in pH level caused by higher CO2 concentrations.",
+            "C": "O2 levels.  \nB: It increases due to a decrease in pH level caused by higher CO2 concentrations.  \nC: It decreases, illustrating the Bohr effect where increased CO2 reduces the ability of hemoglobin to bind oxygen.",
+            "D": "It fluctuates randomly depending on individual physiological conditions rather than following a predictable pattern related to changes in CO2 concentration."
+        },
+        "question": "What happens to the O 2 content of arterial blood as PCO2 increases according to the description given?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 698,
+            "paragraph_id": "978-1865843834-p698-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unchanged over time",
+            "B": "It decreases further until the cell dies",
+            "C": "It shows partial recovery over several minutes before full recovery occurs later",
+            "D": "It immediately returns to normal"
+        },
+        "question": "What happens to intracellular pH after an initial decline due to increased extracellular CO2 levels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 685,
+            "paragraph_id": "978-1865843834-p685-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It remains unchanged regardless of the change in PO2 levels.",
+            "B": "It decreases because higher oxygen levels reduce carbon dioxide binding to hemoglobin.",
+            "C": "It stays constant due to compensatory mechanisms balancing out changes in both gases.",
+            "D": "It cannot be determined without knowing the exact values of PCO2 and SO2 present."
+        },
+        "question": "What happens to the CO2 content of blood as PO2 increases according to the Haldane effect?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 697,
+            "paragraph_id": "978-1865843834-p697-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "To synthesize oxygen for energy production",
+            "B": "To facilitate diffusion of oxygen across the cell membrane",
+            "C": "To store and transfer oxygen within the muscle cell",
+            "D": "To regulate pH levels during intense physical activity"
+        },
+        "question": "What function does Myoglobin primarily serve within muscle cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 688,
+            "paragraph_id": "978-1865843834-p688-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Their association with motor proteins",
+            "B": "The energetic barrier due to their hydrophilic cytoplasmic and extracellular domains",
+            "C": "Attachment to the cytoskeleton",
+            "D": "Directed processes facilitated by the cytoplasmic cytoskeleton"
+        },
+        "question": "What prevents transmembrane proteins from flipping across the hydrophobic core of the bilayer?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 31,
+            "paragraph_id": "978-1865843834-p31-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Actin filaments alone drive the separation of the cytoplasm.",
+            "B": "Actin and myosin filaments together drive the physical separation of the cytoplasm into two daughter cells.",
+            "C": "Myosin filaments alone separate the cytoplasm of a dividing cell.",
+            "D": "Neither actin nor myosin filaments are involved in the separation process."
+        },
+        "question": "What occurs during the process of cytokinesis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 43,
+            "paragraph_id": "978-1865843834-p43-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Long stretches of acidic amino acids throughout the protein's sequence",
+            "B": "Short stretches of six to ten hydrophobic amino acids located at the carboxyl terminus",
+            "C": "Short stretches of four to eight basic amino acids that can be located anywhere in the protein\u2019s sequence",
+            "D": "Alternating patterns of polar and nonpolar residues along the length of the protein"
+        },
+        "question": "What feature do all nuclear localization sequences identified so far share?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 36,
+            "paragraph_id": "978-1865843834-p36-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The actin monomer releases the inorganic phosphate before hydrolyzing its bound ATP.",
+            "B": "The actin monomer hydrolyzes its bound ATP and retains the ADP while still being part of the F-actin.",
+            "C": "The newly formed trimer becomes unstable again upon further addition of ATP-bound monomers.",
+            "D": "P while still being part of the F-actin.\nC: The newly formed trimer becomes unstable again upon further addition of ATP-bound monomers.\nD: The actin polymer immediately begins to depolymerize back into individual G-actin units."
+        },
+        "question": "What happens after adding a third ATP-bound monomer to create a stable trimer for assembling fibrous actin?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 40,
+            "paragraph_id": "978-1865843834-p40-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Covalent bonding with the phosphate headgroups of phospholipids",
+            "B": "Embedding within the bilayer without crossing it, spanning across the bilayer, or being anchored to the membrane via a lipid or fatty acid derivative",
+            "C": "ovalent bonding with the phosphate headgroups of phospholipids\nB: Embedding within the bilayer without crossing it, spanning across the bilayer, or being anchored to the membrane via a lipid or fatty acid derivative\nC: Ionic bonds formed between positively charged amino acids and negatively charged phospholipid heads",
+            "D": "Hydrogen bonds between hydrophilic regions of the protein and water"
+        },
+        "question": "What methods are utilized by integral membrane proteins to associate themselves with the lipid bilayer?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 28,
+            "paragraph_id": "978-1865843834-p28-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains intact until it reaches the lysosome.",
+            "B": "It immediately merges with another clathrin-coated vesicle.",
+            "C": "It quickly loses its clathrin coat and fuses with an endosome.",
+            "D": "It becomes part of the rough endoplasmic reticulum."
+        },
+        "question": "What happens after a clathrin-coated vesicle forms in receptor-mediated endocytosis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 56,
+            "paragraph_id": "978-1865843834-p56-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "50%",
+            "B": "70%",
+            "C": "90%",
+            "D": "98%"
+        },
+        "question": "What percentage of all carrier mutations among the Ashkenazi Jewish population are accounted for by three distinct HEX A mutations?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 57,
+            "paragraph_id": "978-1865843834-p57-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Direct interaction with DNA",
+            "B": "Binding to surface or intracellular receptors",
+            "C": "Alteration of the cell's shape",
+            "D": "irect interaction with DNA\nB: Binding to surface or intracellular receptors\nC: Alteration of the cell's shape\nD: Modification of the extracellular matrix"
+        },
+        "question": "What mechanism do soluble chemical signals primarily utilize to interact with target cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 62,
+            "paragraph_id": "978-1865843834-p62-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It remains constant throughout the lungs, unaffected by location.",
+            "B": "For the same \u0394P_IP, \u0394V_L is larger near the apex due to higher static compliance.",
+            "C": "For the same \u0394P_IP, \u0394V_L is larger near the base due to lower static compliance.",
+            "D": "For the same \u0394P_IP, \u0394V_L is larger near the base due to greater static compliance."
+        },
+        "question": "What happens to the change in volume produced by the same change in intrapleural pressure at different locations in the lungs?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 721,
+            "paragraph_id": "978-1865843834-p721-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the concentration of carbon dioxide in the alveolar air",
+            "B": "Inspiration and expiration leading to small fluctuations in the alveolar partial pressures for O2 and CO2",
+            "C": "O2\nC: The presence of nitrogen in the atmospheric air being breathed",
+            "D": "The work invested in breathing reflected by total ventilation"
+        },
+        "question": "What influences the fluctuations in alveolar PO2 levels throughout the respiratory cycle?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 715,
+            "paragraph_id": "978-1865843834-p715-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Hemoglobin releases oxygen faster to compensate for the bound carbon monoxide.",
+            "B": "Hemoglobin continues to function normally, unaffected by the presence of carbon monoxide.",
+            "C": "Hemoglobin cannot bind oxygen anymore due to the binding of carbon monoxide.",
+            "D": "Hemoglobin prevents the release of oxygen to tissues because carbon monoxide binds with much higher affinity."
+        },
+        "question": "What happens to hemoglobin's ability to release oxygen to tissues when carbon monoxide binds to it?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 704,
+            "paragraph_id": "978-1865843834-p704-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Blood flow influences CO uptake proportionally regardless of other factors.",
+            "B": "lood flow influences CO uptake proportionally regardless of other factors.\nB: Changes in blood flow have minimal direct influence on CO uptake for typical ranges of DlCO and Q..",
+            "C": "O uptake proportionally regardless of other factors.\nB: Changes in blood flow have minimal direct influence on CO uptake for typical ranges of DlCO and Q..\nC: Increased blood flow enhances CO uptake indirectly by influencing DlCO.",
+            "D": "lCO and Q..\nC: Increased blood flow enhances CO uptake indirectly by influencing DlCO.\nD: Decreased blood flow always results in decreased CO uptake."
+        },
+        "question": "What is the main factor affecting CO uptake when considering variations in blood flow?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 705,
+            "paragraph_id": "978-1865843834-p705-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Whether the gas binds to hemoglobin in the blood",
+            "B": "Whether the gas reaches diffusion equilibrium before exiting the pulmonary capillary",
+            "C": "Whether the rate of blood flow through the capillaries affects gas exchange efficiency",
+            "D": "Whether the partial pressures of oxygen and carbon dioxide influence each other"
+        },
+        "question": "What determines whether the transport of a gas across the alveolar-capillary membrane is considered diffusion-limited?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 706,
+            "paragraph_id": "978-1865843834-p706-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "It dissolves in plasma, binds to hemoglobin, transports across capillaries, and supplies tissues before getting metabolically consumed.",
+            "B": "It remains in the lungs and then gets exhaled back out unused.",
+            "C": "It immediately reacts chemically with carbon dioxide in the bloodstream.",
+            "D": "It forms water vapor through metabolic processes instantly upon entering the respiratory system."
+        },
+        "question": "What happens to approximately half of the inspired oxygen?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 716,
+            "paragraph_id": "978-1865843834-p716-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 50%",
+            "B": "About 30%",
+            "C": "Around 75%",
+            "D": "Less than 10%"
+        },
+        "question": "How much of total ventilation in a respiratory cycle is considered \"wasted\" in terms of exchanging gases, due to ventilating anatomical dead spaces such as the conducting airways?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 714,
+            "paragraph_id": "978-1865843834-p714-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases significantly",
+            "B": "It remains unchanged",
+            "C": "It improves but never completely normalizes",
+            "D": "It returns to perfectly normal values immediately"
+        },
+        "question": "What happens to systemic arterial PO2 under conditions where both shunt and abnormal V/A/Q ratio exist if a patient breathes 100% FiO2?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 738,
+            "paragraph_id": "978-1865843834-p738-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "200 mL/min",
+            "B": "250 mL/min",
+            "C": "150 mL/min",
+            "D": "300 mL/min"
+        },
+        "question": "What rate of CO2 transport occurs per minute under normal physiological conditions?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 733,
+            "paragraph_id": "978-1865843834-p733-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It decreases due to increased affinity between regulatory and catalytic subunits",
+            "B": "It remains unchanged because cAMP has no direct influence on PKA activity",
+            "C": "It becomes inhibited completely, preventing any further phosphorylation events",
+            "D": "It increases due to diminished affinity between regulatory and catalytic subunits, leading to the release and activation of catalytic subunits"
+        },
+        "question": "What occurs to the activity of Protein Kinase A following the binding of cAMP to its regulatory subunits?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 72,
+            "paragraph_id": "978-1865843834-p72-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It inhibits the activity of phosphodiestrase",
+            "B": "It opens cGMP-dependent channels",
+            "C": "It activates protein kinase A",
+            "D": "It breaks down cGMP"
+        },
+        "question": "What happens when cyclic AMP activates an enzyme?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 70,
+            "paragraph_id": "978-1865843834-p70-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By promoting the breakdown of prostaglandins",
+            "B": "y promoting the breakdown of prostaglandins\nB: Through direct interaction with G protein-coupled prostanoid receptors",
+            "C": "Via inhibition of cyclooxygenase",
+            "D": "By inducing the expression of genes responsible for inflammation"
+        },
+        "question": "Which of the following statements accurately describes the primary mechanism through which NSAIDs exert their therapeutic effect?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 80,
+            "paragraph_id": "978-1865843834-p80-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases their firing rate by inhibiting pacemaker activity.",
+            "B": "It causes them to fire erratically at a high rate without any pattern.",
+            "C": "It induces these neurons to generate bursts of action potentials.",
+            "D": "It eliminates any existing respiratory rhythm in these neurons."
+        },
+        "question": "What effect does thyrotropin-releasing hormone (TRH) have on putative premotor respiratory neurons in the NTS?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 747,
+            "paragraph_id": "978-1865843834-p747-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Both subsets of medullary raphe neurons decrease their firing rates in response to decreased extracellular pH.",
+            "B": "oth subsets of medullary raphe neurons decrease their firing rates in response to decreased extracellular pH.\nB: One subset raises its firing rate while another lowers its firing rate due to increased extracellular pH.",
+            "C": "Some raise their firing rate while others lower theirs due to decreased extracellular pH.",
+            "D": "Neither subset of medullary raphe neurons responds significantly to changes in extracellular pH."
+        },
+        "question": "What happens to the firing rate of certain subsets of medullary raphe neurons when there is a decrease in extracellular pH?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 755,
+            "paragraph_id": "978-1865843834-p755-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unchanged compared to wakefulness.",
+            "B": "It slightly increases compared to Non-Rapid Eye Movement (NREM) sleep.",
+            "C": "It decreases compared to wakefulness and NREM sleep.",
+            "D": "It completely loses responsiveness to CO2 fluctuations."
+        },
+        "question": "What happens to the sensitivity of the respiratory system to CO2 levels during Rapid Eye Movement (REM) sleep?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 759,
+            "paragraph_id": "978-1865843834-p759-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Their ability to express the beta-globin gene increases due to enhanced accessibility of transcription machinery.",
+            "B": "Deletion of the LCR has no effect on the expression of the beta-globin gene since it's structurally intact along with its promoter.",
+            "C": "R has no effect on the expression of the beta-globin gene since it's structurally intact along with its promoter.\nC: There is a deficiency in beta-globin due to reduced expression of the gene despite having a normal structural gene and promoter.",
+            "D": "eletion of the LCR has no effect on the expression of the beta-globin gene since it's structurally intact along with its promoter.\nC: There is a deficiency in beta-globin due to reduced expression of the gene despite having a normal structural gene and promoter.\nD: Patients develop a condition causing excessive production of the beta-globin protein leading to complications unrelated to thalassemia."
+        },
+        "question": "What happens to patients who have deletions involving the region containing the LCR about 50 to 65 kilobases upstream from the beta-globin gene?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 98,
+            "paragraph_id": "978-1865843834-p98-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They enhance the activity of transcriptional activators indirectly.",
+            "B": "They compete with transcriptional activators for overlapping DNA-binding sites.",
+            "C": "They increase the affinity of transcriptional activators for their target DNA sequences.",
+            "D": "NA-binding sites.\nC: They increase the affinity of transcriptional activators for their target DNA sequences.\nD: They facilitate the degradation of transcriptional activators."
+        },
+        "question": "What primary method do transcriptional repressors utilize to inhibit the activity of transcriptional activators?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 103,
+            "paragraph_id": "978-1865843834-p103-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They become permanently bound to the plasma membrane via an SH3 domain.",
+            "B": "They remain in an inactive state due to continued tyrosine phosphorylation at a conserved residue in the C terminus.",
+            "C": "terminus.\nC: Their catalytic domain becomes obscured, preventing interaction with other cytosolic proteins.",
+            "D": "The inhibition is released, allowing the kinase domain to phosphorylate its intracellular substrates."
+        },
+        "question": "What happens to the members of the Src family of receptor-associated tyrosine kinases when they undergo dephosphorylation of the pY residue?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 85,
+            "paragraph_id": "978-1865843834-p85-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The GC box",
+            "B": "The initiator (Inr)",
+            "C": "box\nB: The initiator (Inr)\nC: The CCAAT box",
+            "D": "The octamer motif"
+        },
+        "question": "What determines the positioning of the basal transcriptional machinery in genes lacking a TATA box?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 96,
+            "paragraph_id": "978-1865843834-p96-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Capillary endothelium alone",
+            "B": "Glomerular basement membrane alone",
+            "C": "apillary endothelium alone\nB: Glomerular basement membrane alone\nC: Podocyte foot processes with the visceral layer of Bowman's capsule",
+            "D": "Capillary endothelium, Glomerular basement membrane, and Podocyte foot processes"
+        },
+        "question": "What components form the filtration barrier in the kidney?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 766,
+            "paragraph_id": "978-1865843834-p766-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Two-thirds of inulin is left behind while water concentration decreases.",
+            "B": "Water is absorbed ahead of inulin, causing inulin's concentration to decrease slightly.",
+            "C": "The inulin remains at its initial concentration because the amount of water stays constant.",
+            "D": "Two-thirds of the filtered water is reabsorbed, leaving inulin behind at three times its initial concentration."
+        },
+        "question": "What happens to the concentration of inulin in relation to water as the fluid moves through the proximal tubule?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 776,
+            "paragraph_id": "978-1865843834-p776-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Contraction of the external urinary sphincter",
+            "B": "Relaxation of both the external and internal urinary sphincters simultaneously",
+            "C": "ontraction of the external urinary sphincter\nB: Relaxation of both the external and internal urinary sphincters simultaneously\nC: Voluntary relaxation of the external urinary sphincter, followed by the internal sphincter",
+            "D": "Continuous flow of urine from the kidneys"
+        },
+        "question": "What initiates the voiding phase in the urinary system?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 780,
+            "paragraph_id": "978-1865843834-p780-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Increases the affinity of IRE-BP for the IRE",
+            "B": "P for the IRE\nB: Decreases the affinity of IRE-BP for the IRE",
+            "C": "Does not change the affinity of IRE-BP for the IRE",
+            "D": "ecreases the affinity of IRE-BP for the IRE\nC: Does not change the affinity of IRE-BP for the IRE\nD: Completely abolishes the ability of IRE-BP to bind to the IRE"
+        },
+        "question": "What effect does the presence of iron have on the affinity of IRE-binding protein (IRE-BP) for the iron-response element (IRE)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 116,
+            "paragraph_id": "978-1865843834-p116-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Normoxic conditions increase the level of HIF-1\u03b1 more than hypoxic conditions.",
+            "B": "Hypoxic conditions decrease the level of HIF-1\u03b1 compared to normoxic conditions.",
+            "C": "Normoxic conditions lead to higher levels of HIF-1\u03b1 due to increased stability.",
+            "D": "Normoxic conditions result in lower levels of HIF-1\u03b1 compared to hypoxic conditions."
+        },
+        "question": "How do normoxic conditions affect the level of HIF-1\u03b1 in cells compared to hypoxic conditions?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 111,
+            "paragraph_id": "978-1865843834-p111-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They enhance the process of transcription by adding methyl groups to DNA.",
+            "B": "They promote the assembly of ribosomes for protein synthesis.",
+            "C": "They can either cleave target messenger RNA or inhibit its translation.",
+            "D": "NA.\nB: They promote the assembly of ribosomes for protein synthesis.\nC: They can either cleave target messenger RNA or inhibit its translation.\nD: They function primarily as enzymes involved in DNA replication."
+        },
+        "question": "What role do small interfering RNAs play in regulating gene expression?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 117,
+            "paragraph_id": "978-1865843834-p117-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Both RBF and GFR increase significantly due to vasodilation caused by endothelins.",
+            "B": "oth RBF and GFR increase significantly due to vasodilation caused by endothelins.\nB: There is no significant change in RBF and GFR after administration of endothelins.",
+            "C": "Endothelins cause an initial decrease followed by an increase in both RBF and GFR.",
+            "D": "Administration of endothelins results in constriction of afferent and efferent arterioles leading to a sharp reduction in both RBF and GFR."
+        },
+        "question": "What happens to renal blood flow (RBF) and glomerular filtration rate (GFR) when endothelins are administered systemically?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 795,
+            "paragraph_id": "978-1865843834-p795-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It significantly decreases due to reduced fluid volume.",
+            "B": "It remains unchanged despite variations in dietary intake.",
+            "C": "It increases as a result of decreased tubuloglomerular feedback sensitivity.",
+            "D": "It fluctuates randomly independent of dietary influences."
+        },
+        "question": "What happens to glomerular capillary pressure under conditions associated with a high-protein diet?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 793,
+            "paragraph_id": "978-1865843834-p793-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It aids in synthesizing new proteins and increasing cell size.",
+            "B": "It helps sort proteins, dissociate ligands from receptors, optimize acid hydrolase activity, and accumulate neurotransmitters in vesicles.",
+            "C": "It primarily facilitates water absorption and maintains osmotic balance within the cell.",
+            "D": "It enhances the breakdown of carbohydrates and fats for energy production."
+        },
+        "question": "What is the significance of the V-type H+ pump's action in generating a low pH environment inside intracellular organelles?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 138,
+            "paragraph_id": "978-1865843834-p138-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ions move out of the cell regardless of whether they are positively or negatively charged.",
+            "B": "Positively charged ions (cations) will tend to exit the cell while negatively charged ions (anions) will tend to enter.",
+            "C": "Negatively charged ions (anions) will always move towards the area where there's less concentration of them outside the cell.",
+            "D": "Both positively and negatively charged ions do not move since the system reaches equilibrium."
+        },
+        "question": "What happens to the direction of movement of ions across a membrane when their net driving force is positive?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 125,
+            "paragraph_id": "978-1865843834-p125-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It operates independently of sodium concentration.",
+            "B": "It mediates facilitated diffusion down an electrochemical gradient.",
+            "C": "It exhibits saturation kinetics due to having fixed binding sites for sodium and glucose.",
+            "D": "It requires ATP hydrolysis for transporting solutes."
+        },
+        "question": "What characterizes the function of the sodium-glucose linked transporter (SGLT)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 141,
+            "paragraph_id": "978-1865843834-p141-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 60%",
+            "B": "Approximately 50%",
+            "C": "Approximately 30%",
+            "D": "Approximately 40%"
+        },
+        "question": "What percentage of the urea filtered by the kidneys is ultimately excreted in the urine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 811,
+            "paragraph_id": "978-1865843834-p811-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They are immediately absorbed back into the bloodstream.",
+            "B": "They release their constituent amino acids and oligopeptides into the bloodstream.",
+            "C": "They release the free constituent amino acids and oligopeptides into the tubule lumen.",
+            "D": "They undergo further enzymatic breakdown before absorption."
+        },
+        "question": "What process occurs to the peptides after being hydrolyzed by the brush border enzymes in the proximal tubule cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 818,
+            "paragraph_id": "978-1865843834-p818-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Reabsorbate exits the tubule cell across the basolateral membrane and enters an intercellular compartment",
+            "B": "Passive backleak occurs allowing substances to return to the lumen",
+            "C": "Solutes and water exit the bloodstream to enter the tubules",
+            "D": "Solutes and water enter a tubule cell across the apical membrane"
+        },
+        "question": "What happens during Step 1 of the process described?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 806,
+            "paragraph_id": "978-1865843834-p806-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 30%",
+            "B": "Approximately 50%",
+            "C": "Approximately 60%",
+            "D": "Approximately 70%"
+        },
+        "question": "What percentage of filtered urea do the kidneys typically excrete during periods of high urine flow?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 813,
+            "paragraph_id": "978-1865843834-p813-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "An outward potassium ion concentration gradient",
+            "B": "The action of the Na+-K+ pump located at the apical membrane",
+            "C": "An inward sodium ion electrochemical gradient generated by the basolateral Na-K pump",
+            "D": "Facilitated diffusion via GLUT"
+        },
+        "question": "What drives the entry of sodium ions into the epithelial cells across the apical membrane?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 157,
+            "paragraph_id": "978-1865843834-p157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Author of an article about cellular volume regulation",
+            "B": "Guest editor of a special issue about physiology",
+            "C": "Researcher studying the function of the Na+/glucose transporter",
+            "D": "Editor-in-chief of Physiological Reviews journal"
+        },
+        "question": "What position did Frizzell RA hold regarding the publication about cystic fibrosis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 160,
+            "paragraph_id": "978-1865843834-p160-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Pumping potassium ions out of the cell",
+            "B": "Moving chloride ions into the cell",
+            "C": "Removing calcium ions from the restricted spaces",
+            "D": "Pumping sodium ions into restricted spaces"
+        },
+        "question": "What do Na+-K+ pumps located on both the lateral and basal membranes primarily facilitate?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 159,
+            "paragraph_id": "978-1865843834-p159-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The action of potassium channels alone",
+            "B": "The activity of acid extrusion systems, including the Na-H exchanger and Na+-driven HCO3- transporters",
+            "C": "O3- transporters\nC: The high fluidity of the cell membrane allowing easy passage of hydrogen ions",
+            "D": "The spontaneous generation of bicarbonate ions within the cytoplasm"
+        },
+        "question": "What maintains the intracellular pH level around 7.2 despite being expected to be significantly more acidic due to the cell's resting membrane voltage?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 146,
+            "paragraph_id": "978-1865843834-p146-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Magnesium reabsorption significantly decreases due to decreased activity of the sodium-magnesium pump.",
+            "B": "There's no significant change in magnesium reabsorption under these conditions.",
+            "C": "Both hypermagnesemia and hypercalcemia inhibit the reabsorption of both magnesium and calcium ions in the thick ascending limb of the loop of Henle.",
+            "D": "Hypermagnesemia enhances while hypercalcemia reduces magnesium reabsorption rates."
+        },
+        "question": "What happens to magnesium reabsorption during conditions of hypermagnesemia and hypercalcemia?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 834,
+            "paragraph_id": "978-1865843834-p834-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It increases phosphate reabsorption.",
+            "B": "It decreases phosphate reabsorption.",
+            "C": "It has no direct impact on phosphate reabsorption.",
+            "D": "Its effects depend on another hormone's presence."
+        },
+        "question": "What effect does parathyroid hormone (PTH) have on phosphate reabsorption in the kidneys?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 828,
+            "paragraph_id": "978-1865843834-p828-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Potassium secretion decreases due to decreased luminal fluid",
+            "B": "Potassium secretion remains unchanged regardless of changes in flow rate",
+            "C": "Potassium secretion increases because higher flow rates facilitate more potassium being transported out of the bloodstream",
+            "D": "Potassium secretion becomes inhibited due to negative feedback mechanisms triggered by increased flow"
+        },
+        "question": "What happens to potassium secretion when there's an increase in the flow rate along the distal potassium-secretory system?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 842,
+            "paragraph_id": "978-1865843834-p842-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Number of channels alone",
+            "B": "Unitary current of single channels alone",
+            "C": "Probability of channel opening alone",
+            "D": "Product of the number of channels, the unitary current of single channels, and the probability of channel opening"
+        },
+        "question": "What determines the macroscopic ionic current?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 178,
+            "paragraph_id": "978-1865843834-p178-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Electrical signaling and repolarization of action potentials",
+            "B": "Cell-cell communication, electrical coupling, and cytoplasmic diffusion of molecules between interconnected cells",
+            "C": "ell-cell communication, electrical coupling, and cytoplasmic diffusion of molecules between interconnected cells\nC: Influx of cations and detection of mechanical stimuli",
+            "D": "Regulation of contractile tone of smooth muscle and feedback control of neurotransmitter release"
+        },
+        "question": "What physiological functions do connexin channels perform?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 180,
+            "paragraph_id": "978-1865843834-p180-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Hypernatremia",
+            "B": "Hyperglycemia",
+            "C": "Hypokalemia",
+            "D": "Hyperkalemia"
+        },
+        "question": "What condition occurs due to low plasma potassium concentration?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 846,
+            "paragraph_id": "978-1865843834-p846-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It rapidly decreases the plasma [Na+] level even further.",
+            "B": "Gradual infusion of hypertonic Na+ results in significant improvement of symptoms by slowly increasing plasma [Na+].",
+            "C": "Hypertonic Na+ administration leads to immediate worsening of neurological symptoms.",
+            "D": "Administration of hypertonic Na+ has no impact on the plasma [Na+] levels."
+        },
+        "question": "What effect does infusing hypertonic Na+ have on correcting the condition caused by low plasma [Na+] due to SIADH?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 863,
+            "paragraph_id": "978-1865843834-p863-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It increases significantly due to higher solute load.",
+            "B": "It decreases because less water needs to be conserved.",
+            "C": "It becomes as low as ~0.5 L/day with an average solute load.",
+            "D": "It remains unchanged despite increased osmolality."
+        },
+        "question": "What happens to the minimum urine volume if the kidney generates urine with an osmolality as high as ~1200 mOsm?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 849,
+            "paragraph_id": "978-1865843834-p849-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "The body concentrates urine normally because there are alternative pathways for concentrating urine.",
+            "B": "The body loses its ability to regulate fluid balance effectively.",
+            "C": "The body becomes unable to reabsorb sodium ions in the distal convolutions.",
+            "D": "The body cannot concentrate urine properly, resulting in diluted urine production."
+        },
+        "question": "What happens if vasopressin fails to stimulate urea transporters properly due to receptor dysfunction?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 862,
+            "paragraph_id": "978-1865843834-p862-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Equilibrium between the descending limb and the interstitium",
+            "B": "Net sodium chloride transport out of the ascending limb",
+            "C": "Axial shift of tubule fluid along the loop of Henle",
+            "D": "Osmotic adjustment in the collecting duct"
+        },
+        "question": "What process generates a 200 mOsm gradient during the operation described?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 855,
+            "paragraph_id": "978-1865843834-p855-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It becomes negatively infinite.",
+            "B": "It increases exponentially.",
+            "C": "It decreases linearly.",
+            "D": "It becomes zero."
+        },
+        "question": "What occurs to the unitary current \\(ix\\) when the membrane potential (\\(Vm\\)) equals the equilibrium potential (\\(Ex\\))?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 202,
+            "paragraph_id": "978-1865843834-p202-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Two to Three Subunits",
+            "B": "Four to Six Subunits",
+            "C": "Seven to Nine Subunits",
+            "D": "Ten to Twelve Subunits"
+        },
+        "question": "What is typically the number of subunits composing most ion channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 186,
+            "paragraph_id": "978-1865843834-p186-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Auxiliary \u03b3-subunits",
+            "B": "Unique cyclic nucleotide-binding domain",
+            "C": "Four-domain organization with S1-S6 motifs",
+            "D": "Pentameric Cys-loop"
+        },
+        "question": "What component is shared among Voltage-Gated Na+, Voltage-Gated Ca2+, and certain other ion channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 192,
+            "paragraph_id": "978-1865843834-p192-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Through biochemical assays that detect changes in protein activity",
+            "B": "Using X-ray crystallography to determine the protein's three-dimensional structure",
+            "C": "By conducting phylogenetic analyses of related proteins",
+            "D": "Via hydropathy analysis, which identifies long segments of hydrophobic amino acid residues"
+        },
+        "question": "How do researchers typically identify putative transmembrane segments in channel proteins?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 189,
+            "paragraph_id": "978-1865843834-p189-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "50%",
+            "B": "60%",
+            "C": "85%",
+            "D": "95%"
+        },
+        "question": "What percentage of the total chloride ion content in the human body is typically found outside cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 881,
+            "paragraph_id": "978-1865843834-p881-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Approximately 0%",
+            "B": "Approximately 0.01%",
+            "C": "Approximately 4%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of the filtered load of bicarbonate (HCO3-) remains in the lumen after passing through the entire nephron?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 870,
+            "paragraph_id": "978-1865843834-p870-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Decreased significantly due to reduced glutaminase activity",
+            "B": "Increased slightly with minimal impact on overall nitrogen balance",
+            "C": "Enhanced production to facilitate increased NH4+ excretion",
+            "D": "ecreased significantly due to reduced glutaminase activity\nB: Increased slightly with minimal impact on overall nitrogen balance\nC: Enhanced production to facilitate increased NH4+ excretion\nD: Remains unchanged because the body maintains constant levels regardless of pH"
+        },
+        "question": "During chronic metabolic acidosis, how does the body's need for ammonia change?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 877,
+            "paragraph_id": "978-1865843834-p877-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They decrease calcium influx by blocking the channel pore directly.",
+            "B": "They inhibit L-type calcium channels exclusively.",
+            "C": "They enhance calcium channel currents.",
+            "D": "They completely abolish calcium channel activity."
+        },
+        "question": "What effect do particular DHP derivatives, such as Bay K8644, have on calcium channel currents?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 212,
+            "paragraph_id": "978-1865843834-p212-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Charybdotoxin",
+            "B": "Scorpion venom",
+            "C": "harybdotoxin\nB: Scorpion venom\nC: 4-Aminopyridine",
+            "D": "Mamba snake venom"
+        },
+        "question": "What substance inhibits many transient A-type K+ currents?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 217,
+            "paragraph_id": "978-1865843834-p217-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Extensive Mutagenesis Studies",
+            "B": "Biochemical Purification Procedures",
+            "C": "X-ray Crystallography",
+            "D": "Hydropathy Plots Analysis"
+        },
+        "question": "What method did Roderick MacKinnon utilize to determine the atomic resolution structures of potassium channels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 204,
+            "paragraph_id": "978-1865843834-p204-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They increase significantly until reaching the next node in myelinated axons, while remaining constant in unmyelinated axons.",
+            "B": "They remain unchanged regardless of distance from the active zone in both types of axons.",
+            "C": "They decrease smoothly with increasing distance from the active zone in both types of axons.",
+            "D": "They oscillate between being stronger and weaker depending on the presence of myelin around the axon."
+        },
+        "question": "What happens to the magnitude of outward currents as they move further away from the active zone in both myelinated and unmyelinated axons?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 221,
+            "paragraph_id": "978-1865843834-p221-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the kidneys break down A VP.",
+            "B": "Both the liver and the kidney contribute to the breakdown of A VP.",
+            "C": "Only diseases affecting the liver affect A VP degradation.",
+            "D": "Neither the liver nor the kidney plays a role in A VP breakdown."
+        },
+        "question": "What is responsible for breaking down A VP in the body?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 889,
+            "paragraph_id": "978-1865843834-p889-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Angiotensin-Converting Enzyme (ACE)",
+            "B": "Decapeptide Angiotensin I (ANG I)",
+            "C": "onverting Enzyme (ACE)\nB: Decapeptide Angiotensin I (ANG I)\nC: Octapeptide Angiotensin II (ANG II)",
+            "D": "ecapeptide Angiotensin I (ANG I)\nC: Octapeptide Angiotensin II (ANG II)\nD: Heptapeptide Angiotensin III (ANG III)"
+        },
+        "question": "What substance is released by the action of renin on angiotensinogen?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 885,
+            "paragraph_id": "978-1865843834-p885-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Longitudinal and oblique",
+            "B": "Inner longitudinal and outer circular",
+            "C": "Circular and longitudinal",
+            "D": "Oblique and spiral"
+        },
+        "question": "What two types of smooth muscle layers make up the muscularis externa?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 899,
+            "paragraph_id": "978-1865843834-p899-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Resynthesis of ACh",
+            "B": "Diffusion across the synaptic cleft",
+            "C": "h\nB: Diffusion across the synaptic cleft\nC: Action of acetylcholinesterase",
+            "D": "iffusion across the synaptic cleft\nC: Action of acetylcholinesterase\nD: Reuptake by the presynaptic terminal"
+        },
+        "question": "What process terminates the activity of the released Acetylcholine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 232,
+            "paragraph_id": "978-1865843834-p232-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The syntaxin and SNAP-25 begin to disassociate.",
+            "B": "The distal end of synaptobrevin starts to unwind from the syntaxin/SNAP-25 complex.",
+            "C": "The syntaxin and SNAP-25 form a complex, allowing synaptobrevin to start winding around them.",
+            "D": "The entire process reverses due to lack of calcium ions."
+        },
+        "question": "What happens after n-sec-1 dissociates from syntaxin during the formation of the ternary complex of SNAREs?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 243,
+            "paragraph_id": "978-1865843834-p243-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Norepinephrine",
+            "B": "Serotonin",
+            "C": "Acetylcholine (ACh)",
+            "D": "Epinephrine"
+        },
+        "question": "What did Loewi identify as the active compound in the perfusion fluid, initially referred to as Vagusstoff?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 227,
+            "paragraph_id": "978-1865843834-p227-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It increases because more magnesium channels open up.",
+            "B": "It remains constant since sodium compensates for the loss.",
+            "C": "It decreases, leading to less transmitter release.",
+            "D": "It stays unchanged because potassium takes over the role of calcium."
+        },
+        "question": "What happens to the amount of Ca2+ entering the presynaptic terminal due to a decrease in [Ca2+]o?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 238,
+            "paragraph_id": "978-1865843834-p238-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Mucus and Somatomedin-like growth factors",
+            "B": "Intrinsic Factor and Digestive Enzymes",
+            "C": "Acid and Intrinsic Factor",
+            "D": "igestive Enzymes  \nC: Acid and Intrinsic Factor  \nD: Water and Hydrochloric Acid alone"
+        },
+        "question": "Which substances do parietal cells primarily produce?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 910,
+            "paragraph_id": "978-1865843834-p910-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Stimulates the release of somatostatin to enhance gastrin release.",
+            "B": "Directly stimulates the D cells to release somatostatin, leading to inhibition of gastrin release.",
+            "C": "Inhibits the release of somatostatin, resulting in enhanced gastrin release.",
+            "D": "irectly stimulates the D cells to release somatostatin, leading to inhibition of gastrin release.\nC: Inhibits the release of somatostatin, resulting in enhanced gastrin release.\nD: Has no direct influence on the activity of D cells regarding somatostatin release."
+        },
+        "question": "What is the effect of luminal H+ on the D cells located in the antrum of the stomach?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 915,
+            "paragraph_id": "978-1865843834-p915-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It becomes irreversible inactivated immediately",
+            "B": "It reaches its optimal level",
+            "C": "It is completely unaffected",
+            "D": "It gets reversibly inactivated"
+        },
+        "question": "What happens to pepsin's activity if the pH value goes higher than 3.5?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 920,
+            "paragraph_id": "978-1865843834-p920-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It leads to megaesophagus and difficulty in breathing",
+            "B": "It causes gastroesophageal reflux disease and inflammation of the lung tissue",
+            "C": "It results in dilatation of the esophagus and difficulty in swallowing",
+            "D": "It triggers excessive production of saliva and frequent belching"
+        },
+        "question": "What occurs due to a defect in the relaxation of the Lower Esophageal Sphincter?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 905,
+            "paragraph_id": "978-1865843834-p905-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "By activating nicotinic receptors on postsynaptic membranes",
+            "B": "y activating nicotinic receptors on postsynaptic membranes\nB: By stimulating excessive neurotransmitter release",
+            "C": "Through zinc-dependent endoproteinase activity leading to cleavage of key proteins needed for synaptic vesicle exocytosis",
+            "D": "By blocking ionotropic channels"
+        },
+        "question": "What is the primary mechanism through which tetanus and botulinum toxins exert their effects?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 247,
+            "paragraph_id": "978-1865843834-p247-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Fasciculin-like peptide inhibitor",
+            "B": "Potent inhibitor of AChE",
+            "C": "hE\nC: Agricultural insecticide",
+            "D": "Organophosphate pesticide"
+        },
+        "question": "What type of toxin is anatoxin-a(s), produced by Anabena flos-aquae?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 250,
+            "paragraph_id": "978-1865843834-p250-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Changes in intracellular calcium concentration initiate muscle contraction by directly interacting with contractile proteins.",
+            "B": "An increase in intracellular calcium concentration removes the inhibition of cross-bridge cycling, leading to muscle contraction.",
+            "C": "hanges in intracellular calcium concentration initiate muscle contraction by directly interacting with contractile proteins.\nB: An increase in intracellular calcium concentration removes the inhibition of cross-bridge cycling, leading to muscle contraction.\nC: Intracellular calcium concentrations affect the elasticity of muscle cells during relaxation.",
+            "D": "Calcium ion levels influence the formation of new sarcomeres within the muscle fibers."
+        },
+        "question": "What role do changes in intracellular calcium concentration play in initiating muscle contraction?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 257,
+            "paragraph_id": "978-1865843834-p257-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Administration of dantrolene",
+            "B": "Inhalation anesthetic agents, especially halothane, and administration of succinylcholine",
+            "C": "High doses of sodium bicarbonate",
+            "D": "Mechanical hyperventilation"
+        },
+        "question": "What triggers or exacerbates Malignant Hyperthermia?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 261,
+            "paragraph_id": "978-1865843834-p261-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Direct rejection of the idea by the scientific community",
+            "B": "Electron microscopic observations confirm the separation of neurons",
+            "C": "Immediate acceptance of the neuron doctrine without further debate",
+            "D": "irect rejection of the idea by the scientific community\nB: Electron microscopic observations confirm the separation of neurons\nC: Immediate acceptance of the neuron doctrine without further debate\nD: Complete abandonment of research into cellular structures"
+        },
+        "question": "What ultimately happens after the discovery of the neuron doctrine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 282,
+            "paragraph_id": "978-1865843834-p282-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Their size and coloration",
+            "B": "Only the thickness of the muscle cells",
+            "C": "Coloration determined by the presence of myoglobin and mitochondrial density",
+            "D": "Rate of contraction"
+        },
+        "question": "What primarily distinguishes slow-twitch fibers from fast-twitch fibers in terms of their physical appearance?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 274,
+            "paragraph_id": "978-1865843834-p274-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Concentration decreases significantly upon secretion",
+            "B": "Concentration remains constant throughout the process",
+            "C": "oncentration decreases significantly upon secretion\nB: Concentration remains constant throughout the process\nC: Concentration increases slightly due to ion transport mechanisms",
+            "D": "Specific comparison data regarding [Ca\u00b2\u207a] between these compartments isn't detailed"
+        },
+        "question": "What happens to the concentration of calcium ions ([Ca\u00b2\u207a]) in pancreatic juice compared to their concentration in organelles of the secretory pathway?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 935,
+            "paragraph_id": "978-1865843834-p935-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "50% - 70%",
+            "B": "80% - 90%",
+            "C": "10% - 20%",
+            "D": "40% - 60%"
+        },
+        "question": "What percent of digestive proteins stored in their granules do pancreatic acinar cells typically secrete during a 30- to 60-minute stimulation period?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 929,
+            "paragraph_id": "978-1865843834-p929-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They pass immediately into the duodenum upon entering the stomach.",
+            "B": "They are emptied into the duodenum once they reach the antrum.",
+            "C": "They remain in the stomach until broken down to less than 2 mm before being emptied into the duodenum.",
+            "D": "They bypass digestion and move directly into the intestines."
+        },
+        "question": "What happens to food particles larger than 2 mm in terms of their movement out of the stomach?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 925,
+            "paragraph_id": "978-1865843834-p925-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It inhibits the action of gastrin, reducing gastric acid production.",
+            "B": "It binds with CCK receptors.",
+            "C": "CK receptors.\nC: It activates the pancreas directly to produce more enzymes.",
+            "D": "It causes the stomach to contract more forcefully."
+        },
+        "question": "What happens when tryptophan present in partially digested protein enters the small intestine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 938,
+            "paragraph_id": "978-1865843834-p938-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Their ability to synthesize neurotransmitters",
+            "B": "They have two processes exiting the cell body initially before maturation",
+            "C": "Only having one process exiting the cell body",
+            "D": "Being capable of both excitatory and inhibitory actions"
+        },
+        "question": "What primarily distinguishes unipolar neurons, such as dorsal root ganglion cells, from other neuron types?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 287,
+            "paragraph_id": "978-1865843834-p287-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 5%",
+            "B": "Approximately 2%",
+            "C": "About 10%",
+            "D": "More than 20%"
+        },
+        "question": "What percentage of the population is generally affected by spina bifida occulta?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 292,
+            "paragraph_id": "978-1865843834-p292-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They consist of three neurons each.",
+            "B": "They are exclusively part of the PNS.",
+            "C": "They are composed of two neurons, with one having its cell body in the CNS and the other in the PNS.",
+            "D": "Their primary function involves regulating somatic movements."
+        },
+        "question": "What characteristic do the sympathetic and parasympathetic divisions share regarding their composition?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 301,
+            "paragraph_id": "978-1865843834-p301-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "An inherent lack of regenerative ability in CNS axons",
+            "B": "The presence of inhibitory molecules in the CNS environment",
+            "C": "NS axons\nB: The presence of inhibitory molecules in the CNS environment\nC: Both an inherent lack of regenerative ability and environmental factors",
+            "D": "There are no hindrances; CNS axons regenerate freely"
+        },
+        "question": "What primarily hinders the regeneration of axons in the Central Nervous System (CNS)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 295,
+            "paragraph_id": "978-1865843834-p295-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It becomes isotonic with plasma because of high sodium absorption by duct cells.",
+            "B": "It remains hypertonic relative to plasma due to potassium retention.",
+            "C": "It turns hypotonic since duct cells absorb more ions than they secrete.",
+            "D": "It becomes hypotonic as duct cells absorb sodium and chloride while secreting potassium."
+        },
+        "question": "What happens to human saliva's osmolality compared to plasma under resting conditions due to duct cell activity?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 944,
+            "paragraph_id": "978-1865843834-p944-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "To regulate pH_i_ and facilitate transepithelial movement of Na^+",
+            "B": "To mediate Na^+ absorption stimulated by luminal alkalinity",
+            "C": "To couple Na^+ uptake with proton extrusion into the intestinal lumen in the absence of Cl^- - HCO_3^- exchangers",
+            "D": "To serve a housekeeping function regulating pHi"
+        },
+        "question": "What is the role of the NHE1 isoform of the Na-H exchanger?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 953,
+            "paragraph_id": "978-1865843834-p953-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Decreases passive potassium secretion while enhancing active potassium secretion.",
+            "B": "Enhance both passive and active potassium secretion.",
+            "C": "Increase passive potassium secretion but decrease active potassium secretion.",
+            "D": "ecreases passive potassium secretion while enhancing active potassium secretion.\nB: Enhance both passive and active potassium secretion.\nC: Increase passive potassium secretion but decrease active potassium secretion.\nD: Have no significant impact on either form of potassium secretion."
+        },
+        "question": "What effect do increases in dietary potassium have on both passive and active potassium secretion?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 958,
+            "paragraph_id": "978-1865843834-p958-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The role of cytoplasmic magnesium signals",
+            "B": "The effect of potassium levels on secretion",
+            "C": "The impact of cytoplasmic calcium signals on the control of ion channels",
+            "D": "The influence of sodium ions on cellular activity"
+        },
+        "question": "What was studied by Petersen regarding stimulus-secretion coupling?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 946,
+            "paragraph_id": "978-1865843834-p946-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They inhibit electroneutral NaCl absorption and reduce fluid absorption.",
+            "B": "They stimulate electrogenic Na+ absorption and increase potassium secretion.",
+            "C": "l absorption and reduce fluid absorption.\nB: They stimulate electrogenic Na+ absorption and increase potassium secretion.\nC: They stimulate electroneutral NaCl absorption without affecting potassium secretion or electrogenic Na+ absorption.",
+            "D": "They suppress the activity of mineralocorticoids on ion transport."
+        },
+        "question": "What is the effect of glucocorticoids on ion transport in the large and small intestine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 961,
+            "paragraph_id": "978-1865843834-p961-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Sodium-independent glucose transport",
+            "B": "Water absorption independent of sodium levels",
+            "C": "Vitamin B12 absorption facilitated by sodium",
+            "D": "Sodium-dependent glucose transport"
+        },
+        "question": "What process involving sodium occurs in the colon?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 962,
+            "paragraph_id": "978-1865843834-p962-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Immediately upon detection of rising intracranial pressure",
+            "B": "Once intracranial pressure reaches approximately 50 mm Hg",
+            "C": "Once intracranial pressure exceeds ~70 mm H2O",
+            "D": "Only after significant damage has occurred to the nervous tissue surrounding the ventricles"
+        },
+        "question": "At what point does the absorption of cerebrospinal fluid commence due to rising intracranial pressure, according to the given mechanisms regulating cerebrospinal fluid volume and intracranial pressure balance?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 306,
+            "paragraph_id": "978-1865843834-p306-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unused until new glucose arrives.",
+            "B": "It's converted into protein to sustain neuronal health.",
+            "C": "It breaks down into glucose and further into lactate for transfer to neurons.",
+            "D": "It becomes dysfunctional due to lack of maintenance."
+        },
+        "question": "What happens to the glycogen stored in astrocytes when there isn't enough glucose coming from the blood?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 317,
+            "paragraph_id": "978-1865843834-p317-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Approximately 40%",
+            "C": "Approximately 60%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of total protein in CNS myelin is made up of proteolipid protein?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 321,
+            "paragraph_id": "978-1865843834-p321-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They remain unchanged throughout the day regardless of dietary intake.",
+            "B": "Their concentration significantly decreases immediately after eating.",
+            "C": "Some of these amino acids decrease while others stay constant.",
+            "D": "The concentration of many amino acids increases significantly."
+        },
+        "question": "What occurs to the concentration of many amino acids in the blood following consumption of a protein-rich meal?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 313,
+            "paragraph_id": "978-1865843834-p313-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Absorption increases due to enhanced activity of system B0.",
+            "B": "0.\nB: Absorption decreases because the oligopeptide cotransporter PepT1 is defective.",
+            "C": "Absorption reduces due to defects in the apical system B0 (SLC6A19).",
+            "D": "Absorption becomes dependent on the presence of basic amino acids like L-arginine."
+        },
+        "question": "What happens to the absorption of neutral amino acids, specifically L-phenylalanine, in individuals with Hartnup disease?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 974,
+            "paragraph_id": "978-1865843834-p974-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They remain attached to the enterocyte's surface",
+            "B": "They are actively secreted back into the bloodstream",
+            "C": "They return to the lumen and are then absorbed passively throughout the small intestine and through active transport in the distal ileum",
+            "D": "They get metabolized along with the digested fats"
+        },
+        "question": "What happens to bile salts after they help facilitate the entry of lipids into enterocytes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 979,
+            "paragraph_id": "978-1865843834-p979-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Passive diffusion followed by intracellular metabolism",
+            "B": "Facilitated diffusion coupled with passive paracellular permeability",
+            "C": "Active transport driven by ATP hydrolysis",
+            "D": "Endocytotic internalization"
+        },
+        "question": "What is the primary mechanism involved in the intestinal absorption of dietary folate?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 983,
+            "paragraph_id": "978-1865843834-p983-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Only the presence of fast, voltage-gated Na+ channels",
+            "B": "A combination of synaptic inputs and the expression levels of various ion channels",
+            "C": "Primarily the thickness of the axon's myelin sheath",
+            "D": "The number and properties of slow and fast ion channels expressed by the neuron"
+        },
+        "question": "What determines the variety of spiking patterns in each type of neuron?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 330,
+            "paragraph_id": "978-1865843834-p330-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Temporal Summation occurs leading to decreased effectiveness of each individual EPSP",
+            "B": "Spatial Summation occurs resulting in diminished EPSP amplitudes",
+            "C": "The combined effect leads to smaller overall EPSPs due to interference",
+            "D": "Spatial Summation results in increased EPSP magnitude"
+        },
+        "question": "What happens when two or more EPSPs occur close together at the same location on a dendrite?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 325,
+            "paragraph_id": "978-1865843834-p325-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They are actively transported back into the presynaptic neuron.",
+            "B": "They undergo passive diffusion across the synaptic cleft.",
+            "C": "They are immediately bound by enzymes for degradation.",
+            "D": "They utilize facilitated diffusion to cross the postsynaptic membrane."
+        },
+        "question": "What is the primary method by which transmitter molecules move after being released into the extracellular space during synaptic transmission?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 337,
+            "paragraph_id": "978-1865843834-p337-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 50%",
+            "B": "More than 70%",
+            "C": "More than 90%",
+            "D": "Exactly 80%"
+        },
+        "question": "What percentage of all excitatory synapses in the Central Nervous System have the postsynaptic site located on a dendritic spine?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 340,
+            "paragraph_id": "978-1865843834-p340-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Gills",
+            "B": "Lungs",
+            "C": "Roots",
+            "D": "Leaves"
+        },
+        "question": "What do terrestrial creatures typically use to breathe air?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 993,
+            "paragraph_id": "978-1865843834-p993-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They immediately get stored until needed again.",
+            "B": "They are quickly converted into bile salts if they were not already.",
+            "C": "Undergo extensive intracellular binding to cytosolic proteins called bile acid-binding proteins after entering the hepatocyte.",
+            "D": "They are instantly released back into the bloodstream."
+        },
+        "question": "What happens to bile acids once they enter the hepatocyte?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1000,
+            "paragraph_id": "978-1865843834-p1000-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It undergoes immediate release back into the bloodstream.",
+            "B": "It is transported out of the cell immediately after being internalized.",
+            "C": "Intrinsic Factor releases cobalamin upon entering an acidic environment inside lysosomes.",
+            "D": "It remains unchanged throughout the process of digestion and absorption."
+        },
+        "question": "What happens to the vitamin B12-intrinsic factor complex once it enters the ileal enterocyte?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 986,
+            "paragraph_id": "978-1865843834-p986-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Their sensitivity remains unaffected while their number increases",
+            "B": "Their effectiveness reduces due to decreased sensitivity or lower number",
+            "C": "Both their number and sensitivity decrease simultaneously",
+            "D": "Only their number decreases"
+        },
+        "question": "What happens to the effectiveness of postsynaptic AMPA-type glutamate receptors during cerebellar LTD?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 363,
+            "paragraph_id": "978-1865843834-p363-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Serotonin",
+            "B": "Tryptophan Decarboxylate",
+            "C": "5-Hydroxytryptophan",
+            "D": "ecarboxylate\nC: 5-Hydroxytryptophan\nD: Histamine"
+        },
+        "question": "What is the immediate product resulting from the action of tryptophan hydroxylase on tryptophan?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 346,
+            "paragraph_id": "978-1865843834-p346-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "More than 400",
+            "B": "Not more than 50",
+            "C": "Usually not more than 100",
+            "D": "Thousands"
+        },
+        "question": "How many postsynaptic receptors are typically available for binding when a quantum of neurotransmitter molecules is released?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 358,
+            "paragraph_id": "978-1865843834-p358-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They inhibit different types of Na+ channels.",
+            "B": "They diverge and influence various unrelated cellular processes.",
+            "C": "They converge on and activate the same K+ channel.",
+            "D": "They induce separate signaling cascades leading to unique physiological responses."
+        },
+        "question": "What happens when multiple transmitters activate their respective receptors in certain pyramidal cells of the hippocampus?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 352,
+            "paragraph_id": "978-1865843834-p352-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Forward Signalling",
+            "B": "Retrograde Signalling",
+            "C": "Synaptic Potentiation",
+            "D": "Neuromuscular Facilitation"
+        },
+        "question": "What mechanism do endogenous cannabinoids utilize to signal at hippocampal synapses?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 364,
+            "paragraph_id": "978-1865843834-p364-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Controlling ion and fluid transport",
+            "B": "Initiating peristalsis and controlling motility",
+            "C": "ontrolling ion and fluid transport\nB: Initiating peristalsis and controlling motility\nC: Regulating blood pressure and cardiac function",
+            "D": "Modulating immune responses"
+        },
+        "question": "What is the primary function of the myenteric plexus in the intestinal wall?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 371,
+            "paragraph_id": "978-1865843834-p371-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Activation of adenylyl cyclase",
+            "B": "Release of neurotransmitter acetylcholine",
+            "C": "Production of cyclic AMP",
+            "D": "Activation of guanylyl cyclase"
+        },
+        "question": "What is the primary mediator responsible for the effects of NO on neighboring cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 377,
+            "paragraph_id": "978-1865843834-p377-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Oxytocin",
+            "B": "Antidiuretic Hormone (ADH)",
+            "C": "Thyroid-Stimulating Hormone (TSH)",
+            "D": "H)\nC: Thyroid-Stimulating Hormone (TSH)\nD: Growth Hormone (GH)"
+        },
+        "question": "Which hormone produced by the posterior pituitary increases water reabsorption in the kidneys?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1032,
+            "paragraph_id": "978-1865843834-p1032-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Reduction reactions",
+            "B": "Hydroxylation reactions",
+            "C": "Dehydration reactions",
+            "D": "ehydration reactions\nD: Decarboxylation reactions"
+        },
+        "question": "What kind of reactions do the P-450 cytochromes mainly catalyze?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1004,
+            "paragraph_id": "978-1865843834-p1004-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 400 mL/day",
+            "B": "Approximately 700 mL/day",
+            "C": "Approximately 900 mL/day",
+            "D": "Approximately 1100 mL/day"
+        },
+        "question": "What is the approximate amount of hepatic bile produced daily?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1008,
+            "paragraph_id": "978-1865843834-p1008-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 15%",
+            "B": "Around 25%",
+            "C": "About 28%",
+            "D": "Roughly 35%"
+        },
+        "question": "What percentage of the total blood flow does the liver receive?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1014,
+            "paragraph_id": "978-1865843834-p1014-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Approximately 50%",
+            "C": "Approximately 95%",
+            "D": "Approximately 5%"
+        },
+        "question": "What percentage of circulating thyroid hormone is accounted for by T3?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1039,
+            "paragraph_id": "978-1865843834-p1039-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "75%",
+            "B": "85%",
+            "C": "93%",
+            "D": "98%"
+        },
+        "question": "What percentage of primary sequence homology does placental-variant GH share with regular growth hormone?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1043,
+            "paragraph_id": "978-1865843834-p1043-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Passive diffusion across cell membranes",
+            "B": "Mediation through specific cell surface transferrin receptors",
+            "C": "Direct absorption from dietary sources",
+            "D": "irect absorption from dietary sources\nD: Active transport via ion channels"
+        },
+        "question": "What process specifically facilitates the movement of iron into liver cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1021,
+            "paragraph_id": "978-1865843834-p1021-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "By balancing dietary intake with losses through urine excretion",
+            "B": "y balancing dietary intake with losses through urine excretion\nB: Through the action of hepcidin, which regulates iron metabolism by controlling expression of genes related to iron homeostasis",
+            "C": "Primarily by adjusting sweat rate according to iron needs",
+            "D": "Mainly through variations in fecal iron elimination"
+        },
+        "question": "What mechanism allows for tight regulation of body iron levels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1020,
+            "paragraph_id": "978-1865843834-p1020-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It increases significantly due to increased sodium influx.",
+            "B": "It decreases due to the hyperpolarization caused by light absorption.",
+            "C": "It remains unchanged regardless of changes in light intensity.",
+            "D": "It fluctuates randomly according to ambient temperature conditions."
+        },
+        "question": "What happens to the amount of transmitter released by a photoreceptor's presynaptic terminal during exposure to a flash of light?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 397,
+            "paragraph_id": "978-1865843834-p397-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The membrane hyperpolarizes due to decreased potassium conductance.",
+            "B": "The sodium channels become less selective for sodium ions.",
+            "C": "The Na+ gradient becomes steeper, allowing Na+ to diffuse into the cell and causing the membrane to depolarize.",
+            "D": "The ENaC channels are blocked by an increase in calcium ions."
+        },
+        "question": "What happens inside the taste cell when the concentration of sodium ions ([Na+]) outside the cell increases?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 390,
+            "paragraph_id": "978-1865843834-p390-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It slows down, causing no change in direction relative to the normal line.",
+            "B": "It remains unchanged, moving in a perfectly straight line regardless of the medium transition.",
+            "C": "It speeds up, changing direction by bending toward the normal line.",
+            "D": "It stops completely upon transitioning from water to air."
+        },
+        "question": "What occurs when light enters the air from water?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 392,
+            "paragraph_id": "978-1865843834-p392-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The amount of time spent looking at bright lights",
+            "B": "The number and diversity of functioning photopigments in the eyes' cones",
+            "C": "The overall health and wellness of the individual's circulatory system",
+            "D": "Whether they wear corrective lenses"
+        },
+        "question": "What determines whether a person sees in color versus seeing in shades of gray?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 402,
+            "paragraph_id": "978-1865843834-p402-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It causes immediate loss of cognitive functions due to damage to higher-order thinking centers.",
+            "B": "Instant death occurs unless there is life support present because the medulla controls critical bodily functions.",
+            "C": "There's an automatic shift towards relying more heavily on peripheral ANS for basic physiological regulation.",
+            "D": "Normal homeostatic processes halt completely until medical intervention restores balance to the central nervous system."
+        },
+        "question": "What happens if the medulla is destroyed in a human being?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 384,
+            "paragraph_id": "978-1865843834-p384-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They decrease steadily until adulthood.",
+            "B": "They remain constant from birth through adolescence.",
+            "C": "They rise throughout childhood and peak during the time of the pubertal growth spurt.",
+            "D": "They fluctuate randomly without a discernible pattern."
+        },
+        "question": "How do the concentrations of GH and IGF-1 change throughout childhood?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1051,
+            "paragraph_id": "978-1865843834-p1051-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It increases glucose uptake significantly",
+            "B": "It decreases glucose uptake",
+            "C": "It remains unaffected by growth hormone levels",
+            "D": "It starts producing glucose instead of taking it up"
+        },
+        "question": "What happens to muscle's ability to take up glucose under the influence of growth hormone?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1047,
+            "paragraph_id": "978-1865843834-p1047-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It leads to hypophagia and weight gain.",
+            "B": "It results in hyperphagia and obesity.",
+            "C": "It causes an increase in energy expenditure and decrease in fatty acid synthesis.",
+            "D": "It triggers a reduction in orexigenic signaling and enhances thermogenesis."
+        },
+        "question": "What happens when there is inhibition of the melanocortin system?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1055,
+            "paragraph_id": "978-1865843834-p1055-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Mechanotransduction channels close, preventing negatively charged ions from entering the cell.",
+            "B": "Mechanotransduction channels remain closed, keeping positively charged ions outside the cell.",
+            "C": "Mechanotransduction channels open wider, allowing more positively charged ions to rush into the cell.",
+            "D": "Mechanotransduction channels open, enabling negatively charged ions to leave the cell."
+        },
+        "question": "What happens when the stereovilli of the outer hair cells move towards the apex of the cell?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 410,
+            "paragraph_id": "978-1865843834-p410-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Its ability to adapt slowly to changing pressures",
+            "B": "Being the smallest among the listed mechanoreceptors",
+            "C": "Responding quickly to rapid changes in pressure and stopping response if pressure remains constant",
+            "D": "Having the simplest structure among the mechanoreceptors described"
+        },
+        "question": "What characteristic distinguishes Pacini\u2019s corpuscle compared to other mechanoreceptors discussed?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 415,
+            "paragraph_id": "978-1865843834-p415-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Firing rates continue to increase linearly with rising temperature.",
+            "B": "Firing rates remain constant regardless of further temperature increases.",
+            "C": "The rate falls off steeply and a sensation of pain begins.",
+            "D": "Firing rates become less responsive to temperature changes."
+        },
+        "question": "What happens to warmth receptors' firing rates once the temperature exceeds 44\u00b0C to 46\u00b0C?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 417,
+            "paragraph_id": "978-1865843834-p417-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Carbohydrate metabolism decreases due to reduced gluconeogenic activity.",
+            "B": "Thyroid hormones lower the rate of hepatic glucose production.",
+            "C": "arbohydrate metabolism decreases due to reduced gluconeogenic activity.\nB: Thyroid hormones lower the rate of hepatic glucose production.\nC: Thyroid hormones raise the rate of hepatic glucose production primarily by enhancing gluconeogenic activity.",
+            "D": "Plasma glucose levels always increase significantly regardless of pancreatic response."
+        },
+        "question": "What happens to carbohydrate metabolism under the influence of thyroid hormones?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1064,
+            "paragraph_id": "978-1865843834-p1064-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They first convert stored CRH into a different form of the hormone.",
+            "B": "They synthesize new CRH molecules each time they need to release them.",
+            "C": "RH into a different form of the hormone.\nB: They synthesize new CRH molecules each time they need to release them.\nC: They release CRH acutely without needing new synthesis after storage in secretory vesicles.",
+            "D": "They break down existing CRH into smaller components before release."
+        },
+        "question": "What process do hypothalamic neurons storing CRH undergo before releasing CRH?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1076,
+            "paragraph_id": "978-1865843834-p1076-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Levels of TSH alone",
+            "B": "Free T4 and T3 concentrations in the plasma",
+            "C": "Presence of somatostatin and dopamine",
+            "D": "Amount of iodine intake"
+        },
+        "question": "What determines the intracellular T3 levels in the thyrotroph?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1070,
+            "paragraph_id": "978-1865843834-p1070-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The muscle develops increased contraction force",
+            "B": "The muscle experiences rapid growth",
+            "C": "The muscle may develop paresis or complete paralysis",
+            "D": "The muscle starts to regenerate immediately"
+        },
+        "question": "What happens if the motor nerve to a muscle becomes damaged?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 428,
+            "paragraph_id": "978-1865843834-p428-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Because they scatter related data throughout the neural network for faster recall.",
+            "B": "ecause they scatter related data throughout the neural network for faster recall.\nB: They allow neighboring neurons to share resources efficiently.",
+            "C": "By enforcing proximity and minimizing the distance over which axons must connect, making it simpler for an axon to find its target neuron.",
+            "D": "Since neural maps eliminate the need for synapses, reducing overall complexity."
+        },
+        "question": "Why do neural maps simplify the process of establishing connections between neurons?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 435,
+            "paragraph_id": "978-1865843834-p435-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It eliminates all sensation from the affected area permanently.",
+            "B": "It leads to no significant changes in how areas of the body are mapped onto the brain's sensory or motor systems.",
+            "C": "It results in rapid and substantial reorganization of sensory and/or motor maps over time.",
+            "D": "It increases the intensity of neural signals sent by unaffected parts of the nervous system immediately."
+        },
+        "question": "What effect does damaging a peripheral nerve typically cause in terms of neural representation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 436,
+            "paragraph_id": "978-1865843834-p436-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Extracts of the adrenal gland's outer layer",
+            "B": "Extracts of the thyroid gland",
+            "C": "Extracts of the adrenal medulla",
+            "D": "Extracts of the pancreas"
+        },
+        "question": "What substance do investigators first appreciate having a powerful pressor effect?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1084,
+            "paragraph_id": "978-1865843834-p1084-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It becomes inactive",
+            "B": "It undergoes proteolysis",
+            "C": "It gets inhibited further",
+            "D": "It becomes stimulated"
+        },
+        "question": "What happens to glycogen synthase upon inhibition of the inactivating kinase due to insulin stimulation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1096,
+            "paragraph_id": "978-1865843834-p1096-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Enhances the activity",
+            "B": "Restraints the activity",
+            "C": "Does not affect the activity",
+            "D": "oes not affect the activity\nD: Completely eliminates the activity"
+        },
+        "question": "What effect does insulin have on the activity of a hormone-sensitive triglyceride lipase (HSL) in fat?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1101,
+            "paragraph_id": "978-1865843834-p1101-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They continue to accumulate in the bloodstream until manually removed.",
+            "B": "They are immediately utilized by target tissues without being broken down.",
+            "C": "They are degraded first by the enzyme catecholamine-O-methyltransferase (COMT).",
+            "D": "Their effects last indefinitely unless countered by other hormones."
+        },
+        "question": "What happens to circulating catecholamines once they reach their peak activity?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1086,
+            "paragraph_id": "978-1865843834-p1086-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Oral glucose leads to lower peak insulin levels compared to intravenous glucose.",
+            "B": "Insulin production remains unchanged regardless of whether glucose is consumed orally or intravenously.",
+            "C": "Total insulin response to oral glucose exceeds the response to comparable intravenous glucose administration due to the incretin effect.",
+            "D": "Intravenous glucose always results in faster insulin production than oral glucose."
+        },
+        "question": "What happens to insulin production when comparing oral glucose consumption to intravenous administration?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1092,
+            "paragraph_id": "978-1865843834-p1092-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It reduces the magnetic flux density around the conductor.",
+            "B": "It generates no significant effects due to the low conductivity of biological materials.",
+            "C": "It produces a constant electric current regardless of the speed of the conductor.",
+            "D": "It generates a voltage difference between two points along an axis perpendicular to both the axis of the movement and the axis of the magnetic field."
+        },
+        "question": "What happens according to Faraday's induction law when a conductor, including an electrolyte solution like blood, moves at right angles to the lines of a magnetic field?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 456,
+            "paragraph_id": "978-1865843834-p456-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Two-dimensional echocardiography alone",
+            "B": "Magnetic Resonance Angiography",
+            "C": "Algorithm simplification where D1 equals half of L",
+            "D": "1 equals half of L\nD: Standard echocardiography"
+        },
+        "question": "What method allows for the computation of ventricular volume from a single measurement by assuming certain dimensions about the shape of the ventricle?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 460,
+            "paragraph_id": "978-1865843834-p460-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Blood flow continues to rise linearly with increasing driving pressure.",
+            "B": "lood flow continues to rise linearly with increasing driving pressure.  \nB: Blood flow starts to decrease due to increased resistance.",
+            "C": "Blood flow rises less steeply and is no longer proportional to driving pressure but to roughly the square root of driving pressure.",
+            "D": "Blood flow becomes constant regardless of changes in driving pressure."
+        },
+        "question": "What happens to blood flow in cylindrical vessels once they exceed a critical velocity?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 450,
+            "paragraph_id": "978-1865843834-p450-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The overall flow of blood throughout the body's circulatory system",
+            "B": "The amount of oxygen being transported via red blood cells",
+            "C": "The difference in pressure between the interior and exterior of the blood vessel walls",
+            "D": "The speed at which the heart pumps blood"
+        },
+        "question": "What primarily influences the size or width of blood vessels?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 447,
+            "paragraph_id": "978-1865843834-p447-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Hypercalcemia",
+            "B": "Bone Fractures and Soft Bones",
+            "C": "Arthritis",
+            "D": "Over-mineralization"
+        },
+        "question": "What condition do people experience due to a severe deficiency of vitamin D?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1119,
+            "paragraph_id": "978-1865843834-p1119-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Glucocorticoids induce a qualitative preservation of bone synthesis coupled with degradation while reducing the formation of new bone compared to what was resorbed.",
+            "B": "Glucocorticoids promote the synthesis of more bone than is degraded at any given site, thus increasing bone mass.",
+            "C": "Glucocorticoids block the effect of androgens and estrogens on bone, causing an imbalance in bone turnover.",
+            "D": "Glucocorticoids enhance the activity of osteoblasts relative to osteoclasts, promoting net bone gain."
+        },
+        "question": "What characterizes the mechanism by which glucocorticoids lead to osteoporosis?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1123,
+            "paragraph_id": "978-1865843834-p1123-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Acceleration of lipolysis in adipose tissue",
+            "B": "Severe deficiency of insulin leading to uncontrolled glucose and ketone production",
+            "C": "Enhanced secretion of growth hormone",
+            "D": "Increased sensitivity to insulin"
+        },
+        "question": "What primary effect results from the absence of \u03b2 cells in the pancreas of individuals with Type 1 diabetes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1106,
+            "paragraph_id": "978-1865843834-p1106-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "High plasma calcium concentrations",
+            "B": "Low vitamin D levels",
+            "C": "Decline in the concentration of Ca2+ in the blood (Hypocalcemia)",
+            "D": "levels\nC: Decline in the concentration of Ca2+ in the blood (Hypocalcemia)\nD: Increased extracellular fluid volume"
+        },
+        "question": "What condition stimulates synthesis of new Parathyroid Hormone (PTH)?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1114,
+            "paragraph_id": "978-1865843834-p1114-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They never pair due to significant size differences.",
+            "B": "They always swap large segments of genetic material randomly across their lengths.",
+            "C": "Human X and Y chromosomes pair and recombine at the distal end of their short arms.",
+            "D": "Their pairing leads to complete fusion of the two chromosomes into one larger chromosome."
+        },
+        "question": "What occurs during normal male meiosis regarding the pairing and recombination of human X and Y chromosomes?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1130,
+            "paragraph_id": "978-1865843834-p1130-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It remains solid throughout development forming an internal barrier between the uterus and the exterior.",
+            "B": "The center of the vaginal plate undergoes resorption creating the vaginal lumen.",
+            "C": "It fuses with the mesonephric ducts contributing to the formation of the prostate gland.",
+            "D": "It elongates and eventually gives rise to both the vaginal canal and the cervix."
+        },
+        "question": "What happens during the differentiation process involving the vaginal plate in females?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1137,
+            "paragraph_id": "978-1865843834-p1137-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They decrease the quantity of cervical mucus produced.",
+            "B": "They stop producing cervical mucus altogether.",
+            "C": "They start producing progesterone instead of cervical mucus.",
+            "D": "They produce increasing quantities of cervical mucus."
+        },
+        "question": "What happens to the cervical glands' production under the influence of estrogen?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1141,
+            "paragraph_id": "978-1865843834-p1141-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Leucopoiesis",
+            "B": "Thrombocytopoiesis",
+            "C": "Haematogenesis",
+            "D": "Myelopoesis"
+        },
+        "question": "What term refers to the process by which red blood cells, basophils, eosinophils, neutrophils, monocytes, macrophages, platelets, T cells, B cells, and plasma cells develop?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 466,
+            "paragraph_id": "978-1865843834-p466-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It increases significantly",
+            "B": "It stays roughly the same",
+            "C": "It becomes negligible but then slightly increases before decreasing again",
+            "D": "It decreases dramatically"
+        },
+        "question": "What happens to the mean linear velocity of blood flow as it moves from the aorta towards the capillaries?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 482,
+            "paragraph_id": "978-1865843834-p482-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases due to reduced friction among erythrocytes",
+            "B": "It remains unchanged regardless of the hematocrit level",
+            "C": "It increases due to increased friction among closely packed erythrocytes",
+            "D": "It becomes variable, dependent on the concentration of platelets"
+        },
+        "question": "What happens to the viscosity of blood when there's an increase in hematocrit?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 469,
+            "paragraph_id": "978-1865843834-p469-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Proportion of erythrocytes",
+            "B": "Proportion of platelets",
+            "C": "Proportion of fibrinogen",
+            "D": "Proportion of leukocytes"
+        },
+        "question": "What differs in composition between arterial and venous blood clots?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 474,
+            "paragraph_id": "978-1865843834-p474-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Hydroxylation",
+            "B": "Side chain cleavage",
+            "C": "Desmolysis",
+            "D": "esmolysis\nD: Reduction"
+        },
+        "question": "What process involves the conversion of cholesterol to pregnenolone?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1149,
+            "paragraph_id": "978-1865843834-p1149-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 40%",
+            "B": "Approximately 80%",
+            "C": "Approximately 90%",
+            "D": "Only about 10%"
+        },
+        "question": "What proportion of the volume of semen is made up of sperm cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1154,
+            "paragraph_id": "978-1865843834-p1154-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It carries sympathetic signals related to sexual arousal.",
+            "B": "It conveys somatic motor commands to the penile musculature.",
+            "C": "It serves as the principal route for transmitting tactile sensory information from the penis.",
+            "D": "It facilitates parasympathetic control over blood flow during erection."
+        },
+        "question": "What primary role does the dorsal nerve of the penis play in relation to the sensation of touch?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1156,
+            "paragraph_id": "978-1865843834-p1156-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Continuous administration of GnRH",
+            "B": "Frequency of GnRH release, and thus LH release",
+            "C": "ontinuous administration of GnRH\nB: Frequency of GnRH release, and thus LH release\nC: Sensitivity of gonadotrophs early in the follicular phase",
+            "D": "Half-life of GnRH in blood"
+        },
+        "question": "What determines the specific response of the gonad?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1165,
+            "paragraph_id": "978-1865843834-p1165-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Estrogens begin to decrease the sensitivity of the gonadotrophs in the anterior pituitary gland to GnRH.",
+            "B": "Estrogens start having no effect on the hypothalamic-pituitary axis.",
+            "C": "Estrogens continue to provide negative feedback on the axis.",
+            "D": "Estrogens reverse their effect and start providing positive feedback on the axis."
+        },
+        "question": "What change occurs in how estrogens affect the hypothalamic-pituitary axis once they reach a certain level?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1169,
+            "paragraph_id": "978-1865843834-p1169-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "50%",
+            "B": "25%",
+            "C": "10%",
+            "D": "2%"
+        },
+        "question": "What percentage of total plasma estradiol circulates freely?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1174,
+            "paragraph_id": "978-1865843834-p1174-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They develop into dominant follicles that eventually ovulate.",
+            "B": "Most of them become atretic due to the continuous process of atresia during reproductive life.",
+            "C": "They transform into corpus luteums upon reaching maturity.",
+            "D": "They migrate out of the ovaries to facilitate fertilization."
+        },
+        "question": "What happens to the majority of the primordial and primary ovarian follicles during the reproductive life of a woman?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1182,
+            "paragraph_id": "978-1865843834-p1182-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They secrete hormones essential for fertilization.",
+            "B": "They remove uterine luminal fluid allowing closer approximation between the embryo and uterine epithelium.",
+            "C": "They synthesize immunosuppressive agents preventing maternal immune rejection.",
+            "D": "They produce enzymes facilitating the breakdown of the zona pellucida around the oocyte."
+        },
+        "question": "What function do pinopods serve during the initial stages of embryo implantation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1189,
+            "paragraph_id": "978-1865843834-p1189-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They produce estrogen exclusively due to the presence of unique enzymes.",
+            "B": "They contribute to the synthesis of steroids by providing essential enzymes lacking in the placenta.",
+            "C": "They inhibit the production of progesterone to prevent excessive hormone exposure.",
+            "D": "They convert cholesterol into acetate for energy production."
+        },
+        "question": "What role do the fetal adrenal glands play during pregnancy?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1197,
+            "paragraph_id": "978-1865843834-p1197-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Receptor-mediated exocytosis",
+            "B": "Vesicular transport of milk lipids",
+            "C": "Secretion via Golgi apparatus",
+            "D": "Endocytosis"
+        },
+        "question": "What process involves transporting proteins across secretory epithelial cells?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1202,
+            "paragraph_id": "978-1865843834-p1202-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It fuses completely with the oocyte's plasma membrane.",
+            "B": "It enters along with the rest of the sperm cell components.",
+            "C": "It gets left behind outside the oocyte.",
+            "D": "It breaks down into smaller parts once inside the oocyte."
+        },
+        "question": "What happens to the sperm cell's plasma membrane upon entering the oocyte?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1186,
+            "paragraph_id": "978-1865843834-p1186-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It triples",
+            "B": "It stays approximately the same",
+            "C": "It decreases more than fivefold",
+            "D": "It quadruples"
+        },
+        "question": "What happens to the pulmonary vascular resistance immediately after birth?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1218,
+            "paragraph_id": "978-1865843834-p1218-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "50%",
+            "B": "40% - 60%",
+            "C": "20% to 30%",
+            "D": "70% to 80%"
+        },
+        "question": "What percentage of growth-restricted fetuses experience Type I or symmetrical IUGR?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1210,
+            "paragraph_id": "978-1865843834-p1210-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Their circulating prostaglandin levels decrease significantly leading to delayed closure of the ductus arteriosus",
+            "B": "Indomethacin causes an immediate reopening of the already closed ductus arteriosus",
+            "C": "It results in the constriction of the ductus arteriosus followed by its eventual closure despite a potentially low PO2 level",
+            "D": "Treatment with indomethacin completely stops the heart's pumping activity temporarily until full maturity is achieved"
+        },
+        "question": "What happens if preterm infants are treated with indomethacin?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1220,
+            "paragraph_id": "978-1865843834-p1220-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Epigenetic influences",
+            "B": "Genetic makeup of the fetus",
+            "C": "Maternal nutritional status",
+            "D": "Environmental conditions"
+        },
+        "question": "What factor plays the major role in determining fetal growth during the first half of gestation?",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1207,
+            "paragraph_id": "978-1865843834-p1207-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

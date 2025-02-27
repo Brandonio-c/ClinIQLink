@@ -1,0 +1,452 @@
+[
+    {
+        "answer": "Electronegativity forms due to excess positive ions diffusing out, carrying positive charges away and leaving non-diffusible negative anions behind.",
+        "question": "What happens to the inside of the membrane when there's a positive ion concentration gradient from inside to outside?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 86,
+            "paragraph_id": "978-1455770076-p86-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Touch sensations requiring localization, vibrations, position senses, and pressure sensations.",
+        "question": "What types of sensations are transmitted mainly in the dorsal column-medial lemniscal system?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 633,
+            "paragraph_id": "978-1455770076-p633-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They cannot judge shapes or forms, a condition called astereognosis.",
+        "question": "What happens to a person's ability to judge shapes or forms of objects after widespread bilateral excision of somatosensory area I?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 637,
+            "paragraph_id": "978-1455770076-p637-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Prolonged emotion or tension causing reflex vasospasm of some of the arteries of the head.",
+        "question": "What typically triggers a migraine headache according to one theory?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 654,
+            "paragraph_id": "978-1455770076-p654-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It reduces the amount of light-sensitive pigment in the retina by converting excess retinal back into vitamin A.",
+        "question": "What happens to the amount of light-sensitive pigment in the retina when there is excess retinal?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 674,
+            "paragraph_id": "978-1455770076-p674-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 60%.",
+        "question": "What percentage of the ventricular end-diastolic volume is typically ejected?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 139,
+            "paragraph_id": "978-1455770076-p139-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It stops beating due to lack of calcium ions needed for muscle contraction.",
+        "question": "What happens to a heart if it is placed in a calcium-free solution?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 136,
+            "paragraph_id": "978-1455770076-p136-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Point-to-point vision and color vision.",
+        "question": "What types of visual information do the P ganglion cell pathways primarily transmit?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 687,
+            "paragraph_id": "978-1455770076-p687-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "From the base towards the apex during most of the depolarization process.",
+        "question": "What generally directs the average flow of electrical currents in the ventricles?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 158,
+            "paragraph_id": "978-1455770076-p158-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The axis shifts towards the hypertrophied ventricle due to a greater quantity of muscle allowing for greater electrical potential and delayed depolarization.",
+        "question": "What typically happens to the mean electrical axis of the heart's ventricles when the left ventricle greatly hypertrophies?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 169,
+            "paragraph_id": "978-1455770076-p169-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Blood flow through a blood vessel is determined by two factors: (1) pressure difference of the blood between the two ends of the vessel, and (2) vascular resistance due to friction.",
+        "question": "What determines blood flow through a blood vessel?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 195,
+            "paragraph_id": "978-1455770076-p195-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "20 to 30 percent.",
+        "question": "How much is the efficiency of ventricular pumping decreased during atrial fibrillation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 188,
+            "paragraph_id": "978-1455770076-p188-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 25 mm Hg.",
+        "question": "What is the approximate capillary hydrostatic pressure averaged across certain tissues when measured directly via micropipette?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 218,
+            "paragraph_id": "978-1455770076-p218-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They change to a muffled quality before disappearing entirely.",
+        "question": "What happens to the Korotkoff sounds once the cuff's pressure falls near diastolic pressure?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 207,
+            "paragraph_id": "978-1455770076-p207-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "2013",
+        "question": "What year did Rasch B and Born J publish their research about sleep's role in memory?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 774,
+            "paragraph_id": "978-1455770076-p774-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Anterograde amnesia, losing the ability to learn new information.",
+        "question": "What condition do people develop after bilateral removal of the hippocampi?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 783,
+            "paragraph_id": "978-1455770076-p783-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Hormones, repetitive spike potentials, or continuous entry of calcium ions into the muscle cells.",
+        "question": "What causes tonic contraction of some gastrointestinal smooth muscles?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 823,
+            "paragraph_id": "978-1455770076-p823-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Rapid loss of fluid from the body.",
+        "question": "What is one effect of administering furosemide?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 301,
+            "paragraph_id": "978-1455770076-p301-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Minimizes the risk of necrosis progression in heart muscles by reducing the workload on the heart.",
+        "question": "What is the primary benefit of observing absolute body rest during the recovery process from myocardial infarction?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 292,
+            "paragraph_id": "978-1455770076-p292-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Vitamin B12",
+        "question": "What substance does intrinsic factor combine with to protect it during passage through the small intestine?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 868,
+            "paragraph_id": "978-1455770076-p868-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Reduced total blood plasma protein and decreased plasma volume occur.",
+        "question": "What happens when the lost fluid due to certain medical conditions contains high amounts of proteins?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 323,
+            "paragraph_id": "978-1455770076-p323-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "An acidic group (-COOH)",
+        "question": "What do amino acids contain besides an amino group (-NH2)?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 899,
+            "paragraph_id": "978-1455770076-p899-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It is rapidly reconverted to pyruvic acid and NADH plus H+, forming large quantities of ATP.",
+        "question": "What happens to lactic acid when oxygen becomes available?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 884,
+            "paragraph_id": "978-1455770076-p884-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Its filterability through the glomerular capillary membrane rapidly decreases, approaching zero.",
+        "question": "What happens when the molecular weight of a molecule approaches that of albumin?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 360,
+            "paragraph_id": "978-1455770076-p360-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Beyond 300 to 400 milliliters.",
+        "question": "At what volume of accumulated urine does a rapid increase in intravesicular pressure begin?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 353,
+            "paragraph_id": "978-1455770076-p353-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 25 percent of the filtered loads of sodium, chloride, and potassium are reabsorbed in the loop of Henle.",
+        "question": "What percentage of filtered sodium, chloride, and potassium are reabsorbed in the loop of Henle?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 378,
+            "paragraph_id": "978-1455770076-p378-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Whether a solute becomes concentrated depends on the relative degree of reabsorption of the solute compared to water's reabsorption.",
+        "question": "What determines whether a solute becomes concentrated in the tubular fluid?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 382,
+            "paragraph_id": "978-1455770076-p382-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Active transport of sodium ions and co-transport of potassium, chloride, and other ions, facilitated diffusion of urea, and limited diffusion of water.",
+        "question": "What contributes to the accumulation of solutes in the renal medullary interstitium?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 398,
+            "paragraph_id": "978-1455770076-p398-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 65 percent.",
+        "question": "What percentage of filtered calcium is reabsorbed in the proximal tubule?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 421,
+            "paragraph_id": "978-1455770076-p421-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Chemical acid-base buffer systems, the respiratory center regulating CO2 removal, and the kidneys adjusting extracellular fluid H+ concentration.",
+        "question": "What three primary systems help regulate the H+ concentration in body fluids?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 434,
+            "paragraph_id": "978-1455770076-p434-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "High levels of ADH cause severe reductions in extracellular sodium ion concentration.",
+        "question": "What happens to extracellular sodium ion concentration due to high levels of ADH?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 428,
+            "paragraph_id": "978-1455770076-p428-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The kidneys increase net acid excretion markedly through enhanced NH 4+ excretion.",
+        "question": "What happens to the kidneys' ability to regulate acid-base balance during acidosis?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 444,
+            "paragraph_id": "978-1455770076-p444-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 20 to 25 percent",
+        "question": "What percentage of cardiac output do the kidneys normally receive?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 454,
+            "paragraph_id": "978-1455770076-p454-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Water reabsorption is reduced due to the increased osmotic pressure caused by these substances.",
+        "question": "What typically happens to water reabsorption in the presence of non-reabsorbed substances like mannitol?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 451,
+            "paragraph_id": "978-1455770076-p451-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Their life span is normally 4 to 8 hours circulating in the blood and another 4 to 5 days in tissues.",
+        "question": "What is the typical lifespan of granulocytes once released from the bone marrow?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 480,
+            "paragraph_id": "978-1455770076-p480-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Once vitamin B 12 has been absorbed from the gastrointestinal tract, it is first stored in large quantities in the liver and then is released slowly as needed by the bone marrow.",
+        "question": "What happens once vitamin B 12 has been absorbed from the gastrointestinal tract?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 473,
+            "paragraph_id": "978-1455770076-p473-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 2 percent",
+        "question": "What percentage of all blood leukocytes are eosinophils?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 486,
+            "paragraph_id": "978-1455770076-p486-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Cell adhesion proteins enable T cells to bind to antigen-presenting cells.",
+        "question": "What allows T cells to bind to antigen-presenting cells sufficiently to activate?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 496,
+            "paragraph_id": "978-1455770076-p496-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It gets reabsorbed through the intestinal mucosa back into the blood.",
+        "question": "What happens to some of the urobilinogen after being converted from conjugated bilirubin?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 909,
+            "paragraph_id": "978-1455770076-p909-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Polarography, where electric current flows between a small negative electrode and the solution, measuring O2 deposition and thus PO2 levels.",
+        "question": "What method is used to measure the concentration of O2 in a fluid?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 573,
+            "paragraph_id": "978-1455770076-p573-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Ovulation is triggered by a surge in LH secretion.",
+        "question": "What triggers ovulation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1073,
+            "paragraph_id": "978-1455770076-p1073-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "More than 7300 calories of energy are released to energize the muscle contractile process, converting ATP into adenosine diphosphate (ADP).",
+        "question": "What happens to adenosine triphosphate (ATP) when one phosphate radical is removed?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1110,
+            "paragraph_id": "978-1455770076-p1110-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It causes prolonged cortisol secretion.",
+        "question": "What happens to cortisol secretion under conditions of chronic stress?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1001,
+            "paragraph_id": "978-1455770076-p1001-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It swells rapidly.",
+        "question": "What happens shortly before ovulation regarding the protruding outer wall of the follicle?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1065,
+            "paragraph_id": "978-1455770076-p1065-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Insulin functions as a fat sparer by decreasing the utilization of fat when glucose is utilized instead.",
+        "question": "What is the role of insulin regarding the utilization of fat?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1011,
+            "paragraph_id": "978-1455770076-p1011-para1"
+        },
+        "type": "short_answer"
+    }
+]

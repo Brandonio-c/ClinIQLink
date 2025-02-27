@@ -58,5 +58,35 @@
             "paragraph_id": "978-0071376396-p155-para1"
         },
         "type": "short_answer"
+    },
+    {
+        "answer": "Reduction of cardiovascular diseases and osteoporosis.",
+        "question": "What is the primary benefit of hormone replacement therapy (HRT)?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 197,
+            "paragraph_id": "978-0071376396-p197-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "User determinants.",
+        "question": "What determines the failure rates of condoms?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 206,
+            "paragraph_id": "978-0071376396-p206-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Autonomy refers to a competent person's moral right to choose their own course of action and is a cornerstone of medical ethics, allowing them to refuse life-sustaining care if they wish.",
+        "question": "What is autonomy in relation to medical ethics?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 242,
+            "paragraph_id": "978-0071376396-p242-para1"
+        },
+        "type": "short_answer"
     }
 ]

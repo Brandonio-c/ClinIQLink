@@ -1,0 +1,2471 @@
+[
+    {
+        "answer": [
+            "Channel-linked receptors",
+            "G-protein-coupled receptors (GPCRs)",
+            "Kinase-linked receptors",
+            "Transcription factor receptors"
+        ],
+        "options": [
+            "Channel-linked receptors",
+            "Voltage-gated channels",
+            "Transmembrane receptors",
+            "Kinase-linked receptors",
+            "Transporter proteins",
+            "Nuclear receptors",
+            "Ionotropic receptors",
+            "Metabotropic receptors",
+            "G-protein-coupled receptors (GPCRs)"
+        ],
+        "question": "What categories of receptors do drugs primarily target according to principles of clinical pharmacology?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 37,
+            "paragraph_id": "978-0702083471-p37-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "How \u2018normal\u2019 is defined",
+            "Factors other than disease",
+            "Operating characteristics",
+            "Sensitivity and specificity",
+            "Prevalence of disease in the population"
+        ],
+        "options": [
+            "Sensitivity",
+            "Specificity",
+            "Operating Characteristics",
+            "Prevalence of Disease",
+            "Normal Values",
+            "Factors Other Than Disease"
+        ],
+        "question": "What are the key elements involved in interpreting diagnostic test results according to medical practice?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 24,
+            "paragraph_id": "978-0702083471-p24-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Knowledge",
+            "Training",
+            "Beliefs and values",
+            "Emotions",
+            "Sleep/fatigue",
+            "Stress",
+            "Physical illness",
+            "Personality type"
+        ],
+        "options": [
+            "Knowledge",
+            "Experience",
+            "Communication skills",
+            "External interruptions",
+            "Emotional intelligence",
+            "Training",
+            "Beliefs and values",
+            "Leadership style",
+            "Critical thinking",
+            "Sleep/fatigue",
+            "Time management",
+            "Stress",
+            "Physical condition",
+            "Data analysis",
+            "Problem-solving abilities",
+            "Personality traits",
+            "Cultural background",
+            "Age"
+        ],
+        "question": "What internal factors can affect judgment and decision-making according to research findings on clinical decision-making processes?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 30,
+            "paragraph_id": "978-0702083471-p30-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Presenting complaint(s)",
+            "History of presenting complaint",
+            "Past medical history",
+            "Medication history",
+            "Family history",
+            "Social history"
+        ],
+        "options": [
+            "Physical examination findings",
+            "Laboratory results analysis",
+            "Medical treatment plans",
+            "Presenting complaint(s)",
+            "History of presenting complaint",
+            "Past medical history",
+            "Medication history",
+            "Family history",
+            "Social history"
+        ],
+        "question": "What components are typically evaluated when assessing new symptoms presented by a patient?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 27,
+            "paragraph_id": "978-0702083471-p27-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "United States of America",
+            "United Kingdom",
+            "Australia",
+            "Jordan",
+            "Bangladesh",
+            "Canada",
+            "India",
+            "Sri Lanka"
+        ],
+        "options": [
+            "United States of America",
+            "United Kingdom",
+            "Australia",
+            "Jordan",
+            "Bangladesh",
+            "Canada",
+            "India",
+            "Sri Lanka",
+            "Singapore"
+        ],
+        "question": "What countries are represented by members of the International Advisory Board?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 16,
+            "paragraph_id": "978-0702083471-p16-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Oxidation",
+            "Reduction",
+            "Hydrolysis"
+        ],
+        "options": [
+            "Reduction",
+            "Hydrolysis",
+            "Methylation",
+            "Conjugation with glutathione",
+            "Acetylation"
+        ],
+        "question": "What types of metabolic reactions occur during Phase I metabolism?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 40,
+            "paragraph_id": "978-0702083471-p40-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Monoclonal antibodies",
+            "Small interfering RNA (siRNA)",
+            "Gene therapy",
+            "Stem cell therapy",
+            "Vaccination"
+        ],
+        "options": [
+            "Monoclonal antibodies",
+            "Small interfering RNA (siRNA)",
+            "Gene therapy",
+            "Stem cell therapy",
+            "Vaccination",
+            "Surgical intervention",
+            "Traditional Chinese Medicine"
+        ],
+        "question": "What types of novel therapeutic approaches to conventional small-molecule drugs are listed?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 48,
+            "paragraph_id": "978-0702083471-p48-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Date",
+            "Identification details of the patient",
+            "Name of the drug",
+            "Formulation",
+            "Dose",
+            "Frequency of administration",
+            "Route and method of administration",
+            "Amount to be supplied",
+            "Instructions for labeling",
+            "Prescriber\u2019s signature"
+        ],
+        "options": [
+            "Date",
+            "Name of the doctor",
+            "Amount to be supplied",
+            "Route and method of administration",
+            "Frequency of administration",
+            "Dose",
+            "Patient's address",
+            "Prescription start date"
+        ],
+        "question": "What types of information are typically included when writing a prescription?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 54,
+            "paragraph_id": "978-0702083471-p54-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acetyl-CoA",
+            "NADH",
+            "H2O",
+            "Lactate",
+            "Pyruvate"
+        ],
+        "options": [
+            "Acetyl-CoA",
+            "Carnitine",
+            "Cytochrome B/C",
+            "Citrate",
+            "NADH",
+            "H2O",
+            "Lactate",
+            "Pyruvate",
+            "Ubiquinone"
+        ],
+        "question": "What are the names of substances produced during processes involving energy generation in mitochondria?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 71,
+            "paragraph_id": "978-0702083471-p71-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Complement level measurement",
+            "Test vaccination",
+            "Neutrophil function test",
+            "Investigation of leucocyte adhesion deficiency",
+            "Lymphocyte immunophenotyping by flow cytometry",
+            "Lymphocyte proliferation assay",
+            "Cytokine production evaluation",
+            "Genetic testing"
+        ],
+        "options": [
+            "Complement level measurement",
+            "Test vaccination",
+            "Neutrophil function test",
+            "Investigation of leucocyte adhesion deficiency",
+            "Lymphocyte immunophenotyping by flow cytometry",
+            "Lymphocyte proliferation assay",
+            "Cytokine production evaluation",
+            "Genetic testing",
+            "Blood cultures",
+            "Urinalysis",
+            "Full blood count",
+            "Liver function test",
+            "Renal function test",
+            "Autoimmune screening",
+            "Measurement of serum ferritin",
+            "Antineutrophil cytoplasmic antibody detection",
+            "Anti-nuclear antibody detection"
+        ],
+        "question": "What diagnostic tests might be conducted to investigate different forms of immune deficiency?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 96,
+            "paragraph_id": "978-0702083471-p96-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Disorders due to disruptions in imprinting"
+        ],
+        "options": [
+            "Disorders due to disruptions in imprinting",
+            "Polygenic disorders",
+            "Large deletions or duplications",
+            "Balanced and unbalanced translocations",
+            "Mosaicism",
+            "Triplet repeat disorders"
+        ],
+        "question": "What types of disorders or findings may not be identified by Next Generation Sequencing?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 75,
+            "paragraph_id": "978-0702083471-p75-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Distributed equally between blood and extracellular fluid, and transported across placenta",
+            "Particularly important in defence against polysaccharide antigens",
+            "Support the development of delayed-type hypersensitivity responses",
+            "Promoting allergic responses",
+            "Preventing autoimmune disease"
+        ],
+        "options": [
+            "Providing opsonization",
+            "Activating complement pathways",
+            "Neutralizing toxins",
+            "Transported across placenta",
+            "Supporting B-cell development",
+            "Defending against bacterial infections",
+            "Enhancing phagocytosis",
+            "Regulating inflammation"
+        ],
+        "question": "What are the main functions associated with each subclass of IgG?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 91,
+            "paragraph_id": "978-0702083471-p91-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "RNA is single-stranded",
+            "The sugar residue within the nucleotide is ribose, rather than deoxyribose",
+            "It contains uracil (U) in place of thymine (T)"
+        ],
+        "options": [
+            "RNA is double-stranded",
+            "The sugar residue within the nucleotide is ribose, rather than deoxyribose",
+            "It contains uracil (U) instead of adenosine",
+            "RNA is single-stranded",
+            "The sugar residue within the nucleotide is galactose, rather than glucose",
+            "It contains thymine (T) in place of uracil (U)"
+        ],
+        "question": "What are the three main differences between RNA and DNA?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 62,
+            "paragraph_id": "978-0702083471-p62-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Books written by Alberts, Firth, Strachan, and others",
+            "Websites such as bsgm.org.uk, decipher.sanger.ac.uk, ensembl.org, futurelearn.com, genome.ucsc.edu, ncbi.nlm.nih.gov, and ukgtp.co.uk"
+        ],
+        "options": [
+            "Books written by Alberts, Firth, Strachan, and others",
+            "Websites such as bsgm.org.uk and decipher.sanger.ac.uk",
+            "Journal articles related to genetics",
+            "Courses offered through futurelearn.com",
+            "Professional advice from clinicians trained in genetics",
+            "Government health websites"
+        ],
+        "question": "What resources can individuals consult for further information on genetics?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 80,
+            "paragraph_id": "978-0702083471-p80-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Human migration",
+            "Importation of foods",
+            "Extension of host range due to environmental changes, such as dam construction",
+            "Public health service breakdown",
+            "Climate change"
+        ],
+        "options": [
+            "Human migration",
+            "Importation of foods",
+            "Extension of host range due to environmental changes, such as dam construction",
+            "Public health service breakdown",
+            "Climate change"
+        ],
+        "question": "What factors contribute to the emergence and re-emergence of infectious diseases?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 134,
+            "paragraph_id": "978-0702083471-p134-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Empiric therapy",
+            "Targeted therapy",
+            "Susceptibility-guided therapy"
+        ],
+        "options": [
+            "Predictive Therapy",
+            "Preventative Treatment",
+            "Prophylactic Care",
+            "Therapeutic Approach",
+            "Empirical Therapy",
+            "Targeted Therapy",
+            "Pathogenic Diagnosis",
+            "Susceptibility-Guided Therapy",
+            "Antibacterial Management"
+        ],
+        "question": "What are the types of therapy approaches considered when treating infections?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 141,
+            "paragraph_id": "978-0702083471-p141-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diabetic eye screening program",
+            "Fetal anomaly screening program",
+            "Infectious diseases in pregnancy screening program",
+            "Newborn and infant physical examination screening program",
+            "Newborn blood spot screening program",
+            "Newborn hearing screening program",
+            "Sickle-cell anaemia and thalassaemia screening program"
+        ],
+        "options": [
+            "Diabetic eye screening program",
+            "Fetal anomaly screening program",
+            "Infectious diseases in pregnancy screening program",
+            "Newborn and infant physical examination screening program",
+            "Newborn blood spot screening program",
+            "Newborn hearing screening program",
+            "Sickle-cell anaemia and thalassaemia screening program"
+        ],
+        "question": "What are the specific screening tests carried out in pregnancy and in newborns?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 117,
+            "paragraph_id": "978-0702083471-p117-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cardiovascular disease",
+            "Neoplasms",
+            "Chronic respiratory diseases",
+            "Respiratory infections and TB",
+            "Diabetes and CKD",
+            "Digestive diseases",
+            "Neurological disorders",
+            "Maternal and neonatal",
+            "Unintentional injuries",
+            "Enteric infections",
+            "Transport injuries",
+            "Self-harm and violence",
+            "Other non-communicable diseases",
+            "HIV/AIDS and STIs",
+            "NTDs and malaria"
+        ],
+        "options": [
+            "Cardiovascular disease",
+            "Neoplasms",
+            "Respiratory infections and TB",
+            "Unintentional injuries",
+            "HIV/AIDS and STIs",
+            "NTDs and malaria",
+            "Diarrheal diseases",
+            "Malaria alone",
+            "Cancer",
+            "Ischaemic heart disease"
+        ],
+        "question": "What were the top-ranked causes of global deaths in 2019?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 114,
+            "paragraph_id": "978-0702083471-p114-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Viruses",
+            "Prokaryotes",
+            "Eukaryotes"
+        ],
+        "options": [
+            "Prions",
+            "Fungi",
+            "Protozoa",
+            "Helminths",
+            "Prokaryotes",
+            "Eukaryotes",
+            "Viruses",
+            "Parasites"
+        ],
+        "question": "What categories of pathogens are responsible for causing infections according to biological classifications?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 126,
+            "paragraph_id": "978-0702083471-p126-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Enteric Gram-negative bacilli, Pseudomonas aeruginosa, Haemophilus spp., and certain atypical respiratory pathogens"
+        ],
+        "options": [
+            "Only Gram-positive cocci",
+            "Enteric Gram-negative bacilli, Pseudomonas aeruginosa, Haemophilus spp., and certain atypical respiratory pathogens",
+            "Both Gram-positive and Gram-negative anaerobic bacteria",
+            "Mainly against fungal pathogens"
+        ],
+        "question": "What types of bacteria do fluoroquinolones typically exhibit antibacterial activity against?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 146,
+            "paragraph_id": "978-0702083471-p146-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gap 1 (G1)",
+            "Synthesis (S)",
+            "Gap 2 (G2)",
+            "Mitosis (M)"
+        ],
+        "options": [
+            "Gap 1 (G1)",
+            "Synthesis (S)",
+            "Gap 2 (G2)",
+            "Mitosis (M)",
+            "Quiescence (Q)"
+        ],
+        "question": "What are the distinct phases composing the cell cycle?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 159,
+            "paragraph_id": "978-0702083471-p159-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lumpectomy",
+            "Mastectomy"
+        ],
+        "options": [
+            "Lumpectomy",
+            "Mastectomy",
+            "Ovariectomy",
+            "Bilateral Salpingo-Oophorectomy",
+            "Total Abdominal Hysterectomy"
+        ],
+        "question": "What types of surgeries are mentioned for treating breast cancer?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 178,
+            "paragraph_id": "978-0702083471-p178-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Weakness patterns",
+            "Reflex changes",
+            "Sensory loss characteristics",
+            "Sphincter dysfunction timing",
+            "Progression rates"
+        ],
+        "options": [
+            "Weakness patterns",
+            "Reflex changes",
+            "Sensory loss characteristics",
+            "Sphincter dysfunction timing",
+            "Progression rates"
+        ],
+        "question": "What clinical features distinguish between spinal cord, conus medullaris, and cauda equina involvement?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 168,
+            "paragraph_id": "978-0702083471-p168-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Women with serous papillary adenocarcinoma of the peritoneal cavity",
+            "Women with isolated adenocarcinoma of axillary lymph nodes",
+            "Men with poorly differentiated carcinoma with midline distribution",
+            "Poorly differentiated neuro-endocrine carcinoma of unknown origin",
+            "Well-differentiated neuro-endocrine tumor (NET)",
+            "Squamous cell carcinoma of non-supraclavicular cervical lymph nodes",
+            "Adenocarcinoma with a colorectal-IHC profile (CK20+, CK7-, CDX2+)",
+            "Men with blastic bone metastases or elevated prostate-specific antigen (adenocarcinoma)",
+            "Isolated inguinal adenopathy squamous carcinoma",
+            "Patients with one small, potentially resectable tumour"
+        ],
+        "options": [
+            "Women with serous papillary adenocarcinoma of the peritoneal cavity",
+            "Men with well-differentiated neuro-endocrine tumor (NET)",
+            "Poorly differentiated neuro-endocrine carcinoma of unknown origin",
+            "Squamous cell carcinoma of supraclavicular cervical lymph nodes",
+            "Isolated adenocarcinoma of axillary lymph nodes",
+            "Well-differentiated neuro-endocrine tumor (NET)",
+            "Men with poorly differentiated carcinoma with midline distribution"
+        ],
+        "question": "What clinicopathological features indicate favorable management options for patients with cancer of unknown primary?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 167,
+            "paragraph_id": "978-0702083471-p167-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Astrocytes",
+            "Microglial cells"
+        ],
+        "options": [
+            "Astrocytes",
+            "Microglial cells",
+            "Neurons",
+            "Glutamatergic receptors",
+            "Opioid receptors",
+            "Nociceptors"
+        ],
+        "question": "What types of cellular elements become activated during chronic pain states?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 187,
+            "paragraph_id": "978-0702083471-p187-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Blockage of sodium channels in sensory neurons",
+            "Inhibition of glutamate release by primary afferent neurons",
+            "Activation of TRPV1 channels on subsets of C fibers",
+            "Reduction of central sensitization via antagonism of NMDA receptors",
+            "Selective pharmacological denervation leading to decreased intra-epidermal nerve fiber density"
+        ],
+        "options": [
+            "Blockage of sodium channels in sensory neurons",
+            "Inhibition of glutamate release by primary afferent neurons",
+            "Activation of TRPV1 channels on subsets of C fibers",
+            "Reduction of central sensitization via antagonism of NMDA receptors",
+            "Selective pharmacological denervation leading to decreased intra-epidermal nerve fiber density"
+        ],
+        "question": "What types of mechanisms of actions are involved in managing chronic pain according to the given options?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 193,
+            "paragraph_id": "978-0702083471-p193-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cardiac failure",
+            "Pulmonary hypertension",
+            "Renal failure",
+            "Hypoalbuminaemia",
+            "Drugs (such as calcium channel blockers, glucocorticoids, mineralocorticoids, NSAIDs)"
+        ],
+        "options": [
+            "Cardiac failure",
+            "Pulmonary hypertension",
+            "Renal failure",
+            "Hypoalbuminaemia",
+            "Drugs (such as calcium channel blockers)",
+            "Glucocorticoids",
+            "Mineralocorticoids",
+            "Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        ],
+        "question": "What conditions lead to fluid overload resulting in generalized fluid overload combined with gravitational effects?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 220,
+            "paragraph_id": "978-0702083471-p220-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Myocardial ischaemia (angina)",
+            "Myocardial infarction",
+            "Myocarditis",
+            "Pericarditis",
+            "Mitral valve prolapse syndrome"
+        ],
+        "options": [
+            "Myocardial ischaemia (angina)",
+            "Myocardial infarction",
+            "Myocarditis",
+            "Pericarditis",
+            "Mitral valve prolapse syndrome"
+        ],
+        "question": "What are the differential diagnoses of chest pain categorized under Cardiac?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 211,
+            "paragraph_id": "978-0702083471-p211-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amiodarone",
+            "Digoxin",
+            "Electrical cardioversion"
+        ],
+        "options": [
+            "Beta-blockers",
+            "Digoxin",
+            "Amiodarone",
+            "Electrical cardioversion",
+            "Anticoagulation therapy"
+        ],
+        "question": "What methods are used for controlling the heart rate in patients with atrial fibrillation (AF)?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 227,
+            "paragraph_id": "978-0702083471-p227-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Myocardial Infarction",
+            "Massive Pulmonary Embolism (PE)",
+            "Acute Valvular Pathology",
+            "Aortic Dissection",
+            "Cardiac Tamponade",
+            "Sepsis",
+            "Anaphylaxis",
+            "Haemorrhage"
+        ],
+        "options": [
+            "Acute Respiratory Distress Syndrome (ARDS)",
+            "Massive Pulmonary Embolism (PE)",
+            "Cardiac Arrest",
+            "Myocardial Infarction",
+            "Sepsis",
+            "Anaphylaxis",
+            "Haemorrhage"
+        ],
+        "question": "What types of cardiovascular conditions can lead to cardiogenic shock according to the description of acute medicine and critical illness management?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 234,
+            "paragraph_id": "978-0702083471-p234-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Codeine and paracetamol combination",
+            "Morphine starting dose of 5 mg of normal release morphine orally 6 times daily",
+            "Modified-release morphine starting dose of 10\u201315 mg 2 times daily",
+            "Slow-release morphine 30 mg 2 times daily",
+            "Normal-release morphine 10 mg for breakthrough pain"
+        ],
+        "options": [
+            "Codeine and paracetamol combination",
+            "Morphine starting dose of 5 mg of normal release morphine orally 6 times daily",
+            "Modified-release morphine starting dose of 10\u201315 mg 2 times daily",
+            "Slow-release morphine 30 mg 2 times daily",
+            "Normal-release morphine 10 mg for breakthrough pain",
+            "Amitriptyline 10 mg at bedtime",
+            "Dexamethasone for brachial plexus pressure, appetite, and general well-being"
+        ],
+        "question": "What medications and dosages were considered or implemented for managing John's pain?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 206,
+            "paragraph_id": "978-0702083471-p206-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "High-flow nasal cannulae",
+            "Non-invasive ventilation",
+            "Continuous positive pressure ventilation",
+            "Mechanical ventilation"
+        ],
+        "options": [
+            "High-flow nasal cannulae",
+            "Non-invasive ventilation",
+            "Continuous positive pressure ventilation",
+            "Mechanical ventilation",
+            "Respiratory muscle training",
+            "Oxygen therapy alone"
+        ],
+        "question": "What types of respiratory support options are discussed?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 239,
+            "paragraph_id": "978-0702083471-p239-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Arrhythmia",
+            "Left ventricular dysfunction",
+            "Aortic stenosis",
+            "Hypertrophic obstructive cardiomyopathy"
+        ],
+        "options": [
+            "Heart failure",
+            "Stroke",
+            "Atrial fibrillation",
+            "Arrhythmia",
+            "Left ventricular dysfunction",
+            "Aortic stenosis",
+            "Hypertrophic obstructive cardiomyopathy"
+        ],
+        "question": "What types of cardiac diseases can lead to impaired cerebral perfusion resulting in syncope?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 217,
+            "paragraph_id": "978-0702083471-p217-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Brain injury",
+            "Locked-in syndrome",
+            "Vegetative state",
+            "Minimally conscious state"
+        ],
+        "options": [
+            "Brain injury",
+            "Locked-in syndrome",
+            "Vegetative state",
+            "Minimally conscious state",
+            "Foot drop"
+        ],
+        "question": "What types of adverse neurological outcomes are described?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 247,
+            "paragraph_id": "978-0702083471-p247-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Haemodialysis",
+            "Urinary alkalinisation",
+            "Haemoperfusion",
+            "Multiple-dose activated charcoal",
+            "Gastric lavage"
+        ],
+        "options": [
+            "Haemodialysis",
+            "Gastric lavage",
+            "Urinary alkalinization",
+            "Single-dose oral activated charcoal administration",
+            "Eye irrigation"
+        ],
+        "question": "What methods can be considered for enhancing elimination in poisoned patients?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 255,
+            "paragraph_id": "978-0702083471-p255-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ethanol",
+            "Ethylene glycol",
+            "Methanol"
+        ],
+        "options": [
+            "Ethanol",
+            "Ethylene glycol",
+            "Methanol",
+            "Cyanide",
+            "Iron",
+            "Salicylates",
+            "Oleander",
+            "Benzocaine",
+            "Dapsone",
+            "Chlorobenzene"
+        ],
+        "question": "What types of substances cause elevation in both the anion gap and the osmolar gap?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 257,
+            "paragraph_id": "978-0702083471-p257-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Heat oedema defined as mild swelling to the limbs during the first few days of heat exposure",
+            "Heat cramps related to sodium loss generally occurring after exercise in non-acclimatized individuals",
+            "Heat syncope referring to a multifactorial syndrome involving transient loss of consciousness in the context of heat exposure",
+            "Heat exhaustion characterized by volume and salt depletion and inability to continue an activity due to heat stress",
+            "Heat stroke presenting with neurological impairment with core body temperature \u2265 40\u00b0C"
+        ],
+        "options": [
+            "Heat exhaustion characterized by inability to continue an activity due to heat stress",
+            "Heat syncope involving transient loss of consciousness in the context of heat exposure",
+            "Heat oedema defined as mild swelling to the limbs during the first few days of heat exposure",
+            "Heat strokes presenting with neurological impairment with core body temperature \u2265 40\u00b0C",
+            "Environmental heat illness caused by exertional activities",
+            "Exertional heat illness resulting from elevated ambient temperatures"
+        ],
+        "question": "What are the definitions of different types of heat-related illnesses?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 290,
+            "paragraph_id": "978-0702083471-p290-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Arterial gas embolism",
+            "Immersion pulmonary oedema",
+            "Shallow-water blackout"
+        ],
+        "options": [
+            "Arterial gas embolism",
+            "Decompression sickness",
+            "Shallow-water blackout",
+            "Nitrogen narcosis",
+            "Oxygen toxicity"
+        ],
+        "question": "What conditions related to diving or immersion can lead to serious health consequences?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 295,
+            "paragraph_id": "978-0702083471-p295-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ferrous sulphate",
+            "Lithium"
+        ],
+        "options": [
+            "Ferrous sulphate",
+            "Carbamazepine",
+            "Phenobarbital",
+            "Quinine",
+            "Theophylline",
+            "Lithium"
+        ],
+        "question": "What substances cannot be effectively managed or neutralized through administration of activated charcoal due to their properties making them non-adsorbable by activated charcoal?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 273,
+            "paragraph_id": "978-0702083471-p273-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Digoxin",
+            "Yellow Oleander",
+            "Iron supplements",
+            "Antipsychotic drugs",
+            "Haloperidol",
+            "Chlorpromazine",
+            "Sulphonylureas",
+            "Meglitinides",
+            "Metformin",
+            "Thiazolidinediones",
+            "Dipeptidyl peptidase 4 inhibitors"
+        ],
+        "options": [
+            "Digoxin",
+            "Yellow Oleander",
+            "Iron supplements",
+            "Antipsychotic drugs",
+            "Haloperidol",
+            "Chlorpromazine",
+            "Sulphonylureas",
+            "Meglitinides",
+            "Metformin",
+            "Thiazolidinediones",
+            "Dipeptidyl peptidase 4 inhibitors"
+        ],
+        "question": "What are the names of pharmaceutical agents discussed under different categories of poisoning?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 262,
+            "paragraph_id": "978-0702083471-p262-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ataxia",
+            "Coma",
+            "Convulsions",
+            "Cardiac repolarization abnormalities",
+            "Torsades de pointes",
+            "Respiratory failure",
+            "Muscle weakness",
+            "Numbness and paresthesiae",
+            "Flaccid paralysis of the lower and upper limbs",
+            "Foot and wrist drop",
+            "High-stepping gait",
+            "Paraesthesiae"
+        ],
+        "options": [
+            "Respiratory failure",
+            "Cardiac repolarization abnormalities",
+            "Torsades de pointes",
+            "Convulsions",
+            "Coma",
+            "Ataxia",
+            "Muscle weakness",
+            "Numbness and paresthesiae",
+            "Flaccid paralysis of the lower and upper limbs",
+            "Foot and wrist drop",
+            "High-stepping gait",
+            "Paraesthesiae"
+        ],
+        "question": "What are the typical signs and symptoms observed in cases of organophosphate poisoning?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 267,
+            "paragraph_id": "978-0702083471-p267-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rubella virus",
+            "Cytomegalovirus",
+            "Zika virus",
+            "Varicella-zoster (VZ) virus",
+            "Herpes simplex virus (HSV)",
+            "Hepatitis B virus",
+            "Hepatitis E virus",
+            "Human immunodeficiency virus-1 (HIV-1)",
+            "Parvovirus B19",
+            "Dengue virus",
+            "Toxoplasma gondii"
+        ],
+        "options": [
+            "Rubella virus",
+            "Cytomegalovirus",
+            "Zika virus",
+            "Varicella-zoster (VZ) virus",
+            "Herpes simplex virus (HSV)",
+            "Hepatitis B virus",
+            "Hepatitis E virus",
+            "Human immunodeficiency virus-1 (HIV-1)",
+            "Parvovirus B19",
+            "Dengue virus",
+            "Toxoplasma gondii",
+            "Group B streptococcus",
+            "Neisseria gonorrhoeae",
+            "Listeria monocytogenes",
+            "Brucella species",
+            "Syphilis bacterium",
+            "Chlamydia trachomatis",
+            "Malaria parasite"
+        ],
+        "question": "What are the names of viruses causing infections of specific importance in pregnancy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 319,
+            "paragraph_id": "978-0702083471-p319-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Location-independent investigations",
+            "Culturing",
+            "Antigen detection",
+            "Nucleic acid detection",
+            "Immunological tests",
+            "Geographically restricted tests"
+        ],
+        "options": [
+            "Location-dependent investigations",
+            "Geographical analysis",
+            "Nonspecific laboratory testing",
+            "Pathophysiological assessments",
+            "Antimicrobial sensitivity testing"
+        ],
+        "question": "What categories of diagnostic approaches are utilized during the investigation of pyrexia of unknown origin?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 306,
+            "paragraph_id": "978-0702083471-p306-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Full blood count (FBC) with differential, including eosinophil count",
+            "Urea and electrolytes, liver function tests (LFTs), blood glucose and muscle enzymes",
+            "Inflammatory markers: erythrocyte sedimentation rate (ESR), C-reactive protein (CRP) and/or procalcitonin (PCT)",
+            "An HIV-1 antigen/antibody test",
+            "Autoantibodies, including antinuclear antibodies (ANA)",
+            "Chest X-ray and electrocardiogram (ECG)",
+            "Urinalysis and urine culture",
+            "Blood culture",
+            "Throat swab for culture or respiratory pathogen nucleic acid detection (usually by PCR)"
+        ],
+        "options": [
+            "Blood culture",
+            "Urine analysis",
+            "Chest radiograph",
+            "Sputum microscopy for parasites",
+            "Throat swab",
+            "Echocardiography",
+            "Urea and electrolytes testing",
+            "Polymerase Chain Reaction (PCR)",
+            "Ferritin level estimation"
+        ],
+        "question": "What types of laboratory tests might clinicians initially conduct when investigating a case of suspected infection?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 303,
+            "paragraph_id": "978-0702083471-p303-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Salmonella serovars",
+            "Campylobacter spp.",
+            "Enterohaemorrhagic Escherichia coli (EHEC)",
+            "Yersinia enterocolitica"
+        ],
+        "options": [
+            "Salmonella serovars",
+            "Campylobacter spp.",
+            "Enterohaemorrhagic Escherichia coli (EHEC)",
+            "Yersinia enterocolitica",
+            "Vibrio spp.",
+            "Norovirus",
+            "Hepatitis A",
+            "Hepatitis E",
+            "Rotavirus"
+        ],
+        "question": "What types of pathogens can contaminate unpasteurized milk or juice?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 312,
+            "paragraph_id": "978-0702083471-p312-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amitriptyline",
+            "Gabapentin",
+            "Pregabalin",
+            "Capsaicin cream"
+        ],
+        "options": [
+            "Amitriptyline",
+            "Gabapentin",
+            "Pregabalin",
+            "Capric acid",
+            "Capsaicin cream",
+            "Valacyclovir"
+        ],
+        "question": "What medications are specifically listed for treating post-herpetic neuralgia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 322,
+            "paragraph_id": "978-0702083471-p322-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Incubation period of 2-21 days",
+            "Abdominal pain, diarrhea, vomiting, and hiccups",
+            "Maculopapular rash occurring after 5-7 days",
+            "Bleeding from the gums or venipuncture sites",
+            "Haemorrhage as a terminal event",
+            "Fluid loss reaching 10 liters per day due to diarrhea"
+        ],
+        "options": [
+            "Incubation period of 2-21 days",
+            "Non-specific signs resembling dengue",
+            "Abdominal pain, diarrhea, vomiting, and hiccups",
+            "Maculopapular rash occurring after 5-7 days",
+            "Bleeding from the gums or venipuncture sites",
+            "Haemorrhage as a terminal event",
+            "Fluid loss reaching 10 liters per day due to diarrhea"
+        ],
+        "question": "What clinical features are described for Ebola virus disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 329,
+            "paragraph_id": "978-0702083471-p329-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tick-borne encephalitis virus",
+            "West Nile virus",
+            "Dengue virus"
+        ],
+        "options": [
+            "Tick-borne encephalitis virus",
+            "West Nile virus",
+            "Dengue virus",
+            "Chikungunya virus",
+            "Nipah virus"
+        ],
+        "question": "What are the names of the flaviviruses mentioned?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 338,
+            "paragraph_id": "978-0702083471-p338-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Isolation of the organism via culture",
+            "Serological tests demonstrating seroconversion or a significant increase in titer",
+            "Detection of leptospiral DNA by polymerase chain reaction (PCR)"
+        ],
+        "options": [
+            "Isolation of the organism via culture",
+            "Serological tests demonstrating seroconversion or a significant increase in titer",
+            "Microscopic examination of bodily fluids",
+            "Detection of leptospiral DNA by polymerase chain reaction (PCR)",
+            "Histopathology analysis"
+        ],
+        "question": "What are the primary methods through which leptospirosis is diagnosed?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 345,
+            "paragraph_id": "978-0702083471-p345-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "*Rickettsia rickettsii*",
+            "*Rickettsia conorii*",
+            "*Rickettsia africae*"
+        ],
+        "options": [
+            "*Streptobacillus moniliformis*",
+            "*Leptospira interrogans*",
+            "*Francisella tularensis*",
+            "*Yersinia pestis*",
+            "*Rickettsia rickettsii*",
+            "*Rickettsia conorii*",
+            "*Rickettsia africae*"
+        ],
+        "question": "What types of bacteria can cause spotted fever?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 356,
+            "paragraph_id": "978-0702083471-p356-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Granulomatous diseases",
+            "Infectious diseases",
+            "Neurological disorders"
+        ],
+        "options": [
+            "Tuberculosis",
+            "Respiratory diseases",
+            "Neurological disorders",
+            "Granulomatous diseases",
+            "Infectious diseases"
+        ],
+        "question": "What types of diseases does leprosy cause?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 353,
+            "paragraph_id": "978-0702083471-p353-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Surgery",
+            "Skin grafting",
+            "Physiotherapy"
+        ],
+        "options": [
+            "Surgery",
+            "Skin grafting",
+            "Physiotherapy",
+            "Antibiotic therapy",
+            "Debridement"
+        ],
+        "question": "What types of treatments are involved in managing and preventing disability from systemic bacterial infections?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 342,
+            "paragraph_id": "978-0702083471-p342-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "P. falciparum",
+            "P. malariae",
+            "P. knowlesi"
+        ],
+        "options": [
+            "P. vivax",
+            "P. ovale",
+            "P. malariae",
+            "P. falciparum",
+            "P. knowlesi",
+            "Aspiration pneumonia",
+            "Cerebral malaria",
+            "Coma"
+        ],
+        "question": "What types of malaria parasites cause distinct clinical syndromes?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 361,
+            "paragraph_id": "978-0702083471-p361-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dog",
+            "Rat",
+            "Field mouse",
+            "Water buffalo",
+            "Ox",
+            "Cat",
+            "Pig",
+            "Horse",
+            "Sheep"
+        ],
+        "options": [
+            "Dog",
+            "Rat",
+            "Field mouse",
+            "Water buffalo",
+            "Ox",
+            "Cat",
+            "Pig",
+            "Horse",
+            "Sheep"
+        ],
+        "question": "What animals can become infected with *S. japonicum*?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 379,
+            "paragraph_id": "978-0702083471-p379-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Early case finding through active surveillance",
+            "Prompt treatment of new cases",
+            "Vector control through indoor residual spraying",
+            "Impregnating bed nets",
+            "Personal protection against sand fly bites"
+        ],
+        "options": [
+            "Active surveillance through passive reporting",
+            "Prompt treatment of new cases",
+            "Vector control through outdoor residual spraying",
+            "Impregnating clothing with insecticide",
+            "Early case finding through active surveillance",
+            "Personal protection against mosquito bites",
+            "Indoor residual spraying",
+            "Impregnating bed nets"
+        ],
+        "question": "What are the key elements included in the prevention and control strategies for Visceral Leishmaniasis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 367,
+            "paragraph_id": "978-0702083471-p367-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Skin",
+            "Lungs",
+            "Duodenum",
+            "Upper Jejunum",
+            "Alveoli",
+            "Bronchi"
+        ],
+        "options": [
+            "Skin",
+            "Lungs",
+            "Duodenum",
+            "Upper Jejunum",
+            "Alveoli",
+            "Bronchi"
+        ],
+        "question": "Which body parts are affected throughout the lifecycle of Ancylostomiasis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 372,
+            "paragraph_id": "978-0702083471-p372-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Malignancies such as Kaposi's sarcoma or lymphoma",
+            "Infections, particularly those caused by Mycobacteria",
+            "Asymptomatic HIV infection"
+        ],
+        "options": [
+            "Malignancies such as Kaposi's sarcoma or lymphoma",
+            "Infections, particularly those caused by Mycobacteria",
+            "Asymptomatic HIV infection",
+            "Weight loss"
+        ],
+        "question": "What are the possible causes of persistent generalized lymphadenopathy in individuals infected with HIV?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 397,
+            "paragraph_id": "978-0702083471-p397-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "HIV-1",
+            "HIV-2"
+        ],
+        "options": [
+            "HIV-1",
+            "HIV-2",
+            "Simian Immunodeficiency Virus (SIV)",
+            "Hepatitis"
+        ],
+        "question": "What types of human immunodeficiency virus (HIV) are identified?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 393,
+            "paragraph_id": "978-0702083471-p393-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Systemic candidiasis",
+            "Cryptococcosis",
+            "Fusariosis",
+            "Mucormycosis",
+            "Scedosporiosis",
+            "Pneumocystosis",
+            "Histoplasmosis"
+        ],
+        "options": [
+            "Systemic candidiasis",
+            "Chronic disseminated candidiasis",
+            "Cryptococcosis",
+            "Fusariosis",
+            "Mucormycosis",
+            "Scedosporiosis",
+            "Pneumocystosis",
+            "Histoplasmosis"
+        ],
+        "question": "What types of fungal infections result from different pathogens?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 384,
+            "paragraph_id": "978-0702083471-p384-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bacterial pneumonia",
+            "Pulmonary tuberculosis",
+            "PCP"
+        ],
+        "options": [
+            "Bacterial meningitis",
+            "Bacterial pneumonia",
+            "Pulmonary tuberculosis",
+            "Malaria",
+            "PCP"
+        ],
+        "question": "What types of diseases do most patients admitted for respiratory issues present?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 402,
+            "paragraph_id": "978-0702083471-p402-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Nucleic acid testing such as PCR for Treponema pallidum",
+            "Dark field microscopy",
+            "Serological tests for syphilis (STS) such as treponemal enzyme immunoassays (EIAs) for IgG and IgM antibodies",
+            "Non-treponemal tests like VDRL or RPR tests",
+            "Chest X-ray",
+            "Electrocardiogram (ECG)",
+            "Echocardiogram",
+            "Biopsy",
+            "Examination of cerebrospinal fluid (CSF)"
+        ],
+        "options": [
+            "Blood tests",
+            "Urinalysis",
+            "Chest X-rays",
+            "Electroencephalography (EEG)",
+            "Electrophysiology studies",
+            "Skin biopsy",
+            "Lumbar puncture",
+            "MRI scans"
+        ],
+        "question": "What types of investigations can be conducted for diagnosing syphilis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 420,
+            "paragraph_id": "978-0702083471-p420-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "B. Chemokine receptor 5 (CCR5)",
+            "F. CXCR4"
+        ],
+        "options": [
+            "A. CD8",
+            "B. Chemokine receptor 5 (CCR5)",
+            "C. CD20",
+            "D. Major histocompatibility complex (MHC)",
+            "E. CD3",
+            "F. CXCR4"
+        ],
+        "question": "What are the co-receptors utilized by HIV for entry into the host cells?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 410,
+            "paragraph_id": "978-0702083471-p410-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pneumocystis jirovecii pneumonia",
+            "Cerebral toxoplasmosis",
+            "Bacterial pneumonia",
+            "Bacteraemia",
+            "Cystoisosporiasis",
+            "Malaria"
+        ],
+        "options": [
+            "Tuberculosis",
+            "Toxoplasmosis",
+            "Cryptococcosis",
+            "Pneumocystis jirovecii pneumonia",
+            "Cerebral toxoplasmosis",
+            "Bacterial pneumonia",
+            "Bacteraemia",
+            "Cystoisosporiasis",
+            "Malaria",
+            "Mycobacterium avium complex"
+        ],
+        "question": "What opportunistic infections does co-trimoxazole help prevent?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 407,
+            "paragraph_id": "978-0702083471-p407-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Blood test for HIV",
+            "Culture for antimicrobial sensitivity",
+            "Gram-stained microscopy for urethral discharge",
+            "Syphilis serology"
+        ],
+        "options": [
+            "Gonorrhea NAA T test from the urine",
+            "Blood test for HIV",
+            "Culture for antimicrobial sensitivity",
+            "Gram-stained microscopy for urethral discharge",
+            "Syphilis serology"
+        ],
+        "question": "What tests might be conducted during the examination for symptoms related to sexually transmitted infections?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 428,
+            "paragraph_id": "978-0702083471-p428-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mitral valve dysfunction",
+            "Congenital abnormalities such as atrial septal defects",
+            "Aortic dissection",
+            "Infective endocarditis",
+            "Systemic embolism"
+        ],
+        "options": [
+            "Coronary artery disease",
+            "Systemic embolism",
+            "Infective endocarditis",
+            "Congestive heart failure",
+            "Pulmonary embolism",
+            "Mitral valve dysfunction",
+            "Hypertension",
+            "Cardiac arrhythmias",
+            "Myocardial ischemia",
+            "Prosthetic valve dysfunction",
+            "Intracardiac thrombus",
+            "Atrial fibrillation",
+            "Atrioventricular block",
+            "Bundle branch block",
+            "Ventricular tachycardia",
+            "Right-sided heart failure",
+            "Chronic kidney disease",
+            "Hyperlipidemia",
+            "Aortic dissection"
+        ],
+        "question": "What conditions can transoesophageal echocardiography (TOE) specifically investigate?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 439,
+            "paragraph_id": "978-0702083471-p439-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Clubbing",
+            "Splinter hemorrhages",
+            "Central cyanosis",
+            "Pallor",
+            "Dental caries",
+            "Fundi retinopathy",
+            "Stigmata of hyperlipidemia",
+            "Tendon xanthomas",
+            "Malar flush"
+        ],
+        "options": [
+            "Pallor",
+            "Clubbing",
+            "Splinter hemorrhages",
+            "Central cyanosis",
+            "Dental caries",
+            "Fundi retinopathy",
+            "Stigmata of hyperlipidemia",
+            "Tendon xanthoma",
+            "Malar flush"
+        ],
+        "question": "What signs can indicate cardiovascular issues during clinical examination?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 430,
+            "paragraph_id": "978-0702083471-p430-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Valaciclovir",
+            "Aciclovir",
+            "Azithromycin",
+            "Doxycycline",
+            "Erythromycin",
+            "Ciprofloxacin",
+            "Ceftriaxone"
+        ],
+        "options": [
+            "Valacyclovir",
+            "Azithromycin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Doxycycline",
+            "Aciclovir",
+            "Ceftriaxone"
+        ],
+        "question": "What medications are prescribed for treating sexually transmitted viral infections?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 423,
+            "paragraph_id": "978-0702083471-p423-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mineralocorticoid receptor antagonists",
+            "SGLT-2 inhibitors",
+            "Thiazide diuretics",
+            "Loop diuretics",
+            "Beta-blockers",
+            "Angiotensin-converting enzyme inhibitors",
+            "Hydralazine and nitrate combinations",
+            "Angiotensin receptor blockers"
+        ],
+        "options": [
+            "Mineralocorticoid receptor antagonists",
+            "SGLT-2 inhibitors",
+            "Thiazide diuretics",
+            "Loop diuretics",
+            "Beta-blockers",
+            "Angiotensin-converting enzyme inhibitors",
+            "Hydralazine and nitrate combinations",
+            "Angiotensin receptor blockers"
+        ],
+        "question": "What classes of drugs are typically utilized in managing various manifestations of heart failure?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 450,
+            "paragraph_id": "978-0702083471-p450-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Endothelin-1",
+            "Aldosterone",
+            "Vasopressin",
+            "Renin\u2013angiotensin system"
+        ],
+        "options": [
+            "Endothelin-1",
+            "Aldosterone",
+            "Vasopressin",
+            "Renin\u2013angiotensin system",
+            "Natriuretic peptides"
+        ],
+        "question": "What factors contribute to vasoconstriction in the context of heart failure?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 447,
+            "paragraph_id": "978-0702083471-p447-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mitral valve disease",
+            "Hyperthyroidism",
+            "Ischemic heart disease"
+        ],
+        "options": [
+            "Mitral valve disease",
+            "Rheumatic fever",
+            "Hyperthyroidism",
+            "Chronic obstructive pulmonary disease (COPD)",
+            "Heart failure",
+            "Ischemic heart disease"
+        ],
+        "question": "What conditions increase the likelihood of developing atrial fibrillation according to common medical understanding?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 458,
+            "paragraph_id": "978-0702083471-p458-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amiodarone",
+            "Sotalol",
+            "Dronedarone"
+        ],
+        "options": [
+            "Amiodarone",
+            "Sotalol",
+            "Verapamil",
+            "Dronedarone",
+            "Atropine"
+        ],
+        "question": "What types of Class III drugs are specifically named in discussions about their effectiveness against various forms of cardiac arrhythmias?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 465,
+            "paragraph_id": "978-0702083471-p465-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Beta-blockers",
+            "Calcium channel antagonists",
+            "Nitrates"
+        ],
+        "options": [
+            "Beta-blockers",
+            "Calcium channel antagonists",
+            "Nitrates",
+            "Antiplatelets"
+        ],
+        "question": "What types of medications are discussed for treating coronary artery disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 473,
+            "paragraph_id": "978-0702083471-p473-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Class I",
+            "Class II",
+            "Class III",
+            "Class IV"
+        ],
+        "options": [
+            "Class Ia",
+            "Class Ib",
+            "Class Ic",
+            "Class II",
+            "Class III",
+            "Class IV",
+            "None of these"
+        ],
+        "question": "What are the classifications of anti-arrhythmic drugs?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 463,
+            "paragraph_id": "978-0702083471-p463-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Prolonged cardiac pain in areas such as the chest, throat, arms, epigastrium, or back",
+            "Anxiety and fear of impending death",
+            "Nausea and vomiting",
+            "Breathlessness",
+            "Collapse/syncope"
+        ],
+        "options": [
+            "Chest pain",
+            "Anxiety",
+            "Nausea",
+            "Vomiting",
+            "Breathlessness",
+            "Collapse",
+            "Syncope",
+            "Back pain",
+            "Epigastric discomfort",
+            "Arm pain",
+            "Throat pain"
+        ],
+        "question": "What are the possible symptoms experienced by individuals suffering from acute coronary syndrome?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 478,
+            "paragraph_id": "978-0702083471-p478-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Balloon valvuloplasty",
+            "Surgical closed mitral valvotomy",
+            "Open mitral valvotomy",
+            "Valve replacement"
+        ],
+        "options": [
+            "Balloon valvuloplasty",
+            "Surgical closed mitral valvotomy",
+            "Open mitral valvotomy",
+            "Valve replacement",
+            "Medical management alone",
+            "Antibiotic prophylaxis against infective endocarditis"
+        ],
+        "question": "What treatments are considered for managing diseases affecting the heart valves, specifically focusing on interventions rather than medications?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 499,
+            "paragraph_id": "978-0702083471-p499-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Old age",
+            "Depression",
+            "Social isolation",
+            "Poor left ventricular function",
+            "Unfavourable features such as bundle branch block and high cardiac marker concentrations"
+        ],
+        "options": [
+            "Age",
+            "Sex",
+            "Smoking status",
+            "Family history of cardiovascular diseases",
+            "Depression",
+            "Social isolation",
+            "High blood pressure",
+            "Poor left ventricular function"
+        ],
+        "question": "What are the factors associated with a higher mortality rate in patients who have had an acute coronary syndrome?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 483,
+            "paragraph_id": "978-0702083471-p483-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "True aneurysms - composed of all layers of the arterial wall",
+            "False (pseud) aneurysms - does not involve all layers of the artery"
+        ],
+        "options": [
+            "True aneurysms involving degeneration of the medial layer of the arterial wall",
+            "False (pseudo) aneurysms due to trauma causing damage to the arterial lining",
+            "True aneurysms - composed of all layers of the arterial wall",
+            "False (pseud) aneurysms - does not involve all layers of the artery",
+            "Infectious aneurysms resulting from bacterial infections",
+            "Degenerative aneurysms caused by aging processes"
+        ],
+        "question": "What are the two main categories of aneurysms classified by composition regarding involvement of the arterial wall layers?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 487,
+            "paragraph_id": "978-0702083471-p487-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cardiac failure",
+            "Arrhythmias",
+            "Thromboembolic events"
+        ],
+        "options": [
+            "Heart attack",
+            "Stroke",
+            "Cancer",
+            "High cholesterol",
+            "Diabetes",
+            "Cardiac failure",
+            "Arrhythmias",
+            "Thromboembolic events",
+            "Kidney disease"
+        ],
+        "question": "What long-term cardiovascular complications can occur in adults with grown-up congenital heart disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 516,
+            "paragraph_id": "978-0702083471-p516-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Obstructive lesions",
+            "Cyanotic conditions",
+            "Surgically corrected disease"
+        ],
+        "options": [
+            "Obstructive lesions",
+            "Cyanotic conditions",
+            "Surgically corrected disease",
+            "Other congenitally acquired diseases"
+        ],
+        "question": "What are the different types of lesions or conditions related to congenital heart disease that affect tolerance during pregnancy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 512,
+            "paragraph_id": "978-0702083471-p512-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Staphylococci",
+            "Streptococci",
+            "Enterococcus species",
+            "HACEK group",
+            "Polymicrobial",
+            "Other bacteria",
+            "Fungi"
+        ],
+        "options": [
+            "Staphylococci",
+            "Streptococci",
+            "Enterococcus species",
+            "HACEK group",
+            "Fungal agents"
+        ],
+        "question": "What are the types of pathogens involved in infective endocarditis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 508,
+            "paragraph_id": "978-0702083471-p508-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bicuspid valve or disproportionate cusps",
+            "Rheumatic disease",
+            "Infective endocarditis",
+            "Trauma",
+            "Marfan syndrome",
+            "Syphilis",
+            "Ankylosing spondylitis",
+            "Aneurysm",
+            "Aortic dissection"
+        ],
+        "options": [
+            "Congenitally bicuspid valve",
+            "Acquired conditions such as rheumatic disease",
+            "Infectious diseases like infective endocarditis",
+            "Physical trauma",
+            "Conditions causing aortic dilation including Marfan syndrome",
+            "Ankylosing spondylitis"
+        ],
+        "question": "What are the possible causes of aortic regurgitation?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 504,
+            "paragraph_id": "978-0702083471-p504-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Serous/fr othy/pink sputum",
+            "Mucopurulent sputum",
+            "Purulent sputum",
+            "Blood-stained sputum"
+        ],
+        "options": [
+            "Serous/fr othy/pink sputum",
+            "Mucopurulent sputum",
+            "Purulent sputum",
+            "Blood-stained sputum",
+            "Normal colored sputum"
+        ],
+        "question": "What types of sputum can indicate different conditions according to clinical examination findings?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 526,
+            "paragraph_id": "978-0702083471-p526-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tetracycline",
+            "Minocycline",
+            "Doxycycline",
+            "Bleomycin"
+        ],
+        "options": [
+            "Tetracycline",
+            "Minocycline",
+            "Doxycycline",
+            "Bleomycin",
+            "Antibiotics"
+        ],
+        "question": "What chemicals are typically used for pleurodesis in treating certain types of pleural diseases?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 541,
+            "paragraph_id": "978-0702083471-p541-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Oral prednisolone",
+            "Pericardiocentesis",
+            "Percutaneous coronary intervention"
+        ],
+        "options": [
+            "Oral prednisolone",
+            "Oral colchicine 500 \u03bcg twice daily for 3 months",
+            "Oral ibuprofen, 400 mg three times daily",
+            "Pericardiocentesis",
+            "Percutaneous coronary intervention"
+        ],
+        "question": "What treatments were considered inappropriate for this case of acute pericarditis due to their nature or potential effects?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 524,
+            "paragraph_id": "978-0702083471-p524-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Forced expired volume in 1 second (FEV1)",
+            "Forced vital capacity (FVC)"
+        ],
+        "options": [
+            "Total lung capacity",
+            "Residual volume",
+            "Forced vital capacity (FVC)",
+            "Inspiratory capacity",
+            "Functional residual capacity",
+            "Forced expired volume in 1 second (FEV1)"
+        ],
+        "question": "What are the key measurements obtained from spirometry?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 534,
+            "paragraph_id": "978-0702083471-p534-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Severe chronic lung disease and type II respiratory failure developing abnormal tolerance to raised PaCO2",
+            "Sedative poisoning",
+            "Primary failure of neurological drive",
+            "Tension pneumothorax",
+            "Asthma"
+        ],
+        "options": [
+            "Severe chronic lung disease and type II respiratory failure developing abnormal tolerance to raised PaCO2",
+            "Sedative poisoning",
+            "Primary failure of neurological drive",
+            "Tension pneumothorax",
+            "Asthma",
+            "Hypercapnic respiratory failure",
+            "Hypoventilation",
+            "Anaphylaxis"
+        ],
+        "question": "What conditions require immediate attention and potential management through mechanical support or adjustment of oxygen levels in patients experiencing respiratory issues?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 544,
+            "paragraph_id": "978-0702083471-p544-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pneumococcal vaccine",
+            "Influenza vaccine",
+            "Haemophilus influenzae type b vaccine",
+            "Pertussis vaccine",
+            "Measles vaccine"
+        ],
+        "options": [
+            "Tuberculosis vaccine",
+            "Measles vaccine",
+            "Pneumococcal vaccine",
+            "Hepatitis B vaccine",
+            "Haemophilus influenzae type b vaccine"
+        ],
+        "question": "What types of vaccinations can prevent certain causes of pneumonia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 560,
+            "paragraph_id": "978-0702083471-p560-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aminopenicillins",
+            "Tetracyclines",
+            "Macrolides"
+        ],
+        "options": [
+            "Aminopenicillins",
+            "Tetracyclines",
+            "Macrolides",
+            "Penicillin G",
+            "Fluoroquinolones"
+        ],
+        "question": "What are the listed options for antibiotic therapy in treating exacerbations of severe COPD?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 555,
+            "paragraph_id": "978-0702083471-p555-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Blood count",
+            "Chest X-ray",
+            "Spirometry",
+            "Body plethysmography",
+            "Helium dilution technique",
+            "Pulse oximetry",
+            "Exercise tests",
+            "HRCT"
+        ],
+        "options": [
+            "Blood count",
+            "Chest X-ray",
+            "Spirometry",
+            "Body plethysmography",
+            "Helium dilution technique",
+            "Pulse oximetry",
+            "Exercise tests",
+            "HRCT"
+        ],
+        "question": "What investigations can be used to assess the condition described?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 552,
+            "paragraph_id": "978-0702083471-p552-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pulmonary infections in individuals with severe HIV disease",
+            "Disseminated infections in people living with HIV/AIDS"
+        ],
+        "options": [
+            "Pulmonary infections in individuals with severe HIV disease",
+            "Skin and soft tissue infections in immunocompetent hosts",
+            "Disseminated infections in people living with HIV/AIDS",
+            "Gastrointestinal tract infections due to ingestion of contaminated food",
+            "Bloodstream infections leading to sepsis"
+        ],
+        "question": "What types of infections does Mycobacterium avium complex (MAC) typically cause in different parts of the body?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 571,
+            "paragraph_id": "978-0702083471-p571-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Infection",
+            "Malignancy",
+            "Pulmonary oedema",
+            "Aspiration pneumonitis"
+        ],
+        "options": [
+            "Infections such as tuberculosis",
+            "Malignancy like leukemia and lymphoma",
+            "Pulmonary oedema",
+            "Aspiration pneumonitis",
+            "Sarcoidosis",
+            "Hypersensitivity pneumonitis"
+        ],
+        "question": "What conditions can mimic diffuse parenchymal lung disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 581,
+            "paragraph_id": "978-0702083471-p581-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Within 3\u20138 weeks: Primary complex, positive tuberculin skin test",
+            "Between 3\u20136 months: Meningeal, miliary and pleural disease",
+            "Up to 3 years: Gastrointestinal, bone and joint, and lymph node disease",
+            "Around 8 years: Renal tract disease",
+            "From 3 years onwards: Post-primary disease due to reactivation or reinfection"
+        ],
+        "options": [
+            "Primary complex, positive tuberculin skin test within 0-3 weeks",
+            "Meningeal, miliary and pleural disease around 5 days post-exposure",
+            "Bone and joint disease immediately upon infection",
+            "Up to 3 years gastrointestinal, bone and joint, and lymph node disease",
+            "Around 8 years renal tract disease",
+            "From 3 years onwards post-primary disease due to reactivation or reinfection",
+            "Skin rash appears within the first month of infection",
+            "Fever starts right away upon contraction of the bacteria"
+        ],
+        "question": "What are the manifestations at different times following tuberculosis infection?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 565,
+            "paragraph_id": "978-0702083471-p565-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Siderosis",
+            "Silicosis",
+            "Berylliosis",
+            "Asbestos-related disease",
+            "Aluminosis",
+            "Baritosis",
+            "Stannosis",
+            "Hard Metal Disease",
+            "Haematite Lung Disease",
+            "Popcorn Worker\u2019s Lung"
+        ],
+        "options": [
+            "Siderosis",
+            "Silicosis",
+            "Berylliosis",
+            "Asbestosis",
+            "Aluminosis",
+            "Baritosis",
+            "Stannosis",
+            "Hard Metal Disease",
+            "Haematite Lung Disease",
+            "UIP",
+            "COPD",
+            "Tuberculosis",
+            "Non-Tuberculous Mycobacterial Infection",
+            "Lung Cancer"
+        ],
+        "question": "What are the different forms of occupational and environmental lung diseases discussed?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 589,
+            "paragraph_id": "978-0702083471-p589-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Group 1: Pulmonary arterial hypertension",
+            "Group 2: Pulmonary hypertension owing to left heart disease",
+            "Group 3: Pulmonary hypertension due to lung diseases/hypoxia",
+            "Group 4: Pulmonary hypertension caused by chronic thromboembolic disease",
+            "Group 5: Miscellaneous causes"
+        ],
+        "options": [
+            "Group 1: Pulmonary arterial hypertension",
+            "Group 2: Pulmonary hypertension owing to left heart disease",
+            "Group 3: Pulmonary hypertension due to lung diseases/hypoxia",
+            "Group 4: Pulmonary hypertension caused by chronic thromboembolic disease",
+            "Group 5: Miscellaneous causes",
+            "Other classifications",
+            "No group system exists"
+        ],
+        "question": "What classifications of pulmonary hypertension exist according to Group categorization?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 595,
+            "paragraph_id": "978-0702083471-p595-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acute eosinophilic pneumonia",
+            "Chronic eosinophilic pneumonia",
+            "Asthma",
+            "Tropical pulmonary eosinophilia",
+            "Idiopathic hypereosinophilic syndrome",
+            "Drug-induced pulmonary eosinophilia",
+            "Parasitic pulmonary eosinophilia",
+            "Loef\ufb02er\u2019s syndrome"
+        ],
+        "options": [
+            "Acute eosinophilic pneumonia",
+            "Chronic eosinophilic pneumonia",
+            "Asthma",
+            "Tuberculosis",
+            "Tropical pulmonary eosinophilia",
+            "Idiopathic hypereosinophilic syndrome",
+            "Drug-induced pulmonary eosinophilia",
+            "Parasitic pulmonary eosinophilia",
+            "Loef\ufb02er\u2019s syndrome"
+        ],
+        "question": "What types of conditions are classified under pulmonary eosinophilia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 585,
+            "paragraph_id": "978-0702083471-p585-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tension type",
+            "Closed type",
+            "Open type"
+        ],
+        "options": [
+            "Tension type",
+            "Closed type",
+            "Open type",
+            "Primary type",
+            "Secondary type"
+        ],
+        "question": "What types of spontaneous pneumothorax can occur?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 600,
+            "paragraph_id": "978-0702083471-p600-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Magnetic Resonance Angiography (MRA)",
+            "Renal Arteriography",
+            "Pyelography",
+            "Radionuclide Studies"
+        ],
+        "options": [
+            "Ultrasound",
+            "Magnetic Resonance Angiography (MRA)",
+            "Computed Tomography (CT scan)",
+            "Radionuclide Studies",
+            "Pyelography",
+            "Renal Arteriography"
+        ],
+        "question": "What techniques are available for diagnosing issues related to the kidneys and urinary system?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 612,
+            "paragraph_id": "978-0702083471-p612-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunological injury",
+            "Inherited diseases such as Alport syndrome",
+            "Metabolic diseases such as diabetes mellitus",
+            "Deposition of abnormal proteins such as amyloid in the glomeruli"
+        ],
+        "options": [
+            "Diabetes mellitus",
+            "Amyloid deposition",
+            "Minimal Change Disease",
+            "Hypertension",
+            "Glaucoma",
+            "Systemic Lupus Erythematosus"
+        ],
+        "question": "What conditions can cause glomerular damage leading to various forms of glomerular disease?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 618,
+            "paragraph_id": "978-0702083471-p618-para1"
+        },
+        "type": "list"
+    }
+]

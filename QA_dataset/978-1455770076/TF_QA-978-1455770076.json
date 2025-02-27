@@ -8,5 +8,1605 @@
             "paragraph_id": "978-1455770076-p599-para1"
         },
         "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "CHAPTER 49 discusses pain receptors.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 16,
+            "paragraph_id": "978-1455770076-p16-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "One mole of NaCl equals exactly 2 moles of osmotically active particles after complete dissociation into its constituent ions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 78,
+            "paragraph_id": "978-1455770076-p78-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The human heart beats more than two million times annually.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 100,
+            "paragraph_id": "978-1455770076-p100-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sodium channels are approximately 10 times larger in diameter compared to potassium channels.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 74,
+            "paragraph_id": "978-1455770076-p74-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sodium channels require repolarization before reopening.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 90,
+            "paragraph_id": "978-1455770076-p90-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A typical neuron contains exactly 20 picograms of protein per cubic micrometer.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 87,
+            "paragraph_id": "978-1455770076-p87-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An action potential occurs whenever the membrane potential rises above the threshold voltage value for initiating an action potential.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 93,
+            "paragraph_id": "978-1455770076-p93-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Parallel light rays passing through different parts of a convex lens always converge to form an inverted real image behind the lens.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 661,
+            "paragraph_id": "978-1455770076-p661-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Only a small fraction of the pain signals project directly to the ventrobasal complex of the thalamus.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 641,
+            "paragraph_id": "978-1455770076-p641-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An example of a simple reverberatory circuit involves only two neurons where the first neuron's axon terminal connects with the dendrite of another neuron to create positive feedback.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 627,
+            "paragraph_id": "978-1455770076-p627-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fibers from the upper parts of the body are located more centrally than those from the lower parts of the body in the dorsal columns of the spinal cord.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 634,
+            "paragraph_id": "978-1455770076-p634-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Enkephalin blocks incoming type B pain fibers where they synapse in the dorsal horns.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 649,
+            "paragraph_id": "978-1455770076-p649-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Two needles placed 5 mm apart on the tip of a finger cannot be distinguished as separate points of stimuli.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 638,
+            "paragraph_id": "978-1455770076-p638-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "New vesicles need to be formed rapidly after each action potential is over.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 116,
+            "paragraph_id": "978-1455770076-p116-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Skeletal muscle fibers are up to 500 micrometers in length.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 121,
+            "paragraph_id": "978-1455770076-p121-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Each cross-bridge operates independently of other cross-bridges while walking along the actin filament.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 104,
+            "paragraph_id": "978-1455770076-p104-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mitochondria supply ATP primarily for the transmission of signals across the neuromuscular junction rather than being involved in synthesizing neurotransmitters like acetylcholine.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 113,
+            "paragraph_id": "978-1455770076-p113-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Phosphocreatine has a lower amount of free energy compared to the bonds of ATP.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 106,
+            "paragraph_id": "978-1455770076-p106-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There are approximately 1.6 million ganglion cells in each human retina.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 681,
+            "paragraph_id": "978-1455770076-p681-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The human retina contains structures called rods that are wider and shorter than those called cones.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 671,
+            "paragraph_id": "978-1455770076-p671-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A smaller pupillary diameter increases the depth of focus of the lens system due to more rays passing through the center of the lens.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 664,
+            "paragraph_id": "978-1455770076-p664-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rods and cones receive their primary nutritional support independently of the choroid's blood supply.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 673,
+            "paragraph_id": "978-1455770076-p673-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The plateau phase of the action potential in cardiac muscle cells typically lasts around 0.6 seconds.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 135,
+            "paragraph_id": "978-1455770076-p135-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Calcium channels play no role in generating the smooth muscle action potential.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 127,
+            "paragraph_id": "978-1455770076-p127-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An incisura occurs in the aortic pressure curve when the aortic valve closes.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 140,
+            "paragraph_id": "978-1455770076-p140-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High-frequency sounds resonate closer to the apex of the cochlea due to longer basilar fibers there.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 699,
+            "paragraph_id": "978-1455770076-p699-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Signals from the two eyes are mixed together in the dorsal lateral geniculate nucleus.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 685,
+            "paragraph_id": "978-1455770076-p685-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Automatic responses always successfully maintain the image's position exactly at the center of the fovea.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 691,
+            "paragraph_id": "978-1455770076-p691-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Signals in the fast \"position\" and \"motion\" pathway are primarily transmitted through small M optic nerve fibers of the retinal M ganglion cells.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 688,
+            "paragraph_id": "978-1455770076-p688-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neurons in the primary auditory cortex primarily respond to a wide range of sound frequencies.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 704,
+            "paragraph_id": "978-1455770076-p704-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Odorants bind with the portion of the receptor protein that threads its way through the membrane about five times, folding inward and outward.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 713,
+            "paragraph_id": "978-1455770076-p713-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Alpha motor neurons innervate approximately 5000 muscle fibers.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 719,
+            "paragraph_id": "978-1455770076-p719-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An electrocardiogram records electrical currents spreading from the heart into tissues beyond the immediate vicinity of the heart due to electrical impulses passing through the heart's chambers.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 155,
+            "paragraph_id": "978-1455770076-p155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lead I's axis is aligned at 180 degrees.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 164,
+            "paragraph_id": "978-1455770076-p164-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A Q wave develops at the beginning of the QRS complex in lead II due to loss of muscle mass in the anterior wall of the left ventricle after an anterior infarction.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 176,
+            "paragraph_id": "978-1455770076-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "According to Einthoven's Law, the sum of the electrical potentials in leads I and III will always exactly match the potential in lead II during simultaneous recordings.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 159,
+            "paragraph_id": "978-1455770076-p159-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In ventricular muscle fibers, the plateau phase of the action potential is primarily caused by the rapid influx of sodium ions through fast sodium channels.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 148,
+            "paragraph_id": "978-1455770076-p148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increasing the arterial pressure load beyond a certain limit always significantly decreases cardiac output.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 145,
+            "paragraph_id": "978-1455770076-p145-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bundle branch block always results in a significantly prolonged QRS interval compared to what is typically observed with ventricular hypertrophy alone.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 170,
+            "paragraph_id": "978-1455770076-p170-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There is always enough data available online for someone looking to learn about creating good questions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 725,
+            "paragraph_id": "978-1455770076-p725-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A person who has experienced bilateral destruction of the vestibular apparatus can maintain near-normal equilibrium if they move slowly and their eyes are open.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 742,
+            "paragraph_id": "978-1455770076-p742-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A weak tactile stimulus typically causes significant afterdischarge during a flexor reflex.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 727,
+            "paragraph_id": "978-1455770076-p727-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Mirror neurons become active when an individual observes someone else performing a task they themselves could perform if given the opportunity.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 732,
+            "paragraph_id": "978-1455770076-p732-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The vestibular nuclei selectively control the excitatory signals to the different antigravity muscles to maintain equilibrium in response to signals from the vestibular apparatus.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 738,
+            "paragraph_id": "978-1455770076-p738-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exist approximately thirty million functional units centered around a single Purkinje cell and a corresponding deep nuclear cell in the human cerebellum.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 748,
+            "paragraph_id": "978-1455770076-p748-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dysdiadochokinesia refers to the ability to perform slow alternating movements due to cerebellar damage affecting coordination between different parts of the body.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 754,
+            "paragraph_id": "978-1455770076-p754-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary role of the cerebellum includes helping to regulate voluntary movements and enhancing the stretch reflex.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 759,
+            "paragraph_id": "978-1455770076-p759-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hydrostatic and colloid osmotic pressures determine fluid movement through the capillary membrane with an effect influenced by the presence of proteoglycan filaments.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 217,
+            "paragraph_id": "978-1455770076-p217-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dobrzynski et al published an article about sick sinus syndrome titled \"New insights into pacemaker activity.\"",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 190,
+            "paragraph_id": "978-1455770076-p190-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Pulsations cannot be observed in the capillaries under normal conditions due to damping of the pressure pulses.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 206,
+            "paragraph_id": "978-1455770076-p206-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Total peripheral vascular resistance equals the sum of resistances of the arteries, arterioles, capillaries, venules, and veins when these vessels are arranged in series.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 200,
+            "paragraph_id": "978-1455770076-p200-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A person's mean arterial pressure is always consistent throughout their body regardless of posture or movement.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 210,
+            "paragraph_id": "978-1455770076-p210-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Interstitial fluid colloid osmotic pressure is typically around 8 mm Hg.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 220,
+            "paragraph_id": "978-1455770076-p220-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Paroxysmal tachycardia typically begins slowly over several days before ending abruptly after months of occurrence.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 184,
+            "paragraph_id": "978-1455770076-p184-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The pressure difference between the two ends of a vessel, rather than the absolute pressure within the vessel, determines the rate of blood flow according to Ohm's Law.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 196,
+            "paragraph_id": "978-1455770076-p196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Wernicke\u2019s area is crucial for initiating and executing expressions of individual words or short phrases.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 764,
+            "paragraph_id": "978-1455770076-p764-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Structural changes in synapses do not play a role in developing long-term memory.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 772,
+            "paragraph_id": "978-1455770076-p772-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The hypothalamus is considered a central element of the limbic system due to its large size compared to other parts of the brain.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 778,
+            "paragraph_id": "978-1455770076-p778-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Destruction of Wernicke's area causes an inability to formulate thoughts for expression due to damage in the dominant hemisphere.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 768,
+            "paragraph_id": "978-1455770076-p768-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Emotional fainting begins with disturbing thoughts in the cerebral cortex and involves activation of the vagal cardioinhibitory center causing a marked reduction in heart rate.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 242,
+            "paragraph_id": "978-1455770076-p242-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Autoregulation of blood flow allows local blood flow in most body tissues to remain nearly constant despite changes in arterial pressure, keeping blood flow roughly proportional to the metabolic needs of the tissue.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 230,
+            "paragraph_id": "978-1455770076-p230-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vasopressin is always released in amounts sufficient to significantly impact vascular control under typical physiological conditions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 236,
+            "paragraph_id": "978-1455770076-p236-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sympathetic stimulation increases pupillary opening while parasympathetic stimulation decreases it.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 802,
+            "paragraph_id": "978-1455770076-p802-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Focal epileptic seizures typically start in both hemispheres of the cerebral cortex simultaneously.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 793,
+            "paragraph_id": "978-1455770076-p793-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizophrenia is believed to be caused by diminished function of neurons that secrete the neurotransmitter dopamine.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 795,
+            "paragraph_id": "978-1455770076-p795-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An increase in arterial pressure results in decreased urinary output due to reduced kidney function under stress conditions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 252,
+            "paragraph_id": "978-1455770076-p252-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The CNS ischemic response is activated when the arterial pressure reaches a level significantly higher than normal.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 247,
+            "paragraph_id": "978-1455770076-p247-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Reducing salt intake to 1/10th normal does not significantly affect arterial pressure if the renin-angiotensin system functions normally.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 261,
+            "paragraph_id": "978-1455770076-p261-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Normal cerebrospinal fluid pressure averages around 130 mm of water when one is lying in a horizontal position.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 816,
+            "paragraph_id": "978-1455770076-p816-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Total cessation of blood flow to the brain causes unconsciousness after more than one hour due to lack of oxygen delivery to the brain cells.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 811,
+            "paragraph_id": "978-1455770076-p811-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Strong parasympathetic nervous signals to the gut always result in strong peristalsis throughout the gastrointestinal tract.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 827,
+            "paragraph_id": "978-1455770076-p827-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acetylcholine usually inhibits gastrointestinal activity.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 824,
+            "paragraph_id": "978-1455770076-p824-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary mechanism by which nutrient material enters glandular cells for secretion involves diffusion or active transport across the basement membrane into the base of the glandular cell via the bloodstream.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 842,
+            "paragraph_id": "978-1455770076-p842-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increased food volume in the stomach always results in immediate increased storage pressure of the food that causes rapid stomach emptying.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 835,
+            "paragraph_id": "978-1455770076-p835-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "When cyclical changes of intrapleural pressure during strenuous breathing reach \u00b150 mm Hg, they cause the cardiac output curve to shift significantly.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 275,
+            "paragraph_id": "978-1455770076-p275-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increased oxygen demand always results in decreased coronary blood flow.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 287,
+            "paragraph_id": "978-1455770076-p287-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A reduction in cardiac output always immediately causes peripheral edema due to high capillary pressure.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 300,
+            "paragraph_id": "978-1455770076-p300-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Increased sympathetic nerve activity contributes to the development of obesity-related hypertension through various mechanisms, including enhancing sympathetic drive to the kidneys and activating the intrarenal renin\u2013angiotensin system.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 264,
+            "paragraph_id": "978-1455770076-p264-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sympathetic stimulation can completely restore cardiac performance regardless of the extent of heart muscle destruction.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 295,
+            "paragraph_id": "978-1455770076-p295-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In a normal circulatory system, there exists an equilibrium point where the venous return equals the cardiac output and the right atrial pressure is the same for both the heart and the systemic circulation.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 278,
+            "paragraph_id": "978-1455770076-p278-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An increase in cardiac output during exercise primarily results from an increase in the strength of contraction of the heart due to parasympathetic stimulation.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 285,
+            "paragraph_id": "978-1455770076-p285-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fatty foods initiate the release of cholecystokinin (CCK), which is the main stimulus for gallbladder contractions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 853,
+            "paragraph_id": "978-1455770076-p853-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pyloric glands in the human body primarily produce digestive enzymes for protein breakdown.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 845,
+            "paragraph_id": "978-1455770076-p845-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 90% of protein digestion results in individual amino acids being formed in the small intestines.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 859,
+            "paragraph_id": "978-1455770076-p859-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Water is transported across the intestinal membrane primarily through active transport mechanisms.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 862,
+            "paragraph_id": "978-1455770076-p862-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Without the sympathetic reflexes, a person cannot survive removal of up to 40 percent of their blood volume.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 318,
+            "paragraph_id": "978-1455770076-p318-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tetralogy of Fallot is primarily characterized by oxygenated blood being shunted from the left ventricle into the aorta.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 313,
+            "paragraph_id": "978-1455770076-p313-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Heart failure affects more than half of patients under forty years old after experiencing an acute myocardial infarction.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 305,
+            "paragraph_id": "978-1455770076-p305-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Excessive smoking contributes to the development of peptic ulcers due to increased nervous stimulation of the stomach's secretory glands.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 869,
+            "paragraph_id": "978-1455770076-p869-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "More than half of the monosaccharides that circulate in the blood are represented by glucose.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 879,
+            "paragraph_id": "978-1455770076-p879-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "For each molecule of glucose metabolized, exactly two molecules of ATP are formed.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 882,
+            "paragraph_id": "978-1455770076-p882-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dextran is produced commercially using a chemical synthesis process.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 325,
+            "paragraph_id": "978-1455770076-p325-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In order to accurately determine the volume of an internal bodily compartment using the indicator-dilution technique, the chosen indicator must remain exclusively within that compartment and neither be metabolized nor excreted during the measurement period unless corrections for losses are applied.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 333,
+            "paragraph_id": "978-1455770076-p333-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A 0.9 percent solution of sodium chloride is considered isotonic.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 335,
+            "paragraph_id": "978-1455770076-p335-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High-density lipoproteins (HDLs) contain a higher concentration of cholesterol compared to phospholipids.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 889,
+            "paragraph_id": "978-1455770076-p889-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fibrinogen polymerizes into short fibrils during blood clotting to repair minor cuts in the circulatory system.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 901,
+            "paragraph_id": "978-1455770076-p901-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ketosis may lead to extreme acidosis due to a lack of oxaloacetate derived from carbohydrates limiting the oxidation of acetyl-CoA in the citric acid cycle.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 892,
+            "paragraph_id": "978-1455770076-p892-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Humans have two kidneys, each containing exactly 500,000 nephrons.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 350,
+            "paragraph_id": "978-1455770076-p350-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A person's ability to initiate urination voluntarily involves contracting abdominal muscles, increasing pressure in the bladder, allowing urine to enter the bladder neck and posterior urethra, stimulating stretch receptors, exciting the micturition reflex, and inhibiting the external urethral sphincter.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 354,
+            "paragraph_id": "978-1455770076-p354-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pitting edema occurs due to swelling of tissue cells themselves rather than accumulation of fluid in the interstitial space.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 343,
+            "paragraph_id": "978-1455770076-p343-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In healthy humans, the glomerular hydrostatic pressure is greater than the sum of the forces opposing filtration.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 361,
+            "paragraph_id": "978-1455770076-p361-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tubuloglomerular feedback-mediated renal vasoconstriction reduces renal blood flow and GFR when proximal tubular reabsorption is decreased.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 369,
+            "paragraph_id": "978-1455770076-p369-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Urea is reabsorbed from the tubules mainly by secondary active transport involving co-transport with sodium across the luminal membrane.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 376,
+            "paragraph_id": "978-1455770076-p376-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Principal cells primarily reabsorb sodium and secrete potassium due to the presence of a sodium-potassium ATPase pump in their basolateral membrane.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 380,
+            "paragraph_id": "978-1455770076-p380-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Endothelial-derived nitric oxide causes an increase in renal vascular resistance and a subsequent decrease in Glomerular Filtration Rate (GFR).",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 366,
+            "paragraph_id": "978-1455770076-p366-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Efferent arteriolar constriction caused by angiotensin II decreases peritubular capillary hydrostatic pressure, thereby decreasing net tubular reabsorption.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 387,
+            "paragraph_id": "978-1455770076-p387-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The extraction ratio of PAH in normal kidneys is less than 80%.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 391,
+            "paragraph_id": "978-1455770076-p391-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Active transport of sodium chloride out of the thick ascending limb of the loop of Henle alone establishes a maximum concentration gradient of approximately 600 mOsm/L.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 399,
+            "paragraph_id": "978-1455770076-p399-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 90% of the total body potassium is contained outside the cells.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 413,
+            "paragraph_id": "978-1455770076-p413-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Free-water clearance is always zero when urine osmolarity equals plasma osmolarity.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 404,
+            "paragraph_id": "978-1455770076-p404-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "High dietary potassium intake enhances the effect of increased tubular flow rate to increase potassium secretion.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 418,
+            "paragraph_id": "978-1455770076-p418-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In individuals where Angiotensin II formation cannot be suppressed due to excessive sodium intake, their blood pressure needs to significantly increase to achieve sodium balance compared to those who can normally regulate Angiotensin II levels.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 427,
+            "paragraph_id": "978-1455770076-p427-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Pressure natriuresis is independent of changes in the activity of the sympathetic nervous system or certain hormones such as angiotensin II.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 424,
+            "paragraph_id": "978-1455770076-p424-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "When the pH falls from 7.4 to 7.0 due to added acid in the extracellular fluid, the respiratory system alone can return the pH to a value closer to normal, typically around 7.35.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 439,
+            "paragraph_id": "978-1455770076-p439-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Adding a strong acid to the bicarbonate buffer solution results in a significant reduction of the pH of the solution.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 435,
+            "paragraph_id": "978-1455770076-p435-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "For each molecule of glutamine metabolized in the renal proximal tubule, four bicarbonate ions are produced and returned to the bloodstream.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 443,
+            "paragraph_id": "978-1455770076-p443-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Atherosclerosis affects the larger renal arteries due to progressive sclerotic constriction of the vessels.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 457,
+            "paragraph_id": "978-1455770076-p457-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acidosis in Chronic Kidney Disease results primarily from the inability of the kidneys to remove excess metabolic alkalinity from the body.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 461,
+            "paragraph_id": "978-1455770076-p461-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Excessive vomiting of gastric contents results in metabolic alkalosis due to the loss of hydrogen ions.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 449,
+            "paragraph_id": "978-1455770076-p449-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary regulation of total body iron levels occurs through controlling the rate at which iron is absorbed from the gastrointestinal tract.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 475,
+            "paragraph_id": "978-1455770076-p475-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Some bacteria secrete substances that completely neutralize the killing effects of neutrophils and macrophages.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 482,
+            "paragraph_id": "978-1455770076-p482-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In patients with Liddle's syndrome, decreased levels of aldosterone lead to excessive activity of the epithelial sodium channel (ENaC).",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 464,
+            "paragraph_id": "978-1455770076-p464-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Irradiation injury to the bone marrow typically destroys all stem cells, making regeneration impossible unless there's immediate medical intervention.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 487,
+            "paragraph_id": "978-1455770076-p487-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Interleukin-2 plays a role in activating the macrophage system.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 497,
+            "paragraph_id": "978-1455770076-p497-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hemophilia primarily affects females due to transmission via the female chromosome.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 514,
+            "paragraph_id": "978-1455770076-p514-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thrombin's proteolytic action activates Factor V during the clotting process.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 511,
+            "paragraph_id": "978-1455770076-p511-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 85% of Caucasian populations are Rh positive.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 503,
+            "paragraph_id": "978-1455770076-p503-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In healthy individuals, the pulmonary capillary pressure typically needs to exceed approximately 28 mm Hg to induce pulmonary edema due to exceeding the plasma colloid osmotic pressure.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 539,
+            "paragraph_id": "978-1455770076-p539-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Transpulmonary pressure measures the difference between atmospheric pressure outside the body and the pressure inside the lungs.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 523,
+            "paragraph_id": "978-1455770076-p523-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The respiratory exchange ratio R is defined as the rate of carbon dioxide elimination per minute divided by the rate of oxygen uptake per minute.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 526,
+            "paragraph_id": "978-1455770076-p526-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "During heavy exercise, the primary method by which the lungs accommodate increased blood flow is by significantly raising the pulmonary arterial pressure.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 536,
+            "paragraph_id": "978-1455770076-p536-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There are exactly ten essential amino acids found in animal proteins that cannot be synthesized in the body.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 903,
+            "paragraph_id": "978-1455770076-p903-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Basal metabolic rate constitutes approximately 50-70% of an individual's daily energy expenditure.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 931,
+            "paragraph_id": "978-1455770076-p931-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "When an animal pants, the process increases alveolar ventilation beyond what is needed for controlling blood gas levels due to deep breathing movements.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 939,
+            "paragraph_id": "978-1455770076-p939-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Feedback signals from adipose tissue regulate food intake through the actions of leptin, a peptide hormone released from adipocytes.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 917,
+            "paragraph_id": "978-1455770076-p917-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Destruction of the lateral hypothalamus causes progressive inanition.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 913,
+            "paragraph_id": "978-1455770076-p913-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Exposure of humans to extreme cold causes significant enlargement of their thyroid glands compared to those living in warmer climates.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 942,
+            "paragraph_id": "978-1455770076-p942-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "ATP is generated by the combustion of carbohydrates, fats, and proteins.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 927,
+            "paragraph_id": "978-1455770076-p927-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Centrifugal acceleration affects the human body's circulatory system primarily due to the mobility of blood being able to be translocated by these forces.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 589,
+            "paragraph_id": "978-1455770076-p589-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increased negative feedback gain in the respiratory control areas results in a normal 2-to 3-fold increase in ventilation when the P CO2 rises 3 mmHg.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 571,
+            "paragraph_id": "978-1455770076-p571-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Blood CO2 has no direct effect on stimulating the neurons in the chemosensitive area.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 565,
+            "paragraph_id": "978-1455770076-p565-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Oxygen concentration in the alveoli is affected equally by the rate of absorption of O2 into the blood and the rate of entry of new O2 into the lungs through ventilation.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 544,
+            "paragraph_id": "978-1455770076-p544-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "At an altitude where barometric pressure is 253 mmHg, such as at the top of Mount Everest, the alveolar O2 pressure after accounting for CO2 and water vapor in an acclimatized person is around 35 mm Hg.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 585,
+            "paragraph_id": "978-1455770076-p585-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Under normal circumstances, more than half of the oxygen transported from the lungs to the body's tissues is carried in the dissolved state in the water of the plasma and blood cells rather than bound to hemoglobin.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 554,
+            "paragraph_id": "978-1455770076-p554-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "At an intracellular PO2 of 1 mm Hg or higher, the controlling factor for the rate of oxygen usage by the cells becomes the concentration of adenylate phosphate in the mitochondria rather than the availability of oxygen.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 557,
+            "paragraph_id": "978-1455770076-p557-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hypoxemia and hypercapnia are typically associated with increased ventilation-perfusion ratios.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 577,
+            "paragraph_id": "978-1455770076-p577-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Calcium ions are involved in a second messenger system separate from the adenylyl cyclase-cAMP mechanism.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 957,
+            "paragraph_id": "978-1455770076-p957-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Testosterone primarily affects the proteins in non-target organs or tissues throughout the body.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1055,
+            "paragraph_id": "978-1455770076-p1055-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Aldosterone increases sodium transport immediately through direct interaction with the sodium-potassium pump.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 995,
+            "paragraph_id": "978-1455770076-p995-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Removal of the ovaries results in regression of the sexual organs, causing the uterus to decrease significantly in size and making the vaginal epithelium thicker.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1075,
+            "paragraph_id": "978-1455770076-p1075-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Gonadotropic hormones play a role in regulating the rate of secretion of female sex hormones but do not influence preparation of the uterine lining for potential pregnancy.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1063,
+            "paragraph_id": "978-1455770076-p1063-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "At birth, the infant's brain mass equals approximately half of the adult brain mass.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1105,
+            "paragraph_id": "978-1455770076-p1105-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An excessively high level of thyroid hormone usually results in increased mean arterial pressure.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 981,
+            "paragraph_id": "978-1455770076-p981-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Marathon runners typically exhibit higher oxygen-diffusing capacities when engaged in maximal exercise due to natural selection towards those activities or possibly as a result of endurance training.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1115,
+            "paragraph_id": "978-1455770076-p1115-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Administration of either growth hormone alone or insulin alone to a depancreatized, hypophysectomized rat causes significant growth.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1013,
+            "paragraph_id": "978-1455770076-p1013-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Increased extracellular fluid osmolarity stimulates ADH secretion.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 973,
+            "paragraph_id": "978-1455770076-p973-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Calcitonin's primary role involves increasing plasma calcium concentration in adults.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1037,
+            "paragraph_id": "978-1455770076-p1037-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cholecalciferol is converted to 25-hydroxycholecalciferol in the heart.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1031,
+            "paragraph_id": "978-1455770076-p1031-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Carbohydrates derive their primary role as the initial energy source due to the limited capacity of fat oxidation providing immediate energy release.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1113,
+            "paragraph_id": "978-1455770076-p1113-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Uterine contractions during labor begin mainly at the bottom of the uterine fundus and spread upward over the body of the uterus.",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1089,
+            "paragraph_id": "978-1455770076-p1089-para1"
+        },
+        "type": "true_false"
     }
 ]

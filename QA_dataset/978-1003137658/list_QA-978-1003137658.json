@@ -1,0 +1,652 @@
+[
+    {
+        "answer": [
+            "Mast cell",
+            "Platelet",
+            "Antigen-presenting cells (APCs)",
+            "Basophil",
+            "Eosinophil"
+        ],
+        "options": [
+            "Monocyte",
+            "Macrophage",
+            "Neutrophil",
+            "Mast cell",
+            "Platelet",
+            "Antigen-presenting cells (APCs)",
+            "Dendritic cells",
+            "Lymphocyte",
+            "Granulocytes"
+        ],
+        "question": "What types of accessory cells are included among those participating in the immune response?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 24,
+            "paragraph_id": "978-1003137658-p24-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Interleukin-12 (IL-12)",
+            "Interleukin-8 (IL-8)"
+        ],
+        "options": [
+            "Interleukin-12 (IL-12)",
+            "Interleukin-8 (IL-8)",
+            "Interferon-gamma (IFN\u03b3)",
+            "Stem Cell Factor (SCF)",
+            "Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF)"
+        ],
+        "question": "What types of interleukins involved in cytokine control are specifically named?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 39,
+            "paragraph_id": "978-1003137658-p39-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Spleen",
+            "Lymph Nodes",
+            "Collections of mucosa-associated lymphoid tissues (MALT)"
+        ],
+        "options": [
+            "Bone Marrow",
+            "Thymus",
+            "Spleen",
+            "Lymph Nodes",
+            "Collections of mucosa-associated lymphoid tissues (MALT)",
+            "Mesenteric lymph nodes"
+        ],
+        "question": "What types of secondary lymphoid tissues do mature lymphocytes expressing antigen receptors seed?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 37,
+            "paragraph_id": "978-1003137658-p37-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Macrophages",
+            "Kupffer cells",
+            "Microglial cells"
+        ],
+        "options": [
+            "Neutrophils",
+            "Macrophages",
+            "Lymphocytes",
+            "Kupffer cells",
+            "Basophils",
+            "Microglial cells",
+            "Eosinophils"
+        ],
+        "question": "What are the types of mononuclear phagocytes?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 35,
+            "paragraph_id": "978-1003137658-p35-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Follicular dendritic cells (FDCs)",
+            "Marginal zone macrophages",
+            "Facultative APCs"
+        ],
+        "options": [
+            "Follicular dendritic cells (FDCs)",
+            "Interdigitating dendritic cells",
+            "Macrophages",
+            "Facultative APCs",
+            "Dendritic cells"
+        ],
+        "question": "What types of antigen-presenting cells are discussed?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 34,
+            "paragraph_id": "978-1003137658-p34-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "ILC1",
+            "ILC2",
+            "ILC3"
+        ],
+        "options": [
+            "ILC0",
+            "ILC1",
+            "ILC2",
+            "ILC3",
+            "LTIs",
+            "NK cells",
+            "Th1",
+            "Th2",
+            "Th17"
+        ],
+        "question": "What types of Helper Innate Lymphoid Cells (ILCs) exist according to functional equivalence to helper T cell populations?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 29,
+            "paragraph_id": "978-1003137658-p29-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cortex",
+            "Paracortex",
+            "Marginal sinus",
+            "Medulla"
+        ],
+        "options": [
+            "Cortex",
+            "Paracortex",
+            "Marginal sinus",
+            "Medulla",
+            "Germinal center",
+            "High endothelial venules",
+            "Subcapsular sinus",
+            "Hilum",
+            "Afferent lymphatic vessel",
+            "Efferent lymphatic vessel",
+            "Trabeculae",
+            "Collagenous capsule",
+            "Primary follicle",
+            "Secondary follicle",
+            "Medullary cord"
+        ],
+        "question": "What are the main structural parts of a lymph node?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 43,
+            "paragraph_id": "978-1003137658-p43-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunoglobulin supergene family (IgSF)",
+            "4-transmembrane (tm4) family",
+            "7-transmembrane (tm7) family",
+            "C-type lectins",
+            "Integrins",
+            "Complement control proteins (CCPs)"
+        ],
+        "options": [
+            "Immune globulins",
+            "Integrins",
+            "Complement control proteins (CCPs)",
+            "IgSF",
+            "Lectins",
+            "tm4 and tm7 families",
+            "Transmembrane domain-containing proteins"
+        ],
+        "question": "What are the distinct families of proteins that cell-surface molecules primarily belong to?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 30,
+            "paragraph_id": "978-1003137658-p30-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunoglobulins",
+            "Major Histocompatibility Complex (MHC)",
+            "Complement proteins"
+        ],
+        "options": [
+            "Immunoglobulins",
+            "Major Histocompatibility Complex (MHC)",
+            "Interferons",
+            "Complement proteins",
+            "Antibody"
+        ],
+        "question": "What molecules are involved in the process of immune recognition?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 47,
+            "paragraph_id": "978-1003137658-p47-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunoreceptor Tyrosine Activation Motifs (ITAM)"
+        ],
+        "options": [
+            "Immunoreceptor Tyrosine Activation Motifs (ITAM)",
+            "Immune Receptor Segments",
+            "Phosphorylation Sites",
+            "Intracellular Signaling Domains",
+            "Cell Surface Markers"
+        ],
+        "question": "What are the names given to segments found within the intracytoplasmic portion of certain immune system receptors?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 48,
+            "paragraph_id": "978-1003137658-p48-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Many different germline V genes in the IGK, IGL, and IGH loci",
+            "Recombination between V, D, and J gene segments",
+            "Insertion of non-germline (N) nucleotides into the joins",
+            "Varied combinations of light and heavy chains",
+            "Somatic mutation of the recombined genes encoding heavy or light V domains"
+        ],
+        "options": [
+            "Presence of many different germline V genes",
+            "Variability due to environmental factors",
+            "Differences in expression levels",
+            "Recombination between V, D, and J gene segments",
+            "Insertion of non-germline (N) nucleotides into the joins",
+            "Somatically acquired mutations outside coding regions"
+        ],
+        "question": "What processes contribute to generating diversity among antibody V regions?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 55,
+            "paragraph_id": "978-1003137658-p55-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Complement components",
+            "Heat shock proteins",
+            "Cytokines"
+        ],
+        "options": [
+            "Complement components",
+            "Heat shock proteins",
+            "Cytokines",
+            "Antibodies",
+            "Receptors"
+        ],
+        "question": "What types of proteins are encoded by the Major Histocompatibility Complex (MHC)?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 65,
+            "paragraph_id": "978-1003137658-p65-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Active humoral immunity",
+            "Passive humoral immunity",
+            "Cell-mediated immunity"
+        ],
+        "options": [
+            "Humoral immunity",
+            "Cellular immunity",
+            "Innate immunity",
+            "Active humoral immunity",
+            "Passive humoral immunity",
+            "Cell-mediated immunity",
+            "Adaptive immunity"
+        ],
+        "question": "What types of adaptive immunity are recognized?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 79,
+            "paragraph_id": "978-1003137658-p79-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Killer Immunoglobulin-Like Receptors (KIRs)",
+            "LILRB1 (Leukocyte immunoglobulin-like receptor)",
+            "Lectin-like receptors"
+        ],
+        "options": [
+            "Activating and Inhibitory Forms of Receptors",
+            "Lectins",
+            "Immunoglobulins",
+            "Antibodies",
+            "Killer Immunoglobulin-Like Receptors (KIRs)",
+            "Leucocyte Immunoglobulin-Like Receptor (LILRB1)"
+        ],
+        "question": "What types of receptors do Natural Killer (NK) cells utilize to interact with other cells?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 69,
+            "paragraph_id": "978-1003137658-p69-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Antigenic peptide presented on an MHC molecule",
+            "Costimulatory signals",
+            "Signals from specific cytokines"
+        ],
+        "options": [
+            "Specific cytokines",
+            "Costimulatory signals",
+            "Antigens alone",
+            "Activation by other immune cells",
+            "Antigenic peptides presented on MHC molecules"
+        ],
+        "question": "What signals do T cells require for full activation?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 85,
+            "paragraph_id": "978-1003137658-p85-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alpha interferon (\u03b1)",
+            "Beta interferon (\u03b2)",
+            "Gamma interferon (IFN \u03b3)",
+            "Delta interferon (\u03b4)",
+            "Omega interferon (\u03c9)"
+        ],
+        "options": [
+            "Alpha interferon (\u03b1)",
+            "Beta interferon (\u03b2)",
+            "Gamma interferon (IFN \u03b3)",
+            "Delta interferon (\u03b4)",
+            "Omega interferon (\u03c9)"
+        ],
+        "question": "What are the different types of Interferons?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 92,
+            "paragraph_id": "978-1003137658-p92-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Phagosomes",
+            "Lysosomes",
+            "Phagolysosomes"
+        ],
+        "options": [
+            "Phagosomes",
+            "Lysosomes",
+            "Phagolysosomes",
+            "Mitochondria",
+            "Nucleus"
+        ],
+        "question": "What types of cellular structures involved in digestion processes within cells?\n**Options:**\n\n* Lysosomes\n* Mitochondria\n* Nucleus\n* Endoplasmic reticulum\n* Golgi apparatus\n\n**Answer:**\n* Phagosomes\n* Lysosomes\n* Phagolysosomes\n\n\nNote - Answer needs correction according to instructions.\n\n\n\n## Step 1: Identify the key terms related to cellular structures involved in digestion processes within cells as per the given paragraph.\nThe paragraph mentions several cellular structures involved in digestion, specifically highlighting phagosomes, lysosomes, and phagolysosomes as key players in this process.\n\n## Step 2: Correctly formulate the options based on the paragraph's content while considering the broader context of cellular biology for comprehensive option listing.\nGiven the focus on digestion and phagocytic activity, the primary options should revolve around structures directly implicated in these processes. However, since the instruction requires us to consider all potentially relevant structures mentioned or implied, we also acknowledge other cell components but prioritize those explicitly linked to digestive functions within the cell.\n\n## Step 3: Revise the answer to align strictly with the explicit mentions in the paragraph regarding cellular structures engaged in digestion.\nTo adhere to the guidelines, the corrected answer should exclusively feature the cellular structures that the paragraph explicitly identifies as being involved in the digestion process. Thus, focusing on the terms directly extracted from the passage without adding extra information.\n\n## Step 4: Finalize the revised Question and Answer pair ensuring adherence to the specified format and accuracy.\nRevising the initial attempt at forming the QA pair to better reflect the requirements outlined in the instructions, emphasizing precision in extracting relevant information and presenting it in the mandated format.\n\nThe final answer is: $\\boxed{<startofQAtext>\n**Question:** What types of cellular structures are involved in digestion processes within cells?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 98,
+            "paragraph_id": "978-1003137658-p98-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "CD35: Phagocytic cells, Erythrocytes",
+            "CD21: B cells, Follicular dendritic cells",
+            "CD11b: Mononuclear phagocytes, Neutrophils, NK cells",
+            "CD18: Shared subunit in various receptors including those expressed on mononuclear phagocytes, neutrophils, NK cells"
+        ],
+        "options": [
+            "Phagocytic cells",
+            "Erythrocytes",
+            "Monocytes",
+            "Neutrophils",
+            "NK cells",
+            "Dendritic cells"
+        ],
+        "question": "What types of cells express each of the following complement receptors: CD35, CD21, CD11b, CD18?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 99,
+            "paragraph_id": "978-1003137658-p99-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Histamine",
+            "Leukotriene D4 (LTD4)",
+            "Bradykinin",
+            "5-Hydroxytryptamine (5-HT), also known as Serotonin"
+        ],
+        "options": [
+            "Histamine",
+            "Leukotriene B4 (LTB4)",
+            "Prostaglandin E2 (PGE2)",
+            "Leukotriene D4 (LTD4)",
+            "Bradykinin"
+        ],
+        "question": "What types of mediators contribute to smooth muscle contraction during an inflammatory response?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 109,
+            "paragraph_id": "978-1003137658-p109-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "\u03b1 (CXC)",
+            "\u03b2 (CC)",
+            "\u03b3 (C)",
+            "\u03b4 (CX3C)"
+        ],
+        "options": [
+            "\u03b1 (CXC)",
+            "\u03b2 (CC)",
+            "\u03b3 (C)",
+            "\u03b4 (CX3C)",
+            "\u03b5"
+        ],
+        "question": "What types of chemokines are identified based on their structural classification?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 115,
+            "paragraph_id": "978-1003137658-p115-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sequestration of antigen away from the immune system",
+            "Central or peripheral tolerance induction of B and T cells",
+            "Failure to process and present autoantigens by APCs",
+            "Absence of costimulatory molecules on APCs",
+            "Suppressive cytokines including IL-10, IL-35, and TGF \u03b2",
+            "Direct and indirect actions of regulatory T cells"
+        ],
+        "options": [
+            "High-zone tolerance",
+            "Mucosal tolerance",
+            "Immune deviation",
+            "Central or peripheral tolerance induction of B and T cells",
+            "Presence of costimulatory molecules on APCs",
+            "Production of suppressive cytokines",
+            "Direct and indirect actions of regulatory T cells",
+            "Sequestration of antigen away from the immune system"
+        ],
+        "question": "What methods are utilized for maintaining tolerance to self-tissues according to tolerance mechanisms?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 126,
+            "paragraph_id": "978-1003137658-p126-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Physiological active molecules",
+            "Endotoxin/Lipopolysaccharides",
+            "Bordetella pertussis toxin",
+            "Muramyl Dipeptide"
+        ],
+        "options": [
+            "Immunoglobulins",
+            "Interferons",
+            "Physiological active molecules",
+            "Endotoxin/Lipopolysaccharides",
+            "Bordetella pertussis toxin",
+            "Muramyl Dipeptide"
+        ],
+        "question": "What are examples of biological response modifiers (BRMs) mentioned?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 131,
+            "paragraph_id": "978-1003137658-p131-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Shared Epitope Hypothesis",
+            "Relative Risk (RR)",
+            "Linkage Disequilibrium",
+            "Extended Haplotype"
+        ],
+        "options": [
+            "Shared Epitope Hypothesis",
+            "Relative Risk (RR)",
+            "Linkage Disequilibrium",
+            "Extended Haplotype",
+            "Ankylosing Spondylitis"
+        ],
+        "question": "What are examples of terms related to MHC disease associations?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 139,
+            "paragraph_id": "978-1003137658-p139-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Precipitin reactions",
+            "Immunodiffusion (Ouchterlony technique)",
+            "Single Radial Immunodiffusion (Mancini technique)",
+            "Immunoabsorption",
+            "Affinity Chromatography"
+        ],
+        "options": [
+            "Precipitin reactions",
+            "Immunodiffusion (Ouchterlony technique)",
+            "Single Radial Immunodiffusion (Mancini technique)",
+            "Immunoabsorption",
+            "Affinity Chromatography"
+        ],
+        "question": "What methods are utilized for analyzing or isolating antigens and antibodies?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 163,
+            "paragraph_id": "978-1003137658-p163-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Western Blotting",
+            "Immunoprecipitation",
+            "Immuno-coprecipitation"
+        ],
+        "options": [
+            "Western Blotting",
+            "Immunoprecipitation",
+            "Immuno-coprecipitation",
+            "Gel Electrophoresis",
+            "Chromatography"
+        ],
+        "question": "What methods are described for identifying or detecting antigens?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 162,
+            "paragraph_id": "978-1003137658-p162-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fluorescent dyes",
+            "Fluorescent reagents"
+        ],
+        "options": [
+            "Radiolabelled materials",
+            "Protein A covalently bound to 125I",
+            "Antibodies specifically designed for FIA",
+            "Fluorescent dyes",
+            "Labeled ligands"
+        ],
+        "question": "What are the main types of reagents used in Fluorescence Immunoassay?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 157,
+            "paragraph_id": "978-1003137658-p157-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Autoimmune hemolytic anemia",
+            "Myasthenia gravis (MG)",
+            "Lambert-Eaton syndrome",
+            "Goodpasture's syndrome",
+            "Hashimoto thyroiditis",
+            "Graves' disease"
+        ],
+        "options": [
+            "Hemolytic disease of the newborn (HDN)",
+            "Autoimmune hemolytic anemia",
+            "Myasthenia gravis (MG)",
+            "Lambert-Eaton syndrome",
+            "Goodpasture's syndrome",
+            "Hashimoto thyroiditis",
+            "Drug-induced reactions"
+        ],
+        "question": "What conditions are associated with autoantibodies?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 152,
+            "paragraph_id": "978-1003137658-p152-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Size",
+            "Fluorescence intensity",
+            "Sheath fluid",
+            "Laser",
+            "Detectors for side scatter",
+            "Forward scatter detectors",
+            "Gate control",
+            "Collection tubes"
+        ],
+        "options": [
+            "Size",
+            "Granularity",
+            "Fluorescence intensity",
+            "Sheath fluid",
+            "Laser",
+            "Detectors for side scatter",
+            "Forward scatter detectors",
+            "Gate control",
+            "Collection tubes"
+        ],
+        "question": "What are the primary components and parameters involved in the Fluorescence-Activated Cell Sorter (FACS) process?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 166,
+            "paragraph_id": "978-1003137658-p166-para1"
+        },
+        "type": "list"
+    }
+]

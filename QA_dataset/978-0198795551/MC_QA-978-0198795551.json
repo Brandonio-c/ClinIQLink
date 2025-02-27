@@ -1214,5 +1214,1781 @@
             "paragraph_id": "978-0198795551-p208-para1"
         },
         "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Publication of DSM-III",
+            "B": "Joint publication by the Departments of Psychiatry and Anthropology at McGill University, Canada of Transcultural Research in Mental Health Problems in 1950",
+            "C": "anada of Transcultural Research in Mental Health Problems in 1950\nC: Development of psychoanalytic theory by Sigmund Freud",
+            "D": "SM-III\nB: Joint publication by the Departments of Psychiatry and Anthropology at McGill University, Canada of Transcultural Research in Mental Health Problems in 1950\nC: Development of psychoanalytic theory by Sigmund Freud\nD: Joint publication by the Departments of Psychiatry and Anthropology at McGill University, Canada of Transcultural Research in Mental Health Problems in 1956"
+        },
+        "question": "What significant event marked the beginning of a new movement in psychiatry?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1057,
+            "paragraph_id": "978-0198795551-p1057-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They are automatically discharged.",
+            "B": "They can be further detained for 6 months under Article 12.",
+            "C": "They immediately go under guardianship as per Article 18.",
+            "D": "Their detention cannot be extended past the initial term."
+        },
+        "question": "What happens to a patient's status after being assessed under Article 4?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1045,
+            "paragraph_id": "978-0198795551-p1045-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "One medical recommendation made by any doctor",
+            "B": "Two medical recommendations including one from the Responsible Medical Officer",
+            "C": "An approval from the Nearest Relative and one medical recommendation",
+            "D": "Admission for assessment under Article 4"
+        },
+        "question": "What is a requirement for detention for treatment under Article 12?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1044,
+            "paragraph_id": "978-0198795551-p1044-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To reduce costs associated with treatment plans and streamline hospital admissions",
+            "B": "To provide culturally sensitive care, facilitate recovery, and minimize stigma related to mental illnesses",
+            "C": "To primarily focus on identifying the biological causes of mental health issues",
+            "D": "To limit the involvement of family members and friends in the therapeutic process"
+        },
+        "question": "What are the primary purposes of incorporating the Cultural Formulation Interview (CFI) into the diagnostic process?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1063,
+            "paragraph_id": "978-0198795551-p1063-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Onset occurs during late adulthood exclusively",
+            "B": "Onset starts in infancy and continues throughout life",
+            "C": "Onset begins in childhood or adolescence and persists into adulthood",
+            "D": "Onset varies widely across different populations and age groups"
+        },
+        "question": "What do the ICD-10 and DSM-5 definitions agree upon regarding the onset period of Personality Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 609,
+            "paragraph_id": "978-0198795551-p609-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They suffer from multiple separate disorders.",
+            "B": "They do not actually have more than one disorder despite meeting criteria for several.",
+            "C": "Their condition automatically upgrades to a more severe form of PD.",
+            "D": "D: It indicates a failure in the diagnostic process."
+        },
+        "question": "What happens if an individual meets the criteria for more than one category of Personality Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 613,
+            "paragraph_id": "978-0198795551-p613-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Two psychologists",
+            "B": "One psychologist and one social worker",
+            "C": "Two registered medical practitioners, where one could specialize in gender recognition",
+            "D": "Three specialists in gender recognition"
+        },
+        "question": "What kind of professionals need to support the application for a Gender Recognition Certificate?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 603,
+            "paragraph_id": "978-0198795551-p603-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only interpersonal/affective traits and impulsivity",
+            "B": "Lifestyle/behavioral characteristics alone",
+            "C": "Interpersonal/affective traits, lifestyle/behavioral characteristics, and antisocial tendencies",
+            "D": "Antisocial tendencies exclusively"
+        },
+        "question": "What aspects of behavior and characteristics does the Psychopathy Checklist-Revised evaluate?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 616,
+            "paragraph_id": "978-0198795551-p616-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only Japan and Korea",
+            "B": "Countries including Afghanistan, Bhutan, and others in Asia",
+            "C": "ountries including Afghanistan, Bhutan, and others in Asia\nC: United States and parts of South America",
+            "D": "European nations exclusively"
+        },
+        "question": "What countries form part of the habitat of the snow leopard?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 242,
+            "paragraph_id": "978-0198795551-p242-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 5%",
+            "B": "Up to 10%",
+            "C": "Up to 20%",
+            "D": "More than 30%"
+        },
+        "question": "What percentage of patients exhibit depression according to the description of behavioural and psychological symptoms in dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 234,
+            "paragraph_id": "978-0198795551-p234-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "30%",
+            "B": "40%",
+            "C": "50%",
+            "D": "60%"
+        },
+        "question": "What percentage of Frontotemporal Lobar Degeneration pathology consists of FTLD-TDP?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 238,
+            "paragraph_id": "978-0198795551-p238-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "20%",
+            "B": "30%",
+            "C": "50%",
+            "D": "60%"
+        },
+        "question": "What percentage of patients experience anxiety and/or depression in association with dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 228,
+            "paragraph_id": "978-0198795551-p228-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Brain Fag Syndrome",
+            "B": "rain Fag Syndrome\nB: Suk-Yeong/Suo Yang",
+            "C": "Shenjing Shuairuo",
+            "D": "Tr\u00fang Gi\u00f3"
+        },
+        "question": "What condition among East Asian populations, characterized by symptoms including weakness, fatigue, and social distress, was studied by Kleinman?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1072,
+            "paragraph_id": "978-0198795551-p1072-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "To reduce cultural bias in diagnostic criteria by incorporating local expressions of distress.",
+            "B": "To introduce new categories of mental illness specifically tied to non-Western cultures.",
+            "C": "To eliminate the consideration of cultural differences in diagnosing mental health issues.",
+            "D": "To create a universal standard for psychiatric diagnoses regardless of cultural background."
+        },
+        "question": "What was the primary goal behind adopting the term 'cultural concept of distress' according to the DSM-5?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1069,
+            "paragraph_id": "978-0198795551-p1069-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 25%",
+            "B": "Up to 30%",
+            "C": "Up to 40%",
+            "D": "Up to 50%"
+        },
+        "question": "What percentage is the estimated prevalence of hyperprolactinaemia associated with 'PRL-raising' antipsychotics?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1083,
+            "paragraph_id": "978-0198795551-p1083-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Accelerated long-term forgetting associated with transient global amnesia",
+            "B": "Dissociative amnesia linked to herpes simplex virus encephalitis",
+            "C": "Hypoxic brain damage resulting from carbon monoxide poisoning",
+            "D": "issociative amnesia linked to herpes simplex virus encephalitis \nC: Hypoxic brain damage resulting from carbon monoxide poisoning \nD: Dissociative amnesia"
+        },
+        "question": "What condition involves gaps in autobiographical recall without organic pathology?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 250,
+            "paragraph_id": "978-0198795551-p250-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of corresponding structural abnormalities in the brain",
+            "B": "Disorder of brain function with no corresponding structural abnormality",
+            "C": "Absence of characteristic symptoms and signs needed for diagnosis",
+            "D": "isorder of brain function with no corresponding structural abnormality\nC: Absence of characteristic symptoms and signs needed for diagnosis\nD: Severe reactions to prescribed medications"
+        },
+        "question": "What characterizes the 'functional' aspect of functional psychoses in relation to schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 262,
+            "paragraph_id": "978-0198795551-p262-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Psychotic disorder",
+            "B": "Pseudobulbar affect",
+            "C": "Frontal lobe damage",
+            "D": "Somatoparaphrenia"
+        },
+        "question": "Which condition characterized by unprovoked and uncontrollable crying or laughter, inconsistent with the patient's subjective emotional state, affects up to 50% of patients following a stroke?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 258,
+            "paragraph_id": "978-0198795551-p258-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "SSRIs",
+            "B": "TCAs",
+            "C": "As\nC: SNRIs",
+            "D": "NaSSAs"
+        },
+        "question": "Which class of antidepressants carries the lowest risk of causing hyponatraemia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1097,
+            "paragraph_id": "978-0198795551-p1097-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Calcium channel blockers",
+            "B": "DA agonists",
+            "C": "alcium channel blockers\nB: DA agonists\nC: Anticholinergic agents",
+            "D": "A agonists\nC: Anticholinergic agents\nD: BDZs"
+        },
+        "question": "Which class of medications may exacerbate problems related to Tardive Dyskinesia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1090,
+            "paragraph_id": "978-0198795551-p1090-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Benzodiazepines",
+            "B": "enzodiazepines  \nB: Anticonvulsants",
+            "C": "Beta blockers",
+            "D": "Anti-anxiolytic agents"
+        },
+        "question": "Which class of medications can sometimes be tried as a first-line option for treating akathisia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1088,
+            "paragraph_id": "978-0198795551-p1088-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Higher Infant Milk/Plasma Ratios Compared To Other Psychotropic Medications",
+            "B": "Short Half-Life Similar To Lorazepam",
+            "C": "ompared To Other Psychotropic Medications\nB: Short Half-Life Similar To Lorazepam\nC: Presence Of Sedative Effects In Nursing Infants",
+            "D": "Lower Infant Milk/Plasma Ratios Than Other Psychotropic Medications"
+        },
+        "question": "What characteristic makes benzodiazepines less favorable compared to certain other types of psychotropic medications regarding their presence in breast milk?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1100,
+            "paragraph_id": "978-0198795551-p1100-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Schizoaffective Disorder",
+            "B": "Delirium",
+            "C": "Late-Onset Schizophrenia",
+            "D": "isorder  \nB: Delirium  \nC: Late-Onset Schizophrenia  \nD: Charles Bonnet Syndrome"
+        },
+        "question": "What condition involves complex visual hallucinations due to visual impairment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 641,
+            "paragraph_id": "978-0198795551-p641-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Substance Dependence Disorder",
+            "B": "Harmful Use",
+            "C": "Psychoactive Behavioural Disorder",
+            "D": "ependence Disorder\nB: Harmful Use\nC: Psychoactive Behavioural Disorder\nD: Substance Misuse"
+        },
+        "question": "What term describes continuation of substance use despite evidence of harm to the individual's physical or mental health?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 657,
+            "paragraph_id": "978-0198795551-p657-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only the number of PD diagnoses made per individual.",
+            "B": "Both the degree of distress experienced and the impact on occupational functioning alone.",
+            "C": "The degree of distress experienced by the individual and the interference with various aspects of life including occupation, family, and interpersonal relationships.",
+            "D": "diagnoses made per individual.\nB: Both the degree of distress experienced and the impact on occupational functioning alone.\nC: The degree of distress experienced by the individual and the interference with various aspects of life including occupation, family, and interpersonal relationships.\nD: Neither the individual's distress nor their functional impairment, but rather just their compliance with treatment recommendations."
+        },
+        "question": "What factors are taken into consideration when assessing the severity of Personality Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 627,
+            "paragraph_id": "978-0198795551-p627-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "24%",
+            "B": "30%",
+            "C": "40%",
+            "D": "36%"
+        },
+        "question": "What percentage of nursing home staff in a U.S. state survey reported witnessing at least one incident of physical abuse in the previous year?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 646,
+            "paragraph_id": "978-0198795551-p646-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 25%",
+            "B": "Around 30%",
+            "C": "About 50%",
+            "D": "Less than 40%"
+        },
+        "question": "What percentage of patients diagnosed with schizotypal personality disorder may develop schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 634,
+            "paragraph_id": "978-0198795551-p634-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Minimizing psychological support, establishing a strict diet plan, focusing primarily on pain relief.",
+            "B": "Providing adequate physical support, minimizing unnecessary interventions, communication with the patient's family.",
+            "C": "A single-discipline approach, ignoring cultural differences, avoiding discussions about death.",
+            "D": "A multidisciplinary approach, ability to diagnose dying, minimize unnecessary interventions, establish a non-resuscitation plan, psychological support."
+        },
+        "question": "What key components are stressed by contemporary palliative services to achieve a 'good death'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 648,
+            "paragraph_id": "978-0198795551-p648-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "When someone exhibits signs of anxiety due to situational stressors.",
+            "B": "In cases where a person threatens suicide, possesses an offensive weapon, or involves hostages.",
+            "C": "During instances of drug or alcohol intoxication leading to mild aggression.",
+            "D": "uring instances of drug or alcohol intoxication leading to mild aggression.\nD: Whenever there's suspicion of an underlying psychiatric condition causing behavioral issues."
+        },
+        "question": "What kind of situations involving individuals would typically necessitate police intervention rather than personal attempt to manage?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1116,
+            "paragraph_id": "978-0198795551-p1116-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Informing security or the police about the situation immediately.",
+            "B": "Considering pharmacological management of acute behavioural disturbance.",
+            "C": "onsidering pharmacological management of acute behavioural disturbance.\nC: Following the exact steps outlined for managing delirium.",
+            "D": "Automatically proceeding with compulsory detention without further review."
+        },
+        "question": "What action would typically follow the suspicion of a psychiatric cause behind a patient's condition?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1117,
+            "paragraph_id": "978-0198795551-p1117-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Induce vomiting immediately upon suspicion of an overdose.",
+            "B": "Consider induced vomiting if symptoms appear severe.",
+            "C": "onsider induced vomiting if symptoms appear severe.\nC: Never attempt to induce vomiting due to potential complications.",
+            "D": "Only induce vomiting if the substance ingested was identified as non-toxic."
+        },
+        "question": "What action should nursing staff take regarding inducing vomiting after a suspected overdose?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1113,
+            "paragraph_id": "978-0198795551-p1113-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Being experienced in performing surgeries",
+            "B": "eing experienced in performing surgeries  \nB: Being familiar with basic resuscitation procedures",
+            "C": "Having expertise in legal matters related to psychiatry",
+            "D": "Possessing skills in psychological counseling only"
+        },
+        "question": "What is considered essential for a psychiatrist in training besides being knowledgeable about psychiatric emergencies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1108,
+            "paragraph_id": "978-0198795551-p1108-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pregnant women over 40 years old",
+            "B": "Young people who engage in heavy drinking",
+            "C": "Ethnic minorities with a family history of substance abuse",
+            "D": "Older adults with no prior history of alcohol misuse"
+        },
+        "question": "Which group among young people, pregnant women, ethnic minorities, and others listed might specifically benefit from vigilance due to heavy drinking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 669,
+            "paragraph_id": "978-0198795551-p669-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 15%",
+            "B": "More than 20%",
+            "C": "Up to 10%",
+            "D": "Up to 13%"
+        },
+        "question": "What percentage of proof is achievable through natural yeast fermentation?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 664,
+            "paragraph_id": "978-0198795551-p664-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Impaired Liver Function",
+            "B": "Increased sensitivity to alcohol effects",
+            "C": "Tolerance to alcohol",
+            "D": "Underlying psychiatric condition"
+        },
+        "question": "What is indicated by discrepancy between high Blood Alcohol Concentration (BAC) levels and a lack of apparent intoxication?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 670,
+            "paragraph_id": "978-0198795551-p670-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Direct confrontation of the risks involved",
+            "B": "Telling patients about the risks they face due to their actions",
+            "C": "Focusing on the patient's understanding and acknowledgment of their personal risk level",
+            "D": "irect confrontation of the risks involved\nB: Telling patients about the risks they face due to their actions\nC: Focusing on the patient's understanding and acknowledgment of their personal risk level\nD: Ignoring the patient's perspective and imposing a solution"
+        },
+        "question": "What approach emphasizes a patient's own perception of the degree of risk associated with their behavior?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 677,
+            "paragraph_id": "978-0198795551-p677-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Previous failure at controlled drinking",
+            "B": "Established organ damage due to excessive alcohol consumption",
+            "C": "Absence of drinking problems among immediate family members",
+            "D": "History of severe withdrawal symptoms during past attempts to quit"
+        },
+        "question": "What factor suggests the possibility of success of controlled drinking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 678,
+            "paragraph_id": "978-0198795551-p678-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "FAST alone",
+            "B": "AUDIT alone",
+            "C": "FAST along with others such as TWEAK test and MAST",
+            "D": "IT alone \nC: FAST along with others such as TWEAK test and MAST\nD: Only MAST"
+        },
+        "question": "What tool is recommended alongside AUDIT-C according to NICE guidelines?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 671,
+            "paragraph_id": "978-0198795551-p671-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They enhance clozapine's therapeutic effects.",
+            "B": "They lead to increased clozapine serum levels.",
+            "C": "They reduce clozapine efficacy due to faster metabolism.",
+            "D": "They have no significant impact on clozapine efficacy."
+        },
+        "question": "What effect do drugs known to induce CYP1A2 activity, such as carbamazepine, have on clozapine efficacy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 288,
+            "paragraph_id": "978-0198795551-p288-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 5%",
+            "B": "Between 20-30%",
+            "C": "3-22%",
+            "D": "More than 40%"
+        },
+        "question": "What percentage of patients initially diagnosed with delusional disorder are later reclassified as having schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 297,
+            "paragraph_id": "978-0198795551-p297-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Strict adherence to prescribed medication regimens",
+            "B": "Medication non-compliance, drug or alcohol misuse, or life stresses",
+            "C": "Completion of higher education degrees",
+            "D": "Participation in regular physical exercise"
+        },
+        "question": "What factor may contribute to a subsequent episode of schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 273,
+            "paragraph_id": "978-0198795551-p273-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Serotonin inhibitors",
+            "B": "Glutamatergic agents",
+            "C": "Dopaminergic agents",
+            "D": "opaminergic agents\nD: Gamma-aminobutyric acid stimulators"
+        },
+        "question": "Which class of compounds includes substances known to induce psychotic symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 268,
+            "paragraph_id": "978-0198795551-p268-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Fainting spells and gastric discomfort",
+            "B": "Headache, nausea, vomiting, and diarrhea",
+            "C": "Constipation, dry mouth, blurred vision, difficulty passing urine",
+            "D": "Impaired temperature regulation, thrombocytopenia, confusion, and dysphagia"
+        },
+        "question": "What symptoms are commonly experienced by individuals taking Clozapine due to its anticholinergic properties?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 290,
+            "paragraph_id": "978-0198795551-p290-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 30%",
+            "B": "Up to 50%",
+            "C": "Up to 60%",
+            "D": "Up to 70%"
+        },
+        "question": "What percentage of patients experiencing psychosis tend to also experience depression in the acute phase?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 277,
+            "paragraph_id": "978-0198795551-p277-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Reviewing the management plan established by specialist teams",
+            "B": "Always taking shortcuts during assessments to save time",
+            "C": "Discussing the case immediately with a senior colleague",
+            "D": "iscussing the case immediately with a senior colleague\nD: Fully assessing the current mental state and making a risk assessment"
+        },
+        "question": "What step should always be taken regardless of how familiar the patient's situation might seem?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1128,
+            "paragraph_id": "978-0198795551-p1128-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Inform the patient's family first then ring emergency services",
+            "B": "Keep the caller talking while gathering more information, notify colleagues and consider ringing emergency services if needed",
+            "C": "Immediately hang up the line and report the incident anonymously",
+            "D": "Tell the patient to visit the nearest clinic for assistance"
+        },
+        "question": "What steps should be taken if a patient threatens suicide via telephone?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1131,
+            "paragraph_id": "978-0198795551-p1131-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Doctors enforce the patient's decision immediately without discussion.",
+            "B": "The patient is informed about the potential risks and benefits before making a final decision.",
+            "C": "Treatment continues regardless of the patient's refusal due to implied consent.",
+            "D": "octors enforce the patient's decision immediately without discussion.\nB: The patient is informed about the potential risks and benefits before making a final decision.\nC: Treatment continues regardless of the patient's refusal due to implied consent.\nD: Hospital policies dictate automatic discharge upon request by the patient."
+        },
+        "question": "What typically happens when a patient expresses a desire to leave the hospital against medical advice?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1134,
+            "paragraph_id": "978-0198795551-p1134-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They automatically lose access to future healthcare services.",
+            "B": "Their departure is recorded along with plans for follow-up care and recommendations for returning if needed.",
+            "C": "Medical staff attempt to physically restrain them until they change their mind.",
+            "D": "An immediate psychiatric evaluation is conducted before allowing them to leave."
+        },
+        "question": "What happens when a patient decides to leave against medical advice?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1136,
+            "paragraph_id": "978-0198795551-p1136-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Hospital settings",
+            "B": "Community detox settings",
+            "C": "ommunity detox settings\nC: Both equally",
+            "D": "Settings with severe cases"
+        },
+        "question": "In which setting are fixed-dose regimens preferred for managing alcohol withdrawal?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 683,
+            "paragraph_id": "978-0198795551-p683-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "1949",
+            "B": "1955",
+            "C": "1961",
+            "D": "1964"
+        },
+        "question": "What year did Shepherd and Davies conduct the first randomized controlled trial demonstrating the efficacy of reserpine in anxious depression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 308,
+            "paragraph_id": "978-0198795551-p308-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Anxiety Disorders",
+            "B": "Cognitive Impairment Or Intellectual Disability (ID)",
+            "C": "ognitive Impairment Or Intellectual Disability (ID)\nC: Seasonal Affective Disorder",
+            "D": "isorders \nB: Cognitive Impairment Or Intellectual Disability (ID)\nC: Seasonal Affective Disorder\nD: Bipolar Disorder"
+        },
+        "question": "Which of the following conditions might sometimes make diagnosing depression challenging due to masking depressive symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 318,
+            "paragraph_id": "978-0198795551-p318-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "First",
+            "B": "Third",
+            "C": "Second",
+            "D": "Fifth"
+        },
+        "question": "What is the estimated ranking of depressive disorders as causes of disability worldwide by the year 2020?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 304,
+            "paragraph_id": "978-0198795551-p304-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Stimulants",
+            "B": "Opiates",
+            "C": "Depressants",
+            "D": "epressants\nD: Hallucinogens"
+        },
+        "question": "What category includes drugs such as heroin, dihydrocodeine, methadone, codeine, buprenorphine, and pethidine?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 708,
+            "paragraph_id": "978-0198795551-p708-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Euphoria and hallucinations",
+            "B": "Hyperactivity and aggression",
+            "C": "Counteraction of fatigue",
+            "D": "Paranoia and suicidal thoughts"
+        },
+        "question": "What effect does caffeine primarily produce among its users?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 717,
+            "paragraph_id": "978-0198795551-p717-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Dependence or withdrawal symptoms occur immediately after consumption.",
+            "B": "Nausea and vomiting decrease significantly compared to smaller doses.",
+            "C": "Perceptual abnormalities similar to LSD become apparent.",
+            "D": "ependence or withdrawal symptoms occur immediately after consumption.\nB: Nausea and vomiting decrease significantly compared to smaller doses.\nC: Perceptual abnormalities similar to LSD become apparent.\nD: Tolerance to the mushroom's effects disappears completely."
+        },
+        "question": "What happens if you consume more than 25 Psilocybe semilanceata mushrooms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 721,
+            "paragraph_id": "978-0198795551-p721-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Within seconds to minutes",
+            "B": "Between 30 seconds to several hours",
+            "C": "Approximately 5 minutes",
+            "D": "Within 10\u201320 s"
+        },
+        "question": "How quickly do high levels of nicotine reach the brain after being inhaled?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 703,
+            "paragraph_id": "978-0198795551-p703-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "0300 123 6600",
+            "B": "0300 123 1 110",
+            "C": "0800 9177 650",
+            "D": "020 7251 4007"
+        },
+        "question": "What phone number can someone call if they need help regarding an alcohol problem?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1148,
+            "paragraph_id": "978-0198795551-p1148-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Abnormal Involuntary Movement Disorder",
+            "B": "Acute Stress Reaction",
+            "C": "Abnormal Perception Syndrome",
+            "D": "isorder  \nB: Acute Stress Reaction  \nC: Abnormal Perception Syndrome  \nD: Abnormal Involuntary Movement Scale (AIMS)"
+        },
+        "question": "What term refers to a condition where there's an abnormality in movement due to taking certain medications?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1192,
+            "paragraph_id": "978-0198795551-p1192-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Prader Willi Syndrome Association UK",
+            "B": "OCD-UK",
+            "C": "D-UK  \nC: Rett UK",
+            "D": "-UK  \nC: Rett UK  \nD: Anxiety UK"
+        },
+        "question": "What organization provides information, advice, and practical help specifically to people with Rett syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1150,
+            "paragraph_id": "978-0198795551-p1150-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "McKay M, Wood JC, Brantly's Dialectical Behavior Therapy Skills Workbook",
+            "B": "rantly's Dialectical Behavior Therapy Skills Workbook  \nB: Hawkins DM, Sinha G's Dealing with Difficult Patients: Mastering Patient Care for Nurses, Doctors, and Dentists",
+            "C": ", Brantly's Dialectical Behavior Therapy Skills Workbook  \nB: Hawkins DM, Sinha G's Dealing with Difficult Patients: Mastering Patient Care for Nurses, Doctors, and Dentists  \nC: Kabat-Zinn J's Wherever You Go There You Are: Mindfulness Meditation In Everyday Life",
+            "D": "ialectical Behavior Therapy Skills Workbook  \nB: Hawkins DM, Sinha G's Dealing with Difficult Patients: Mastering Patient Care for Nurses, Doctors, and Dentists  \nC: Kabat-Zinn J's Wherever You Go There You Are: Mindfulness Meditation In Everyday Life  \nD: Nelson-Jones R's Introduction to Counselling Skills: Textbook"
+        },
+        "question": "What book provides guidance specifically tailored towards nurses, doctors, and dentists dealing with difficult patients?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1151,
+            "paragraph_id": "978-0198795551-p1151-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Al-Anon",
+            "B": "Narcotics Anonymous",
+            "C": "Drinkaware",
+            "D": "rinkaware  \nD: National Domestic Violence Helpline"
+        },
+        "question": "What organization provides helplines and meetings specifically for families and friends of individuals dealing with a drink problem?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1147,
+            "paragraph_id": "978-0198795551-p1147-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "020 8939 9520",
+            "B": "0870 167 1687",
+            "C": "020 8939 9530",
+            "D": "0894 123456"
+        },
+        "question": "What is the phone number for CRUSE Bereavement Care's professional contact?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1145,
+            "paragraph_id": "978-0198795551-p1145-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Oral risperidone alone",
+            "B": "IM lorazepam 1-2mg",
+            "C": "Intravenous diazepam",
+            "D": "Sublingual midazolam"
+        },
+        "question": "What initial medication is typically given to physically fit patients during rapid tranquillization due to non-psychotic contexts?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1266,
+            "paragraph_id": "978-0198795551-p1266-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "Around 30%",
+            "C": "About 50%",
+            "D": "Nearly 80%"
+        },
+        "question": "What percentage of patients who have only partially responded to certain types of antidepressants might potentially benefit from adding lithium?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 335,
+            "paragraph_id": "978-0198795551-p335-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Immediate initiation of antidepressant medications alongside intensive psychotherapeutic intervention.",
+            "B": "Refraining from the use of antidepressants combined with close active monitoring and possibly offering guided self-help or group physical activities.",
+            "C": "Mandatory hospitalization for observation and immediate start of pharmacological treatment.",
+            "D": "Exclusive reliance on computerized cognitive behavioral therapy without medication unless symptoms worsen significantly."
+        },
+        "question": "When considering initial treatment options for patients with mild depressive symptoms of recent onset and no previous history of a more severe mood disorder, what approach do guidelines generally recommend?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 330,
+            "paragraph_id": "978-0198795551-p330-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They occur randomly throughout the year and last indefinitely until treated.",
+            "B": "They happen exclusively in summer months due to excessive sunlight exposure.",
+            "C": "They recur at the same time of year, commonly in winter months in the Northern Hemisphere, and fully remit once the season is over.",
+            "D": "They start suddenly in spring and persist through autumn before resolving spontaneously."
+        },
+        "question": "What typically characterizes the onset and duration of depressive episodes in Seasonal Affective Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 342,
+            "paragraph_id": "978-0198795551-p342-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "About 40%, around 5 years",
+            "B": "Approximately 50%, roughly 15 years",
+            "C": "Around 60%, nearly 20 years",
+            "D": "Roughly 70%, close to 25 years"
+        },
+        "question": "What percentage of patients who experience a depressive episode will have another episode after approximately how many years?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 328,
+            "paragraph_id": "978-0198795551-p328-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Restricting social and occupational roles combined with rumination and endocrine changes",
+            "B": "Higher incidence of adverse childhood experiences among females",
+            "C": "Differences in physical activity levels between males and females",
+            "D": "ifferences in physical activity levels between males and females\nD: Genetic predisposition alone"
+        },
+        "question": "What might explain the difference in depression prevalence between genders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 323,
+            "paragraph_id": "978-0198795551-p323-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Timing of Convulsion",
+            "B": "Age Dosing Method",
+            "C": "onvulsion  \nB: Age Dosing Method  \nC: EEG Monitoring",
+            "D": "osing Method  \nC: EEG Monitoring  \nD: Motor Seizure Duration Alone"
+        },
+        "question": "What is considered the gold standard for determining whether a therapeutic treatment has been achieved during Electroconvulsive Therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 361,
+            "paragraph_id": "978-0198795551-p361-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It leads to reduced side effects of TCAs",
+            "B": "It decreases the severity of depressive episodes immediately",
+            "C": "As\nB: It decreases the severity of depressive episodes immediately\nC: It may lead to more severe TCA side effects due to elevated blood levels secondary to SSRI effects",
+            "D": "It always requires withdrawal and waiting periods"
+        },
+        "question": "What happens when combining TCAs and SSRIs?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 347,
+            "paragraph_id": "978-0198795551-p347-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Every week for the first month, then monthly thereafter",
+            "B": "At 6, 12, and 24 weeks",
+            "C": "Daily for the first two weeks, followed by weekly checks",
+            "D": "aily for the first two weeks, followed by weekly checks\nD: Only at the start and end of treatment"
+        },
+        "question": "What is the recommended frequency for checking liver function in patients taking certain medications?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 356,
+            "paragraph_id": "978-0198795551-p356-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They exhibit signs of both hypomania and cyclothymia simultaneously.",
+            "B": "Patients often show significant improvement in their condition leading towards complete recovery.",
+            "C": "Individuals usually undergo intense psychotherapy sessions.",
+            "D": "Patients usually experience periods of full remission."
+        },
+        "question": "What typically happens during periods between extreme highs and lows experienced by individuals with bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 370,
+            "paragraph_id": "978-0198795551-p370-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Active thoughts of suicide",
+            "B": "Significant heart disease",
+            "C": "Presence of mild depression symptoms",
+            "D": "Significant brain atrophy"
+        },
+        "question": "What condition might lead clinicians to advise considering alternative treatments instead of ECT?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 363,
+            "paragraph_id": "978-0198795551-p363-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Primarily in managing manic episodes",
+            "B": "More effectively in preventing depressive episodes",
+            "C": "Equally in reducing both manic and depressive episodes' severity",
+            "D": "Solely in cases where patients had co-existing seizure disorders"
+        },
+        "question": "What aspect of bipolar disorder treatment did certain anticonvulsants appear particularly beneficial for?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 375,
+            "paragraph_id": "978-0198795551-p375-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Orchid hypothesis",
+            "B": "Orchids and dandelions concept",
+            "C": "Resilience matrix theory",
+            "D": "Genetic sensitivity model"
+        },
+        "question": "What term illustrates how different individuals respond differently to adverse conditions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 758,
+            "paragraph_id": "978-0198795551-p758-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Up to 1 day",
+            "B": "Approximately 5 days",
+            "C": "48 hours",
+            "D": "Several weeks"
+        },
+        "question": "What duration reflects how long amphetamines remain detectable?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 728,
+            "paragraph_id": "978-0198795551-p728-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "50\u201355%",
+            "B": "30\u201340%",
+            "C": "10\u201315%",
+            "D": "25%"
+        },
+        "question": "What percentage of children exhibit characteristics consistent with an Insecure-Ambivalent style according to Table 15.1?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 760,
+            "paragraph_id": "978-0198795551-p760-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Once at the start of treatment",
+            "B": "Over several months",
+            "C": "Only once after treatment begins",
+            "D": "Several specimens should be taken over several weeks"
+        },
+        "question": "How often should urine specimens be taken during initial assessments?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 727,
+            "paragraph_id": "978-0198795551-p727-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Health professionals exclusively",
+            "B": "Teachers",
+            "C": "Social agencies alone",
+            "D": "Both health professionals and teachers"
+        },
+        "question": "Who completes standardized rating scales like Connor's Questionnaires?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 753,
+            "paragraph_id": "978-0198795551-p753-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Medication management alone",
+            "B": "Play, playfulness, imagination, and creativity",
+            "C": "Strict discipline and adherence to routine",
+            "D": "Solely focusing on family dynamics"
+        },
+        "question": "What do child and adolescent psychiatrists rely heavily upon to build therapeutic relationships?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 744,
+            "paragraph_id": "978-0198795551-p744-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Presence of chronic motor tic disorder alone",
+            "B": "Multiple motor tics and absence of vocal tics",
+            "C": "Either transient motor or vocal tics for less than 12 months",
+            "D": "Multiple motor tics and one or more vocal tics"
+        },
+        "question": "What characterizes Tourette's syndrome in terms of the presence of tics?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 779,
+            "paragraph_id": "978-0198795551-p779-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "About 75%",
+            "B": "Approximately half",
+            "C": "Many, although exact percentages aren't specified",
+            "D": "Less than 50%"
+        },
+        "question": "What percentage of individuals diagnosed with attention-deficit/hyperactivity disorder (ADHD), according to the epidemiological data given, are estimated to also experience conduct disorder (CD) and/or substance abuse later in life?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 768,
+            "paragraph_id": "978-0198795551-p768-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Reduction occurs gradually over several weeks",
+            "B": "The dose is reduced over 14\u201321 days",
+            "C": "Maintenance doses increase by 10mg weekly",
+            "D": "Patients undergo withdrawal assessment before starting"
+        },
+        "question": "What happens during rapid reduction regime of methadone?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 735,
+            "paragraph_id": "978-0198795551-p735-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Managing acute manic symptoms",
+            "B": "Prevention of recurrent episodes including mania, hypomania, or depression",
+            "C": "Treatment of resistant depressive episodes",
+            "D": "Adjustment of doses for better tolerance"
+        },
+        "question": "What is considered a primary aim in the prophylaxis of patients with bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 401,
+            "paragraph_id": "978-0198795551-p401-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Therapeutic levels differ significantly compared to those in adults due to slower metabolism.",
+            "B": "Long-term developmental effects remain unstudied while efficacy has been demonstrated.",
+            "C": "Dosage requirements are lower because they metabolize lithium at a faster rate than adults.",
+            "D": "osage requirements are lower because they metabolize lithium at a faster rate than adults.\nD: Side effects are generally milder, allowing higher doses without concern."
+        },
+        "question": "What consideration needs to be taken specifically regarding children and adolescents when prescribing lithium?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 395,
+            "paragraph_id": "978-0198795551-p395-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Five percent",
+            "B": "Ten to twenty-five percent",
+            "C": "Twenty to thirty percent",
+            "D": "Thirty to forty percent"
+        },
+        "question": "What percentage of patients on long-term lithium therapy may experience morphological kidney changes?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 412,
+            "paragraph_id": "978-0198795551-p412-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unchanged between 18-55 hours.",
+            "B": "It increases significantly past 55 hours.",
+            "C": "It decreases to a range of 5-26 hours.",
+            "D": "Its metabolic pathway changes completely."
+        },
+        "question": "What happens to carbamazepine's plasma half-life during long-term use due to its effect on its own metabolism?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 418,
+            "paragraph_id": "978-0198795551-p418-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ultra-cycling",
+            "B": "With Rapid Cycling",
+            "C": "ycling\nC: Mixed Episode Specifier",
+            "D": "Atypical Features"
+        },
+        "question": "What term is specifically used by DSM-5 for individuals experiencing four or more episodes of bipolar I or II disorder in a year?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 385,
+            "paragraph_id": "978-0198795551-p385-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inhibition leading to decreased neuronal survival",
+            "B": "Upregulation contributing to increased cell death",
+            "C": "Neuroprotection by affecting GSK-3 gene expression",
+            "D": "No effect due to lack of interaction with genetic mechanisms"
+        },
+        "question": "What action might lithium potentially exhibit regarding GSK-3 gene expression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 409,
+            "paragraph_id": "978-0198795551-p409-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Manic episodes that last more than seven days",
+            "B": "Hypomanic episodes with no occurrence of full-blown mania and presence of depressive episodes",
+            "C": "Periods of hypomanic symptoms interspersed with periods of mild depression lasting at least two years",
+            "D": "Full-blown manic episodes followed by long-term depressive states"
+        },
+        "question": "What characterizes Bipolar II Disorder according to the given diagnostic classification?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 383,
+            "paragraph_id": "978-0198795551-p383-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Around 5%",
+            "B": "Over 15%",
+            "C": "Over 10%",
+            "D": "Approximately 25%"
+        },
+        "question": "What percentage of domestic violence incidents result in serious injuries leading to hospital attendance?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 819,
+            "paragraph_id": "978-0198795551-p819-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Marked fear of physical injury due to accidents",
+            "B": "Fear of one or more social or performance-related situations where exposure to scrutiny and potential embarrassment may occur",
+            "C": "Recurring nightmares following traumatic events",
+            "D": "Compulsive need to engage in repetitive behaviors to alleviate distress"
+        },
+        "question": "What characterizes social phobia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 788,
+            "paragraph_id": "978-0198795551-p788-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Narcolepsy, insomnia, restless leg syndrome",
+            "B": "Nightmare disorder, sleep terror disorder, sleep apnea",
+            "C": "Nightmares, depression, anxiety disorders",
+            "D": "Nightmare disorder, sleep terror disorder, sleepwalking disorder"
+        },
+        "question": "What types of main syndromes related to sleep disorders typically manifest in children and adolescents?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 784,
+            "paragraph_id": "978-0198795551-p784-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "40%",
+            "D": "60%"
+        },
+        "question": "What percentage of individuals who experience depression during childhood or adolescence will eventually develop bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 795,
+            "paragraph_id": "978-0198795551-p795-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The Police Force",
+            "B": "The Crown Prosecution Service",
+            "C": "rown Prosecution Service\nC: The Ministry of Justice",
+            "D": "The Home Office"
+        },
+        "question": "What entity is responsible for deciding whether an individual should be prosecuted following a report by the police in England and Wales?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 814,
+            "paragraph_id": "978-0198795551-p814-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Immediate initiation of hormone therapy",
+            "B": "Supporting their child's preferred gender expression while awaiting further development",
+            "C": "Insisting the child adhere strictly to traditional gender roles",
+            "D": "Automatically referring the child for psychiatric treatment"
+        },
+        "question": "What approach do some parents take towards children experiencing gender dysphoria before reaching puberty?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 800,
+            "paragraph_id": "978-0198795551-p800-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Brief interventions combined with occasional pharmacological treatments",
+            "B": "rief interventions combined with occasional pharmacological treatments\nB: Coordination of multiple agencies including structured treatment by specialist young people's substance misuse treatment services",
+            "C": "oordination of multiple agencies including structured treatment by specialist young people's substance misuse treatment services\nC: Social support alone, excluding professional healthcare intervention",
+            "D": "Family therapy focused exclusively on reducing conflict"
+        },
+        "question": "What approach is recommended for addressing significant substance misuse problems among individuals under the age of 18?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 802,
+            "paragraph_id": "978-0198795551-p802-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "DSM-4",
+            "B": "DSM-5",
+            "C": "ICD-9",
+            "D": "SM-4  \nB: DSM-5  \nC: ICD-9  \nD: ICD-10"
+        },
+        "question": "What system retains the term 'neurosis' in the category of 'neurotic, stress-related, and somatoform disorders'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 427,
+            "paragraph_id": "978-0198795551-p427-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Psychodynamic psychotherapy",
+            "B": "Behavioural methods including exposure and relaxation techniques",
+            "C": "Cognitive-behavioral therapy (CBT)",
+            "D": "Medication management"
+        },
+        "question": "What method involves teaching about bodily responses associated with anxiety and education about panic attacks?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 441,
+            "paragraph_id": "978-0198795551-p441-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Classical Conditioning",
+            "B": "Instrumental Conditioning",
+            "C": "lassical Conditioning\nB: Instrumental Conditioning\nC: Operant Learning",
+            "D": "Social Learning"
+        },
+        "question": "What process did researchers propose occurs when behaviors that reduce anxiety become learned?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 431,
+            "paragraph_id": "978-0198795551-p431-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 10%",
+            "B": "Up to 40%",
+            "C": "Up to 60%",
+            "D": "Up to 68%"
+        },
+        "question": "What percentage range of individuals experience depressive disorder among those diagnosed with panic disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 437,
+            "paragraph_id": "978-0198795551-p437-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Your Honor",
+            "B": "My Lord",
+            "C": "Sir/Madam",
+            "D": "Judge"
+        },
+        "question": "How might a male judge in the High Court of Scotland be appropriately addressed?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 839,
+            "paragraph_id": "978-0198795551-p839-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "29%",
+            "B": "39%",
+            "C": "49%",
+            "D": "59%"
+        },
+        "question": "What percentage of people held in custody by the police reportedly suffers from mental disorder according to recent NICE guidance?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 830,
+            "paragraph_id": "978-0198795551-p830-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Whether the defendant understands the nature and objective of the trial process",
+            "B": "Whether the defendant can provide instructions to their lawyers despite having some level of intellectual impairment",
+            "C": "Whether the defendant appears to suffer from a mental disability preventing them from grasping the charge or directing counsel",
+            "D": "Whether the defendant exhibits behaviors indicative of severe psychological distress during pre-trial assessments"
+        },
+        "question": "According to the law in Northern Ireland, how is it determined whether a defendant is unfit to plead in a criminal proceeding?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 843,
+            "paragraph_id": "978-0198795551-p843-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Schizophrenia",
+            "B": "Personality Disorders",
+            "C": "Delusional Disorders",
+            "D": "isorders\nC: Delusional Disorders\nD: Learning Disability"
+        },
+        "question": "Which of the following mental health issues is described as having a stronger relationship with offending and violence compared to affective disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 826,
+            "paragraph_id": "978-0198795551-p826-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Severity of emotional impairment alone",
+            "B": "Severity of intellectual impairment and social factors",
+            "C": "Physical stigmata and racial characteristics",
+            "D": "Only economic status"
+        },
+        "question": "What factor contributed to the classification of'mental retardation' in the International Classification of Diseases Eighth Revision?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 854,
+            "paragraph_id": "978-0198795551-p854-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They are automatically given a guardianship order.",
+            "B": "If determined to pose a high risk, they receive a compulsion order to hospital with a restriction order.",
+            "C": "They are always placed under supervision and treatment order regardless of the outcome.",
+            "D": "No further action is taken unless new evidence arises."
+        },
+        "question": "What happens to a person in Scotland after being assessed under an interim compulsion order?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 846,
+            "paragraph_id": "978-0198795551-p846-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "About 40%",
+            "B": "Approximately 30%",
+            "C": "Around 50%",
+            "D": "About 60%"
+        },
+        "question": "What percentage of central nervous system malformations lack an identified genetic or exogenous cause?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 861,
+            "paragraph_id": "978-0198795551-p861-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Chromosome 9",
+            "B": "Chromosome 16",
+            "C": "hromosome 9\nB: Chromosome 16\nC: Chromosome 17",
+            "D": "Chromosome 22"
+        },
+        "question": "What is the chromosomal location associated with the gene for tuberin in Tuberous Sclerosis Complex subtype TSC2?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 880,
+            "paragraph_id": "978-0198795551-p880-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "40-50%",
+            "B": "20-30%",
+            "C": "60-75%",
+            "D": "90-95%"
+        },
+        "question": "What percentage of Angelman ('happy puppet') syndrome cases result from a microdeletion?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 876,
+            "paragraph_id": "978-0198795551-p876-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only standard laboratory tests",
+            "B": "Ophthalmic and audiology examinations along with full physical examination",
+            "C": "Neurological examination alone",
+            "D": "Routine check-ups without specialized screenings"
+        },
+        "question": "What types of examinations might be suggested if indicated by the patient's medical history and physical examination findings?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 864,
+            "paragraph_id": "978-0198795551-p864-para1"
+        },
+        "type": "multiple_choice"
     }
 ]

@@ -1,0 +1,112 @@
+[
+    {
+        "answer": "Alcohol",
+        "question": "What substance induces atrial fibrillation?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 59,
+            "paragraph_id": "978-0323847704-p59-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Thromboangiitis obliterans, affecting mostly young male smokers causing digital ischemia, Raynaud's phenomenon, and aortoiliac occlusive disease.",
+        "question": "What is Buerger's disease?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 82,
+            "paragraph_id": "978-0323847704-p82-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "With the patient's knee flexed to 30 degrees, compress the artery against the back of the tibia.",
+        "question": "How is the popliteal pulse typically checked?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 85,
+            "paragraph_id": "978-0323847704-p85-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Up to 10%, particularly during pregnancy.",
+        "question": "What percentage of patients with severe varicose veins experience superficial venous thrombophlebitis, which becomes more common during what condition?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 89,
+            "paragraph_id": "978-0323847704-p89-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Loss of sense of smell.",
+        "question": "What is anosmia?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 151,
+            "paragraph_id": "978-0323847704-p151-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Speech development and quality are affected.",
+        "question": "What are the possible effects of profound hearing loss acquired before speech acquisition?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 204,
+            "paragraph_id": "978-0323847704-p204-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Night blindness and difficulty seeing in dim light due to conditions such as nyctalopia.",
+        "question": "What symptoms do individuals with pigmentosa experience?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 196,
+            "paragraph_id": "978-0323847704-p196-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Two nasal bones provide support and stability to the nose.",
+        "question": "What parts constitute the support and stability of the external nose?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 211,
+            "paragraph_id": "978-0323847704-p211-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Intranasal cocaine.",
+        "question": "What substances' use can lead to septal perforation?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 214,
+            "paragraph_id": "978-0323847704-p214-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It is situated in the midline and usually tilted anteriorly over the bladder.",
+        "question": "What is the usual position of the uterus?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 253,
+            "paragraph_id": "978-0323847704-p253-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Cancer developing in peripheral tissues of the lateral lobes.",
+        "question": "What is typically detected during digital rectal examination regarding prostate issues?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 270,
+            "paragraph_id": "978-0323847704-p270-para1"
+        },
+        "type": "short_answer"
+    }
+]

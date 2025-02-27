@@ -1,0 +1,2654 @@
+[
+    {
+        "answer": "Vinay Kumar wrote each chapter individually.",
+        "false_answer": "Vinay Kumar wrote each chapter individually.",
+        "incorrect_explanation": "According to the paragraph, Abul K. Abbas, Jon C. Aster, along with Vinay Kumar, collectively reviewed, critiqued, and edited each chapter. There is no indication that he wrote them individually; instead, they worked together to achieve uniformity of style and flow across the chapters.",
+        "question": "What action did Vinay Kumar take regarding the chapters?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 10,
+            "paragraph_id": "978-0721631585-p10-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Macrocytic hyperchromic anemia.",
+        "false_answer": "Macrocytic hyperchromic anemia.",
+        "incorrect_explanation": "According to the paragraph, esophageal webs actually appear together with microcytic hypochromic anemia and atrophic glossitis to complete the triad of findings in the rare Plummer-Vinson syndrome, not macrocytic hyperchromic anemia.",
+        "question": "What condition does the presence of esophageal webs typically accompany?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 662,
+            "paragraph_id": "978-0721631585-p662-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most patients survive approximately five years following their initial diagnosis.",
+        "false_answer": "Approximately five years survival rate post-diagnosis.",
+        "incorrect_explanation": "According to the given paragraph, there's mention of prognosis and progression rates but specifically notes that only about one-third of affected individuals are alive 4 years after diagnosis, indicating variability rather than stating a standard survival time frame around five years universally applicable across all diagnoses of amyotrophic lateral sclerosis.",
+        "question": "What is the typical duration of life expectancy after being diagnosed with amyotrophic lateral sclerosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1288,
+            "paragraph_id": "978-0721631585-p1288-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When nutrient deprivation occurs, it always triggers immediate cell death.",
+        "false_answer": "Immediate cell death upon nutrient deprivation.",
+        "incorrect_explanation": "According to the given text, nutrient deprivation actually triggers an adaptive cellular response called autophagy, which *may* culminate in cell death, indicating that cell death isn't the immediate outcome but rather a possible consequence after autophagic processes begin.",
+        "question": "What happens when nutrient deprivation occurs?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 47,
+            "paragraph_id": "978-0721631585-p47-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During ferroptosis, there's an increase in membrane fluidity.",
+        "false_answer": "Increase in membrane fluidity.",
+        "incorrect_explanation": "According to the given text, ferroptosis actually results in the *loss* of plasma membrane permeability due to unchecked membrane lipid peroxidation disrupting various aspects of membrane function, including fluidity, rather than increasing it.",
+        "question": "What happens to the membranes of cells undergoing ferroptosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 59,
+            "paragraph_id": "978-0721631585-p59-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cells swell significantly.",
+        "false_answer": "Cells swell significantly.",
+        "incorrect_explanation": "According to the description of apoptosis morphology, one key feature is actually \"cell shrinkage,\" where the cell size is reduced, contrasting with necrosis where cell swelling is observed. Therefore, the statement about cells swelling is incorrect because they instead undergo reduction in size.",
+        "question": "What happens during apoptosis regarding cell size?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 55,
+            "paragraph_id": "978-0721631585-p55-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 75%.",
+        "false_answer": "More than 75%.",
+        "incorrect_explanation": "According to Table 15.2, infection along with three other specified conditions accounts for more than 50%, not 75%, of the cases of acute respiratory distress syndrome. Therefore, stating more than 75% incorrectly overestimates the proportion attributed specifically to infection alone among those listed causes.",
+        "question": "What percentage of cases of acute respiratory distress syndrome (ARDS) are associated with infection?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 680,
+            "paragraph_id": "978-0721631585-p680-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% to 60%.",
+        "false_answer": "The spleen holds approximately 50% to 60% of the body's platelets under normal circumstances.",
+        "incorrect_explanation": "According to the given text, the spleen actually sequesters around 30% to 35% of the body's platelets under normal conditions, not 50% to 60%.\n- **Correct Information Based on Paragraph:** Under normal conditions, the spleen holds about 30% to 35%, not 50% to 60%, of the body's total platelet pool.",
+        "question": "What proportion of the body's platelets does the spleen typically hold under normal circumstances?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 668,
+            "paragraph_id": "978-0721631585-p668-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The rate of transmission of Hepatitis C is approximately 1 in 900,000.",
+        "false_answer": "The rate of transmission of Hepatitis C is approximately 1 in 900,000.",
+        "incorrect_explanation": "According to the paragraph, the actual rate estimated for the transmission of Hepatitis C is 1 in 1.2 million, making the given answer incorrect.",
+        "question": "What rate is estimated for the transmission of Hepatitis C through blood products?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 676,
+            "paragraph_id": "978-0721631585-p676-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Idiopathic orbital inflammation is characterized histologically by acute inflammation, marked necrosis, and absence of fibrosis.",
+        "false_answer": "Acute inflammation, marked necrosis, and absence of fibrosis characterize idiopathic orbital inflammation histologically.",
+        "incorrect_explanation": "According to the given paragraph, idiopathic orbital inflammation is actually characterized histologically by *chronic* inflammation and variable degrees of *fibrosis*. There's mention of possible necrosis alongside vasculitis indicating potential systemic conditions, but these features do not universally characterize the condition.",
+        "question": "What characterizes idiopathic orbital inflammation histologically?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1307,
+            "paragraph_id": "978-0721631585-p1307-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Glaucoma describes opacities of the lens.",
+        "false_answer": "Glaucoma describes opacities of the lens.",
+        "incorrect_explanation": "According to the given information, the term \"cataract,\" not \"glaucoma,\" describes opacities of the lens. Instead, glaucoma refers to conditions characterized by distinctive changes in the visual field and the size and shape of the optic nerve cup, often accompanied by elevated intraocular pressure.",
+        "question": "What does the term \"glaucoma\" specifically describe?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1315,
+            "paragraph_id": "978-0721631585-p1315-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When there is damage to the choriocapillaris, the underlying RPE remains unaffected, allowing normal vision to persist despite minor disturbances in the choroidal circulation.",
+        "false_answer": "Damage to the choriocapillaris leaves the RPE unaffected.",
+        "incorrect_explanation": "According to the paragraph, damage to the choriocapillaris actually harms the overlying RPE, leading to possible accumulation of exudate and potentially causing retinal detachment. Thus, the statement is incorrect because it claims the RPE remains unaffected, contradicting the given information.",
+        "question": "What specifically happens when there is damage to the choriocapillaris?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1320,
+            "paragraph_id": "978-0721631585-p1320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Myopia occurs when the eye's refractive power exceeds its length.",
+        "false_answer": "Myopia occurs when the eye's refractive power exceeds its length.",
+        "incorrect_explanation": "According to the paragraph, myopia actually develops because the eye is too long for its refractive power, which contradicts the statement given in the answer. Therefore, the correct explanation for the development of myopia involves a mismatch between the physical dimensions of the eye and its focusing ability, specifically being too lengthy relative to its refracting capability.",
+        "question": "What is the main reason behind the development of myopia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1310,
+            "paragraph_id": "978-0721631585-p1310-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Neoplastic stromal cells in hemangioblastomas characteristically lack any significant metabolic activity.",
+        "false_answer": "Neoplastic stromal cells in hemangioblastomas characteristically lack any significant metabolic activity.",
+        "incorrect_explanation": "According to the provided information, neoplastic stromal cells actually express erythropoietin, VEGF, and inhibin, indicating active roles rather than lacking metabolic activity. They also show evidence of differentiation capabilities, suggesting involvement in processes beyond mere structural presence.\n- **Correct Answer Should Be:** These cells are characterized by their ability to express certain markers like erythropoietin, VEGF, and inhibin, reflecting their active participation in biological pathways and differentiation potentials.",
+        "question": "What characteristic feature do neoplastic stromal cells in hemangioblastomas typically exhibit?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1303,
+            "paragraph_id": "978-0721631585-p1303-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lysosomal membrane injury causes immediate cell division and regeneration through the release of growth factors stored within lysosomes.",
+        "false_answer": "Immediate cell division and regeneration occurs upon lysosomal membrane injury.",
+        "incorrect_explanation": "According to the paragraph, injury to lysosomal membranes actually results in leakage of their enzymes into the cytoplasm and activation of acid hydrolases, which degrade essential cellular components and push cells towards necrosis, not promoting cell division or regeneration. Instead, the correct outcome involves enzymatic activity harmful to the cell's survival.",
+        "question": "What happens when lysosomal membranes are injured?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 63,
+            "paragraph_id": "978-0721631585-p63-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They live significantly longer lives compared to regular mice because their bodies efficiently manage stress responses.",
+        "false_answer": "Mutant mice deficient in chaperones of the heat shock protein family age live significantly longer lives compared to regular mice.",
+        "incorrect_explanation": "According to the given information, mutant mice deficient in chaperones actually age rapidly, indicating impaired management of stress responses rather than enhanced efficiency.",
+        "question": "What happens when mutant mice deficient in chaperones of the heat shock protein family age?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 80,
+            "paragraph_id": "978-0721631585-p80-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Validation occurs via diastase resistance.",
+        "false_answer": "Validation occurs via diastase resistance.",
+        "incorrect_explanation": "The paragraph actually mentions that validation of glycogen's presence comes from demonstrating loss of staining due to glycogen hydrolysis after diastase digestion of a parallel section, indicating the need for sensitivity, not resistance, to diastase for confirmation.",
+        "question": "What method validates the presence of glycogen after staining with Best carmine or the PAS reaction?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 76,
+            "paragraph_id": "978-0721631585-p76-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Squamous to columnar.",
+        "false_answer": "Squamous to columnar.",
+        "incorrect_explanation": "According to the paragraph, the most common epithelial metaplasia occurring in the respiratory tract in response to chronic irritation is actually columnar to squamous, not squamous to columnar. This happens because the more resilient squamous epithelium replaces the more delicate columnar epithelium in environments subjected to constant irritation, such as those found in smokers' airways.",
+        "question": "What kind of epithelial metaplasia commonly occurs in the respiratory tract in response to chronic irritation?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 73,
+            "paragraph_id": "978-0721631585-p73-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Inhalation of pure silica particles alone usually leads to progressive massive fibrosis among coal workers.",
+        "false_answer": "Inhalation of pure silica particles alone usually leads to progressive massive fibrosis among coal workers.",
+        "incorrect_explanation": "According to the text, contaminating silica in the coal dust favors the development of progressive disease, indicating that silica plays a role when mixed with coal dust, not necessarily pure silica causing the condition. Additionally, the text emphasizes that in most cases, carbon dust itself is the major culprit, especially since complicated lesions contain much more dust than simple lesions, pointing towards a combination of factors including coal dust being significant.",
+        "question": "What typically causes progressive massive fibrosis in individuals suffering from coal workers' pneumoconiosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 696,
+            "paragraph_id": "978-0721631585-p696-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Tissue damage in bullous emphysema is primarily caused by deep vein thrombosis.",
+        "false_answer": "Deep vein thrombosis causing tissue damage in bullous emphysema.",
+        "incorrect_explanation": "According to the given paragraph, bullous emphysema is actually caused by alveolar tears that occur in patients with pulmonary emphysema due to transient increases in intra-alveolar pressure, such as during coughing, rather than deep vein thrombosis. The correct explanation involves mechanical stress and structural weaknesses within the lungs themselves, not vascular issues like deep vein thrombosis.",
+        "question": "What typically causes tissue damage resulting in bullous emphysema?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 687,
+            "paragraph_id": "978-0721631585-p687-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Particulates larger than 5 micrometers.",
+        "false_answer": "Particulates larger than 5 micrometers.",
+        "incorrect_explanation": "According to the information, it's actually particulates *less* than 2.5 micrometers that have especially potent effects contributing to triggering asthma attacks, not those larger than 5 micrometers.",
+        "question": "What size of particulates has especially potent effects contributing to triggering asthma attacks?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 690,
+            "paragraph_id": "978-0721631585-p690-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The body relies primarily on the presence of \u03b12-microglobulin in the serum and tissue fluids to inhibit the harmful effects of leukocyte proteases.",
+        "false_answer": "\u03b12-microglobulin is the major inhibitor of neutrophil elastase.",
+        "incorrect_explanation": "According to the text, \u03b11-antitrypsin, not \u03b12-microglobulin, is identified as the major inhibitor of neutrophil elastase, playing a key role in preventing excessive tissue damage caused by the release of granule enzymes.",
+        "question": "What is one way in which the body prevents excessive tissue damage caused by the release of granule enzymes?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 94,
+            "paragraph_id": "978-0721631585-p94-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Neutrophils.",
+        "false_answer": "Neutrophils",
+        "incorrect_explanation": "According to the paragraph, in helminthic infections and allergic reactions, eosinophils may be the main cell type found in the inflammatory infiltrate, not neutrophils. Therefore, the correct answer should reflect that eosinophils typically dominate in such conditions.",
+        "question": "What types of white blood cells dominate in the inflammatory infiltrate in cases of helminthic infections?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 90,
+            "paragraph_id": "978-0721631585-p90-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, there's a decrease in lymph flow.",
+        "false_answer": "A decrease in lymph flow when lymphatic vessels become secondarily inflamed.",
+        "incorrect_explanation": "According to the provided information, when lymphatic vessels become secondarily inflamed (a condition referred to as lymphangitis), what actually happens is an increase in lymph flow. This increased flow helps drain edema fluid accumulated due to heightened vascular permeability associated with inflammation.",
+        "question": "What is typically observed when lymphatic vessels become secondarily inflamed?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 87,
+            "paragraph_id": "978-0721631585-p87-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Paris is located near Germany",
+        "false_answer": "Paris is located near Germany",
+        "incorrect_explanation": "While Paris is indeed the capital of France, stating it is 'located near Germany' might imply proximity that isn't geographically accurate in relation to other countries closer to Paris. Correctly, Paris is approximately 320 kilometers west of the French-German border, making it somewhat distant rather than being 'near'. Thus, the statement introduces confusion regarding geographical relationships between European cities and borders.",
+        "question": "What is the Capital City Of France?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1394,
+            "paragraph_id": "978-0721631585-p1394-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lung cancer",
+        "false_answer": "Lung cancer",
+        "incorrect_explanation": "The given answer incorrectly associates lung cancer as a complication of Staphylococcal pneumonia. According to the information provided, Staphylococcal pneumonia is actually associated with complications such as lung abscess and empyema, not lung cancer.",
+        "question": "What complication is often associated with Staphylococcal pneumonia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 711,
+            "paragraph_id": "978-0721631585-p711-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Human metapneumovirus accounts for approximately 25% of hospitalizations.",
+        "false_answer": "Approximately 25%",
+        "incorrect_explanation": "According to the paragraph, Human metapneumovirus is actually responsible for 5% to 10% of hospitalizations and 12% to 20% of outpatient visits of children suffering from acute respiratory tract infections. Therefore, stating that it accounts for around 25% of hospitalizations introduces a factual error regarding the prevalence of the virus's impact compared to what is specified in the text.",
+        "question": "What percent of hospitalizations for acute respiratory tract infections in children are attributed to Human metapneumovirus?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 714,
+            "paragraph_id": "978-0721631585-p714-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Tissue regeneration.",
+        "false_answer": "Tissue regeneration",
+        "incorrect_explanation": "According to the given information, ulcers can occur only when tissue necrosis and resultant inflammation exist on or near a surface, leading to the shedding of inflamed necrotic tissue, forming a local defect or excavation of the surface of an organ or tissue. Thus, what actually happens is the formation of an ulcer through the loss of tissue rather than immediate tissue regeneration.",
+        "question": "What typically occurs after tissue necrosis and resultant inflammation exist on or near a surface?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 105,
+            "paragraph_id": "978-0721631585-p105-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Classically activated macrophages produce TNF and chemokines.",
+        "false_answer": "Classically activated macrophages produce TNF and chemokines to enhance their ability to kill ingested organisms.",
+        "incorrect_explanation": "According to the provided text, classically activated macrophages actually produce NO and lysosomal enzymes to enhance their ability to kill ingested organisms, not TNF and chemokines specifically for this purpose. While macrophages do indeed secret various cytokines and mediators, the primary focus regarding killing ingested organisms involves NO and lysosomal enzymes.",
+        "question": "What do classically activated macrophages primarily produce to enhance their ability to kill ingested organisms?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 109,
+            "paragraph_id": "978-0721631585-p109-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Governments reduce benefits if recipients refuse to participate in regular mental health evaluations.",
+        "false_answer": "Governments reduce benefits if recipients refuse to participate in regular mental health evaluations.",
+        "incorrect_explanation": "The actual condition for reducing benefits, as described in the paragraph, involves refusing vaccination according to a government-dictated schedule, specifically mentioning that in Australia, those dependent on government benefits would have them reduced if parents didn\u2019t agree to vaccinate their children. There's no mention of regular mental health evaluations affecting benefit eligibility.",
+        "question": "What method does the government employ to ensure compliance among individuals who receive guaranteed income?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1412,
+            "paragraph_id": "978-0721631585-p1412-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Upon hearing of Zevi's conversion to Islam, his followers were immediately disillusioned and abandoned him, causing the movement to dissolve instantly.",
+        "false_answer": "That upon hearing of Zevi's conversion to Islam, his followers were immediately disillusioned and abandoned him, causing the movement to dissolve instantly.",
+        "incorrect_explanation": "This statement is incorrect because despite Sabbatai Zevi converting to Islam under duress, many of his followers continued to believe in him as their messiah. His conversion did not lead to an immediate abandonment of faith in him among his followers. Instead, some interpreted his actions as part of a divine plan, allowing the movement to persist even after his apostasy.",
+        "question": "What was the reaction of the followers of Sabbatai Zevi upon learning of his conversion to Islam?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1426,
+            "paragraph_id": "978-0721631585-p1426-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to his predictions, the significant integration of humans and AI begins around 2025.",
+        "false_answer": "The prediction that the integration starts around 2025.",
+        "incorrect_explanation": "Ray Kurzweil actually mentions 2030 as the key year for when this transformation towards post-humanity and significant merging with AI technologies is expected to begin, indicating a substantial alteration in human thought processes and capabilities facilitated by advancements in artificial intelligence.",
+        "question": "By what year does futurist Ray Kurzweil highlight for when humans would start merging with AI?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1417,
+            "paragraph_id": "978-0721631585-p1417-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Speed limiters were implemented starting from 2019.",
+        "false_answer": "Speed limiters were implemented starting from 2019.",
+        "incorrect_explanation": "According to the given information, speed limiters on all new cars in the UK and EU began being implemented from 2022, not 2019. Therefore, the correct year for the start of this policy is actually 2022.",
+        "question": "In what year did the implementation of speed limiters on all new cars in both the UK and EU begin?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1418,
+            "paragraph_id": "978-0721631585-p1418-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A large sum of money",
+        "false_answer": "A large sum of money",
+        "incorrect_explanation": "The paragraph actually mentions that the land on which the UN building stands in New York was donated by the Rockefellers, not a large sum of money.",
+        "question": "What was donated by the Rockefellers?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1409,
+            "paragraph_id": "978-0721631585-p1409-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 7% of lung carcinomas display a combination of different histological types.",
+        "false_answer": "About 7% of lung carcinomas display a combination of different histological types.",
+        "incorrect_explanation": "The statement incorrectly identifies the percentage of lung carcinomas with combined histology as approximately 7%, whereas according to the given information, approximately 4% to 5% of all lung carcinomas actually exhibit a combined histology.",
+        "question": "What percentage of lung carcinomas exhibit a combined histology?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 723,
+            "paragraph_id": "978-0721631585-p723-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Their tendency to form outside the jaw area.",
+        "false_answer": "Their tendency to form outside the jaw area.",
+        "incorrect_explanation": "According to the paragraph, keratocystic odontogenic tumors are distinguished by their aggressive behavior rather than forming outside the jaw area. They specifically occur within the jaws, commonly in the posterior mandible, making them notable among odontogenic cysts due to their clinical aggressiveness and potential for recurrence if not completely excised.",
+        "question": "What characteristic distinguishes keratocystic odontogenic tumors from other odontogenic cysts?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 740,
+            "paragraph_id": "978-0721631585-p740-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, patients experience large-scale internal organ failure leading to significant morbidity.",
+        "false_answer": "Large-scale internal organ failure leading to significant morbidity.",
+        "incorrect_explanation": "The given answer incorrectly suggests that defects in primary hemostasis primarily manifest through large-scale internal organ failures. According to the paragraph, defects in primary hemostasis more commonly present with symptoms like petechiae, purpura, nosebleeds, gastrointestinal bleeding, or menorrhagia, indicating smaller scale yet frequent and indicative signs rather than immediate large-scale organ failure.",
+        "question": "What is considered a typical presentation symptom for individuals suffering from defects in primary hemostasis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 135,
+            "paragraph_id": "978-0721631585-p135-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20 infants per 10,000 live births.",
+        "false_answer": "Approximately 20 infants per 10,000 live births.",
+        "incorrect_explanation": "According to the text, atresia occurs in approximately 1 to 5 infants per 10,000 live births, making the statement significantly overestimated and thus incorrect.",
+        "question": "What is the typical frequency of occurrence of esophageal atresia among newborns?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 757,
+            "paragraph_id": "978-0721631585-p757-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Around 60%.",
+        "false_answer": "Around 60%",
+        "incorrect_explanation": "According to the chapter, approximately 50% of cases ultimately prove fatal, mainly because of infiltrative growth, making the statement of around 60% deaths among those getting carotid body tumors incorrect.",
+        "question": "What percent of patients who get carotid body tumors die?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 749,
+            "paragraph_id": "978-0721631585-p749-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gastric contraction.",
+        "false_answer": "Gastric contraction",
+        "incorrect_explanation": "According to the paragraph, transient lower esophageal sphincter relaxation causing GERD is actually thought to be primarily caused by gastric distension rather than contraction, which triggers this relaxation through vagal pathways.",
+        "question": "What is considered a primary factor triggering transient lower esophageal sphincter relaxation leading to gastroesophageal reflux disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 762,
+            "paragraph_id": "978-0721631585-p762-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of pleomorphic adenomas undergo malignant transformation.",
+        "false_answer": "Approximately 20% of pleomorphic adenomas undergo malignant transformation.",
+        "incorrect_explanation": "According to the paragraph, rates of malignant transformation in pleomorphic adenoma correlate with age of the lesion, with 2% of tumors that have been present for less than 5 years harboring cancers, increasing to 10% for those present for more than 15 years, indicating the highest documented rate of malignant transformation at around 10%.",
+        "question": "What percentage of pleomorphic adenomas undergo malignant transformation?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 751,
+            "paragraph_id": "978-0721631585-p751-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sabbatians were trying to convert Jews away from Judaism.",
+        "false_answer": "Sabbatians were trying to convert Jews away from Judaism.",
+        "incorrect_explanation": "According to the paragraph, Sabbatians actually hated Jews and their religion, posing as Jews to gain control and protection from exposure by playing the 'anti-Semitism' card. There's no mention of attempting conversion; rather, their actions were driven by hatred and a desire for manipulation and power.",
+        "question": "What was the main reason Sabbatians helped to orchestrate the horrors inflicted on Jews during World War Two?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1439,
+            "paragraph_id": "978-0721631585-p1439-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Within the Obama administration, notable individuals included non-ultra Zionists such as Paul Volcker.",
+        "false_answer": "Notable individuals included non-ultra Zionists such as Paul Volcker.",
+        "incorrect_explanation": "This statement is incorrect because Paul Volcker served between 1979 and 1987, prior to the Obama administration, specifically during the Carter and Reagan presidencies. Correctly, the Obama administration included ultra-Zionists such as Robert Rubin, Larry Summers, Timothy Geithner, Rahm Emanuel, and David Axelrod in high-profile roles.",
+        "question": "Who were among those serving in high financial roles within the Obama administration?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1447,
+            "paragraph_id": "978-0721631585-p1447-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% of MALT omas show plasmacytic differentiation.",
+        "false_answer": "Approximately 60% of MALT omas show plasmacytic differentiation.",
+        "incorrect_explanation": "According to the given text, approximately 40%, not 60%, of MALT omas exhibit plasmacytic differentiation. Therefore, the statement made in the answer contains an error regarding the actual percentage specified in the paragraph.",
+        "question": "What percentage of MALT omas exhibit plasmacytic differentiation?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 780,
+            "paragraph_id": "978-0721631585-p780-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "CD8+ T cells reacting against parietal cell components, specifically hydrogen potassium adenosine triphosphatase (H+,K+-ATPase).",
+        "false_answer": "CD8+ T cells reacting against parietal cell components.",
+        "incorrect_explanation": "The paragraph actually identifies CD4+ T cells, not CD8+ T cells, as being directed against parietal cell components, including hydrogen potassium adenosine triphosphatase (H+,K+-ATPase), making them the principal agents of injury in autoimmune atrophic gastritis.",
+        "question": "What is the primary agent causing injury in autoimmune atrophic gastritis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 771,
+            "paragraph_id": "978-0721631585-p771-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to QAnon predictions, Trump would step down immediately following Biden's inauguration.",
+        "false_answer": "Trump stepping down immediately after Biden's inauguration according to QAnon.",
+        "incorrect_explanation": "This statement contradicts the actual claim made in the paragraph. In reality, QAnon claimed that 'the Storm' was coming, and Trump would stay on as president when Biden and his associates were arrested and jailed. Therefore, the correct prediction attributed to QAnon was that Trump would remain in office despite Biden's inauguration, not step down.",
+        "question": "What was the outcome predicted by QAnon regarding Trump's presidency after Biden's inauguration?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1460,
+            "paragraph_id": "978-0721631585-p1460-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There was an increased presence of both local law enforcement and National Guard troops actively defending the area.",
+        "false_answer": "An increase in security forces near the Capitol on January 6th, 2021.",
+        "incorrect_explanation": "According to the given information, instead of being reinforced, security personnel were actually \"instructed to stand down,\" indicating a reduction rather than an enhancement of their presence. This makes the claim of increased security inaccurate.",
+        "question": "What was the status of security personnel around the time of the Capitol riot of January 6th, 2021?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1465,
+            "paragraph_id": "978-0721631585-p1465-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There is approximately a 30-fold increase in the risk of developing any form of leukemia.",
+        "false_answer": "Approximately a 30-fold increase in the risk of developing any form of leukemia.",
+        "incorrect_explanation": "According to the given information, children with Down syndrome actually face different risks for various types of leukemia: they have a 20-fold increased risk of developing acute B lymphoblastic leukemias and a notably higher, 500-fold increased risk specifically of acute myeloid leukemias, making the statement inaccurate regarding overall leukemia risk simplification.",
+        "question": "What percent of children with Down syndrome develop leukemia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 176,
+            "paragraph_id": "978-0721631585-p176-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There are usually around 500 to 700 repeats.",
+        "false_answer": "Around 500 to 700 repeats",
+        "incorrect_explanation": "According to the given information, in normal populations, the average number of repeats is actually much lower, specifically around 29. Thus, stating that there are usually 500 to 700 repeats significantly overestimates the actual number and contradicts the information provided.",
+        "question": "What is typically found in the number of tandem repeats of the sequence CGG within the regulatory region of the FMR1 gene in individuals who do not have Fragile X Syndrome?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 152,
+            "paragraph_id": "978-0721631585-p152-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Affected infants show initial signs and symptoms immediately after birth.",
+        "false_answer": "Infants show initial signs and symptoms immediately after birth.",
+        "incorrect_explanation": "According to the paragraph, affected infants appear normal at birth but begin to manifest signs and symptoms around the age of 6 months. Thus, the statement claiming immediate manifestation post-birth is inaccurate.",
+        "question": "At what stage do affected infants with Tay-Sachs disease start showing signs and symptoms?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 166,
+            "paragraph_id": "978-0721631585-p166-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Impaired autophagy fails to properly degrade functional mitochondria, leading to their overaccumulation.",
+        "false_answer": "Impaired autophagy fails to properly degrade functional mitochondria, leading to their overaccumulation.",
+        "incorrect_explanation": "The actual issue with impaired autophagy is that it cannot efficiently remove *damaged* mitochondria via mitophagy, allowing them to persist and contribute to oxidative stress and cellular damage. Proper functioning mitochondria would typically continue to operate correctly unless damaged or otherwise compromised.",
+        "question": "How do impaired autophagy mechanisms lead to issues in cells regarding damaged mitochondria?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 164,
+            "paragraph_id": "978-0721631585-p164-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of all hospital admissions in the United States are due to septic shock.",
+        "false_answer": "Approximately 10% of all hospital admissions in the United States are due to septic shock.",
+        "incorrect_explanation": "The given answer incorrectly states that septic shock accounts for approximately 10% of all hospital admissions. According to the provided information, septic shock is actually responsible for 2% of all hospital admissions in the United States. Therefore, the correct answer should reflect this lower percentage.",
+        "question": "What percentage of hospital admissions in the United States are attributed to septic shock?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 145,
+            "paragraph_id": "978-0721631585-p145-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A ring chromosome is produced when a break occurs at both ends of a chromosome with no fusion of the damaged ends.",
+        "false_answer": "A ring chromosome is produced when a break occurs at both ends of a chromosome with no fusion of the damaged ends.",
+        "incorrect_explanation": "According to the paragraph, a ring chromosome actually involves fusion of the damaged ends after breaks occur at both ends of a chromosome, contrary to stating there's \"no fusion.\"\n- **Correct Answer Should Be:** A ring chromosome is a special form of deletion produced when a break occurs at both ends of a chromosome with subsequent fusion of the damaged ends.",
+        "question": "What does the term 'ring chromosome' describe?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 174,
+            "paragraph_id": "978-0721631585-p174-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Chromosome X",
+        "false_answer": "Chromosome X",
+        "incorrect_explanation": "According to the given information, the gene FBN2, which encodes fibrillin-2, is actually mapped on chromosome 5q23.31, not chromosome X. Therefore, the correct answer should indicate chromosome 5.",
+        "question": "What chromosome carries the gene FBN2 that encodes for fibrillin-2?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 157,
+            "paragraph_id": "978-0721631585-p157-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Currently, therapeutic efforts focus primarily on developing medications to treat celiac disease.",
+        "false_answer": "Developing medications to treat celiac disease.",
+        "incorrect_explanation": "According to the given information, the current management approach focuses mainly on adherence to a gluten-free diet rather than medication development. While there's mention of efforts towards minimizing the impact of small quantities of ingested gluten, this doesn't imply focusing primarily on developing treatments beyond dietary adjustments.",
+        "question": "What is the primary method through which therapeutic efforts aim to manage celiac disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 788,
+            "paragraph_id": "978-0721631585-p788-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Organisms can be shed in the stool for approximately one day.",
+        "false_answer": "One day",
+        "incorrect_explanation": "According to the provided information, Salmonella organisms can actually be shed in the stool for *several* weeks after symptom resolution, not just one day. Therefore, the statement given as the answer significantly understates the actual duration over which these organisms can remain detectable in stool samples post-recovery.",
+        "question": "What is the typical duration during which Salmonella organisms can be shed in the stool following the resolution of symptoms?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 794,
+            "paragraph_id": "978-0721631585-p794-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Event 201 occurred five years after the publication of 'Dreaming the Future of Health for the Next 100 Years'.",
+        "false_answer": "Event 201 occurred five years after the publication of 'Dreaming the Future of Health for the Next 100 Years'.",
+        "incorrect_explanation": "According to the paragraph, there's no indication that Event 201 happened exactly five years after the publication of 'Dreaming the Future of Health for the Next 100 Years'. In reality, we're informed that 'Dreaming the Future of Health' was published following the Rockefellers' involvement in 2010 and later presented at the Global Health Summit in Beijing, China. Meanwhile, Event 201 is mentioned alongside other events leading up to the COVID-19 pandemic discussion but specifically noted as occurring only six weeks before the outbreak, implying different timelines. Thus, calculating or stating the exact timing relative to these publications would require clearer connections between dates given in the passage.",
+        "question": "What was the year Event 201 took place?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1488,
+            "paragraph_id": "978-0721631585-p1488-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The 'Covid' hoax originated naturally.",
+        "false_answer": "The 'Covid' hoax originated naturally.",
+        "incorrect_explanation": "According to the paragraph, the author believes that the 'Covid' hoax did not appear naturally because \"Major happenings with major agenda implications never occur without Cult involvement in making them happen.\" Therefore, the author suggests that the Cult had some level of involvement in creating or spreading the 'virus', rather than it occurring naturally.",
+        "question": "What was the origin of the 'Covid' hoax according to the author's perspective?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1483,
+            "paragraph_id": "978-0721631585-p1483-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The plan to fly migrants from the southern border to Canada for 'processing' was initiated under Trump's administration.",
+        "false_answer": "The plan to fly migrants from the southern border to Canada for 'processing' was initiated under Trump's administration.",
+        "incorrect_explanation": "According to the given information, it was actually the Biden administration (\"Biden insanity\") that even proposed flying migrants from the southern border to the northern border with Canada for 'processing', not Trump's administration.",
+        "question": "Who introduced the proposal to fly migrants from the southern border to Canada for processing?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1474,
+            "paragraph_id": "978-0721631585-p1474-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To protect the city from foreign threats.",
+        "false_answer": "To protect the city from foreign threats.",
+        "incorrect_explanation": "According to the paragraph, nearly 30,000 troops were deployed from all over America to the empty streets of Washington for Biden's inauguration supposedly because of concerns about 'insurrectionists', as part of psychological programming to normalize the use of the military in domestic law enforcement, supporting the Cult's plan for a police-military state. There is no mention of protection against foreign threats.",
+        "question": "What was the reason behind deploying nearly 30,000 troops from all over America to Washington for Biden's inauguration?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1470,
+            "paragraph_id": "978-0721631585-p1470-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90%.",
+        "false_answer": "Approximately 90%",
+        "incorrect_explanation": "The paragraph actually mentions that an interstitial deletion of band q12 in the long arm of chromosome 15, specifically del(15)(q11.2q13), can be detected in 65% to 70% of Prader-Willi syndrome cases, not approximately 90%. The correct percentage range given is between 65% and 70%, indicating that the false answer significantly overestimates the occurrence rate of this deletion in relation to Prader-Willi syndrome.",
+        "question": "What percentage of cases involving Prader-Willi syndrome show an interstitial deletion of band q12 in the long arm of chromosome 15?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 187,
+            "paragraph_id": "978-0721631585-p187-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Natural killer cells primarily mediate chronic inflammation.",
+        "false_answer": "Natural killer cells primarily mediate chronic inflammation.",
+        "incorrect_explanation": "According to the paragraph, natural killer cells actually provide early protection against many viruses and intracellular bacteria, acting as a type of innate lymphoid cell (ILC). Chronic inflammation is more closely associated with the actions of various cytokines and other mediators rather than being the primary function of NK cells themselves.",
+        "question": "What role do natural killer cells serve within the broader scope of innate immunity?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 200,
+            "paragraph_id": "978-0721631585-p200-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He received the award in 1995.",
+        "false_answer": "The inventor of the RT-PCR test was awarded the Nobel Prize in Chemistry in 1995.",
+        "incorrect_explanation": "According to the paragraph, Kary Mullis, the inventor of the RT-PCR test, was awarded the Nobel Prize in Chemistry in 1993, not 1995. Therefore, the statement given in the answer contains a factual error regarding the year of the award.",
+        "question": "In what year was the inventor of the RT-PCR test awarded the Nobel Prize in Chemistry?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1494,
+            "paragraph_id": "978-0721631585-p1494-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to Dr. Fauci, any amplification over 30 cycles will produce false positives.",
+        "false_answer": "Any amplification over 30 cycles will produce false positives according to Dr. Fauci.",
+        "incorrect_explanation": "The statement incorrectly quotes Dr. Fauci's threshold for producing false positives. In reality, Dr. Fauci suggests that amplifications over 35 cycles, not 30, would result in false positives that cannot be trusted.",
+        "question": "What level of amplification does Dr. Fauci suggest produces false positives?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1498,
+            "paragraph_id": "978-0721631585-p1498-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He began experiencing symptoms at the age of 15 years.",
+        "false_answer": "Louis XIII started showing symptoms at 15 years old.",
+        "incorrect_explanation": "According to the paragraph, Louis XIII of France suffered from symptoms starting at age 20 years, not 15. Therefore, the correct answer should reflect this accurate timeline.",
+        "question": "What year did Louis XIII of France first experience symptoms of what would later be recognized as characteristics of Crohn's disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 803,
+            "paragraph_id": "978-0721631585-p803-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of individuals who contract HBV at birth and go on to develop chronic hepatitis are at increased risk of eventually developing hepatocellular carcinoma.",
+        "false_answer": "Approximately 50%",
+        "incorrect_explanation": "The paragraph actually indicates that individuals who acquire HBV at birth and subsequently develop chronic hepatitis are indeed at great risk, stating they are at the \"greatest risk,\" implying a high correlation rather than specifying exactly 50%. While the exact percentage isn't provided in the explanation here, the implication is that there's a significant risk, particularly noting that the risk of chronic infection is approximately 90% in infants exposed at birth, suggesting a very high vulnerability to complications like hepatocellular carcinoma among those chronically infected since infancy.",
+        "question": "What percentage of individuals who acquire HBV at birth and later develop chronic hepatitis are at risk of developing hepatocellular carcinoma?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 836,
+            "paragraph_id": "978-0721631585-p836-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately three-quarters of adenocarcinomas occur in the proximal colon.",
+        "false_answer": "Approximately three-quarters of adenocarcinomas occur in the proximal colon.",
+        "incorrect_explanation": "According to the given information, overall, adenocarcinomas are actually distributed approximately equally over the entire length of the colon, indicating there's roughly equal distribution rather than a significant majority being in the proximal colon.",
+        "question": "What proportion of adenocarcinomas are typically located in the proximal versus the distal parts of the colon?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 819,
+            "paragraph_id": "978-0721631585-p819-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 6% to 8%.",
+        "false_answer": "Approximately 6% to 8%.",
+        "incorrect_explanation": "According to the paragraph, HNPCC accounts for 2% to 4% of all colorectal cancers, not 6% to 8%. Therefore, the statement overestimates the prevalence of HNPCC among all colorectal cancers.",
+        "question": "What percentage of all colorectal cancers does Hereditary Non-Polyposis Colorectal Cancer (HNPCC) account for?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 816,
+            "paragraph_id": "978-0721631585-p816-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The average incubation period following exposure to HEV is approximately 3 weeks.",
+        "false_answer": "Approximately 3 weeks.",
+        "incorrect_explanation": "This is incorrect because the paragraph specifies that the average incubation period following exposure to HEV is 4 to 5 weeks, not 3 weeks. Therefore, the correct answer should reflect this range.",
+        "question": "What is the typical time frame between exposure to Hepatitis E virus (HEV) and the onset of symptoms?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 839,
+            "paragraph_id": "978-0721631585-p839-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically between 72 to 96 hours.",
+        "false_answer": "Between 72 to 96 hours.",
+        "incorrect_explanation": "According to the description of the delayed-type hypersensitivity (DTH) reaction, the correct timeframe for a detectable cutaneous reaction to develop following an antigen introduction into the skin of a previously immunized individual is actually between 24 to 48 hours, making the statement of 72 to 96 hours inaccurate.",
+        "question": "What timeframe does it typically take for a detectable cutaneous reaction to develop following an antigen being introduced into the skin of a previously immunized individual?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 221,
+            "paragraph_id": "978-0721631585-p221-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Natural killer cells.",
+        "false_answer": "Natural killer cells.",
+        "incorrect_explanation": "According to the chapter, macrophages function as antigen-presenting cells by processing antigens and presenting peptide fragments specifically to T cells, making T cells the primary interaction partner, not natural killer cells.",
+        "question": "What kind of cells do macrophages primarily interact with when functioning as antigen-presenting cells?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 205,
+            "paragraph_id": "978-0721631585-p205-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There are five classes of MHC molecules named MHC-I, MHC-II, MHC-III, MHC-IV, and MHC-V.",
+        "false_answer": "Five classes of MHC molecules named MHC-I, MHC-II, MHC-III, MHC-IV, and MHC-V.",
+        "incorrect_explanation": "The statement incorrectly identifies the existence of MHC-V as one of the classes of MHC molecules. According to general immunological understanding reflected in the discussion around Major Histocompatibility Complex (MHC), the primary distinction lies within MHC class I and class II, often referenced alongside a third category sometimes broadly termed under MHC class III, though this encompasses quite different functionalities compared to class I and II. No widely acknowledged categorizations support the existence of MHC-IV and especially MHC-V in mainstream discussions of human immunity.\n- **Correct Answer Should Be:** Typically, the classification includes MHC class I and MHC class II primarily involved in presenting antigens to T-cells, with another broader grouping being MHC class III which differs significantly in its role and genetic loci, yet there's no established recognition of MHC-IV or MHC-V classifications within standard medical literature up to current times.",
+        "question": "What are the main classes of MHC molecules?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 208,
+            "paragraph_id": "978-0721631585-p208-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The World Health Organization granted him $50 million for COVID-19 vaccine development.",
+        "false_answer": "The World Health Organization granted Christopher Whitty $50 million for COVID-19 vaccine development.",
+        "incorrect_explanation": "According to the paragraph, Christopher Whitty received a grant of $40 million from the Bill and Melinda Gates Foundation, specifically for malaria research in Africa, not from the World Health Organization nor for COVID-19 vaccine development.",
+        "question": "What organization gave Christopher Whitty, the Chief Medical Adviser to the UK Government, a grant for research?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1515,
+            "paragraph_id": "978-0721631585-p1515-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The federal government pays $1,000 per year for each reported AIDS case.",
+        "false_answer": "$1,000 per year for each reported AIDS case.",
+        "incorrect_explanation": "According to the paragraph, Kary Mullis states that county health authorities received $2,500 per year from the federal government for every reported AIDS case after the CDC broadened its AIDS definition in 1993. Thus, the correct amount paid per year for each reported AIDS case is $2,500, not $1,000.",
+        "question": "How much does the federal government pay counties annually for each reported AIDS case according to Kary Mullis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1521,
+            "paragraph_id": "978-0721631585-p1521-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In the summer of 2021, authorities and media were heavily promoting the idea that the 'Covid vaccine' had been developed in the Wuhan lab.",
+        "false_answer": "Authorities and media were promoting the development of the 'Covid vaccine' in the Wuhan lab.",
+        "incorrect_explanation": "The actual claim made in the paragraph is about diverting attention with the 'Wuhan lab virus release' story, not the promotion of the Covid vaccine's origin. According to the paragraph, the focus was on the narrative of the virus originating from the Wuhan lab, not specifically mentioning the vaccine's development site.",
+        "question": "What was being heavily pushed by authorities and media in the summer of 2021 regarding Covid?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1511,
+            "paragraph_id": "978-0721631585-p1511-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Consuming at least 120 grams of alcohol daily.",
+        "false_answer": "Consuming at least 120 grams of alcohol daily.",
+        "incorrect_explanation": "According to the chapter on liver diseases, consuming 80 grams of alcohol per day is actually considered the threshold for developing alcoholic liver disease, with the understanding that this amount might be lower in women. Therefore, stating that the threshold is 120 grams introduces a factual error regarding the specified threshold for men.",
+        "question": "What is the primary threshold consumption level of alcohol considered for the development of alcoholic liver disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 849,
+            "paragraph_id": "978-0721631585-p849-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Systemic Lupus Erythematosus equally affects males and females across all ages.",
+        "false_answer": "Systemic Lupus Erythematosus equally affects males and females across all ages.",
+        "incorrect_explanation": "According to the provided information, SLE predominantly affects women, especially those of childbearing age, with a female-to-male ratio of 9:1 in the reproductive age group of 17 to 55 years. Thus, the statement that SLE equally affects males and females is incorrect because there's a significant disparity favoring females being more commonly affected.",
+        "question": "What is the typical gender distribution observed in cases of Systemic Lupus Erythematosus?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 230,
+            "paragraph_id": "978-0721631585-p230-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15% to 20%.",
+        "false_answer": "Approximately 15% to 20%.",
+        "incorrect_explanation": "The paragraph actually estimates that autoimmune diseases affect 5% to 10% of the U.S. population, indicating a significant overestimation in the given answer. Therefore, the correct range should reflect the lower percentages cited within the paragraph.",
+        "question": "What percent of the U.S. population is affected by autoimmune diseases?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 224,
+            "paragraph_id": "978-0721631585-p224-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75%.",
+        "false_answer": "Approximately 75%.",
+        "incorrect_explanation": "The paragraph actually mentions that neuropsychiatric symptoms occur in 25\u201335% of patients with systemic lupus erythematosus, according to Table 6.11 listing prevalence rates for various clinical manifestations.",
+        "question": "What percentage of patients with systemic lupus erythematosus experience neuropsychiatric symptoms?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 235,
+            "paragraph_id": "978-0721631585-p235-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40%.",
+        "false_answer": "Approximately 40%",
+        "incorrect_explanation": "According to the information given, more than 50% of individuals with systemic sclerosis experience pulmonary involvement, making the statement that approximately 40% do incorrect. Therefore, the correct answer should reflect that over half of the patients suffer from lung-related issues.",
+        "question": "What percent of individuals with systemic sclerosis experience pulmonary involvement?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 241,
+            "paragraph_id": "978-0721631585-p241-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Select healthy individuals at random locations worldwide and conduct extensive medical examinations.",
+        "false_answer": "Select healthy individuals at random locations worldwide and conduct extensive medical examinations.",
+        "incorrect_explanation": "According to the paragraph, the scientist actually recommended selecting the sickest of people with respiratory-type diseases in a single location, administering PCR tests to them, and claiming those showing 'viral sequences' similar to a coronavirus were suffering from a 'new' disease. Therefore, the correct approach involves targeting sick populations rather than randomly selected healthy ones, focusing on areas like Wuhan, and utilizing flawed methods like PCR tests to artificially inflate case numbers.",
+        "question": "What was the primary method suggested by the scientist to falsely create the appearance of a new disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1547,
+            "paragraph_id": "978-0721631585-p1547-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "People were primarily motivated by genuine health concerns.",
+        "false_answer": "People were primarily motivated by genuine health concerns.",
+        "incorrect_explanation": "According to the paragraph, one key claim is that non-symptomatic transmission played a crucial role in implementing widespread lockdowns, allowing governments to lock down entire populations under the guise of protecting vulnerable groups. Thus, the expansion of the lockdown model wasn't driven purely by public concern over their health, but rather leveraged fear of asymptomatic spread, a narrative criticized within the passage.",
+        "question": "What was a significant factor according to David Icke's claims regarding expanding the lockdown model?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1542,
+            "paragraph_id": "978-0721631585-p1542-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Researchers studied human heart cells (HCT116), mouse embryonic fibroblasts (MEF), and monkey kidney epithelial cells.",
+        "false_answer": "Human heart cells (HCT116), mouse embryonic fibroblasts (MEF), and monkey kidney epithelial cells.",
+        "incorrect_explanation": "The actual human cell lines examined included human adenocarcinoma cells (A549), human liver cells (HUH 7.0), and human embryonic kidney cells (HEK-293T).",
+        "question": "What types of human cell lines were examined by researchers studying SARS-CoV-2?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1529,
+            "paragraph_id": "978-0721631585-p1529-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The risk of seroconversion is around 10%.",
+        "false_answer": "Around 10%",
+        "incorrect_explanation": "According to the paragraph, the actual risk of seroconversion after a needle-stick accident is believed to be about 0.3%. Therefore, stating the risk as 10% significantly overestimates the true risk and introduces a substantial error regarding the safety protocols for healthcare workers dealing with potential HIV exposures.",
+        "question": "What is the approximate risk of seroconversion after a healthcare worker experiences an accidental needle-stick injury involving HIV-infected blood?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 257,
+            "paragraph_id": "978-0721631585-p257-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% to 50% of SCID cases.",
+        "false_answer": "Approximately 40% to 50% of SCID cases are attributed to the X-linked form.",
+        "incorrect_explanation": "According to the given paragraph, the most common form of SCID, accounting for 50% to 60% of cases, is indeed X-linked. Therefore, stating that approximately 40% to 50% of SCID cases are attributed to the X-linked form underestimates the actual prevalence stated in the paragraph.",
+        "question": "What percentage of SCID cases are attributed to the X-linked form?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 251,
+            "paragraph_id": "978-0721631585-p251-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately five years",
+        "false_answer": "Five years",
+        "incorrect_explanation": "According to the given information, following primary infection, patients usually enter a period of prolonged clinical latency lasting approximately seven years, not five years, before progressing to more severe immunosuppression.",
+        "question": "What is the duration of the period of prolonged clinical latency following primary HIV infection?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 262,
+            "paragraph_id": "978-0721631585-p262-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of patients with cirrhosis develop portal vein thrombosis.",
+        "false_answer": "Approximately 10% of patients with cirrhosis develop portal vein thrombosis.",
+        "incorrect_explanation": "The statement is incorrect because the actual percentage given in the paragraph is about 25%, indicating that nearly a quarter of cirrhosis patients experience portal vein thrombosis, not 10%.",
+        "question": "What percentage of cirrhosis patients experience portal vein thrombosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 864,
+            "paragraph_id": "978-0721631585-p864-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A diagnosis of hepatic adenomatosis requires the presence of fewer than five hepatocellular adenomas.",
+        "false_answer": "A diagnosis of hepatic adenomatosis requires the presence of fewer than five hepatocellular adenomas.",
+        "incorrect_explanation": "According to the provided paragraph, hepatic adenomatosis refers specifically to instances where there are ten or more hepatocellular adenomas, not fewer than five. Therefore, the statement provided in the answer is incorrect because it inaccurately represents the number of adenomas needed for a diagnosis of hepatic adenomatosis.",
+        "question": "What defines a case of hepatic adenomatosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 869,
+            "paragraph_id": "978-0721631585-p869-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "He holds a degree-level qualification in biology.",
+        "false_answer": "Neil Ferguson holds a degree-level qualification in biology.",
+        "incorrect_explanation": "According to Derek Winton's statement, Neil Ferguson does not even have an A-level in biology, indicating he lacks any higher educational qualifications specifically in biology beyond secondary school levels. Thus, stating he holds a degree-level qualification is incorrect.",
+        "question": "What level of education does Neil Ferguson have in biology according to Derek Winton?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1550,
+            "paragraph_id": "978-0721631585-p1550-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Bel Mooney was a government official responsible for overseeing the accuracy of death certificates related to COVID-19 cases.",
+        "false_answer": "Bel Mooney being described as a government official.",
+        "incorrect_explanation": "According to the given paragraph, Bel Mooney is actually identified as a \"long-time national newspaper journalist in Britain currently working for the Daily Mail,\" not as a government official.",
+        "question": "What was Bel Mooney's role during the discussion of COVID-19 deaths?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1563,
+            "paragraph_id": "978-0721631585-p1563-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Almost all of the authors received funding exclusively from the Wellcome Trust.",
+        "false_answer": "Almost all of the authors received funding exclusively from the Wellcome Trust.",
+        "incorrect_explanation": "According to the given information, nearly all the paper's authors and modeling center 'COVID-19' Working Group receive funding from both the Bill and Melinda Gates Foundation and/or the associated Gates-funded Wellcome Trust, indicating dual sources rather than exclusive funding from one entity alone.",
+        "question": "Who funded almost all of the authors and working group members involved in publishing research about the COVID-19 virus?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1555,
+            "paragraph_id": "978-0721631585-p1555-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During the initial stages of amyloidosis, amyloid deposits primarily accumulate around the central vein of the liver lobule.",
+        "false_answer": "Amyloid deposits initially accumulating around the central vein of the liver lobule.",
+        "incorrect_explanation": "According to the provided information, amyloid appears first in the space of Disse and then progressively encroaches on adjacent hepatic parenchymal cells and sinusoids, indicating that the initial accumulation site described in the false answer does not match the description given in the paragraph.\n- **Correct Answer Should Be:** Amyloid appears first in the space of Disse before affecting other parts of the liver.",
+        "question": "What is typically observed in the liver during the initial stages of amyloidosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 273,
+            "paragraph_id": "978-0721631585-p273-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Severe dysplasia affecting the whole thickness of the epithelium leads to penetration through the basement membrane.",
+        "false_answer": "Severe dysplasia affecting the whole thickness of the epithelium leads to penetration through the basement membrane.",
+        "incorrect_explanation": "According to the given information, when dysplasia severely affects the entire thickness of the epithelium but does *not* penetrate the basement membrane, it is referred to as carcinoma in situ. Therefore, the statement is incorrect because it suggests invasion through the basement membrane occurs during this stage, which actually defines invasive cancer, not carcinoma in situ.",
+        "question": "What characterizes the condition when dysplasia severely affects the entire thickness of an epithelium?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 281,
+            "paragraph_id": "978-0721631585-p281-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of patients develop pancreatic pseudocysts.",
+        "false_answer": "Approximately 5% of patients develop pancreatic pseudocysts.",
+        "incorrect_explanation": "According to the provided information, approximately 10% of patients with chronic pancreatitis develop pancreatic pseudocysts, making the statement that around 5% do so incorrect. Therefore, the correct percentage is 10%.",
+        "question": "What percent of patients with chronic pancreatitis develop pancreatic pseudocysts?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 889,
+            "paragraph_id": "978-0721631585-p889-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Each fenestra being approximately 150 nm in diameter.",
+        "false_answer": "Approximately 150 nm in diameter.",
+        "incorrect_explanation": "According to the given information, the actual diameter range of each fenestra in the thin layer of fenestrated endothelial cells is about 70 to 100 nm, making the statement of 150 nm incorrect. Therefore, the correct answer should reflect this specified range rather than stating a single, inaccurate value.",
+        "question": "What is the approximate diameter range of each fenestra found in the thin layer of fenestrated endothelial cells lining the glomerular capillary wall?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 900,
+            "paragraph_id": "978-0721631585-p900-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In 2020.",
+        "false_answer": "2020",
+        "incorrect_explanation": "Because according to the given sources, Forsmark published his work regarding acute pancreatitis in the New England Journal of Medicine in 2017, specifically titled \u201cAcute pancreatitis,\u201d making the statement that he published it in 2020 incorrect.",
+        "question": "What year did Forsmark publish their work regarding acute pancreatitis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 896,
+            "paragraph_id": "978-0721631585-p896-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Decreased calcium levels favor trypsin autoactivation.",
+        "false_answer": "Decreased calcium levels favor trypsin autoactivation.",
+        "incorrect_explanation": "According to the given information, when calcium levels are low, trypsin tends to cleave and inactivate itself; thus, decreased calcium actually inhibits rather than favors trypsin autoactivation. The correct statement would be that high calcium levels favor trypsin autoactivation because they prevent trypsin's ability to cleave and inactivate itself.",
+        "question": "What effect does decreased calcium level within acinar cells typically have on trypsin?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 885,
+            "paragraph_id": "978-0721631585-p885-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the nurse's statement, hospitals were extremely overcrowded.",
+        "false_answer": "That hospitals were extremely overcrowded according to the nurse.",
+        "incorrect_explanation": "The actual statement made by the Scottish NHS staff nurse contradicts this claim, stating instead that \"hospitals aren't full, the beds aren't full, beds have been shut, wards have been shut.\" Therefore, the correct understanding is that hospitals were not crowded but rather underutilized during 'Covid'.",
+        "question": "What was happening within Scottish hospitals according to the testimony of a Scottish NHS staff nurse?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1575,
+            "paragraph_id": "978-0721631585-p1575-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The National Security Agency (NSA) created the internet.",
+        "false_answer": "The NSA created the internet.",
+        "incorrect_explanation": "According to the text, the development of the internet was actually attributed to the Defense Advanced Research Projects Agency (DARPA), which is described as the technological arm of the Pentagon. DARPA's role in making the internet possible indicates that the NSA did not create it.",
+        "question": "What organization developed the internet?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1580,
+            "paragraph_id": "978-0721631585-p1580-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The SPI-B proposed focusing primarily on appealing to individuals' sense of duty to themselves.",
+        "false_answer": "Focusing primarily on appealing to individuals' sense of duty to themselves.",
+        "incorrect_explanation": "The actual proposal included multiple approaches tailored to different motivations among individuals, emphasizing increasing perceived levels of personal threat through emotional messaging, empowering people by clarifying actionable steps, highlighting responsibility towards others, framing messages positively around protection of both self and community, and recognizing varied persuasive factors such as playing by rules, duty to community, and personal risk. Thus, suggesting that the primary approach was merely appealing to individual self-duty simplifies and distorts the multifaceted strategy outlined by SPI-B.",
+        "question": "What was the primary approach suggested by the government behavioural science group SPI-B's paper in March 2020 to enhance public adherence to COVID-19 social distancing measures?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1588,
+            "paragraph_id": "978-0721631585-p1588-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Deletion",
+        "false_answer": "Deletion",
+        "incorrect_explanation": "According to Table 7.5, FGF3 exhibits amplification as its mode of activation associated with stomach cancer among others, not deletion.",
+        "question": "What mode of oncogenic activation does the protein FGF3 exhibit according to Table 7.5?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 294,
+            "paragraph_id": "978-0721631585-p294-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of childhood cancer deaths are caused by these types.",
+        "false_answer": "Approximately 40%",
+        "incorrect_explanation": "According to the provided information, instead of 40%, acute leukemia and distinctive neoplasms of the central nervous system actually account for approximately 60% of childhood cancer deaths, making the statement incorrect. Therefore, the correct answer should reflect this higher percentage.",
+        "question": "What proportion of childhood cancer deaths are attributed to acute leukemia and distinctive neoplasms of the central nervous system?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 288,
+            "paragraph_id": "978-0721631585-p288-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lymphatic spread.",
+        "false_answer": "Lymphatic spread.",
+        "incorrect_explanation": "According to the information given, hematogenous spread is actually typical of sarcomas, making lymphatic spread less characteristic for these types of tumors compared to carcinomas.",
+        "question": "What is typically the method by which sarcomas initially disseminate?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 284,
+            "paragraph_id": "978-0721631585-p284-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These are inhibitory mutations.",
+        "false_answer": "Activating mutations do not exist; rather, there are inhibitory mutations in JAK2.",
+        "incorrect_explanation": "The paragraph actually mentions *activating* point mutations in JAK2, which relieve the tumor cells' dependence on certain growth factors. Therefore, the correct statement would acknowledge the presence of activating mutations, contrary to stating they are inhibitory.",
+        "question": "What type of lesions are found in the non-receptor tyrosine kinase JAK2?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 298,
+            "paragraph_id": "978-0721631585-p298-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Functional abnormalities of the slit diaphragm occur due to inflammatory damage caused by excessive fibrin buildup.",
+        "false_answer": "Excessive fibrin buildup causes functional abnormalities of the slit diaphragm leading to the nephrotic syndrome.",
+        "incorrect_explanation": "According to the text, functional abnormalities of the slit diaphragm actually result from mutations in its components, such as nephrin and podocin, rather than actual inflammatory damage or fibrin buildup.",
+        "question": "What causes functional abnormalities of the slit diaphragm leading to the nephrotic syndrome?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 907,
+            "paragraph_id": "978-0721631585-p907-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "IgG aggregates favor persistent C3 activation and contribute to hypocomplementemia in patients with certain glomerular diseases.",
+        "false_answer": "IgG aggregates favor persistent C3 activation and contribute to hypocomplementemia in patients with certain glomerular diseases.",
+        "incorrect_explanation": "The paragraph actually mentions substances such as bacterial polysaccharides, endotoxin, and aggregates of IgA via a pathway involving Factors B and D lead to the generation of C3bBb, the alternative pathway C3 convertase. Therefore, the correct answer should involve one of these correctly identified substances, indicating the false answer incorrectly identifies IgG aggregates as the contributor instead of mentioning something accurate like IgA aggregates or another listed factor.",
+        "question": "What substance favors persistent C3 activation and contributes to hypocomplementemia in patients with certain glomerular diseases?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 921,
+            "paragraph_id": "978-0721631585-p921-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A thin layer covering the GBM.",
+        "false_answer": "A thin layer covering the GBM.",
+        "incorrect_explanation": "According to the paragraph, the accumulation of basement membrane material forms irregular spikes initially, then leads to the formation of dome-like protrusions, resulting in a markedly thickened, irregular membrane, rather than just forming a thin layer covering the GBM.",
+        "question": "What does the basement membrane material form when it accumulates around the deposits?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 915,
+            "paragraph_id": "978-0721631585-p915-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary trigger for forming these autoantibodies is exposure to certain bacterial infections.",
+        "false_answer": "The primary trigger for forming these autoantibodies is exposure to certain bacterial infections.",
+        "incorrect_explanation": "According to the paragraph, what triggers the formation of these autoantibodies is actually unclear in most patients, though exposure to viruses or hydrocarbon solvents, certain drugs, and cancers has been implicated in some patients, alongside genetic predisposition indicated by HLA alleles.",
+        "question": "What is the primary mechanism triggering the formation of autoantibodies against the peptide within the non-collagenous portion of the alpha3 chain of collagen Type IV?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 911,
+            "paragraph_id": "978-0721631585-p911-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The study focused on children between ages 8 and 10.",
+        "false_answer": "The study focused on children between ages 8 and 10.",
+        "incorrect_explanation": "This answer is incorrect because according to the paragraph, the researchers at Cambridge University actually followed 168 children aged between 7 and 11. Thus, the correct age range is 7 to 11 years old, not 8 to 10.",
+        "question": "What was the age range of the children studied by Cambridge University researchers regarding the effects of lockdowns on mental health?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1594,
+            "paragraph_id": "978-0721631585-p1594-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Masked children covered their faces for approximately 2.5 hours daily.",
+        "false_answer": "Approximately 2.5 hours daily",
+        "incorrect_explanation": "This answer is incorrect because according to the given information, researchers actually found that masked children covered their faces for an average of 4.5 hours a day, not 2.5 hours. Therefore, the statement made in the answer underestimates the actual time spent wearing masks as reported in the study.",
+        "question": "At what average duration per day did researchers find that masked children were covering their faces?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1601,
+            "paragraph_id": "978-0721631585-p1601-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Medical Knowledge",
+        "false_answer": "Medical Knowledge",
+        "incorrect_explanation": "According to the text, 'MK' stands for'mind-control', employing the German spelling in deference to the Nazis involved in these projects. Therefore, the statement claiming 'Medical Knowledge' as the expansion of 'MK' is incorrect.",
+        "question": "What does the abbreviation 'MK' stand for according to the given text?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1604,
+            "paragraph_id": "978-0721631585-p1604-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "She indicated that these measures would likely last several months.",
+        "false_answer": "Several months",
+        "incorrect_explanation": "According to the text, Mary Ramsay suggested that the public may need to wear masks and social-distance for years, not just several months. This indicates a significant discrepancy between the actual statement made by Mary Ramsay and the false claim presented here.",
+        "question": "How long did Mary Ramsay suggest the public might need to wear masks and socially distance?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1612,
+            "paragraph_id": "978-0721631585-p1612-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Silver",
+        "false_answer": "Silver",
+        "incorrect_explanation": "The paragraph mentions \"cobalt (used in blue dye)\" as being included among chemicals found in masks, indicating silver's absence in this context; thus, the correct chemical would be Cobalt.",
+        "question": "What chemical commonly associated with dye production does research indicate may be present in certain face masks?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1615,
+            "paragraph_id": "978-0721631585-p1615-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "By 2019, approximately 95,000 leaders were reported to have attended Common Purpose's training programs.",
+        "false_answer": "Approximately 95,000 leaders were reported to have attended Common Purpose's training programs by 2019.",
+        "incorrect_explanation": "The statement incorrectly claims 95,000 leaders attended Common Purpose's programs by 2019. According to the provided information, Common Purpose actually quoted a figure of 85,000 'leaders' that had attended its programs by 2019, making the provided answer inaccurate.",
+        "question": "What was the number of 'leaders' quoted by Common Purpose that attended its programs by 2019?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1626,
+            "paragraph_id": "978-0721631585-p1626-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 70% of patients.",
+        "false_answer": "About 70% of patients.",
+        "incorrect_explanation": "There's no mention in the provided paragraph of a specific percentage regarding the incidence of episodic onset during adolescence among patients with hereditary ADAMTS13 deficiency. Instead, it mentions that in those with hereditary ADAMTS13 deficiency, the onset is often delayed until adolescence, and the symptoms are episodic, without providing a particular percentage.",
+        "question": "What percentage of patients with hereditary ADAMTS13 deficiency typically experience episodic onset during adolescence?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 941,
+            "paragraph_id": "978-0721631585-p941-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Significant proteinuria in chronic pyelonephritis usually occurs early in the disease course and is commonly found in all affected individuals.",
+        "false_answer": "Significant proteinuria occurring early and being common in all cases.",
+        "incorrect_explanation": "Although proteinuria can occur, it is usually mild and becomes significant, particularly in those developing secondary FSGS, indicating it's not an early or universal finding in chronic pyelonephritis.",
+        "question": "What is a typical presentation of chronic pyelonephritis regarding the development of significant proteinuria?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 933,
+            "paragraph_id": "978-0721631585-p933-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adults over 50 years old.",
+        "false_answer": "Adults over 50 years old.",
+        "incorrect_explanation": "According to the given information, Henoch-Sch\u00f6nlein purpura is actually most common in children aged 3 to 8 years, though it can occur in adults as well.",
+        "question": "What age group does Henoch-Sch\u00f6nlein purpura typically affect?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 925,
+            "paragraph_id": "978-0721631585-p925-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "HIF1\u03b1 inhibits the transcription of the pro-angiogenic factor VEGF.",
+        "false_answer": "HIF1\u03b1 inhibits the transcription of the pro-angiogenic factor VEGF.",
+        "incorrect_explanation": "According to the text, HIF1\u03b1 actually triggers angiogenesis *through* the actions on the transcription of the pro-angiogenic factor VEGF, implying activation rather than inhibition. Therefore, the correct statement should reflect that HIF1\u03b1 promotes or enhances the transcription of VEGF to trigger angiogenesis, contrary to what was falsely claimed.",
+        "question": "What role does HIF1\u03b1 play in triggering angiogenesis according to the given text?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 315,
+            "paragraph_id": "978-0721631585-p315-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Prolonged cell division followed by eventual recovery once DNA damage is sufficiently reduced.",
+        "false_answer": "Prolonged cell division followed by eventual recovery once DNA damage is sufficiently reduced.",
+        "incorrect_explanation": "According to the given text, when DNA damage is too extensive for successful repair, p53 induces apoptosis (programmed cell death), not prolonged cell division. The correct outcome after significant DNA damage, according to the text, involves the initiation of apoptosis rather than continued cell division.",
+        "question": "What outcome does p53 induce when DNA damage is too extensive for successful repair?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 304,
+            "paragraph_id": "978-0721631585-p304-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Spleen and kidney.",
+        "false_answer": "Spleen and kidney.",
+        "incorrect_explanation": "The paragraph actually mentions lung and liver as the most common locations where tumors initially arrest in the first capillary bed encountered, not spleen and kidney. The spleen is noted separately as constituting an unfavorable environment (\"nonpermissive environments\") for tumor growth.",
+        "question": "Which two organs are typically involved as common sites for initial tumor arrests during the metastasis process?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 318,
+            "paragraph_id": "978-0721631585-p318-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Acute obstruction usually causes immediate severe damage to the kidneys' filtering units.",
+        "false_answer": "Acute obstruction usually causes immediate severe damage to the kidneys' filtering units.",
+        "incorrect_explanation": "According to the paragraph, acute obstruction may provoke pain attributed to distention of the collecting system or renal capsule, indicating that the initial effect is more mechanical rather than immediately damaging the filtering units themselves. While prolonged obstruction does indeed harm renal structures over time, the statement exaggerates the immediacy and nature of the impact.",
+        "question": "What typically happens when acute obstruction provokes pain?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 948,
+            "paragraph_id": "978-0721631585-p948-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 25% to 30% of CIS progresses to invasive cancer.",
+        "false_answer": "Approximately 25% to 30% of CIS progresses to invasive cancer.",
+        "incorrect_explanation": "The given answer incorrectly states the percentage of Carcinoma In Situ (CIS) progressing to invasive cancer if left untreated. According to the paragraph, actually, 50% to 75% of CIS progresses to invasive cancer, making the statement significantly underestimating this risk.",
+        "question": "What percentage of cases of Carcinoma In Situ progress to invasive cancer if left untreated?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 962,
+            "paragraph_id": "978-0721631585-p962-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 50% of bladder cancers are mostly presenting as adenocarcinomas.",
+        "false_answer": "About 50% of bladder cancers are mostly presenting as adenocarcinomas.",
+        "incorrect_explanation": "According to the given information, adenocarcinomas actually represent a very small minority of bladder cancers, specifically stating they make up only 0.1% to 0.3%, which contradicts the claim of them making up around 50%.",
+        "question": "What percent of bladder cancers are primarily classified as adenocarcinomas?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 957,
+            "paragraph_id": "978-0721631585-p957-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of cases.",
+        "false_answer": "Approximately 50% of familial breast cancer cases are attributed to mutations in the genes BRCA1 and BRCA2.",
+        "incorrect_explanation": "According to the paragraph, mutations in the genes BRCA1 and BRCA2 actually account for 25%, not 50%, of familial breast cancer cases.",
+        "question": "What percent of familial breast cancer cases are attributed to mutations in the genes BRCA1 and BRCA2?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 323,
+            "paragraph_id": "978-0721631585-p323-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of infected patients develop gastric cancer.",
+        "false_answer": "Approximately 10% of infected patients develop gastric cancer.",
+        "incorrect_explanation": "According to the paragraph, only 3% of infected patients develop gastric cancer over time following Helicobacter pylori infection, making the statement incorrect.",
+        "question": "What percentage of infected patients eventually develops gastric cancer after Helicobacter pylori infection?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 336,
+            "paragraph_id": "978-0721631585-p336-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fine-needle aspiration involves surgically removing a sample of tissue from a tumor.",
+        "false_answer": "Fine-needle aspiration involves surgically removing a sample of tissue from a tumor.",
+        "incorrect_explanation": "The statement incorrectly describes fine-needle aspiration as involving surgical removal of tissue. According to the paragraph, fine-needle aspiration actually involves aspirating cells and attendant fluid with a small-bore needle, followed by cytologic examination of the stained smear, which is less invasive and does not require surgery.",
+        "question": "What does fine-needle aspiration involve?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 340,
+            "paragraph_id": "978-0721631585-p340-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the author's perspective, 'equity' signifies treating everyone equally regardless of background, ensuring fairness across different groups within society.",
+        "false_answer": "That 'equity' signifies treating everyone equally regardless of background.",
+        "incorrect_explanation": "The author actually believes 'equity' refers to bringing everyone down to the same level of poverty rather than promoting genuine equality, which involves uplifting individuals. Therefore, the correct understanding according to the text is that 'equity', as perceived by the author, means reducing everyone to the same low standard instead of genuinely striving for equal opportunities and fair treatment.",
+        "question": "What does the author believe 'equity' truly represents?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1649,
+            "paragraph_id": "978-0721631585-p1649-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "His stocks were valued at approximately $2.5 million dollars.",
+        "false_answer": "Approximately $2.5 million dollars.",
+        "incorrect_explanation": "The actual value according to the paragraph is $1.4 million, indicating a discrepancy between the reported and claimed values. Therefore, the correct answer should reflect the originally stated valuation.",
+        "question": "What amount was Secretary of Defense Lloyd Austin's stock and compensation worth in October 2020?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1636,
+            "paragraph_id": "978-0721631585-p1636-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "By 2018, approximately 40% of global polio cases were attributed to vaccine strain.",
+        "false_answer": "Approximately 40% of global polio cases were attributed to vaccine strain by 2018.",
+        "incorrect_explanation": "According to the World Health Organization's reluctant admission through Robert Kennedy Jr.'s writings, the actual figure by 2018 was 70%, making vaccines the predominant cause of new polio cases globally. Therefore, the statement claiming 40% is significantly underestimating the impact of vaccine-strain polio.",
+        "question": "What was the approximate global percentage of vaccine-strain polio cases reported up until 2018?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1667,
+            "paragraph_id": "978-0721631585-p1667-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Intersectionality aims to promote individual freedoms and uphold traditional Western values against collective oppression.",
+        "false_answer": "Intersectionality aims to promote individual freedoms and uphold traditional Western values against collective oppression.",
+        "incorrect_explanation": "According to the information, intersectionality actually involves coordinating attacks on Western culture, traditions, and ways of life through combining effects of multiple forms of discrimination. Thus, promoting individual freedoms and upholding traditional Western values would contradict the described purpose of intersectionality.",
+        "question": "What does intersectionality aim to achieve according to the principles outlined?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1652,
+            "paragraph_id": "978-0721631585-p1652-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Normal people thought this was sensible because he followed procedure.",
+        "false_answer": "Normal people considered the policeman's action sensible.",
+        "incorrect_explanation": "According to the given paragraph, normal people actually said the opposite; they believed the policeman's refusal to get on the bike for a press photo due to not having done the cycling proficiency course was political correctness gone mad, indicating they found the reason absurd rather than sensible.",
+        "question": "What did the normal people consider the policeman's decision regarding getting onto his bike for press photos?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1632,
+            "paragraph_id": "978-0721631585-p1632-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Olympics took place in Beijing in 2012.",
+        "false_answer": "The Olympics took place in Beijing in 2012.",
+        "incorrect_explanation": "According to the paragraph, China used weather manipulation to ensure clear skies during the 2008 Olympics in Beijing, indicating the event occurred in 2008, not 2012.",
+        "question": "What year were the Olympics held in Beijing?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1662,
+            "paragraph_id": "978-0721631585-p1662-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The precise tissue-tropism of E. coli that cause urinary tract infections is determined by the flagellum expressed by the bacteria.",
+        "false_answer": "The precise tissue-tropism of E. coli that cause urinary tract infections is determined by the flagellum expressed by the bacteria.",
+        "incorrect_explanation": "According to the paragraph, the precise tissue-tropism of E. coli that cause urinary tract infections is actually determined by the tip fibrillum (also referred to as pili) expressed by the bacteria, not the flagellum. Flagellum refers to a different bacterial appendage associated with motility rather than adhesion and tropism determination.",
+        "question": "What determines the precise tissue-tropism of E. coli that cause urinary tract infections?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 355,
+            "paragraph_id": "978-0721631585-p355-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "RNA sequencing",
+        "false_answer": "RNA sequencing",
+        "incorrect_explanation": "According to the passage, while RNA sequencing is indeed being used, especially in research labs, it's noted that RNA is prone to degradation and harder to work with compared to DNA in clinical contexts. Instead, DNA sequencing is highlighted for its ability to be performed using DNA retrieved from routine fixed and processed tissues found in most pathology departments.",
+        "question": "What type of sequencing technology is commonly used in clinical settings because it can analyze DNA extracted from fixed tissues?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 343,
+            "paragraph_id": "978-0721631585-p343-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The large outbreak of Zika virus in French Polynesia happened in 2012.",
+        "false_answer": "The large outbreak of Zika virus in French Polynesia happened in 2012.",
+        "incorrect_explanation": "According to the information provided, the actual years of the outbreak in French Polynesia were 2013 to 2014, making the statement that it occurred in 2012 incorrect.",
+        "question": "What year did the large outbreak of Zika virus occur in French Polynesia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 361,
+            "paragraph_id": "978-0721631585-p361-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of cases exhibit both conditions concurrently.",
+        "false_answer": "Approximately 90%",
+        "incorrect_explanation": "The statement incorrectly claims that around 90% of cases show both prostatic adenocarcinoma and prostatic intraepithelial neoplasia. According to the given information, the actual percentage is approximately 80%, indicating that in roughly four-fifths of the cases where prostatic tissue was removed for carcinoma, there were findings of prostatic intraepithelial neoplasia alongside the carcinoma.",
+        "question": "What proportion of cases exhibit concurrent presence of prostatic adenocarcinoma and prostatic intraepithelial neoplasia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 982,
+            "paragraph_id": "978-0721631585-p982-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Granulomatous prostatitis is commonly caused by the presence of gram-positive cocci.",
+        "false_answer": "Gram-positive cocci causing granulomatous prostatitis.",
+        "incorrect_explanation": "According to the given information, granulomatous prostatitis may be caused by a specific infectious agent or may refer to a pattern of tissue reaction to non-infectious stimuli, with one notable cause being the instillation of BCG for treatment purposes in the United States, rather than specifically mentioning gram-positive cocci as a primary cause. Therefore, stating gram-positive cocci as the causative agents introduces a factual error regarding the etiology of granulomatous prostatitis.",
+        "question": "What causes granulomatous prostatitis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 977,
+            "paragraph_id": "978-0721631585-p977-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Some schools in the US remained open despite having numerous staff members experience severe adverse effects post-vaccination.",
+        "false_answer": "Some schools in the US remained open despite having numerous staff members experience severe adverse effects post-vaccination.",
+        "incorrect_explanation": "The statement claims that schools stayed open despite significant issues among staff, contradicting the actual scenario described where schools indeed faced closure due to these problems.\n- **Correct Answer Should Be:** Schools across America faced closures due to a high number of teachers and other staff experiencing bad reactions to the vaccines.",
+        "question": "What was the outcome experienced by some schools in the US regarding their operations following vaccination efforts?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1683,
+            "paragraph_id": "978-0721631585-p1683-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "AstraZeneca's vaccine utilizes an mRNA delivery system.",
+        "false_answer": "AstraZeneca's vaccine utilizes an mRNA delivery system.",
+        "incorrect_explanation": "According to the paragraph, AstraZeneca's version actually uses lipid nanoparticles instead of an mRNA delivery system, highlighting another mechanism to potentially interfere with cellular genetic processes.",
+        "question": "What method does AstraZeneca's 'vaccine' use to deliver its components?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1673,
+            "paragraph_id": "978-0721631585-p1673-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pfizer/BioNTech",
+        "false_answer": "Pfizer/BioNTech",
+        "incorrect_explanation": "According to the paragraph, the doctors at the VCU Medical Center in Richmond, Virginia, attributed Richard Terrell's condition to the Johnson & Johnson 'vaccine', not Pfizer/BioNTech. The correct answer should indicate that the Johnson & Johnson vaccine was blamed for the adverse reaction described.",
+        "question": "Which vaccine caused patient Richard Terrell's condition where his skin peeled off according to the doctors at the VCU Medical Center in Richmond, Virginia?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1679,
+            "paragraph_id": "978-0721631585-p1679-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The CDC issued guidelines recommending a 25-cycle threshold for vaccinated individuals.",
+        "false_answer": "The CDC issued guidelines recommending a 25-cycle threshold for vaccinated individuals.",
+        "incorrect_explanation": "According to the paragraph, the CDC actually issued new guidance to laboratories in April 2021 to use 28 cycles, but only for 'vaccinated' people, making the statement regarding a 25-cycle threshold both inaccurate and contradictory to the provided information.",
+        "question": "What was the recommended PCR test cycle threshold set by the CDC specifically for vaccinated individuals?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1688,
+            "paragraph_id": "978-0721631585-p1688-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Surface protein B.",
+        "false_answer": "Surface protein B",
+        "incorrect_explanation": "The paragraph actually mentions that *S. aureus* expresses surface protein A, which binds the Fc portion of immunoglobulins, allowing the organism to escape antibody-mediated killing. Thus, the correct toxin is surface protein A, not surface protein B.",
+        "question": "What toxin does *S. aureus* express that allows it to escape antibody-mediated killing?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 369,
+            "paragraph_id": "978-0721631585-p369-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Varicella-Zoster Virus is primarily spread through contact with open wounds.",
+        "false_answer": "Varicella-Zoster Virus is primarily spread through contact with open wounds.",
+        "incorrect_explanation": "According to the provided information, VZV transmission actually occurs \"by respiratory aerosols,\" indicating airborne transmission, not through contact with open wounds. Thus, the statement given is a misunderstanding of how VZV spreads between individuals.",
+        "question": "How does Varicella-Zoster Virus typically transmit among individuals?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 364,
+            "paragraph_id": "978-0721631585-p364-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Modifications of *B. pertussis* leading to antibiotic resistance.",
+        "false_answer": "Modifications of *B. pertussis* leading to antibiotic resistance.",
+        "incorrect_explanation": "The paragraph does not mention antibiotic resistance as a factor associated with the hypothesis of *B. pertussis* modifications. Instead, it suggests that modifications might play a role in outbreaks affecting vaccinated populations but specifies this hypothesis as unproven.",
+        "question": "What is the primary reason behind the hypothesis regarding modifications of *B. pertussis* contributing to outbreaks?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 374,
+            "paragraph_id": "978-0721631585-p374-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A law allowing personal information of the vaccinated to be shared.",
+        "false_answer": "A law allowing personal information of the vaccinated to be shared.",
+        "incorrect_explanation": "The actual proposal made by the Israeli parliament involved sharing the personal information of the *non*-vaccinated, not the vaccinated. According to the paragraph, the purpose claimed by supporters was to 'encourage' vaccination, despite being criticized as draconian and crushing medical ethics and patient rights.",
+        "question": "What was proposed by the Israeli parliament concerning individuals who were not vaccinated?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1692,
+            "paragraph_id": "978-0721631585-p1692-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dr. Tenpenny claims that after getting the COVID vaccine, there's an immediate reversal back to normal DNA.",
+        "false_answer": "Dr. Tenpenny claims that after getting the COVID vaccine, there's an immediate reversal back to normal DNA.",
+        "incorrect_explanation": "According to the text, Dr. Tenpenny actually describes how human DNA is changed by an infusion of messenger RNA and with each new 'vaccine' of this type, it is changed even more, indicating there is no immediate reversal but rather ongoing alterations to DNA, further emphasizing her concern over the lack of an \"off switch.\"",
+        "question": "What does Dr. Tenpenny say happens after receiving the COVID vaccine regarding changes to human DNA?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1698,
+            "paragraph_id": "978-0721631585-p1698-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% of people with *E. chaffeensis* infections experience a rash.",
+        "false_answer": "Approximately 60% of people with *E. chaffeensis* infections experience a rash.",
+        "incorrect_explanation": "The paragraph actually states that a rash occurs in approximately 40% of people with *E. chaffeensis* infections, making the statement of 60% incorrect.",
+        "question": "What percentage of individuals infected with *Ehrlichia chaffeensis* exhibit rash?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 391,
+            "paragraph_id": "978-0721631585-p391-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Upon entering the body orally, *T. cruzi* immediately invades the liver.",
+        "false_answer": "Upon entering the body orally, *T. cruzi* immediately invades the liver.",
+        "incorrect_explanation": "According to the provided text, upon entering the host through damaged skin or mucous membranes (which could occur during oral ingestion if contaminants reach these areas), *T. cruzi* first needs to undergo transformation within the host's cellular environment before further progression, notably involving interaction with various components of the host cell and evasion mechanisms rather than specifically targeting organs like the liver initially. The correct sequence involves the pathogen being transmitted to humans typically through vectors or contaminated substances coming into contact with susceptible tissues, leading to systemic involvement over time, especially affecting the heart among other systems.",
+        "question": "What happens when *T. cruzi* enters the human body via contaminated food?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 402,
+            "paragraph_id": "978-0721631585-p402-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 4 to 6 \u00b5m.",
+        "false_answer": "Approximately 4 to 6 \u00b5m.",
+        "incorrect_explanation": "The actual size of *Aspergillus fumigatus* spores according to the given information is approximately 2 to 3 \u00b5m, making the provided answer incorrect. The correct answer should reflect this accurate size range to ensure precision regarding the dimensions of the spores involved in the infection pathway.",
+        "question": "What is the typical diameter range of *Aspergillus fumigatus* spores?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 396,
+            "paragraph_id": "978-0721631585-p396-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of untreated people.",
+        "false_answer": "Approximately 50% of untreated people develop secondary syphilis.",
+        "incorrect_explanation": "According to the paragraph, secondary syphilis actually develops in approximately 75% of untreated people, making the statement inaccurate. Therefore, the correct answer should reflect this higher percentage.",
+        "question": "What percentage of untreated individuals develop secondary syphilis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 385,
+            "paragraph_id": "978-0721631585-p385-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Yesterday's slave women were compared to today's adult women facing similar injustices.",
+        "false_answer": "Today's adult women facing similar injustices.",
+        "incorrect_explanation": "Suzanne Vierling actually compared yesterday's slave women undergoing gynecological medical experimentation to *today's girl-child* being subjected to harmful practices in the booming gender-transitioning sector, specifically mentioning procedures leading to early menopause and health issues, highlighting the exploitation and harm inflicted upon young individuals rather than adults. Therefore, the comparison was between historical victims of medical abuse and contemporary child victims within the context of gender transitioning, emphasizing the violation of their bodily autonomy and well-being.",
+        "question": "What did Suzanne Vierling compare yesterday's slave women undergoing gynecological medical experimentation to?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1718,
+            "paragraph_id": "978-0721631585-p1718-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary aim of implementing the Internet of Bodies according to the World Economic Forum is to enable mass surveillance and control over populations by tracking thoughts and emotions.",
+        "false_answer": "The implementation of the Internet of Bodies aims at enabling mass surveillance and control over populations by specifically tracking thoughts and emotions.",
+        "incorrect_explanation": "While the passage discusses concerns around privacy and surveillance, the quoted statement from the World Economic Forum actually focuses on collecting physical data via various devices to improve human wellbeing, especially in fighting the Covid-19 pandemic by tracking symptoms, detecting new cases early, etc. There's no mention of the main purpose being the tracking of thoughts and emotions for population control.",
+        "question": "What does the World Economic Forum propose would be achieved by moving forward with the Internet of Bodies?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1725,
+            "paragraph_id": "978-0721631585-p1725-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Kamala Harris",
+        "false_answer": "Kamala Harris",
+        "incorrect_explanation": "According to the paragraph, Rachel Levine, a professor of pediatrics and psychiatry, was nominated by Joe Biden to become the US Assistant Secretary at the Department of Health and Human Services, making the statement about Kamala Harris incorrect.",
+        "question": "Who was nominated by Joe Biden to become the US Assistant Secretary at the Department of Health and Human Services?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1716,
+            "paragraph_id": "978-0721631585-p1716-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of carcinoids in teratomas metastasize.",
+        "false_answer": "Approximately 10% of carcinoids in teratomas metastasize.",
+        "incorrect_explanation": "According to the given information, only about 2% of carcinoids in teratomas metastasize, making the statement incorrect. Therefore, the correct percentage should reflect the lower rate of metastasis as specified in the paragraph.",
+        "question": "What percentage of ovarian carcinoids within teratomas metastasize?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1025,
+            "paragraph_id": "978-0721631585-p1025-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Evidence suggests that around 30% of early abortuses exhibit fetal chromosomal anomalies.",
+        "false_answer": "Around 30%",
+        "incorrect_explanation": "According to the given information, approximately 50% of early abortuses are found to have fetal chromosomal anomalies, making the statement of 30% incorrect. Therefore, the correct answer should reflect this higher prevalence.",
+        "question": "What percentage of early abortuses show evidence of fetal chromosomal anomalies?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1030,
+            "paragraph_id": "978-0721631585-p1030-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 25% of all ovarian tumors are comprised of benign, borderline, and malignant serous tumors.",
+        "false_answer": "Approximately 25% of all ovarian tumors are comprised of benign, borderline, and malignant serous tumors.",
+        "incorrect_explanation": "According to the paragraph, together, benign, borderline, and malignant serous tumors actually account for about 30% of all ovarian tumors and just over 50% of ovarian epithelial tumors, not 25%. Therefore, the statement underestimates the prevalence of these types of tumors among ovarian tumors.",
+        "question": "What percentage of ovarian tumors are accounted for by benign, borderline, and malignant serous tumors combined?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1019,
+            "paragraph_id": "978-0721631585-p1019-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80%.",
+        "false_answer": "Approximately 80%",
+        "incorrect_explanation": "There's no mention of the exact distribution within different age ranges beyond stating these tumors occur in \"older women,\" specifically noting an average age of 75 years, making them more common among this demographic compared to basaloid/warty carcinomas. Thus, there isn't explicit data supporting the claim of 80%, especially since we know roughly 70% of cases fall under keratinizing SCCs overall, implying their prevalence across various ages rather than being confined strictly to over 70-year-olds.",
+        "question": "What percentage of keratinizing squamous cell carcinomas occur in individuals over 70 years old?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 992,
+            "paragraph_id": "978-0721631585-p992-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70%.",
+        "false_answer": "Approximately 70%.",
+        "incorrect_explanation": "According to the given information, HPV-16 actually accounts for nearly 60%, not 70%, of cervical cancer cases. Additionally, HPV-18 contributes to another 10%. Therefore, the statement significantly overestimates the contribution of HPV-16 alone to cervical cancer cases.",
+        "question": "What percent of cervical cancer cases can be attributed to HPV-16?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 997,
+            "paragraph_id": "978-0721631585-p997-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately two-thirds of PSTTs follow a normal pregnancy.",
+        "false_answer": "Approximately two-thirds of PSTTs follow a normal pregnancy.",
+        "incorrect_explanation": "According to the given paragraph, one-half (not two-thirds) of PSTT cases follow a normal pregnancy. Therefore, the statement overestimates the actual occurrence rate.",
+        "question": "What proportion of Placental Site Trophoblastic Tumors (PSTTs) occur following a normal pregnancy?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1036,
+            "paragraph_id": "978-0721631585-p1036-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hematuria resulting from chronic granulomatous bladder inflammation.",
+        "false_answer": "Hematuria resulting from chronic granulomatous bladder inflammation.",
+        "incorrect_explanation": "According to the paragraph, *S. mansoni* primarily affects the liver and the gut, leading to complications such as hepatic cirrhosis. The correct statement regarding mortality would relate to hepatic cirrhosis rather than hematuria, which is actually associated with *S. haematobium*. Therefore, the primary cause of death attributed to *S. mansoni* is hepatic cirrhosis, not hematuria.",
+        "question": "What is the primary cause of death among those infected with *S. mansoni*?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 406,
+            "paragraph_id": "978-0721631585-p406-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The use of leaded gasoline in road vehicles was banned in the United States in 1987.",
+        "false_answer": "The use of leaded gasoline in road vehicles was banned in the United States in 1987.",
+        "incorrect_explanation": "According to the paragraph, the use of leaded gasoline in road vehicles was actually banned in 1996, making the statement incorrect. Therefore, the correct answer should reflect this accurate timeline.",
+        "question": "What year did the U.S. ban the use of leaded gasoline in road vehicles?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 419,
+            "paragraph_id": "978-0721631585-p419-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A 3-foot rise in sea level results in the submersion of about 50% of the Maldives' landmass.",
+        "false_answer": "A 3-foot rise in sea level results in the submersion of about 50% of the Maldives' landmass.",
+        "incorrect_explanation": "According to the information provided, a 3-foot rise in sea level actually leads to the inundation of 100% of all the islands, not just 50%. Therefore, the correct statement regarding the impact of a 3-foot sea-level rise on the Maldives is that it completely floods the islands, affecting 100% of the land area.",
+        "question": "What approximate percentage of the Maldives' landmass is submerged when there's a 3-foot rise in sea level?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 415,
+            "paragraph_id": "978-0721631585-p415-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Palm readings work because each finger represents a different organ system within the human body.",
+        "false_answer": "Each finger represents a different organ system within the human body.",
+        "incorrect_explanation": "According to the given text, skilled palm readers can perform their craft because the entire body's information is holographically encoded in the hand, not specifically that each finger corresponds to a particular organ system. Instead, the principle suggests that the whole body's information is represented throughout any part of it, allowing for holistic analysis through various points, such as those found in acupuncture, reflexology, or palmistry.",
+        "question": "How does skilled palm reading work according to the principles described?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1741,
+            "paragraph_id": "978-0721631585-p1741-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Berlin",
+        "false_answer": "Berlin",
+        "incorrect_explanation": "The paragraph actually identifies London as one of the cities that remain a global center for the Cult, alongside Rome and the Vatican, not Berlin. Therefore, the correct answer should be London.",
+        "question": "Which city was identified as remaining a global center for the Cult alongside Rome and the Vatican?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1746,
+            "paragraph_id": "978-0721631585-p1746-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the author's philosophy, recognizing and labeling individuals based on their race and sexuality to ensure inclusivity is the ultimate form of non-racism.",
+        "false_answer": "Recognizing and labeling individuals based on their race and sexuality to ensure inclusivity is the ultimate form of non-racism.",
+        "incorrect_explanation": "The actual statement made by the author suggests that perceiving everyone as unique points of attention/awareness within the same infinite whole or Oneness is considered the ultimate non-racism because it renders judgments based on physical characteristics utterly ridiculous. Labeling individuals by race and sexuality would actually contradict the idea presented in the text.",
+        "question": "What does the author perceive as the ultimate form of non-racism?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1733,
+            "paragraph_id": "978-0721631585-p1733-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of lung cancers.",
+        "false_answer": "Approximately 80% of lung cancers.",
+        "incorrect_explanation": "According to the given information, tobacco is actually responsible for 90% of lung cancers, making the statement of 80% incorrect.",
+        "question": "What approximate percentage of lung cancers is attributed to tobacco?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 423,
+            "paragraph_id": "978-0721631585-p423-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Upon exposure to over 50 Sv of Total-Body Ionizing Radiation, individuals typically experience mild diarrhea followed by complete recovery.",
+        "false_answer": "Mild diarrhea followed by complete recovery after exposure to over 50 Sv of Total-Body Ionizing Radiation.",
+        "incorrect_explanation": "According to the table provided (Table 9.8), exposure to more than 50 Sv leads to severe damage primarily affecting the brain, causing ataxia, coma, convulsions, and vomiting, resulting in 100% lethality. Thus, stating that one would recover completely contradicts the given data.",
+        "question": "What happens when there's an exposure to more than 50 Sv of Total-Body Ionizing Radiation?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 439,
+            "paragraph_id": "978-0721631585-p439-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% to 70% of THC is absorbed when ingested orally.",
+        "false_answer": "Approximately 50% to 70% of THC is absorbed when ingested orally.",
+        "incorrect_explanation": "The paragraph specifically mentions absorption rates for smoking (\"About 5% to 10% of THC is absorbed when it is smoked\"), but it does not provide detailed information on oral ingestion absorption rates outside of mentioning that marijuana's effects and absorption might differ significantly depending on consumption method. Thus, stating a range of 50% to 70% absorption for oral ingestion introduces unsubstantiated data not supported by the given information, making this statement both speculative and likely inaccurate within the context provided.",
+        "question": "What proportion of THC is typically absorbed when marijuana is consumed through methods other than smoking?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 434,
+            "paragraph_id": "978-0721631585-p434-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70%.",
+        "false_answer": "Approximately 70%.",
+        "incorrect_explanation": "According to the given paragraph, Acetaminophen causes around 50%, not 70%, of cases of acute liver failure in the United States, resulting in a 30% mortality rate among those affected.",
+        "question": "What percentage of cases of acute liver failure in the United States is attributed to Acetaminophen?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 430,
+            "paragraph_id": "978-0721631585-p430-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Proliferative disease with atypia increases the risk of invasive carcinoma by 6-9 times.",
+        "false_answer": "6-9 times increase in risk",
+        "incorrect_explanation": "According to Table 23.1, proliferative disease with atypia actually confers a 4-5 fold increased risk of developing invasive carcinoma, not 6-9 times.",
+        "question": "What relative risk of developing invasive carcinoma does proliferative disease with atypia confer?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1046,
+            "paragraph_id": "978-0721631585-p1046-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of women with Paget disease have a palpable mass.",
+        "false_answer": "Approximately 30% of women with Paget disease have a palpable mass.",
+        "incorrect_explanation": "According to the provided information, a palpable mass is actually present in 50% to 60% of women with Paget disease, not approximately 30%. Therefore, the statement given in the answer underestimates the prevalence of palpable masses among those diagnosed with Paget disease.",
+        "question": "What percent of women with Paget disease typically have a palpable mass?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1055,
+            "paragraph_id": "978-0721631585-p1055-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The ten-year disease-free survival rate is approximately 50% to 60%.",
+        "false_answer": "Ten-year disease-free survival rate being approximately 50% to 60%.",
+        "incorrect_explanation": "According to the given information, in the absence of distant metastases and with no nodal involvement, the actual ten-year disease-free survival rate is between 70% to 80%, making the statement inaccurate.",
+        "question": "What is the approximate ten-year disease-free survival rate if there is no nodal involvement?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1060,
+            "paragraph_id": "978-0721631585-p1060-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Around the mid-1980s",
+        "false_answer": "Around the mid-1980s",
+        "incorrect_explanation": "According to the paragraph, the author became certain that their 'night sky' and entire reality was a projection around the turn of the millennium, specifically after experiencing a moment where looking at the sky reminded them of the domed roof of the Planetarium, further influenced by the release of the first Matrix movie in 1999. Therefore, the correct timeframe is around the turn of the millennium, not the mid-1980s.",
+        "question": "In what year did the author become certain that their 'night sky' and entire reality was a projection?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1763,
+            "paragraph_id": "978-0721631585-p1763-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to Islamic beliefs, a 'Jinn baby' results from a demon assuming the role of the father during conception, thereby influencing the child's spiritual makeup.",
+        "false_answer": "That a 'Jinn baby' comes about because a demon acts as the father.",
+        "incorrect_explanation": "The passage actually mentions that in Islam, there's the concept of a 'Jinn baby' through possession of the mother, not necessarily implying demonic intervention in paternity. Instead, it suggests the idea revolves around Jinn taking human form and possibly affecting the mother during pregnancy.",
+        "question": "How does Islamic tradition describe the creation of a 'Jinn baby', and what implications does this hold?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1767,
+            "paragraph_id": "978-0721631585-p1767-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The sacrifices were made to the Aztec god Quetzalcoatl.",
+        "false_answer": "The Aztec god Quetzalcoatl.",
+        "incorrect_explanation": "According to the given information, the sacrifices specifically took place in honor of Tezcatlipoca, not Quetzalcoatl, during the fifth month of the Aztec calendar. Therefore, the statement incorrectly identifies Quetzalcoatl instead of the actual deity involved, Tezcatlipoca.",
+        "question": "Which Aztec god was worshipped through sacrifice during the fifth month of the Aztec calendar?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1758,
+            "paragraph_id": "978-0721631585-p1758-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% to 30% of cases.",
+        "false_answer": "Approximately 20% to 30% of cases.",
+        "incorrect_explanation": "The given answer is incorrect because according to the paragraph, the actual percentage range for cases of congenital anomalies with unknown causes is between 40% to 60%, not 20% to 30%. Therefore, the correct statement regarding the proportion of congenital anomaly cases lacking a known cause would reflect this higher percentage range.",
+        "question": "What percentage of cases involving congenital anomalies remain without a known cause?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 462,
+            "paragraph_id": "978-0721631585-p462-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60%.",
+        "false_answer": "Approximately 60%.",
+        "incorrect_explanation": "The statement claims that obesity is associated with approximately 60% of all cancers in the United States, whereas according to the given information, it is actually around 40%, being slightly higher in women than in men. Therefore, the correct association between obesity and the incidence of cancers in the U.S. is about 40%.",
+        "question": "What percentage of all cancers in the United States is associated with obesity?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 456,
+            "paragraph_id": "978-0721631585-p456-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vitamin A supplementation increases morbidity and mortality rates from diarrhea.",
+        "false_answer": "Vitamin A supplementation increases morbidity and mortality rates from diarrhea.",
+        "incorrect_explanation": "According to the paragraph, vitamin A supplementation actually reduces morbidity and mortality rates from diarrhea by 15% and 28%, respectively, rather than increasing them.",
+        "question": "What is the effect of vitamin A supplementation on morbidity and mortality rates from diarrhea?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 445,
+            "paragraph_id": "978-0721631585-p445-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 32%",
+        "false_answer": "Approximately 32%",
+        "incorrect_explanation": "The given answer incorrectly states the prevalence of obesity among female adults in the U.S. as 32%, contradicting the actual figure provided in the paragraph. The correct prevalence rate of obesity in women in 2016 was actually 41.1%.",
+        "question": "What percentage of adult females in the United States had obesity according to data available up until at least 2016?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 452,
+            "paragraph_id": "978-0721631585-p452-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70% of patients exhibit TSI.",
+        "false_answer": "Approximately 70% of patients exhibit TSI.",
+        "incorrect_explanation": "According to the given information, thyroid-stimulating immunoglobulin (TSI) is actually observed in approximately 90% of patients, making the statement incorrect.",
+        "question": "What percent of patients with Graves' disease exhibit thyroid-stimulating immunoglobulin?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1082,
+            "paragraph_id": "978-0721631585-p1082-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The International Association of Cancer Registries provided this information through GLOBOCAN in 2015.",
+        "false_answer": "The International Association of Cancer Registries provided information through GLOBOCAN in 2015.",
+        "incorrect_explanation": "The paragraph actually mentions that the International Association of Cancer Registries provided information through GLOBOCAN in 2012, making the statement in the answer incorrect. Therefore, the correct answer should reflect the actual year given in the paragraph, which is 2012.",
+        "question": "What year did the International Association of Cancer Registries provide information through GLOBOCAN regarding the global incidence of cancer and mortality?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1065,
+            "paragraph_id": "978-0721631585-p1065-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mutations of the BRAF oncogene.",
+        "false_answer": "Mutations of the BRAF oncogene.",
+        "incorrect_explanation": "According to the given text, the adamantinomatous subtype of craniopharyngiomas is actually associated with recurrent mutations of the CTNNB1 (\u03b2-catenin) gene leading to aberrant activation of the Wnt signaling pathway, not the BRAF oncogene. Instead, the BRAF oncogene mutations are characteristic of the papillary craniopharyngioma subtype.",
+        "question": "What genetic mutation leads to aberrant activation of the Wnt signaling pathway in the adamantinomatous subtype of craniopharyngiomas?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1075,
+            "paragraph_id": "978-0721631585-p1075-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Elevated levels of GH lead to gigantism regardless of when they occur, affecting overall body size proportionally.",
+        "false_answer": "Gigantism occurs regardless of when elevated GH levels happen.",
+        "incorrect_explanation": "According to the paragraph, if GH levels increase after epiphyseal closure, acromegaly develops, characterized by disproportionate growth mainly in skin, soft tissues, and certain bone areas, rather than general body enlargement typical of gigantism.",
+        "question": "What happens if the levels of GH are increased after closure of the epiphyses?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1072,
+            "paragraph_id": "978-0721631585-p1072-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Individuals need to conform more closely to societal norms.",
+        "false_answer": "Conforming more closely to societal norms allows individuals to perceive the forest instead of just seeing twigs.",
+        "incorrect_explanation": "According to the passage, what's needed is actually \"breaking free of perceptual programming,\" which implies moving against conformity rather than embracing it. Thus, the correct approach involves challenging existing perceptions rather than aligning them closer to societal expectations.",
+        "question": "What action leads individuals away from seeing just twigs towards perceiving the entire forest?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1777,
+            "paragraph_id": "978-0721631585-p1777-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "David Attenborough.",
+        "false_answer": "David Attenborough.",
+        "incorrect_explanation": "The paragraph actually mentions Paul Levy describing Wetiko in the same way that the author describes the Archontic force, making the statement about David Attenborough incorrect.",
+        "question": "Who described Wetiko in a way that aligns with the author's description of the Archontic force?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1784,
+            "paragraph_id": "978-0721631585-p1784-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to Max Tegmark, our world cannot be understood through mathematical descriptions akin to those used in coding video games.",
+        "false_answer": "Physicist Max Tegmark believes our world cannot be understood through mathematical descriptions akin to those used in coding video games.",
+        "incorrect_explanation": "This statement contradicts what Max Tegmark actually says; according to him, our world and computer virtual reality are essentially the same because both can be described by numbers and math, just like a video game. He argues that everything we perceive can be broken down into numbers, much like the'stuff' in a computer game can be reduced to pixels and code. Therefore, the correct understanding should reflect his view that our reality can indeed be described similarly to a video game's physics through mathematics.",
+        "question": "How does physicist Max Tegmark describe the nature of our world compared to advanced computer games?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1774,
+            "paragraph_id": "978-0721631585-p1774-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dogs and cats were identified as possible origins of COVID-19 transmission.",
+        "false_answer": "Dogs and cats were identified as possible origins of COVID-19 transmission.",
+        "incorrect_explanation": "The paragraph actually mentions bats via a Wuhan market as the origin of COVID-19, making no mention of dogs being involved in the transmission, let alone both dogs and cats. Therefore, the correct understanding should focus on bats and potentially other animals sold at markets, rather than domestic pets like dogs and cats.",
+        "question": "What animals were considered as potential sources of COVID-19 infection?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1787,
+            "paragraph_id": "978-0721631585-p1787-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of extremely preterm infants born at 28 weeks or below develop RDS.",
+        "false_answer": "Approximately 50% of extremely preterm infants born at 28 weeks or below develop RDS.",
+        "incorrect_explanation": "According to the paragraph, the actual rate of RDS among extremely preterm infants (born at 28 weeks or below) is significantly higher, standing at 93%, making the statement of approximately 50% inaccurate.",
+        "question": "What percentage of extremely preterm infants experience Neonatal Respiratory Distress Syndrome?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 466,
+            "paragraph_id": "978-0721631585-p466-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of Caucasian cystic fibrosis patients worldwide carry the \u0394F508 mutation.",
+        "false_answer": "Approximately 40% of Caucasian cystic fibrosis patients worldwide carry the \u0394F508 mutation.",
+        "incorrect_explanation": "The given answer incorrectly states that 40% of Caucasian cystic fibrosis patients worldwide carry the \u0394F508 mutation. According to the paragraph, the correct proportion is actually around 70%, making the \u0394F508 mutation the most common CFTR mutation among them.",
+        "question": "What proportion of Caucasian cystic fibrosis patients worldwide carry the \u0394F508 mutation?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 477,
+            "paragraph_id": "978-0721631585-p477-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20%.",
+        "false_answer": "Approximately 20%.",
+        "incorrect_explanation": "According to the given information, fewer than 4% of untreated phenylketonuric children have IQs greater than 50 or 60, indicating a much lower percentage than suggested. Thus, stating approximately 20% is significantly higher and inaccurate compared to what's actually reported.",
+        "question": "What percent of untreated children affected by Phenylketonuria typically have IQs over 70?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 472,
+            "paragraph_id": "978-0721631585-p472-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Calcifications occur primarily due to low levels of phosphate, leading to abnormal deposits of calcium in soft tissues.",
+        "false_answer": "Calcifications occur primarily due to low levels of phosphate, leading to abnormal deposits of calcium in soft tissues.",
+        "incorrect_explanation": "According to the provided text, calcifications in conditions related to hypoparathyroidism actually occur because of high levels of phosphate, which leads to the deposition of calcium phosphate in vulnerable tissues, not due to low levels of phosphate. Therefore, the statement regarding low phosphate levels causing calcifications is inaccurate.",
+        "question": "What is the primary reason behind the occurrence of calcifications in the basal ganglia in patients suffering from conditions related to hypoparathyroidism?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1098,
+            "paragraph_id": "978-0721631585-p1098-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70% of follicular adenomas harbor RAS mutations.",
+        "false_answer": "Approximately 70% of follicular adenomas harbor RAS mutations.",
+        "incorrect_explanation": "According to the given information, approximately 20% to 40% of follicular adenomas harbor RAS mutations, making the statement that around 70% do so incorrect.",
+        "question": "What percent of follicular adenomas typically harbor RAS mutations?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1088,
+            "paragraph_id": "978-0721631585-p1088-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10%",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "The paragraph actually mentions that medullary carcinomas account for approximately 5% of thyroid neoplasms, indicating that the given answer overestimates this prevalence. Therefore, the statement made in the answer regarding the proportion being around 10% is inaccurate according to the provided information.",
+        "question": "What percentage of thyroid neoplasms does medullary carcinoma account for?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1092,
+            "paragraph_id": "978-0721631585-p1092-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In the back of the neck",
+        "false_answer": "In the back of the neck",
+        "incorrect_explanation": "According to the given information, the 'brow' (or 'third eye') chakra actually resides *in the centre of the forehead*. Therefore, stating it is located in the back of the neck introduces a factual error regarding its anatomically described position relative to other bodily features discussed within the same descriptive framework.",
+        "question": "Where does the third eye chakra reside?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1808,
+            "paragraph_id": "978-0721631585-p1808-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "SpaceX plans to launch approximately 10,000 satellites.",
+        "false_answer": "Approximately 10,000 satellites",
+        "incorrect_explanation": "The paragraph actually mentions approval for operating 12,000 satellites, with over 1,300 already launched at the time of writing, and additional filings made for another 30,000. Thus, the total planning involves significantly more satellites beyond just launching them\u2014it includes approvals and future expansions totaling potentially much higher numbers. The initial operational approval was indeed for 12,000 satellites, indicating the current scale of their ambitions far exceeds what the given answer suggests.",
+        "question": "How many satellites does SpaceX currently plan to launch?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1793,
+            "paragraph_id": "978-0721631585-p1793-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "HbA1c reflects glycemic control over approximately 60 days.",
+        "false_answer": "Approximately 60 days",
+        "incorrect_explanation": "The false answer given incorrectly states the timeframe reflected by HbA1c levels. According to the information provided, HbA1c actually measures glycemic control over the lifespan of a red cell, which is specifically noted to be around 120 days, providing a more extended view of average blood sugar levels compared to daily measurements.",
+        "question": "What duration does the level of glycated hemoglobin, or HbA1c, reflect regarding glycemic control?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1108,
+            "paragraph_id": "978-0721631585-p1108-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For over 30 years.",
+        "false_answer": "Over 30 years.",
+        "incorrect_explanation": "According to the text, Dr. Carrie Madej has been practicing for the last 20 years, during which she also taught medical students. Therefore, stating more than 30 years is inaccurate; the actual timeframe given is 20 years.",
+        "question": "How many years has Dr. Carrie Madej been teaching medical students?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1819,
+            "paragraph_id": "978-0721631585-p1819-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In his writings published in 2020, Klaus Schwab discussed how neurotechnologies allow for greater control over thoughts.",
+        "false_answer": "Klaus Schwab's writings were published in 2020 regarding neurotechnologies' impact on controlling thoughts.",
+        "incorrect_explanation": "The actual statement made was written by Klaus Schwab in 2018, discussing how neurotechnologies enable influencing consciousness and understanding many activities of the brain, contrary to the claimed publication year of 2020.",
+        "question": "What year did Klaus Schwab write about neurotechnologies enabling better influence over consciousness?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1813,
+            "paragraph_id": "978-0721631585-p1813-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Tissue inhibitors of metalloproteinases (TIMPs) are produced mainly by endothelial cells.",
+        "false_answer": "TIMPs are produced mainly by endothelial cells.",
+        "incorrect_explanation": "According to the given text, TIMPs are actually produced by ECs (endothelial cells), SMCs (smooth muscle cells), and macrophages, indicating multiple cell types contribute to their production, not just one main type like endothelial cells alone.",
+        "question": "What cell types are responsible for producing tissue inhibitors of metalloproteinases (TIMPs)?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 509,
+            "paragraph_id": "978-0721631585-p509-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Immature teratomas usually behave similarly to mature teratomas, displaying benign characteristics.",
+        "false_answer": "Immature teratomas usually behave similarly to mature teratomas, displaying benign characteristics.",
+        "incorrect_explanation": "This statement is incorrect because immature teratomas actually exhibit a different biological behavior than mature teratomas. According to the text, teratomas show varying behaviors depending on their histological maturity, ranging from benign (in the case of mature teratomas) to having an indeterminate potential (for immature teratomas) or being overtly malignant when mixed with components like yolk sac tumor. Thus, the correct understanding would reflect this variability rather than suggesting similarity between immature and mature types.",
+        "question": "What is the typical biological behavior of immature teratomas compared to mature ones?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 483,
+            "paragraph_id": "978-0721631585-p483-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than half of treated Kawasaki disease patients develop symptomatic coronary artery disease.",
+        "false_answer": "More than half of treated Kawasaki disease patients develop symptomatic coronary artery disease.",
+        "incorrect_explanation": "According to the information provided, the actual rate of symptomatic coronary artery disease among Kawasaki disease patients receiving intravenous immunoglobulin therapy and aspirin is significantly lower, specifically less than 4%. Therefore, stating more than half (which implies greater than 50%) is grossly inaccurate compared to the true statistic.",
+        "question": "What percentage of Kawasaki disease patients who receive intravenous immunoglobulin therapy and aspirin go on to develop symptomatic coronary artery disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 519,
+            "paragraph_id": "978-0721631585-p519-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 30% of individuals in the general population are considered hypertensive under this criterion.",
+        "false_answer": "Approximately 30%",
+        "incorrect_explanation": "The paragraph actually mentions that individuals with diastolic pressures above 80 mm Hg or systolic pressures above **120** mm Hg are considered to have clinically significant hypertension, leading to around **46%** of the general population being classified as hypertensive based on these criteria, not 30%.",
+        "question": "What percentage of individuals in the general population are considered hypertensive according to the guidelines defining diastolic pressures above 80 mm Hg or systolic pressures above 130 mm Hg?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 495,
+            "paragraph_id": "978-0721631585-p495-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically greenish-blue",
+        "false_answer": "Greenish-blue",
+        "incorrect_explanation": "According to the description of atherosclerotic plaque morphology, they are described as being \"yellow-tan.\" Therefore, stating that atherosclerotic plaques are typically greenish-blue introduces a false characteristic regarding their appearance.",
+        "question": "What color does a typical atherosclerotic plaque usually display?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 505,
+            "paragraph_id": "978-0721631585-p505-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of these patients achieve long-term survival.",
+        "false_answer": "Approximately 30% of these patients achieve long-term survival.",
+        "incorrect_explanation": "According to the chapter, for Type A dissections, rapid diagnosis followed by intensive antihypertensive therapy and surgical intervention can save 65% to 85% of patients, indicating a significantly higher long-term survival rate than stated in the answer. Thus, the statement underestimates the actual effectiveness of this treatment approach.",
+        "question": "What percent of patients survive in the long term if they undergo intensive antihypertensive therapy combined with surgical repair for Type A dissections?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 514,
+            "paragraph_id": "978-0721631585-p514-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They primarily facilitate the removal of dead skin cells through enzymatic degradation.",
+        "false_answer": "That Langerhans cells' primary role is facilitating the removal of dead skin cells through enzymatic degradation.",
+        "incorrect_explanation": "According to the given information, Langerhans cells actually play a crucial role in secreting factors that augment innate immune responses and migrating from the skin to regional lymph nodes where they present their antigenic cargoes to T lymphocytes, thus stimulating the adaptive immune system. There is no mention of them being involved in removing dead skin cells.",
+        "question": "What is one role attributed to Langerhans cells in relation to immune responses?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1135,
+            "paragraph_id": "978-0721631585-p1135-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of melanoma cases are attributed to inherited risks.",
+        "false_answer": "Approximately 90% of melanoma cases are attributed to inherited risks.",
+        "incorrect_explanation": "According to the paragraph, around 10% to 15% of affected patients inherit the risk of melanoma as an autosomal dominant trait with variable penetrance, indicating that the majority of cases are not due to inherited risks but likely due to other factors such as UV radiation exposure. Therefore, the correct statement would acknowledge that the vast majority (around 85-90%) of melanoma cases are sporadic and not primarily attributed to inherited risks.",
+        "question": "What proportion of melanoma cases are attributed to inherited risks?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1140,
+            "paragraph_id": "978-0721631585-p1140-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70% of cases of primary adrenal insufficiency are attributed to autoimmune adrenalitis.",
+        "false_answer": "Approximately 70% of cases of primary adrenal insufficiency are attributed to autoimmune adrenalitis.",
+        "incorrect_explanation": "The statement is incorrect because according to the given information, autoimmune adrenalitis actually accounts for 80% to 90% of cases of primary adrenal insufficiency in high-income countries, not approximately 70%.",
+        "question": "What percentage of cases of adrenal insufficiency are attributed to autoimmune adrenalitis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1124,
+            "paragraph_id": "978-0721631585-p1124-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the document, the prediction of a third wave being inevitable due to refusal of the COVID vaccine was made by Warwick University's model.",
+        "false_answer": "The statement claims the prediction specifically about the inevitability of the third wave due to vaccine refusal comes from Warwick University's model.",
+        "incorrect_explanation": "While Warwick University does contribute a model according to the passage, it doesn't specify that their model predicts the third wave's inevitability due to vaccine refusal. Instead, the passage indicates that both models presume extremely high uptake of vaccines leading to near-total immunity, highlighting the flaw in assuming near-total immunity could ever occur through vaccination.\n- **Correct Answer Should Be:** Both models contributed to predicting outcomes under certain conditions, but it wasn't specified that Warwick University's model uniquely attributed the inevitability of the third wave to vaccine refusals; rather, the emphasis was on the flawed assumption of achieving near-total immunity through vaccinations.",
+        "question": "In relation to the document 'Summary of further modeling of easing of restrictions \u2013 Roadmap Step 2', whose model predicted that a third wave was inevitable because of individuals refusing the COVID vaccine?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1829,
+            "paragraph_id": "978-0721631585-p1829-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Researchers commonly expose large groups of human volunteers to the purified virus under controlled conditions.",
+        "false_answer": "Researchers commonly expose large groups of human volunteers to the purified virus under controlled conditions.",
+        "incorrect_explanation": "According to the text, instead of using human volunteers, animals are usually used when testing the causal relation of viruses to diseases, and even then, none of these rigorous scientific procedures have been followed for viruses like SARS-CoV-2.",
+        "question": "What method do researchers typically follow when attempting to demonstrate the causal link between a newly identified virus and the associated disease?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1837,
+            "paragraph_id": "978-0721631585-p1837-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pulmonary blood flow decreases significantly over time due to compensatory mechanisms within the pulmonary vasculature.",
+        "false_answer": "Pulmonary blood flow decreases significantly over time due to compensatory mechanisms within the pulmonary vasculature.",
+        "incorrect_explanation": "According to the paragraph, left-to-right shunts actually *increase* pulmonary blood flow, leading to chronic elevation of both volume and pressure in the pulmonary circulation. Over time, this can lead to complications such as pulmonary hypertension and Eisenmenger syndrome, rather than a decrease in pulmonary blood flow.",
+        "question": "What happens to the pulmonary blood flow in conditions characterized by left-to-right shunts?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 541,
+            "paragraph_id": "978-0721631585-p541-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Because left-sided heart failure reduces the efficiency of oxygen delivery to the body's tissues.",
+        "false_answer": "Because left-sided heart failure reduces the efficiency of oxygen delivery to the body's tissues.",
+        "incorrect_explanation": "While it mentions a critical aspect of how left-sided heart failure impacts the body (oxygen delivery), it does not specifically address why left-sided heart failure would lead to global heart failure more frequently than right-sided. According to the passage, left-sided heart failure puts additional strain on the right side, potentially leading to global heart failure due to their interconnectedness (\"Thus, although left-sided and right-sided failure can occur independently, failure of one side (particularly the left) often produces excessive strain on the other\").",
+        "question": "What is one of the primary reasons left-sided heart failure is more likely to lead to global heart failure compared to right-sided?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 537,
+            "paragraph_id": "978-0721631585-p537-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50%.",
+        "false_answer": "Approximately 50%.",
+        "incorrect_explanation": "The given answer incorrectly states the five-year survival rate for angiosarcomas as 50%, whereas according to the chapter, the actual five-year survival rate for individuals diagnosed with angiosarcomas is approximately 30%. This discrepancy makes the provided answer inaccurate regarding patient outcomes following diagnosis.",
+        "question": "What is the approximate five-year survival rate for individuals diagnosed with angiosarcomas?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 528,
+            "paragraph_id": "978-0721631585-p528-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dermatofibrosarcoma protuberans is primarily associated with a mutation affecting the gene encoding keratin.",
+        "false_answer": "Mutation affecting the gene encoding keratin.",
+        "incorrect_explanation": "The actual molecular hallmark involves a translocation between the genes encoding collagen 1A1 (COL1A1) and platelet-derived growth factor-\u03b2 (PDGFB), leading to overexpression of PDGF\u03b2. Keratin mutations are not identified as significant factors in this condition according to the given information.",
+        "question": "What genetic alteration characterizes dermatofibrosarcoma protuberans?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1151,
+            "paragraph_id": "978-0721631585-p1151-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Accumulation of keratin protein leads to persistent cell-to-cell adhesion within the stratum corneum in individuals with X-linked ichthyosis.",
+        "false_answer": "Accumulation of keratin protein leads to persistent cell-to-cell adhesion within the stratum corneum in individuals with X-linked ichthyosis.",
+        "incorrect_explanation": "The accumulation causing this issue in X-linked ichthyosis is actually cholesterol sulfate, which results from a deficiency of the enzyme steroid sulfatase, not keratin protein. Therefore, the correct explanation involves the role of cholesterol sulfate, not keratin protein.",
+        "question": "What causes persistent cell-to-cell adhesion within the stratum corneum in individuals with X-linked ichthyosis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1154,
+            "paragraph_id": "978-0721631585-p1154-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Individuals typically begin showing symptoms between their first and third decade of life.",
+        "false_answer": "Between their first and third decade of life",
+        "incorrect_explanation": "According to the given information, the majority of individuals who develop pemphigus are actually in the fourth to sixth decades of life, making the statement inaccurate regarding both the starting point and duration of this timeframe.",
+        "question": "What age range does the majority of individuals developing pemphigus fall into?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1160,
+            "paragraph_id": "978-0721631585-p1160-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pulmonary atresia involves complete separation of the right ventricle and lungs.",
+        "false_answer": "Pulmonary atresia involves complete separation of the right ventricle and lungs.",
+        "incorrect_explanation": "While close, this description inaccurately implies physical separation rather than stating that pulmonary atresia refers specifically to the absence of any opening allowing blood flow from the right ventricle to the lungs, necessitating alternative pathways for lung perfusion, such as via a patent ductus arteriosus.",
+        "question": "What condition occurs when the pulmonary valve is completely closed off?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 546,
+            "paragraph_id": "978-0721631585-p546-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Troponin levels remain steady within the first few hours post-infraction before significantly dropping off around 72 hours.",
+        "false_answer": "Troponin levels remain steady within the first few hours post-infraction before significantly dropping off around 72 hours.",
+        "incorrect_explanation": "According to the given information, cardiac troponins actually start rising between 2 to 4 hours after an acute infarct and then reach their peak levels between 24 to 48 hours afterward. There's no mention of them remaining steady initially nor significantly dropping off specifically around 72 hours.",
+        "question": "What is typically observed regarding the timing and behavior of cardiac troponin levels after an acute myocardial infarct?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 555,
+            "paragraph_id": "978-0721631585-p555-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Diastolic pressures above 85 mm Hg.",
+        "false_answer": "Diastolic pressures above 85 mm Hg.",
+        "incorrect_explanation": "According to the paragraph, the newest guidelines state that diastolic pressures above 80 mm Hg, or systolic pressures above 120 mm Hg, constitute clinically significant elevations in blood pressure. Thus, stating 85 mm Hg as the threshold introduces an error regarding what is considered a clinically significant elevation in blood pressure.",
+        "question": "What constitutes clinically significant elevation in blood pressure according to the newest guidelines?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 560,
+            "paragraph_id": "978-0721631585-p560-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They inhibit lipid production, reducing sebum output.",
+        "false_answer": "Propionibacterium acnes inhibits lipid production, reducing sebum output.",
+        "incorrect_explanation": "According to the paragraph, Propionibacterium acnes actually converts lipids within sebum to pro-inflammatory fatty acids, contributing to the development of acne, rather than inhibiting lipid production.",
+        "question": "What role do Propionibacterium acnes play in the development of acne?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1166,
+            "paragraph_id": "978-0721631585-p1166-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Osteoporosis",
+        "false_answer": "Osteoporosis",
+        "incorrect_explanation": "According to the paragraph, osteoporosis is actually defined radiographically as having a bone mass at least 2.5 standard deviations below the mean peak bone mass in young adults, not two. Therefore, the definition provided corresponds more closely to osteopenia, which ranges between 1 to 2.5 standard deviations below the mean.",
+        "question": "What is defined radiographically as having a bone mass at least two standard deviations below the mean peak bone mass in young adults?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1180,
+            "paragraph_id": "978-0721631585-p1180-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Coenraads PJ",
+        "false_answer": "Coenraads PJ",
+        "incorrect_explanation": "According to the given sources, Nestle FO, Kaplan DH, and Barker J discussed the pathogenesis, clinical features, and targeted treatment options for psoriasis.",
+        "question": "Who wrote the article discussing the pathogenesis, clinical features, and targeted treatment options for psoriasis?",
+        "source": {
+            "isbn": "978-0721631585",
+            "page": 1171,
+            "paragraph_id": "978-0721631585-p1171-para1"
+        },
+        "type": "short_inverse"
+    }
+]

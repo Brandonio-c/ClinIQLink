@@ -1,0 +1,546 @@
+[
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Supine and prone positions",
+            "B": "Standing and lying down",
+            "C": "Sitting and supine positions",
+            "D": "Only when the patient is standing"
+        },
+        "question": "What positions should the patient assume for examining varicose veins?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 21,
+            "paragraph_id": "978-1469893419-p21-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Musculoskeletal history",
+            "B": "Neurological assessment",
+            "C": "Gynecological or reproductive health discussion",
+            "D": "Hematologic evaluation"
+        },
+        "question": "What aspects of a patient's health history might involve discussing vaginal discharge, itching, sores, lumps, STIs, and treatments?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 15,
+            "paragraph_id": "978-1469893419-p15-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Prioritization based on potential diagnosis urgency",
+            "B": "Maximizing billing opportunities through extensive testing",
+            "C": "Enhancing patient comfort and minimizing unnecessary positional changes",
+            "D": "Following a strictly chronological order of symptoms reported"
+        },
+        "question": "What primary objective guides the selection of sequences and scopes of physical examinations?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 17,
+            "paragraph_id": "978-1469893419-p17-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only inspecting the body parts affected by illness",
+            "B": "Asking questions regarding symptoms experienced by patients and creating effective patient-doctor communication strategies",
+            "C": "Performing physical examinations involving palpation and percussion",
+            "D": "Reviewing previous diagnoses made"
+        },
+        "question": "What activities are included in the history-taking component of a clinical encounter?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 3,
+            "paragraph_id": "978-1469893419-p3-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Increase calorie intake to boost metabolism.",
+            "B": "Explore diet history, ask the patient to keep a food diary.",
+            "C": "Recommend a very low-calorie diet immediately.",
+            "D": "Ignore dietary changes and focus solely on exercise."
+        },
+        "question": "What action regarding dietary habits was recommended for Mrs. N as part of managing her overweight condition?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 32,
+            "paragraph_id": "978-1469893419-p32-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "80%",
+            "B": "89%",
+            "C": "8.3%",
+            "D": "91%"
+        },
+        "question": "What percentage represents the Positive Predictive Value when the prevalence rate is 1%?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 39,
+            "paragraph_id": "978-1469893419-p39-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "152 mmHg",
+            "B": "158 mmHg",
+            "C": "164 mmHg",
+            "D": "168 mmHg"
+        },
+        "question": "What was Mrs. N.'s highest recorded systolic blood pressure reading?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 29,
+            "paragraph_id": "978-1469893419-p29-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Focusing exclusively on the gastrointestinal system",
+            "B": "Recognizing multisystem conditions and their typical presentations",
+            "C": "Ignoring symptoms outside of the immediate area of complaint",
+            "D": "Relying solely on laboratory test results"
+        },
+        "question": "What approach allows healthcare professionals to recognize patterns across different bodily systems and build plausible explanations linking seemingly unrelated manifestations?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 24,
+            "paragraph_id": "978-1469893419-p24-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Aspirin",
+            "B": "Penicillin",
+            "C": "Ibuprofen",
+            "D": "Acetaminophen"
+        },
+        "question": "What medication causes an allergic reaction in Mrs. N?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 27,
+            "paragraph_id": "978-1469893419-p27-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Conduct physical examination procedures immediately upon greeting the patient.",
+            "B": "Share personal experiences related to healthcare with the patient.",
+            "C": "onduct physical examination procedures immediately upon greeting the patient.\nB: Share personal experiences related to healthcare with the patient.\nC: Discuss treatment plans over phone prior to the visit.",
+            "D": "iscuss treatment plans over phone prior to the visit.\nD: Review the clinical record"
+        },
+        "question": "What action before meeting a patient can provide valuable insights into their medical history?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 53,
+            "paragraph_id": "978-1469893419-p53-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Building collaborative partnerships",
+            "B": "uilding collaborative partnerships\nB: Practicing respectful communication",
+            "C": "Demonstrating clinical expertise",
+            "D": "emonstrating clinical expertise\nD: Conducting a physical examination"
+        },
+        "question": "What aspect of a patient's interaction involves understanding and respecting differences in communication patterns?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 59,
+            "paragraph_id": "978-1469893419-p59-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Attrition bias",
+            "B": "Detection bias",
+            "C": "Selection bias",
+            "D": "etection bias\nC: Selection bias\nD: Performance bias"
+        },
+        "question": "What occurs due to systematic differences in baseline characteristics that could affect the outcome of the study?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 44,
+            "paragraph_id": "978-1469893419-p44-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 36.2 \u00b0C (97.2 \u00b0F)",
+            "B": "Usually around 38.8 \u00b0C (101.84 \u00b0F)",
+            "C": "(97.2 \u00b0F)  \nB: Usually around 38.8 \u00b0C (101.84 \u00b0F)  \nC: Normally around 37 \u00b0C (98.6 \u00b0F)",
+            "D": "Roughly estimated as 40.2 \u00b0C (104.36 \u00b0F)"
+        },
+        "question": "What is considered the average normal body temperature measured orally?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 77,
+            "paragraph_id": "978-1469893419-p77-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Having fewer than 8 points",
+            "B": "Scoring between 8 and 11 points",
+            "C": "Achieving a total of 12 points or higher up to 14 points",
+            "D": "Being at risk of malnutrition"
+        },
+        "question": "What indicates normal nutritional status according to the scoring system?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 82,
+            "paragraph_id": "978-1469893419-p82-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Autonomy",
+            "B": "Confidentiality",
+            "C": "onfidentiality  \nC: Beneficence",
+            "D": "Nonmaleficence"
+        },
+        "question": "What principle guides clinicians towards doing good for their patients?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 67,
+            "paragraph_id": "978-1469893419-p67-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Flat affect",
+            "B": "Staring associated with decreased blinking",
+            "C": "Inexpressive face due to depression",
+            "D": "Sadness"
+        },
+        "question": "What facial features might indicate signs of hyperthyroidism?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 71,
+            "paragraph_id": "978-1469893419-p71-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Overeating at least once during their lifetime",
+            "B": "Refusal to maintain minimal body weight due to fear of being overweight",
+            "C": "Regular consumption of balanced meals throughout the day",
+            "D": "Frequent participation in sports activities"
+        },
+        "question": "What is often observed among individuals suffering from Anorexia Nervosa?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 84,
+            "paragraph_id": "978-1469893419-p84-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Texture",
+            "B": "Size",
+            "C": "Color",
+            "D": "Shape"
+        },
+        "question": "What characteristic differentiates a macule from a patch according to the description?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 103,
+            "paragraph_id": "978-1469893419-p103-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only facial expressions",
+            "B": "Pace, range, character, and appropriateness of movements",
+            "C": "Speech patterns and language usage",
+            "D": "Patient's dietary habits"
+        },
+        "question": "What is observed when assessing posture and motor behavior?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 92,
+            "paragraph_id": "978-1469893419-p92-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Over 50%",
+            "B": "Approximately 40%",
+            "C": "Over 70%",
+            "D": "Less than 30%"
+        },
+        "question": "What percentage of skin cancer deaths is attributed to melanoma?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 99,
+            "paragraph_id": "978-1469893419-p99-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only focal scaling",
+            "B": "Arborizing vessels, focal pigment globules, and other specific patterns",
+            "C": "Presence of large ulcers",
+            "D": "Complete absence of telangiectasias"
+        },
+        "question": "What do dermoscopic observations typically show for nodular basal cell carcinoma?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 115,
+            "paragraph_id": "978-1469893419-p115-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "They proceed immediately to examine the exposed area.",
+            "B": "They ask permission and inform the patient which areas they will examine next.",
+            "C": "They request the patient to change into a hospital gown first.",
+            "D": "They instruct the patient to turn over to the prone position initially."
+        },
+        "question": "What action do clinicians take before moving the gown to expose different areas of the patient's body?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 106,
+            "paragraph_id": "978-1469893419-p106-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Number of lesions, age of patient, and medical history",
+            "B": "Size, shape, and treatment plan",
+            "C": "Color, location, and diagnosis outcome",
+            "D": "Number of lesions, size, color, shape, texture, location, configuration"
+        },
+        "question": "What elements should be included when describing skin conditions during examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 108,
+            "paragraph_id": "978-1469893419-p108-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They remove the gown completely.",
+            "B": "They lower or adjust it according to the next area of inspection.",
+            "C": "They leave it open regardless of the stage of examination.",
+            "D": "They cover up the patient when finished."
+        },
+        "question": "What specific action do healthcare professionals take with a patient's gown after they finish examining exposed body areas?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 105,
+            "paragraph_id": "978-1469893419-p105-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Five primary colors of vision",
+            "B": "Seven key positions of eye movement",
+            "C": "Six cardinal directions of gaze",
+            "D": "Four basic types of pupil constriction"
+        },
+        "question": "What is observed during assessment of extraocular muscles by inspecting gaze?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 130,
+            "paragraph_id": "978-1469893419-p130-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Lordosis",
+            "B": "Thoracic Kyphosis",
+            "C": "Kyphoscoliosis",
+            "D": "Pectus Carinatum"
+        },
+        "question": "What condition results from hyperextension of thoracic vertebrae leading to abnormal curvature?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 173,
+            "paragraph_id": "978-1469893419-p173-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "An increase in heart rate of 15 beats per minute along with a decrease in systolic blood pressure of 10 mmHg",
+            "B": "Systolic blood pressure decreasing by more than or equal to 20 mm Hg, accompanied by an increase in heart rate of more than or equal to 20 beats per minute",
+            "C": "Diastolic blood pressure dropping by less than 5 mm Hg with no significant change in heart rate",
+            "D": "iastolic blood pressure dropping by less than 5 mm Hg with no significant change in heart rate\nD: Heart rate increasing by 25 beats per minute regardless of changes in blood pressure"
+        },
+        "question": "What measurement indicates orthostatic postural hypotension after changing positions from supine to standing?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 183,
+            "paragraph_id": "978-1469893419-p183-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Crackles during late inspiration with decreased to absent breath sounds",
+            "B": "Wheezing heard over both lung fields along with normal transmission of voice sounds",
+            "C": "rackles during late inspiration with decreased to absent breath sounds \nB: Wheezing heard over both lung fields along with normal transmission of voice sounds\nC: Midline dullness accompanied by bronchial breath sounds, increased vocal resonance, and late inspiratory crackles",
+            "D": "Shifted midline towards the affected area, absence of breath sounds, and no adventitious sounds"
+        },
+        "question": "What would typically indicate consolidation in terms of lung sound characteristics?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 174,
+            "paragraph_id": "978-1469893419-p174-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Deviated trachea from neck mass or pneumothorax",
+            "B": "Soft palate failing to rise with deviation of the uvula to the opposite side",
+            "C": "Enlarged supralavicular node possibly indicating an abdominal malignancy",
+            "D": "eviated trachea from neck mass or pneumothorax\nB: Soft palate failing to rise with deviation of the uvula to the opposite side\nC: Enlarged supralavicular node possibly indicating an abdominal malignancy\nD: Deviation to one side of the tongue"
+        },
+        "question": "What symptom may indicate CN XII paralysis resulting from a cerebrovascular accident?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 135,
+            "paragraph_id": "978-1469893419-p135-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Distinct with delayed expiratory phase and scattered expiratory wheezes",
+            "B": "Vesicular; no rules, wheezes, or rhonchi",
+            "C": "Hyeresonant with decreased fremitus",
+            "D": "istinct with delayed expiratory phase and scattered expiratory wheezes\nB: Vesicular; no rules, wheezes, or rhonchi\nC: Hyeresonant with decreased fremitus\nD: Whispered pectoriloquy"
+        },
+        "question": "What do normal breath sounds during a physical examination typically sound like?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 163,
+            "paragraph_id": "978-1469893419-p163-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Geographic tongue",
+            "B": "Hairy tongue",
+            "C": "Fissured tongue",
+            "D": "Smooth tongue"
+        },
+        "question": "What condition results from the loss of papillae on the surface of the tongue?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 149,
+            "paragraph_id": "978-1469893419-p149-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Normal respiratory function",
+            "B": "Chronic Obstructive Pulmonary Disease (COPD)",
+            "C": "hronic Obstructive Pulmonary Disease (COPD)  \nC: Asthma",
+            "D": "isease (COPD)  \nC: Asthma   \nD: Kyphoscoliosis"
+        },
+        "question": "What condition might cause inspiratory wheezing along with decreased tactile fremitus?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 157,
+            "paragraph_id": "978-1469893419-p157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "About 10-degree tilt",
+            "B": "About 20-degree tilt",
+            "C": "About 25-degree tilt",
+            "D": "About 2-degree slit"
+        },
+        "question": "What angle is recommended for holding the ophthalmoscope relative to the vertical during examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 131,
+            "paragraph_id": "978-1469893419-p131-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "American Society of Cardiology",
+            "B": "American Heart Association",
+            "C": "ardiology\nB: American Heart Association\nC: American College of Physicians",
+            "D": "American Society of Hypertension"
+        },
+        "question": "What organization classifies systolic blood pressure less than 120 mm Hg as normal?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 179,
+            "paragraph_id": "978-1469893419-p179-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

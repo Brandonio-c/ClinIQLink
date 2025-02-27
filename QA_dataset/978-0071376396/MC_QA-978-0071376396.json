@@ -494,5 +494,261 @@
             "paragraph_id": "978-0071376396-p162-para1"
         },
         "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Cervical",
+            "B": "Ovarian",
+            "C": "ervical\nB: Ovarian\nC: Endometrial",
+            "D": "Vaginal"
+        },
+        "question": "What type of cancer is the most frequent cause of gynecologic cancer deaths?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 166,
+            "paragraph_id": "978-0071376396-p166-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Starting at age 30 for both men and women",
+            "B": "Starting at age 20 for both men and women",
+            "C": "At any age if they show symptoms",
+            "D": "Only after reaching age 40 for everyone"
+        },
+        "question": "What measurement should ideally start being taken for both men and women according to their age?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 170,
+            "paragraph_id": "978-0071376396-p170-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than five percent",
+            "B": "Between ten to fifteen percent",
+            "C": "About thirty-three percent",
+            "D": "Approximately forty-two percent"
+        },
+        "question": "What percentage of deaths attributable to smoking occur among nonsmokers exposed to passive smoke?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 163,
+            "paragraph_id": "978-0071376396-p163-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "100%",
+            "B": "110%",
+            "C": "120%",
+            "D": "125%"
+        },
+        "question": "At what percentage increase over their desired body weight can someone typically be described as obese?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 167,
+            "paragraph_id": "978-0071376396-p167-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "By increasing caffeine intake",
+            "B": "y increasing caffeine intake\nB: Through improved nutrition habits",
+            "C": "Via enhancements in social connections",
+            "D": "By improving sleep quality"
+        },
+        "question": "How do researchers believe regular physical activity helps reduce symptoms of depression?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 180,
+            "paragraph_id": "978-0071376396-p180-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Total and HDL cholesterol decrease",
+            "B": "Only LDL cholesterol decreases",
+            "C": "There's an increase in total and LDL cholesterol",
+            "D": "L cholesterol decrease\nB: Only LDL cholesterol decreases\nC: There's an increase in total and LDL cholesterol\nD: Menopause results in decreased triglycerides"
+        },
+        "question": "What changes occur in lipid levels during menopause?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 174,
+            "paragraph_id": "978-0071376396-p174-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Reduction in vaccine-preventable diseases",
+            "B": "Improvements in medical care",
+            "C": "Decrease in birth rates among high-risk populations",
+            "D": "ecrease in birth rates among high-risk populations\nD: Increase in healthcare spending across different socio-economic groups"
+        },
+        "question": "What main factor contributed significantly to the decline in Infant Mortality Rate (IMR) during the period being discussed?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 165,
+            "paragraph_id": "978-0071376396-p165-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only their potential for abuse",
+            "B": "Their cost and availability on the market",
+            "C": "Several factors including potential for abuse, potential currently accepted medical use, lack of safety even under supervision, public health risks, and potential impact on crime rates",
+            "D": "Solely their chemical composition"
+        },
+        "question": "What factor determines how the Drug Enforcement Administration classifies substances into different schedules?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 211,
+            "paragraph_id": "978-0071376396-p211-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Health Maintenance Organization (HMO)",
+            "B": "Preferred Provider Organization (PPO)",
+            "C": "Independent Practice Association (IPA)",
+            "D": "Professional Review Organization (PRO)"
+        },
+        "question": "What term describes an organization where a group of providers agrees to offer healthcare services at a reduced rate to certain patient groups?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 213,
+            "paragraph_id": "978-0071376396-p213-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Nursing Homes",
+            "B": "Laboratories",
+            "C": "Pharmacies",
+            "D": "Health Maintenance Organizations"
+        },
+        "question": "What organization did the National Committee for Quality Assurance create accreditation standards for?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 209,
+            "paragraph_id": "978-0071376396-p209-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Slightly lower than other advanced industrialized nations",
+            "B": "Comparable to those in other developed countries",
+            "C": "omparable to those in other developed countries  \nC: Much higher than in other advanced industrialized nations",
+            "D": "Marginally comparable but slightly less expensive"
+        },
+        "question": "According to healthcare expenditure data, approximately how high were total health expenditures in the United States compared to other countries?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 210,
+            "paragraph_id": "978-0071376396-p210-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Food and Drug Administration",
+            "B": "Department of Agriculture",
+            "C": "Centers for Disease Control and Prevention",
+            "D": "rug Administration  \nB: Department of Agriculture  \nC: Centers for Disease Control and Prevention  \nD: Health Resources and Services Administration"
+        },
+        "question": "Which government department oversees standards for food production?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 214,
+            "paragraph_id": "978-0071376396-p214-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 1 million individuals",
+            "B": "Around 5 million employees",
+            "C": "About 10 thousand workers",
+            "D": "Approximately 12 million individuals"
+        },
+        "question": "What was the approximate number of people working in the healthcare sector around early 2008?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 212,
+            "paragraph_id": "978-0071376396-p212-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Only physicians and psychologists",
+            "B": "Just social service workers",
+            "C": "Dentists and psychologists",
+            "D": "entists and psychologists\nD: All healthcare providers including physicians, dentists, psychologists, and others specified"
+        },
+        "question": "Who is required to report child sexual abuse?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 230,
+            "paragraph_id": "978-0071376396-p230-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Type of vaccine and date of administration",
+            "B": "Manufacturer's instructions along with dosage",
+            "C": "Type of vaccine, manufacturer, and date of administration",
+            "D": "Type of vaccine, lot number, manufacturer, and date of administration"
+        },
+        "question": "What chart documentations of vaccination are typically considered sufficient by health authorities?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 229,
+            "paragraph_id": "978-0071376396-p229-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Libel",
+            "B": "Breach of Contract",
+            "C": "ontract\nC: Tort",
+            "D": "Antitrust"
+        },
+        "question": "What is the legal term referring to civil wrongs against persons or properties where courts provide actions for damages?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 232,
+            "paragraph_id": "978-0071376396-p232-para1"
+        },
+        "type": "multiple_choice"
     }
 ]

@@ -1,0 +1,12 @@
+[
+    {
+        "answer": "Most negative findings should be omitted unless related to the patient's complaints or differential diagnosis; focus on major ones.",
+        "question": "What should be done regarding negative findings during a medical examination?",
+        "source": {
+            "isbn": "978-9395736435",
+            "page": 45,
+            "paragraph_id": "978-9395736435-p45-para1"
+        },
+        "type": "short_answer"
+    }
+]

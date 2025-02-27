@@ -218,5 +218,215 @@
             "paragraph_id": "978-0198795551-p214-para1"
         },
         "type": "short_answer"
+    },
+    {
+        "answer": "Nomothetic approaches have two subdivisions: type (categorical) and trait (dimensional).",
+        "question": "What are the subdivisions of nomothetic approaches?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 611,
+            "paragraph_id": "978-0198795551-p611-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Individuals behaving in a frenzied and violent manner, indiscriminately attacking people or animals without an apparent cause.",
+        "question": "What did Captain Cook witness when he encountered 'amok' behavior?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1068,
+            "paragraph_id": "978-0198795551-p1068-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Around one-third of patients develop post-stroke depression.",
+        "question": "What percentage of patients experience depressive illness after stroke?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 257,
+            "paragraph_id": "978-0198795551-p257-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Normal QTc is between 380-420 ms.",
+        "question": "What is normal QTc?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1101,
+            "paragraph_id": "978-0198795551-p1101-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Roughly 93% of men and 87% of women in the UK drink alcohol.",
+        "question": "What percentage of men and what percentage of women in the UK consume alcohol?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 662,
+            "paragraph_id": "978-0198795551-p662-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "1-2 mg",
+        "question": "What dose of IM lorazepam can be given?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1121,
+            "paragraph_id": "978-0198795551-p1121-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "One unit of alcohol.",
+        "question": "What contains approximately 8 grams of alcohol?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 674,
+            "paragraph_id": "978-0198795551-p674-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Start with 37.5mg administered every two weeks.",
+        "question": "What starting dosage interval is recommended when administering Risperidone orally over 4 mg per day?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 292,
+            "paragraph_id": "978-0198795551-p292-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "According to ICD-10, schizophrenia requires at least one symptom from category 1 (such as thought echo or delusions of control) OR at least two symptoms from category 2 (like persistent hallucinations or negative symptoms), lasting for at least 1 month.",
+        "question": "What are the requirements for diagnosing schizophrenia according to ICD-10?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 265,
+            "paragraph_id": "978-0198795551-p265-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "A patient who is acutely unwell needing hospital admission, and one who has genuinely run out of their usual medication.",
+        "question": "What are the two main scenarios when there's an urgent need for medication?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1130,
+            "paragraph_id": "978-0198795551-p1130-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately ~30%.",
+        "question": "What percentage of individuals experience constipation unrelated to medication?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 316,
+            "paragraph_id": "978-0198795551-p316-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Swimming and kayaking.",
+        "question": "What outdoor activity allows participants to cool off on hot days and offers a way to appreciate water bodies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 707,
+            "paragraph_id": "978-0198795551-p707-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Curare and succinylcholine.",
+        "question": "What were some initial muscle relaxants introduced around the mid-twentieth century?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 358,
+            "paragraph_id": "978-0198795551-p358-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Manic depression.",
+        "question": "What was bipolar affective disorder previously known as?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 369,
+            "paragraph_id": "978-0198795551-p369-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Most antidepressants, particularly TCAs and SNRIs like venlafaxine, but less often with SSRIs and bupropion.",
+        "question": "What antidepressants can cause drug-induced mania?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 377,
+            "paragraph_id": "978-0198795551-p377-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Level of activity, attention, physical and cognitive development, mood, emotional state, social interaction, and response to boundary setting.",
+        "question": "What factors should be considered when assessing the mental state of children under the age of 12?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 752,
+            "paragraph_id": "978-0198795551-p752-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Full cannabinoid receptor agonists",
+        "question": "What type of receptors do synthetic cannabinoids, such as 'Spice', tend to be agonists of?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 725,
+            "paragraph_id": "978-0198795551-p725-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Forty to fifty percent.",
+        "question": "What percentage of patients experience another manic episode within two years after their first one?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 387,
+            "paragraph_id": "978-0198795551-p387-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "ECT should be strongly considered.",
+        "question": "What option should be strongly considered as first-line treatment for severe or life-threatening depressive episodes?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 399,
+            "paragraph_id": "978-0198795551-p399-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Thirty percent reported harassment.",
+        "question": "What percentage of responding psychiatrists reported experiencing harassment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 824,
+            "paragraph_id": "978-0198795551-p824-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The accused is found guilty of culpable homicide rather than murder.",
+        "question": "What happens when a finding of diminished responsibility results?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 849,
+            "paragraph_id": "978-0198795551-p849-para1"
+        },
+        "type": "short_answer"
     }
 ]

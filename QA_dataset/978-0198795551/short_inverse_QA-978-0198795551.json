@@ -610,5 +610,1049 @@
             "paragraph_id": "978-0198795551-p204-para1"
         },
         "type": "short_inverse"
+    },
+    {
+        "answer": "Psychiatrists adopting anthropologically-derived methods too quickly.",
+        "false_answer": "Psychiatrists adopting anthropologically-derived methods too quickly.",
+        "incorrect_explanation": "According to the paragraph, what anthropologists actually considered 'too hasty' was psychiatry's dismissal of local illness categories in favor of DSM criteria, not the adoption of anthropologically-derived methods.",
+        "question": "What was deemed 'too hasty' according to anthropologists regarding psychiatry?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1059,
+            "paragraph_id": "978-0198795551-p1059-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Severe insomnia or sleep disorders with significant cognitive impairment necessitate cessation of driving among Group 1 drivers.",
+        "false_answer": "Severe insomnia or sleep disorders with significant cognitive impairment necessitate cessation of driving among Group 1 drivers.",
+        "incorrect_explanation": "The paragraph actually specifies severe anxiety or depression with significant memory or concentration problems, agitation, behavioral disturbance, or suicidal thoughts as the conditions under which Group 1 drivers should cease driving, pending the outcome of a medical inquiry. There is no mention of insomnia or sleep disorders affecting driving privileges for Group 1 drivers.",
+        "question": "What condition requires Group 1 drivers to cease driving pending the outcome of a medical inquiry?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1054,
+            "paragraph_id": "978-0198795551-p1054-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In 2010, the WHO launched the Mental Health Gap Action Programme (mhGAP).",
+        "false_answer": "2010",
+        "incorrect_explanation": "The Mental Health Gap Action Programme (mhGAP) was actually launched in 2008 according to the given information, making 2010 an incorrect statement regarding its launch year. The correct answer should reflect this earlier initiation.",
+        "question": "What year did the WHO launch the Mental Health Gap Action Programme?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1062,
+            "paragraph_id": "978-0198795551-p1062-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Supreme Court of California made this finding in 1980.",
+        "false_answer": "The year 1980.",
+        "incorrect_explanation": "The Supreme Court of California actually made the ruling on July 1, 1976, more than six years after the murder occurred in October 1969. Therefore, the correct answer should reflect the actual year of the ruling, which is 1976, according to the provided information.",
+        "question": "What year did the Supreme Court of California find that the defendants had breached their duty to exercise reasonable care regarding the warning of potential danger from a patient's violent intentions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1051,
+            "paragraph_id": "978-0198795551-p1051-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A consultant psychiatrist examines the patient within a week after admission.",
+        "false_answer": "A consultant psychiatrist examines the patient within a week after admission.",
+        "incorrect_explanation": "According to the paragraph, when a person is admitted to an approved center, a consultant psychiatrist must examine them *as soon as is practicable* under Section 14. Specifically, individuals can be held for 24 hours to allow this initial examination, indicating the timeframe for examination is much sooner than a week.",
+        "question": "What time frame does a consultant psychiatrist typically examine a newly admitted patient?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1048,
+            "paragraph_id": "978-0198795551-p1048-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Common side effects of exogenous testosterone include increased risk of osteoporosis.",
+        "false_answer": "Increased risk of osteoporosis",
+        "incorrect_explanation": "There's no mention of osteoporosis being associated with exogenous testosterone administration in the given information; instead, listed side effects include polycythemia, liver dysfunction, male-pattern baldness, and metabolic changes, which can impact cardiovascular and cerebrovascular risks.",
+        "question": "What side effect does exogenous testosterone administration commonly lead to among individuals undergoing masculinization?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 606,
+            "paragraph_id": "978-0198795551-p606-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A score of 28 or more indicates psychopathy in the UK.",
+        "false_answer": "A score of 28 or more indicates psychopathy in the UK.",
+        "incorrect_explanation": "This statement incorrectly identifies the cutoff score for diagnosing psychopathy in the UK. According to the given information, the actual cutoff score used in the UK for diagnosing psychopathy is 25, not 28.",
+        "question": "What score out of 40 is typically considered indicative of psychopathy diagnosis in the UK?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 618,
+            "paragraph_id": "978-0198795551-p618-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A thickness greater than 15 mm signifies this condition.",
+        "false_answer": "A thickness greater than 15 mm signifies significant thinning of the cortex of the medial temporal lobe in Alzheimer's disease.",
+        "incorrect_explanation": "The statement is incorrect because, according to the given information, thinning less than 12 mm, not greater than 15 mm, characterizes significant thinning of the cortex of the medial temporal lobe in Alzheimer's disease.",
+        "question": "What thickness indicates significant thinning of the cortex of the medial temporal lobe according to findings associated with Alzheimer's disease?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 230,
+            "paragraph_id": "978-0198795551-p230-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately half of these patients show signs of depression.",
+        "false_answer": "Approximately half of these patients show signs of depression.",
+        "incorrect_explanation": "According to the given information, more than 80% of patients with Dementia with Lewy Bodies experience neuropsychiatric symptoms, which include depression among other conditions. Therefore, stating that approximately half of the patients exhibit depressive symptoms significantly underestimates the prevalence indicated in the paragraph.",
+        "question": "What proportion of patients diagnosed with Dementia with Lewy Bodies exhibit depressive symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 240,
+            "paragraph_id": "978-0198795551-p240-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of cases involve bilateral SDH.",
+        "false_answer": "Approximately 40% of cases involve bilateral SDH.",
+        "incorrect_explanation": "The statement is incorrect because the actual percentage given in the paragraph for bilateral SDH occurrence is 30%, not 40%. Thus, the correct answer should reflect the specified rate found within the source material.",
+        "question": "What percentage of patients suffering from Chronic Subdural Haematoma experience bilateral SDH?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 232,
+            "paragraph_id": "978-0198795551-p232-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately one year.",
+        "false_answer": "One year",
+        "incorrect_explanation": "According to the provided information, the mean survival after diagnosis with HAD is actually 6 months, making the statement of approximately one year incorrect. Therefore, the correct answer should reflect this specified timeframe.",
+        "question": "What is the approximate mean survival time following diagnosis with HIV-associated dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 224,
+            "paragraph_id": "978-0198795551-p224-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Patients with schizophrenia who comply with antipsychotic medication have approximately three-quarters less risk of relapse compared to those who do not take their medication.",
+        "false_answer": "Approximately three-quarters reduction in risk of relapse among compliant patients.",
+        "incorrect_explanation": "According to the provided information, complying with antipsychotic medication results in about one-fifth the risk of relapse compared to non-compliance, which equates to an 80% reduction in risk, not three-quarters (which would imply a 75% reduction). Therefore, the statement underestimates the actual benefit of adherence to medication in reducing the risk of relapse.",
+        "question": "What proportion of patients with schizophrenia who comply with sufficient dosages of antipsychotic medication experience the risk of relapse compared to those who do not take their medication?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1075,
+            "paragraph_id": "978-0198795551-p1075-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fasting glucose: \u226499 mg/dL",
+        "false_answer": "Fasting glucose: \u226499 mg/dL",
+        "incorrect_explanation": "According to the given criteria, the threshold for considering elevated fasting glucose as one of the diagnostic criteria for metabolic syndrome is actually \u2265100 mg/dL, indicating this option introduces an error regarding the specified cutoff point.",
+        "question": "What fasting glucose level is considered diagnostic for the presence of one criterion towards diagnosing metabolic syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1082,
+            "paragraph_id": "978-0198795551-p1082-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ninety percent of cases result from spontaneous mutations of PRNP.",
+        "false_answer": "Ninety percent of cases result from spontaneous mutations of PRNP.",
+        "incorrect_explanation": "According to the paragraph, eighty-five percent of Creutzfeldt-Jakob disease cases actually result from spontaneous mutation of PNRP, not ninety percent.",
+        "question": "What percentage of Creutzfeldt-Jakob disease cases results from spontaneous mutations of PRNP?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 247,
+            "paragraph_id": "978-0198795551-p247-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "On 20 September 1947",
+        "false_answer": "20 September 1947",
+        "incorrect_explanation": "The given answer incorrectly provides the year as 1947 instead of the actual year mentioned in the paragraph, which is 1953. According to the text, patient HM underwent surgery on 23 August 1953.",
+        "question": "What year did patient HM undergo a bilateral medial temporal lobeotomy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 251,
+            "paragraph_id": "978-0198795551-p251-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 35% of stroke patients experience depression.",
+        "false_answer": "Approximately 35% of stroke patients experience depression.",
+        "incorrect_explanation": "The false answer incorrectly states 35%, whereas the actual percentage reported by Smith et al. in their 2019 study was approximately 25%. Therefore, the correct answer should reflect the accurate statistic provided by the researchers' findings.",
+        "question": "What percentage of stroke patients experience depression according to Smith et al.'s 2019 study?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 261,
+            "paragraph_id": "978-0198795551-p261-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Neuroleptic malignant syndrome occurs at an estimated incidence rate of around 5%.",
+        "false_answer": "An incidence rate of approximately 5%.",
+        "incorrect_explanation": "According to the epidemiological data presented, the actual incidence rate ranges between 0.07% and 0.2%, making the given estimate significantly higher and thus incorrect.",
+        "question": "What is the approximate incidence rate of neuroleptic malignant syndrome among individuals taking certain medications?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1092,
+            "paragraph_id": "978-0198795551-p1092-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Treatment involves administering pharmacological agents immediately without considering hydration status or severity.",
+        "false_answer": "Treatment involves administering pharmacological agents immediately without considering hydration status or severity.",
+        "incorrect_explanation": "According to the provided information, prevention through careful prescribing and patient education is crucial, and initial steps in managing severe cases involve immediate transfer to the emergency department for supportive care, which includes addressing dehydration and potential complications like rhabdomyolysis. Pharmacotherapy follows these primary interventions, indicating that assessing hydration status and overall condition is critical before moving to more advanced treatments.",
+        "question": "What is typically done first for serotonin toxicity?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1095,
+            "paragraph_id": "978-0198795551-p1095-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75% of patients presenting with priapism have a previous history of painless erections lasting less than one hour.",
+        "false_answer": "Approximately 75% of patients presenting with priapism have a previous history of painless erections lasting less than one hour.",
+        "incorrect_explanation": "The statement incorrectly claims that approximately 75% of patients present with a prior history of brief painless erections when, according to the text, the actual figure is 50%. Therefore, the correct answer should state that 50% of patients presenting with priapism have a previous history of painless erections lasting less than one hour.",
+        "question": "What percentage of patients presenting with priapism typically report having had a previous history of painless erections?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1086,
+            "paragraph_id": "978-0198795551-p1086-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cluster A PDs.",
+        "false_answer": "Cluster A PDs.",
+        "incorrect_explanation": "According to the information given, there's no mention of Cluster A being specifically linked to depression; instead, it mentions that Depression is associated with Cluster B and C PDs. Thus, the correct association regarding depression would involve these clusters rather than Cluster A.",
+        "question": "What type of Personality Disorder (PD) is associated with depression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 624,
+            "paragraph_id": "978-0198795551-p624-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Mental Capacity Act became law in 2000.",
+        "false_answer": "The Mental Capacity Act became law in 2000.",
+        "incorrect_explanation": "According to the paragraph, the Mental Capacity Act 2005 covers England and Wales, indicating it was enacted in 2005, not 2000. Therefore, the correct answer should reflect the actual enactment year of the act.",
+        "question": "What year did the Mental Capacity Act covering England and Wales become law?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 649,
+            "paragraph_id": "978-0198795551-p649-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Authors Smith and Brown.",
+        "false_answer": "Authors Smith and Brown.",
+        "incorrect_explanation": "The actual authors who wrote about the nature of personality disorders were Adshead and Sarkar according to the given citation (Adshead G, Sarkar J).",
+        "question": "What authors wrote about the nature of personality disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 636,
+            "paragraph_id": "978-0198795551-p636-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Individual therapy focuses primarily on increasing interpersonal effectiveness.",
+        "false_answer": "Individual therapy focuses primarily on increasing interpersonal effectiveness.",
+        "incorrect_explanation": "According to the paragraph, the initial focus of individual therapy in dialectical behavioral therapy is actually on reducing behavior and 'therapy-interfering behaviors', not immediately on increasing interpersonal effectiveness, which is one aspect covered under group work aimed at increasing adaptive behavioral skills.",
+        "question": "What primary issue does dialectical behavioral therapy aim to reduce first during individual therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 631,
+            "paragraph_id": "978-0198795551-p631-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Box 14.1 specifies four key criteria for 'Disorders due to substance use'.",
+        "false_answer": "Box 14.1 specifies four key criteria for 'Disorders due to substance use'.",
+        "incorrect_explanation": "According to the paragraph, Box 14.1 actually specifies *six* key criteria for 'Disorders due to substance use', which includes repeated occurrence, preoccupation, compulsion to continue despite adverse outcomes, loss of control, neglect of other activities, and persistence despite efforts to cut down or stop use. Therefore, the statement claiming there are only four criteria is incorrect.",
+        "question": "What does Box 14.1 specify regarding 'Disorders due to substance use'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 656,
+            "paragraph_id": "978-0198795551-p656-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lithium levels between 1.2-1.6 mmol/L are generally considered appropriate.",
+        "false_answer": "Lithium levels between 1.2-1.6 mmol/L",
+        "incorrect_explanation": "According to the paragraph, the recommended level range for lithium is 0.4\u20130.8mmol/L, indicating that the suggested range of 1.2-1.6 mmol/L is significantly higher than what is advised for safe and effective treatment.",
+        "question": "What level range of lithium is typically recommended for treatment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 644,
+            "paragraph_id": "978-0198795551-p644-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Performance IQ increases slightly after peaking at around 30 years of age, whereas Verbal IQ remains constant throughout adulthood before both start declining together at approximately 75 years of age.",
+        "false_answer": "Performance IQ increases slightly after peaking at around 30 years of age, whereas Verbal IQ remains constant throughout adulthood before both start declining together at approximately 75 years of age.",
+        "incorrect_explanation": "According to the given information, Performance IQ actually drops faster than Verbal IQ because it involves novel, 'fluid' information rather than depending on familiar, 'crystallized' information like Verbal IQ does. There is no indication that Performance IQ increases after peaking or that Verbal IQ remains completely constant through most of adulthood. Instead, Performance IQ decreases more rapidly, particularly due to factors like reduced processing speed.",
+        "question": "What happens to Performance IQ compared to Verbal IQ over time?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 639,
+            "paragraph_id": "978-0198795551-p639-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of pregnant individuals may experience these conditions.",
+        "false_answer": "Approximately 10% of pregnant individuals may experience depression and anxiety disorders.",
+        "incorrect_explanation": "This answer underestimates the prevalence rate; according to available data, up to 20% of pregnant individuals might be affected by these conditions, making the statement inaccurate.",
+        "question": "What percentage of pregnant individuals may be affected by depression and anxiety disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1107,
+            "paragraph_id": "978-0198795551-p1107-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Denmark",
+        "false_answer": "Denmark",
+        "incorrect_explanation": "According to the given information, Denmark actually introduced minimum unit pricing (MUP), whereas Sweden did not implement any policy change regarding MUP. Therefore, the correct answer should be Sweden.",
+        "question": "What country did not implement any policy change regarding minimum unit pricing?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 666,
+            "paragraph_id": "978-0198795551-p666-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Inpatient detoxification.",
+        "false_answer": "Inpatient detoxification.",
+        "incorrect_explanation": "According to the provided information, outpatient detoxification is actually considered the treatment of choice for most uncomplicated alcohol-dependent patients, offering comparable completion rates and abstinence percentages at six months compared to inpatient detox. Therefore, the correct answer should reflect this preference for outpatient settings when dealing with uncomplicated cases.",
+        "question": "What method is typically considered the treatment of choice for most uncomplicated alcohol-dependent patients undergoing detox?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 681,
+            "paragraph_id": "978-0198795551-p681-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Inpatient detoxification is specifically utilized for managing severe cases of schizophrenia.",
+        "false_answer": "Inpatient detoxification is specifically utilized for managing severe cases of schizophrenia.",
+        "incorrect_explanation": "According to the paragraph, inpatient detoxication is actually recommended for addressing comorbid conditions, which includes substance abuse issues rather than being specified for managing schizophrenia directly. The correct understanding should be that inpatient detoxification can be considered for needs such as inpatient detoxication, alongside addressing physical problems or serious medication side effects, indicating it's aimed at broader health concerns beyond just schizophrenia management.",
+        "question": "What condition is typically addressed through inpatient detoxification according to the given criteria?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 275,
+            "paragraph_id": "978-0198795551-p275-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Having one parent with schizophrenia poses approximately a 20% risk.",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "According to Table 5.2 regarding schizophrenia liability based on affected relatives, the actual risk posed if one parent has schizophrenia is between 12% and 15%, not 20%.",
+        "question": "What approximate risk does having one parent with schizophrenia pose to their offspring?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 270,
+            "paragraph_id": "978-0198795551-p270-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75% of patients experience complete remission.",
+        "false_answer": "Approximately 75% of patients experience complete remission.",
+        "incorrect_explanation": "The paragraph actually mentions that between 33\u201350% of patients can expect remission following treatment, indicating a significantly lower success rate compared to what was falsely claimed. Therefore, the statement exaggerates the effectiveness of treatments for achieving full recovery among these patients.",
+        "question": "What percentage of patients suffering from delusional disorder are reported to achieve full recovery through treatment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 296,
+            "paragraph_id": "978-0198795551-p296-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of patients respond poorly to antipsychotic medication.",
+        "false_answer": "Approximately 40% of patients respond poorly to antipsychotic medication.",
+        "incorrect_explanation": "The actual prevalence stated in the paragraph indicates that approximately 30% of patients respond poorly to antipsychotic medication, making the false answer an overestimation of the real statistic provided.",
+        "question": "What percentage of patients typically responds poorly to antipsychotic medication according to prevalence data?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 286,
+            "paragraph_id": "978-0198795551-p286-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Levomepromazine can be taken orally within a dose range of 50-150 mg per day.",
+        "false_answer": "Levomepromazine can be taken orally within a dose range of 50-150 mg per day.",
+        "incorrect_explanation": "According to the given information, the oral dosage range for Levomepromazine is actually between 100-200mg daily in divided doses, making the statement both numerically inaccurate regarding the minimum and maximum dosages allowed.",
+        "question": "What dosage range does Levomepromazine fall under when administered orally?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 280,
+            "paragraph_id": "978-0198795551-p280-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 0.38% of patients.",
+        "false_answer": "Approximately 0.38%",
+        "incorrect_explanation": "The actual incidence rate of agranulocytosis reported in the given period is 0.6%, which contrasts with the falsely provided 0.38%. According to the registry's findings within the specified timeframe, 400 out of 67,600 patients developed agranulocytosis, equalling 0.6%.",
+        "question": "What proportion of patients treated between 1990-1995 were reported to develop agranulocytosis according to the Clozaril National Registry?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 302,
+            "paragraph_id": "978-0198795551-p302-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "MIND",
+        "false_answer": "MIND",
+        "incorrect_explanation": "According to the provided information, it was actually The Samaritans that could be contacted via jo@samaritans.org for confidential emotional support. Therefore, the correct answer should reflect this accurate association between the organization and its method of contact.",
+        "question": "What organization provides confidential emotional support specifically through email at jo@samaritans.org?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1143,
+            "paragraph_id": "978-0198795551-p1143-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20-25% of schizophrenia cases classically exhibit symptoms of catatonia.",
+        "false_answer": "Approximately 20-25%",
+        "incorrect_explanation": "The provided text actually mentions that approximately 10\u201315% of schizophrenia cases involve catatonia, specifically mentioning classical symptoms such as catalepsy, mannerisms, posturing, and mutism. Therefore, stating 20-25% is an overestimation according to the given information.",
+        "question": "What percentage of schizophrenia cases involve catatonia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1125,
+            "paragraph_id": "978-0198795551-p1125-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "There are approximately 900,000 groups of Narcotics Anonymous worldwide.",
+        "false_answer": "Approximately 900,000 groups of Narcotics Anonymous worldwide.",
+        "incorrect_explanation": "The actual number of NA groups is not specified in the given text, but rather mentions \"788,000 groups worldwide\" referring specifically to Alcoholics Anonymous. Therefore, stating 900,000 groups for Narcotics Anonymous introduces an unsubstantiated claim contradicting the lack of explicit mention of global numbers for NA within the provided text.",
+        "question": "How many groups of Narcotics Anonymous were reported to exist globally?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 686,
+            "paragraph_id": "978-0198795551-p686-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of patients experience a rapid resolution of symptoms once they stop consuming alcohol.",
+        "false_answer": "Approximately 80% of patients experience a rapid resolution of symptoms once they stop consuming alcohol.",
+        "incorrect_explanation": "The statement incorrectly identifies the percentage of patients who experience rapid resolution of symptoms upon stopping alcohol consumption. According to the information given, approximately 95% of patients experience rapid resolution of these symptoms once they cease alcohol consumption, not 80%.",
+        "question": "What percentage of patients experiencing alcoholic hallucinosis typically show rapid resolution of their symptoms upon cessation of alcohol consumption?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 692,
+            "paragraph_id": "978-0198795551-p692-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of nicotine is converted to cotinine in humans.",
+        "false_answer": "Approximately 50% of nicotine is converted to cotinine in humans.",
+        "incorrect_explanation": "The statement is incorrect because according to the given information, between 70\u201380% of nicotine is actually converted to cotinine in humans, not approximately 50%.",
+        "question": "What percentage of nicotine is converted to cotinine in humans?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 702,
+            "paragraph_id": "978-0198795551-p702-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20%.",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "The given answer incorrectly states the lifetime risk of suicide among dependent drinkers. According to the paragraph, they were \"Classically quoted as a lifetime risk of 10\u201315%\" which contrasts with the current estimate of around \"~4%\". Therefore, both the classical quote and the modern estimation contradict the statement of approximately 20%, making the provided answer inaccurate.",
+        "question": "What percentage of dependent drinkers are classically quoted to have a lifetime risk of committing suicide?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 695,
+            "paragraph_id": "978-0198795551-p695-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The SLC6A4 gene primarily affects the body's ability to metabolize certain types of food, influencing mood indirectly through dietary habits.",
+        "false_answer": "The SLC6A4 gene primarily affects the body's ability to metabolize certain types of food, influencing mood indirectly through dietary habits.",
+        "incorrect_explanation": "This statement is incorrect because, according to the paragraphs, SLC6A4 is actually associated with serotonin neurotransmission, not food metabolism. Its role involves the transportation of serotonin, impacting mood regulation more directly rather than through diet.",
+        "question": "What is the primary role of the SLC6A4 gene in the context of depression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 321,
+            "paragraph_id": "978-0198795551-p321-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Anosmia",
+        "false_answer": "Anosmia",
+        "incorrect_explanation": "Anosmia refers to the loss of smell, whereas the paragraph describes \"anhedonia\" as the core symptom involving markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day. Therefore, the correct term that matches this description is indeed \"anhedonia.\"",
+        "question": "What core symptom involves markedly diminished interest or pleasure in almost all activities?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 310,
+            "paragraph_id": "978-0198795551-p310-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Chronic use requires at least 1 year of daily consumption before Benzodiazepine dependency becomes evident.",
+        "false_answer": "At least 1 year of daily consumption is needed before Benzodiazepine dependency occurs.",
+        "incorrect_explanation": "According to the information given, Benzodiazepine dependency actually develops much sooner, specifically within 3\u20136 weeks of regular use, making the statement significantly inaccurate.",
+        "question": "What length of time does chronic use typically require before Benzodiazepine dependency develops?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 715,
+            "paragraph_id": "978-0198795551-p715-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Effects of LSD typically last around 8 hours.",
+        "false_answer": "Effects of LSD typically last around 8 hours.",
+        "incorrect_explanation": "According to the provided information, the effects of LSD actually last up to 6 hours, not 8 hours. Therefore, the statement given in the answer contains a specific factual error regarding the duration of LSD's effects.",
+        "question": "What is the typical duration of the effects experienced after ingesting LSD?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 720,
+            "paragraph_id": "978-0198795551-p720-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Gender disorder",
+        "false_answer": "Gender disorder",
+        "incorrect_explanation": "The incorrect answer introduces a non-existent category (\"Gender disorder\") which seems close but actually refers neither to 'Gender dysphoria' retained in DSM-5 nor 'Gender incongruence' found in ICD-11; thus, creating confusion between two classifications' terminologies.",
+        "question": "What term does DSM-5 retain regarding gender issues?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1190,
+            "paragraph_id": "978-0198795551-p1190-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mild mental retardation falls under the category of unspecified behavioural syndromes associated with physiological disturbances and physical factors.",
+        "false_answer": "Mild mental retardation falls under the category of unspecified behavioural syndromes associated with physiological disturbances and physical factors.",
+        "incorrect_explanation": "This answer is incorrect because mild mental retardation actually corresponds to code F70, which specifically categorizes it among other classifications of mental retardation severity levels, rather than being categorized under unspecified behavioral syndromes associated with physiological disturbances and physical factors.",
+        "question": "What category does mild mental retardation fall under?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1177,
+            "paragraph_id": "978-0198795551-p1177-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "F97.1 describes Persistent chronic motor or vocal tic disorder.",
+        "false_answer": "F97.1 describes Persistent chronic motor or vocal tic disorder.",
+        "incorrect_explanation": "The code given, F97.1, does not match any category listed under the provided classifications. According to the table, F95.1 corresponds to Chronic motor or vocal tic disorder, making F97.1 an inaccurate representation of the condition described. Therefore, the correct answer should reflect F95.1 as the designation for Persistent (chronic) motor or vocal tic disorder.",
+        "question": "What term refers specifically to persistent chronic motor or vocal tics?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1187,
+            "paragraph_id": "978-0198795551-p1187-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The American Psychological Association maintains the Cochrane Library.",
+        "false_answer": "The American Psychological Association maintains the Cochrane Library.",
+        "incorrect_explanation": "The statement is incorrect because according to the given sources, there's no mention of the American Psychological Association being associated with maintaining the Cochrane Library; instead, the library is described independently without specifying a maintainer within this context, implying a different entity might be responsible which isn't specified here, suggesting confusion with other organizations listed like those involved in psychology or psychiatry.",
+        "question": "What organization maintains the Cochrane Library?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1154,
+            "paragraph_id": "978-0198795551-p1154-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Young Mania Rating Scale (YMRS).",
+        "false_answer": "The Young Mania Rating Scale (YMRS).",
+        "incorrect_explanation": "YMRS actually measures mania severity rather than being designed for assessing symptoms of obsessive-compulsive disorder; Yale-Brown Obsessive Compulsive Scale (Y-BOCS) serves this purpose.",
+        "question": "What scale is specifically designed for assessing symptoms of obsessive-compulsive disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1263,
+            "paragraph_id": "978-0198795551-p1263-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cardiac arrest",
+        "false_answer": "Cardiac arrest",
+        "incorrect_explanation": "According to the given information, there's explicit mention of \"respiratory depression\" as a potential consequence of benzodiazepine treatment, not cardiac arrest.",
+        "question": "What condition can occur when treating patients with Benzodiazepines?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1268,
+            "paragraph_id": "978-0198795551-p1268-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Initial follow-up should occur every 6 weeks to monitor progress and ensure treatment response is maintained.",
+        "false_answer": "Every 6 weeks",
+        "incorrect_explanation": "According to the paragraph, initial follow-up should actually occur every 2-4 weeks, not every 6 weeks, to adequately monitor progress, maintain treatment response, and establish additional support systems.",
+        "question": "How frequently should initial follow-up occur after hospital discharge or for outpatients newly started on antidepressant treatment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 332,
+            "paragraph_id": "978-0198795551-p332-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Treatment resistance is commonly defined after failing to respond to adequate doses for less than 6 weeks.",
+        "false_answer": "Resistance occurs if no improvement within less than 6 weeks.",
+        "incorrect_explanation": "According to the given information, treatment resistance is actually defined as 'failure to respond' after receiving the maximum BNF dose for *at least* 4 weeks, not less than 6 weeks. Thus, the definition hinges on the inability to improve following prolonged exposure to high-dosage medication over a minimum period of four weeks rather than a shorter timeframe.",
+        "question": "What duration of time at maximum BNF dose defines failure to respond adequately when considering resistance?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 338,
+            "paragraph_id": "978-0198795551-p338-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The vmPFC.",
+        "false_answer": "The vmPFC.",
+        "incorrect_explanation": "According to the given information, the dorsolateral prefrontal cortex (dlPFC) is actually associated with cognitive/executive functioning, whereas the ventromedial prefrontal cortex (vmPFC) is linked to negative affect, physiological symptoms, and self-awareness/insight. Therefore, the correct association would be dlPFC with cognitive/executive functions.",
+        "question": "What region of the prefrontal cortex is primarily involved in cognitive/executive functioning?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 325,
+            "paragraph_id": "978-0198795551-p325-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "March.",
+        "false_answer": "March",
+        "incorrect_explanation": "According to the given information, Seasonal Affective Disorder symptoms occur during 'winter depression', which implies they start earlier than March, specifically mentioning being usual around January/February. Thus, the correct time frame when SAD typically begins would align closer to these months rather than March.",
+        "question": "What month does Seasonal Affective Disorder typically begin?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 343,
+            "paragraph_id": "978-0198795551-p343-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For Sertraline, the typical initial dosage is 75 mg.",
+        "false_answer": "The statement claims the usual starting dose for Sertraline is 75 mg.",
+        "incorrect_explanation": "According to Table 6.6, the actual recommended starting dose for Sertraline is 50 mg (with a note that for PTSD, one starts at 25 mg and increases slowly).",
+        "question": "What is the usual starting dose for Sertraline?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 352,
+            "paragraph_id": "978-0198795551-p352-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Recent systemic reviews recommend the use of left unilateral electroconvulsive therapy (UECT) to minimize memory loss.",
+        "false_answer": "Using left unilateral electroconvulsive therapy (UECT) minimizes memory loss.",
+        "incorrect_explanation": "According to the paragraph, research suggests that using **right** UECT, along with brief pulse rather than sine wave ECT, dose titration, and limiting the number and frequency of ECT sessions, helps minimize memory loss. Therefore, the statement recommending the use of **left** UECT is incorrect.",
+        "question": "What method of administering ECT minimizes memory loss according to recent systematic reviews of evidence for loss of past memories?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 364,
+            "paragraph_id": "978-0198795551-p364-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 25% of all depressive conditions were found to involve mixed states according to Jules Angst's later studies.",
+        "false_answer": "Approximately 25% of all depressive conditions were found to involve mixed states.",
+        "incorrect_explanation": "The statement is incorrect because Jules Angst actually found that mixed states occurred in up to 50%, not 25%, of all depressive conditions. Therefore, the correct answer should reflect this higher percentage as indicated in his research findings.",
+        "question": "What percent of all depressive conditions did Jules Angst find involved mixed states?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 382,
+            "paragraph_id": "978-0198795551-p382-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The World Health Organization published their report on the global tobacco epidemic in 2016.",
+        "false_answer": "The World Health Organization published their report on the global tobacco epidemic in 2016.",
+        "incorrect_explanation": "This statement is incorrect because according to the given sources, specifically entry number 9, the World Health Organization actually published their report on the global tobacco epidemic in 2015, not 2016.",
+        "question": "What year did the World Health Organization publish their report on the global tobacco epidemic?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 742,
+            "paragraph_id": "978-0198795551-p742-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of population with ASD are of superior intellectual ability.",
+        "false_answer": "Approximately 80% of population with ASD are of superior intellectual ability.",
+        "incorrect_explanation": "The statement incorrectly identifies both the category (\"superior\") and the implied high prevalence rate (\"approximately 80%\"), when actually the paragraph simply mentions that many individuals with ASD are of normal intellectual ability, without specifying percentages or comparing them to those with \"superior\" intelligence.",
+        "question": "What percentage of individuals with Autism Spectrum Disorder (ASD) possess normal intellectual abilities?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 776,
+            "paragraph_id": "978-0198795551-p776-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 25% of boys experience nocturnal enuresis at the age of 10.",
+        "false_answer": "Approximately 25% of boys experience nocturnal enuresis at the age of 10.",
+        "incorrect_explanation": "The given answer is incorrect because the actual percentages of boys experiencing nocturnal enuresis are reported for the ages of 7 years (between 15% and 22%), with no mention of the prevalence specifically at the age of 10 years. Therefore, stating 25% at the age of 10 introduces new, unsubstantiated data contradicting the explicit information provided for different ages.",
+        "question": "What percent of boys continue to experience nocturnal enuresis at the age of 10 years?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 782,
+            "paragraph_id": "978-0198795551-p782-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to the guidelines, driving can resume immediately after stopping drug misuse.",
+        "false_answer": "Immediate resumption of driving after stopping drug misuse.",
+        "incorrect_explanation": "The actual guideline specifies different time frames depending on the license category and individual circumstances. Specifically, driving is permissible if more than one year has elapsed since last taking drugs, and for those who have been free of problematic substance use for at least two years, driving can commence earlier under certain conditions.",
+        "question": "How long does someone need to be free of problematic substance use before they can recommence driving according to the DVLA guidelines?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 739,
+            "paragraph_id": "978-0198795551-p739-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "One recommended approach involves excluding certain foods completely from the diet due to strong evidence supporting this strategy.",
+        "false_answer": "Excluding certain foods completely from the diet due to strong evidence supporting this strategy.",
+        "incorrect_explanation": "This statement is incorrect because according to the provided information, the evidence base for dietary changes and specifically for making exclusions based on food types is described as \"poor at present.\" Therefore, recommending complete exclusion of certain foods does not align with the current understanding presented.",
+        "question": "What is one method recommended for managing attention deficit hyperactivity disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 770,
+            "paragraph_id": "978-0198795551-p770-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Safe nurturing care should ideally be achieved within the first two years of life to ensure rapid and remarkable recovery from early maltreatment.",
+        "false_answer": "Achieving safe nurturing care within the first two years of life for recovery from early maltreatment.",
+        "incorrect_explanation": "The paragraph specifies that recovery from the effects of early maltreatment can be rapid and remarkable if safe nurturing care is achieved early enough, ideally in the first year of life. Thus, stating \"within the first two years\" extends the recommended timeframe beyond what is suggested, making the provided answer incorrect.",
+        "question": "What is the ideal time frame within which safe nurturing care should be achieved to facilitate rapid and remarkable recovery from the effects of early maltreatment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 762,
+            "paragraph_id": "978-0198795551-p762-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Conversion to substitute drug with the aim of immediate abstinence.",
+        "false_answer": "Conversion to substitute drug with the aim of immediate abstinence.",
+        "incorrect_explanation": "The description given fits more closely with \"conversion to substitute drug with the aim of maintenance,\" where the focus is on stabilizing the individual through prescribed drugs rather than immediately pursuing abstinence. According to the paragraph, conversion to a substitute drug aims at first to stabilize the individual before considering reduction towards abstinence, indicating a misunderstanding in the timing and purpose of this method.",
+        "question": "What kind of detox involves converting an individual's drug use from street-bought to prescribed drugs with stabilization via maintenance prescribing?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 730,
+            "paragraph_id": "978-0198795551-p730-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Children usually acquire theory of the mind skills by the age of 10 through various cognitive developments.",
+        "false_answer": "By the age of 10.",
+        "incorrect_explanation": "According to the given information, the ability referred to here as 'theory of the mind' develops over time but most children achieve this milestone by the age of 4, making the statement in the answer incorrect.",
+        "question": "At what approximate age do children typically develop the ability to understand that other individuals possess separate minds with distinct thoughts and feelings?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 757,
+            "paragraph_id": "978-0198795551-p757-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Individuals can utilize a Sleep Log to monitor changes in their sleeping patterns which might indicate impending mania.",
+        "false_answer": "Utilization of a Sleep Log to monitor changes indicating impending mania.",
+        "incorrect_explanation": "While monitoring sleep patterns is indeed important because irregularities can sometimes signal onset of mania or depression, the paragraph specifically mentions utilizing tools called \"Mood Diaries\" or \"Life Charts,\" accessible via resources like http://bipolarnews.org under 'Mood Charting', rather than a generic term \"Sleep Log\". Correct tracking involves broader mood assessment beyond just sleep.",
+        "question": "What tool can help individuals track their moods to potentially recognize early warning signs of a manic episode?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 392,
+            "paragraph_id": "978-0198795551-p392-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Epilim offers capsules containing 200mg of sodium valproate.",
+        "false_answer": "Epilim offers capsules containing 200mg of sodium valproate.",
+        "incorrect_explanation": "According to Table 7.4, Epilim actually comes in two forms: an intravenous preparation available as 100/200/500mg formulations and also includes a mention of 400mg powder with 4mL water ampoule for IV administration. There's no indication that standard oral Epilim tablets/capsules exist outside these specified preparations. Moreover, the table specifies various other products under different names offering tablets, MR tablets, sachets, etc., indicating diversity beyond just capsules. Thus, stating Epilim specifically provides capsules at those exact dosages introduces inaccuracies regarding both form and active ingredient concentration availability.",
+        "question": "What formulation options does Epilim offer?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 416,
+            "paragraph_id": "978-0198795551-p416-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cyclothymia commonly presents in middle-aged individuals.",
+        "false_answer": "Middle-aged individuals experience the typical onset of Cyclothymia.",
+        "incorrect_explanation": "According to the epidemiological data regarding Cyclothymia, its onset usually occurs in early adulthood, specifically mentioning teenagers or those in their twenties. Therefore, stating that it typically affects middle-aged individuals introduces a factual error contradicting the specified age group provided in the paragraph.",
+        "question": "What age range typically experiences the onset of Cyclothymia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 406,
+            "paragraph_id": "978-0198795551-p406-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Patients typically begin with a high dose of 2000mg/day.",
+        "false_answer": "Starting with 2000mg/day.",
+        "incorrect_explanation": "According to the guidelines, starting doses range between 200\u2013600mg/day in divided doses, incrementally increased over time rather than beginning at the maximum.",
+        "question": "What is the highest daily dose of carbamazepine that patients should start with?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 419,
+            "paragraph_id": "978-0198795551-p419-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Greek word 'forum,' referring to public spaces.",
+        "false_answer": "The term 'forensic' originates from the Greek word 'forum.'",
+        "incorrect_explanation": "According to the paragraph, the word 'forensic' actually derives from the Latin 'forensis', which refers to the forum or court, not from the Greek word 'forum.'",
+        "question": "What does the term 'forensic' derive from?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 811,
+            "paragraph_id": "978-0198795551-p811-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of those diagnosed experience bulimia nervosa.",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "According to the given information, approximately 3%, not 20%, of individuals with bipolar affective disorder experience comorbid bulimia nervosa.",
+        "question": "What percentage of individuals diagnosed with bipolar affective disorder experience comorbid bulimia nervosa?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 798,
+            "paragraph_id": "978-0198795551-p798-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In Scotland, during 2016/17, robberies accounted for approximately 6.2% of all reported crimes.",
+        "false_answer": "Approximately 6.2%",
+        "incorrect_explanation": "According to the table data for Scotland (2016/17), robbery actually accounted for 6.8%, not 6.2%. Thus, the statement underestimates the actual percentage given in the data.",
+        "question": "What was the proportion of robbery offenses out of the total reported crimes in Scotland during the period of 2016/17?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 816,
+            "paragraph_id": "978-0198795551-p816-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5 minutes.",
+        "false_answer": "Approximately 5 minutes.",
+        "incorrect_explanation": "According to the given information, the duration of peak intensity during a panic attack actually peaks around 10 minutes before subsiding over approximately 30 minutes to 1 hour total duration, not just reaching its peak within a few minutes. Therefore, the correct understanding involves recognizing how long these episodes last rather than their immediate onset time.",
+        "question": "What is typically the duration of peak intensity experienced during a panic attack?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 787,
+            "paragraph_id": "978-0198795551-p787-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Onset usually occurs around 9-12 months after birth.",
+        "false_answer": "Onset usually occurs around 9-12 months after birth.",
+        "incorrect_explanation": "According to the information given, Rumination Disorder's typical onset is actually 3\u20136 months of age, making the statement about 9-12 months incorrect.",
+        "question": "What is typically the onset time frame for Rumination Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 794,
+            "paragraph_id": "978-0198795551-p794-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately half of all adults globally report having been physically abused in their childhood.",
+        "false_answer": "Approximately half of all adults globally report having been physically abused in their childhood.",
+        "incorrect_explanation": "According to the World Health Organization's estimate given in the paragraph, approximately a quarter of all adults have been physically abused, not half. Therefore, the statement significantly exaggerates the prevalence of reported childhood physical abuse among global adults.",
+        "question": "What proportion of adults worldwide experience some form of childhood trauma?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 805,
+            "paragraph_id": "978-0198795551-p805-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Therapeutic serum levels are between 15-18 mg/mL.",
+        "false_answer": "Therapeutic serum levels are between 15-18 mg/mL.",
+        "incorrect_explanation": "The given answer incorrectly states the therapeutic level range as being between 15-18 mg/mL, whereas according to the provided source, the actual therapeutic serum levels are noted as being 8\u201310mg/mL.",
+        "question": "What therapeutic level range of Lamotrigine does the source suggest?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 423,
+            "paragraph_id": "978-0198795551-p423-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A panic attack reaches its peak intensity within about 5 minutes and lasts approximately 40-60 minutes.",
+        "false_answer": "A panic attack reaches its peak intensity within about 5 minutes and lasts approximately 40-60 minutes.",
+        "incorrect_explanation": "According to the given information, a panic attack actually develops rapidly, reaches a peak intensity in about 10 minutes, and does not usually last longer than 20-30 minutes, with rare cases extending beyond 1 hour. Therefore, both the time to peak intensity and the typical duration were inaccurately represented in the false answer.",
+        "question": "What duration typically characterizes the peak intensity and overall length of a panic attack?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 435,
+            "paragraph_id": "978-0198795551-p435-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40-60%.",
+        "false_answer": "Approximately 40-60%.",
+        "incorrect_explanation": "The given answer incorrectly suggests the heritability of panic disorder ranges from 40-60%, whereas the paragraph actually mentions this range as being approximately 25\u201350%. Thus, the correct answer should reflect the specified range within the paragraph which emphasizes the importance of understanding genetics' influence correctly.",
+        "question": "What percentage range indicates the moderate heritability of Panic Disorder according to family and twin studies?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 439,
+            "paragraph_id": "978-0198795551-p439-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In 1750.",
+        "false_answer": "In 1750.",
+        "incorrect_explanation": "According to the historical information given in the paragraph, Robert Whytt actually coined the phrase 'illness of the nerves' in 1764, which later got replaced. Thus, stating he did this in 1750 introduces a factual error regarding the timeline of medical terminologies development.",
+        "question": "When did Robert Whytt coin the phrase 'illness of the nerves'?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 429,
+            "paragraph_id": "978-0198795551-p429-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "According to law, sentenced prisoners can be transferred to hospital through Section 48 of the MHA.",
+        "false_answer": "Sentenced prisoners can be transferred to hospital through Section 48 of the MHA.",
+        "incorrect_explanation": "The actual sections allowing the transfer of mentally disordered sentenced prisoners to hospital are Sections 47 and potentially accompanied by Section 49 of the MHA 1983, as these specify the procedures and considerations for such transfers, unlike the non-existent or irrelevant Section 48 mentioned in the answer.",
+        "question": "What legal provision specifically applies to transferring sentenced prisoners to hospital in both England and Wales?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 835,
+            "paragraph_id": "978-0198795551-p835-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of arrested individuals show significant psychiatric symptoms during their arrest.",
+        "false_answer": "Approximately 5%",
+        "incorrect_explanation": "The statement claims around 5%, which contradicts the actual prevalence rate mentioned in the paragraph. According to the paragraph, most studies indicate that roughly 10% of arrestees display significant symptoms at the time of arrest, making the answer of 5% incorrect.",
+        "question": "What percentage of arrested individuals typically exhibit significant psychiatric symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 829,
+            "paragraph_id": "978-0198795551-p829-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30-40% of cases are caused by prenatal factors.",
+        "false_answer": "Approximately 30-40% of cases are caused by prenatal factors.",
+        "incorrect_explanation": "According to the given information, about 50\u201370% of intellectual disability cases are actually attributable to prenatal factors, making the statement incorrect. The correct range should reflect these percentages rather than the lower estimate provided in the false answer.",
+        "question": "What percent of intellectual disabilities' causes can typically be attributed to prenatal factors?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 860,
+            "paragraph_id": "978-0198795551-p860-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Disorder of Intellectual Development",
+        "false_answer": "Disorder of Intellectual Development",
+        "incorrect_explanation": "According to the provided information, Rosa's Law actually replaced'mental retardation' with 'intellectual disability', not 'Disorder of Intellectual Development'. 'Disorder of Intellectual Development' is mentioned separately as the replacement term used by ICD-11, distinct from the change made under Rosa's Law.",
+        "question": "What did Rosa's Law replace'mental retardation' with according to the U.S. federal statute?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 855,
+            "paragraph_id": "978-0198795551-p855-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Braille is commonly suggested for addressing these challenges.",
+        "false_answer": "Braille is commonly suggested for addressing these challenges.",
+        "incorrect_explanation": "While Braille is indeed a valuable aid for those with visual impairments, the paragraph does not mention it specifically in the context of overcoming communication difficulties in relation to intellectual disability or unique communication styles. Instead, it mentions the use of aids like hearing aids and glasses for sensory deficits, along with strategies such as PECS, symbol dictionaries, Makaton, and sign language. Thus, the correct approach involves these specified methods rather than Braille.",
+        "question": "What method besides PECS, symbol dictionaries, and sign language is primarily recommended for overcoming communication difficulties?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 869,
+            "paragraph_id": "978-0198795551-p869-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The incidence rate of Rubinstein-Taybi Syndrome is approximately 1:50,000.",
+        "false_answer": "Approximately 1:50,000.",
+        "incorrect_explanation": "According to the paragraph, the incidence rate of Rubenstein\u2013Taybi Syndrome is actually 1:125,000, making the provided answer incorrect. The correct incidence rate of 1:50,000 applies to Smith-Magenis Syndrome.",
+        "question": "What is the incidence rate of Rubinstein-Taybi Syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 878,
+            "paragraph_id": "978-0198795551-p878-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15% of individuals with Down's syndrome suffer from hypothyroidism.",
+        "false_answer": "Approximately 15% of individuals with Down's syndrome suffer from hypothyroidism.",
+        "incorrect_explanation": "The paragraph actually mentions that approximately 20% of individuals with Down's syndrome experience thyroid dysfunction specifically in the form of hypothyroidism, making the given answer incorrect due to understatement of the prevalence rate.",
+        "question": "What percentage of individuals with Down's syndrome experience thyroid dysfunction?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 875,
+            "paragraph_id": "978-0198795551-p875-para1"
+        },
+        "type": "short_inverse"
     }
 ]

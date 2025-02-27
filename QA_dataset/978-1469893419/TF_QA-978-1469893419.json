@@ -1,0 +1,282 @@
+[
+    {
+        "answer": "False",
+        "question": "Scott A. Vogelgesang, MD holds an affiliation with the University of Rochester.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 7,
+            "paragraph_id": "978-1469893419-p7-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "High specificity in a medical test indicates that most people who do not have the disease being tested for will also receive a correct diagnosis indicating no presence of the disease.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 38,
+            "paragraph_id": "978-1469893419-p38-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Two clinicians examining a patient may always agree upon the presence of a given finding.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 42,
+            "paragraph_id": "978-1469893419-p42-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A physician typically uses technical jargon when communicating with patients during initial consultations.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 57,
+            "paragraph_id": "978-1469893419-p57-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Guided questioning involves adapting your approach according to the patient's verbal and non-verbal responses.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 51,
+            "paragraph_id": "978-1469893419-p51-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Providers should interact primarily with the interpreter rather than the patient during encounters involving limited English proficiency.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 62,
+            "paragraph_id": "978-1469893419-p62-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High level of certainty regarding benefit according to the U.S. Preventive Services Task Force is achieved when there are inconsistent findings across individual studies.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 47,
+            "paragraph_id": "978-1469893419-p47-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Two or more affirmative answers to the CAGE questions indicate addiction.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 65,
+            "paragraph_id": "978-1469893419-p65-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Blood pressure measurements require placing the patient's arm completely straight during measurement.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 75,
+            "paragraph_id": "978-1469893419-p75-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Adults should do less than 150 minutes of moderate-intensity cardiorespiratory activity per week according to health guidelines.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 70,
+            "paragraph_id": "978-1469893419-p70-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Recording physical examination findings includes noting the patient's height, weight, blood pressure, heart rate, respiratory rate, and temperature.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 80,
+            "paragraph_id": "978-1469893419-p80-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For medically unexplained physical symptoms, more than half have depressive or anxiety disorder.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 88,
+            "paragraph_id": "978-1469893419-p88-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients with risk factors for skin cancer and melanoma are recommended to perform regular self-skin examinations because they may exhibit more than five to ten atypical moles or fifty moles.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 101,
+            "paragraph_id": "978-1469893419-p101-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 10% of the U.S. population aged 12 years or older reported heavy drinking.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 91,
+            "paragraph_id": "978-1469893419-p91-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Telogen effluvium results in normal appearance of the scalp and hair distribution but with a majority of hairs having telogen bulbs upon performing a hair pull test.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 120,
+            "paragraph_id": "978-1469893419-p120-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Onychomy cosis is caused by dermatophytes other than Trichophyton rubrum.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 123,
+            "paragraph_id": "978-1469893419-p123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A fluid-filled lesion greater than 1 cm in diameter is classified as a bulla.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 111,
+            "paragraph_id": "978-1469893419-p111-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Headache warning signs include sudden onset like thunderclap or the worst headache of your life and new onset after age 50 years.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 125,
+            "paragraph_id": "978-1469893419-p125-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Facial color, rate, rhythm, depth, and effort of breathing are examined during inspection of the thorax.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 156,
+            "paragraph_id": "978-1469893419-p156-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Inspecting the position and alignment of eyes includes checking the eyebrows, eyelids, and conjunctiva and sclera.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 129,
+            "paragraph_id": "978-1469893419-p129-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Women and African Americans are groups especially high at cardiovascular health risks according to the AHA goals for ideal cardiovascular health.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 178,
+            "paragraph_id": "978-1469893419-p178-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In conductive hearing loss, sound is heard longer through air than through bone conduction.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 134,
+            "paragraph_id": "978-1469893419-p134-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Photophobia is always accompanied by other significant symptoms in patients experiencing tension headaches.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 137,
+            "paragraph_id": "978-1469893419-p137-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vitamin B12 deficiency results in the smooth appearance of the skin due to atrophy of the lingual papillae.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 151,
+            "paragraph_id": "978-1469893419-p151-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A patient presenting with chronic bronchitis typically experiences recurrent superimposed infections along with wheezing and dyspnea.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 169,
+            "paragraph_id": "978-1469893419-p169-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bronchial breath sounds are typically accompanied by increased tactile fremitus when transmitted through air-filled lungs.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 160,
+            "paragraph_id": "978-1469893419-p160-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In cases of advanced proliferative diabetic retinopathy, neovascularization increases over time leading to significant reduction in visual acuity even after initial photocoagulation treatments aimed at reducing this risk.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 145,
+            "paragraph_id": "978-1469893419-p145-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Metabolic syndrome consists of a cluster of five distinct risk factors according to the harmonized diagnostic criteria established in 2009.",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 182,
+            "paragraph_id": "978-1469893419-p182-para1"
+        },
+        "type": "true_false"
+    }
+]

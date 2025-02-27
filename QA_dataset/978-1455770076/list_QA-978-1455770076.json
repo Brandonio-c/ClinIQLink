@@ -26,5 +26,3790 @@
             "paragraph_id": "978-1455770076-p597-para1"
         },
         "type": "list"
+    },
+    {
+        "answer": [
+            "Phospholipids",
+            "Sphingolipids",
+            "Cholesterol",
+            "Proteins"
+        ],
+        "options": [
+            "Phosphorus",
+            "Sphingolipids",
+            "Cholesterol",
+            "Proteins",
+            "Oxygen",
+            "Nerve Cells",
+            "Glucose",
+            "Triglycerides",
+            "Urea",
+            "Alcohol"
+        ],
+        "question": "What are the primary components of the cell membrane?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 36,
+            "paragraph_id": "978-1455770076-p36-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chapter 50",
+            "Chapter 51",
+            "Chapter 52"
+        ],
+        "options": [
+            "Chapter 48",
+            "Chapter 49",
+            "Chapter 50",
+            "Chapter 51",
+            "Chapter 52",
+            "Chapter 60"
+        ],
+        "question": "What chapters within UNIT X cover aspects related to vision?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 17,
+            "paragraph_id": "978-1455770076-p17-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Childbirth",
+            "Generation of nerve signals",
+            "Maintenance of normal blood volume through blood clotting"
+        ],
+        "options": [
+            "Childbirth",
+            "Generation of nerve signals",
+            "Regulation of internal body temperature",
+            "Maintenance of normal blood volume through blood clotting",
+            "Baroreceptor pressure control"
+        ],
+        "question": "What instances where positive feedback is beneficial does the chapter mention?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 33,
+            "paragraph_id": "978-1455770076-p33-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lysosomes",
+            "Peroxisomes"
+        ],
+        "options": [
+            "Mitochondria",
+            "Lysosomes",
+            "Peroxisomes",
+            "Secretory Vesicles",
+            "Endoplasmic Reticulum"
+        ],
+        "question": "What types of organelles play roles in digestion within a cell?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 40,
+            "paragraph_id": "978-1455770076-p40-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Opening of chloride ion channels",
+            "Increase in conductance of potassium ions",
+            "Activation of receptor enzymes that inhibit cellular metabolic functions"
+        ],
+        "options": [
+            "Decrease in conductance of potassium ions",
+            "Opening of chloride ion channels",
+            "Depression of conduction through sodium channels",
+            "Increase in conductance of potassium ions",
+            "Reduction of calcium ion influx"
+        ],
+        "question": "What are the methods by which postsynaptic receptors can cause inhibition?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 608,
+            "paragraph_id": "978-1455770076-p608-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Size of the cell body",
+            "Length, size, and number of dendrites",
+            "Length and size of the axon",
+            "Number of presynaptic terminals"
+        ],
+        "options": [
+            "Size of the cell body",
+            "Length, size, and number of dendrites",
+            "Presence of myelin sheath",
+            "Number of presynaptic terminals",
+            "Type of ion channels present"
+        ],
+        "question": "What are the key characteristics of neurons that allow them to function uniquely?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 605,
+            "paragraph_id": "978-1455770076-p605-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Temporal Summation",
+            "Spatial Summation"
+        ],
+        "options": [
+            "Only Temporal Summation",
+            "Only Spatial Summation",
+            "Both Temporal and Spatial Summation",
+            "No Type of Summation Mentioned",
+            "Other Types Not Specified"
+        ],
+        "question": "What kinds of summations are involved in combining signals in neurons?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 614,
+            "paragraph_id": "978-1455770076-p614-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mechanoreceptors",
+            "Thermoreceptors",
+            "Nociceptors",
+            "Electromagnetic receptors",
+            "Chemoreceptors"
+        ],
+        "options": [
+            "Mechanoreceptors",
+            "Thermoreceptors",
+            "Nociceptors",
+            "Electromagnetic receptors",
+            "Chemoreceptors",
+            "Osmoreceptors",
+            "Pain receptors"
+        ],
+        "question": "What are the main categories of sensory receptors according to the given text?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 619,
+            "paragraph_id": "978-1455770076-p619-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium ions (Na+) moving inward through voltage-gated sodium channels",
+            "Potassium ions leaking out of the neuron and being pumped back in",
+            "Chloride ions diffusing into the neuron"
+        ],
+        "options": [
+            "Sodium ions (Na+) moving inward through voltage-gated sodium channels",
+            "Chloride ions diffusing outward from the neuron",
+            "Potassium ions leaking out of the neuron and being pumped back in",
+            "Calcium ions facilitating neurotransmitter release"
+        ],
+        "question": "What types of ions influence the generation of action potentials in neurons due to their movement across cell membranes?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 612,
+            "paragraph_id": "978-1455770076-p612-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hyaluronic acid",
+            "Chondroitin sulfate"
+        ],
+        "options": [
+            "Hyalurronic acid",
+            "Chondroitan sulphate",
+            "Glycuronic acid"
+        ],
+        "question": "What are the main types of acids associated with carbohydrate synthesis by the Golgi apparatus?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 45,
+            "paragraph_id": "978-1455770076-p45-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Voltage-activated sodium channels",
+            "Voltage-activated calcium-sodium channels (L-type calcium channels)",
+            "Delayed opening of voltage-gated potassium channels"
+        ],
+        "options": [
+            "Voltage-activated sodium channels alone",
+            "Slow closure of voltage-gated potassium channels combined with opening of L-type calcium channels",
+            "Only the presence of fast channels",
+            "Fast and slow channels working together along with delayed opening of potassium channels"
+        ],
+        "question": "What are the factors contributing to the plateau phase in action potentials?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 94,
+            "paragraph_id": "978-1455770076-p94-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Myelinated nerve fibers",
+            "Unmyelinated nerve fibers"
+        ],
+        "options": [
+            "Myelinated nerve fibers alone",
+            "Only unmyelinated nerve fibers",
+            "Both myelinated and unmyelinated nerve fibers",
+            "Neither myelinated nor unmyelinated nerve fibers"
+        ],
+        "question": "What types of nerve fibers exist within a typical nerve trunk?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 95,
+            "paragraph_id": "978-1455770076-p95-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Two extra phosphate radicals"
+        ],
+        "options": [
+            "Hydrogen ions",
+            "Phosphate radicals",
+            "High-energy phosphate bonds",
+            "Extra hydroxyl ions",
+            "Thymine",
+            "Uracil",
+            "Ribose",
+            "Deoxyribose",
+            "Protons",
+            "Neutrons",
+            "Electrons"
+        ],
+        "question": "What elements are specifically added to RNA nucleotides during their activation prior to incorporation into RNA molecules, according to the physiological processes involved in RNA synthesis?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 54,
+            "paragraph_id": "978-1455770076-p54-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gastric glands of the stomach",
+            "Late distal tubules and cortical collecting ducts of the kidneys",
+            "Mitochondria in all cells",
+            "Sarcoplasmic reticulum of muscle cells"
+        ],
+        "options": [
+            "Gastric glands of the stomach",
+            "Late distal tubules and cortical collecting ducts of the kidneys",
+            "Mitochondria in all cells",
+            "Sarcoplasmic reticulum of muscle cells",
+            "Intercellular spaces between epithelial cells"
+        ],
+        "question": "What locations within the body utilize primary active transport mechanisms for transporting substances?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 80,
+            "paragraph_id": "978-1455770076-p80-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Membrane transport",
+            "Protein synthesis",
+            "Muscle contraction"
+        ],
+        "options": [
+            "Protein degradation",
+            "Muscle contraction",
+            "Lipid metabolism",
+            "Carbohydrates synthesis",
+            "Mitochondrial replication",
+            "Phosphorylation",
+            "Ciliary movement",
+            "Ameboid locomotion",
+            "Membrane transport",
+            "DNA transcription"
+        ],
+        "question": "What are the three major cellular functions for which adenosine triphosphate (ATP) supplies energy?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 48,
+            "paragraph_id": "978-1455770076-p48-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inserting viral genetic material directly into host cell chromosomes (in the case of DNA viruses)",
+            "Carrying enzymes that enable transcription of viral RNA into DNA, followed by insertion of this DNA into the host genome (specifically referring to RNA viruses carrying reverse transcriptase)"
+        ],
+        "options": [
+            "Inserting viral genetic material directly into host cell chromosomes",
+            "Carrying enzymes that induce apoptosis in infected cells",
+            "Using telomerase to extend the lifespan of infected cells indefinitely",
+            "Causing chronic inflammation that indirectly promotes tumor formation"
+        ],
+        "question": "What are the methods by which certain types of viruses can cause cancer?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 66,
+            "paragraph_id": "978-1455770076-p66-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium ions",
+            "Potassium ions",
+            "Calcium ions",
+            "Hydrogen ions",
+            "Chloride ions"
+        ],
+        "options": [
+            "Sodium ions",
+            "Potassium ions",
+            "Calcium ions",
+            "Hydrogen ions",
+            "Chloride ions",
+            "Amino acids",
+            "Sugars",
+            "Other ions"
+        ],
+        "question": "What substances does primary active transport involve moving?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 79,
+            "paragraph_id": "978-1455770076-p79-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Continuous intrinsic neuronal discharge due to high excitatory membrane potential levels",
+            "Continuous reverberatory signals"
+        ],
+        "options": [
+            "Continuous intrinsic neuronal discharge due to low excitatory membrane potential levels",
+            "Continuous intrinsic neuronal discharge due to high excitatory membrane potential levels",
+            "Continuous reverberatory signals caused by complete inhibition",
+            "Continuous reverberatory signals caused by incomplete facilitation"
+        ],
+        "question": "What mechanisms can cause some neuronal circuits to emit output signals continuously?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 628,
+            "paragraph_id": "978-1455770076-p628-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type A fibers",
+            "Type C fibers"
+        ],
+        "options": [
+            "Type B fibers",
+            "Type D fibers",
+            "Type A fibers",
+            "Type E fibers",
+            "Type C fibers"
+        ],
+        "question": "What are the classifications of nerve fibers mentioned in terms of their physiological characteristics?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 623,
+            "paragraph_id": "978-1455770076-p623-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fast pain",
+            "Slow pain"
+        ],
+        "options": [
+            "Sharp pain",
+            "Prickling pain",
+            "Burning pain",
+            "Throbbing pain",
+            "Acute pain",
+            "Chronic pain",
+            "Electric pain",
+            "Nauseous pain",
+            "Dull ache",
+            "Soreness",
+            "Unbearable suffering",
+            "Ischemic pain",
+            "Mechanical pain",
+            "Thermal pain",
+            "Chemical pain",
+            "Hyperalgesia"
+        ],
+        "question": "What are the main categories of pain according to their onset times?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 645,
+            "paragraph_id": "978-1455770076-p645-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Skin",
+            "Viscera",
+            "Gut",
+            "Hollow Visus",
+            "Cutaneous Areas"
+        ],
+        "options": [
+            "Skin",
+            "Muscles",
+            "Gut",
+            "Smooth Muscle",
+            "Spinal Cord",
+            "Brain Stem",
+            "Hypothalamus",
+            "Pituitary Gland",
+            "Periaqueductal Gray Area",
+            "Peripheral Nerves",
+            "Dorsal Sensory Columns",
+            "Thalamus",
+            "Diencephalon",
+            "Hollow Visus",
+            "Ischemic Tissue",
+            "Cutaneous Areas",
+            "Intralaminar Nuclei"
+        ],
+        "question": "What parts of the body are described as having distinct characteristics regarding how they experience pain?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 650,
+            "paragraph_id": "978-1455770076-p650-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mechanoreceptive somatic senses",
+            "Thermoreceptive senses",
+            "Pain sense"
+        ],
+        "options": [
+            "Mechanoreceptive somatic senses",
+            "Thermoreceptive senses",
+            "Pain sense",
+            "Special senses"
+        ],
+        "question": "What types of somatic senses can be identified according to physiological classification?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 631,
+            "paragraph_id": "978-1455770076-p631-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increasing calcium ions in the cytosol due to the release of ions from the sarcoplasmic reticulum",
+            "Size principle where smaller motor units are stimulated in preference to larger motor units initially",
+            "Frequency of muscle stimulation reaching critical levels leading to tetanization"
+        ],
+        "options": [
+            "Increasing calcium ions in the cytosol due to the release of ions from the sarcoplasmic reticulum",
+            "Size principle where smaller motor units are stimulated in preference to larger motor units initially",
+            "Frequency of muscle stimulation reaching critical levels leading to tetanization",
+            "Gradual increase in the number of motor neurons involved in contraction",
+            "Release of neurotransmitters across neuromuscular junctions"
+        ],
+        "question": "What factors contribute to changes in muscle strength?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 109,
+            "paragraph_id": "978-1455770076-p109-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Being larger for great strength of contraction",
+            "Having a less extensive blood supply",
+            "Possessing an extensive sarcoplasmic reticulum for rapid release of calcium ions",
+            "Having fewer mitochondria",
+            "Exhibiting faster contraction through higher concentrations of glycolytic enzymes"
+        ],
+        "options": [
+            "Being larger for greater strength of contraction",
+            "Having a less extensive blood supply due to primary reliance on oxidative metabolism",
+            "Containing large amounts of myoglobin for storing oxygen",
+            "Possessing an extensive sarcoplasmic reticulum for rapid release of calcium ions",
+            "Having more mitochondria than slow fibers for enhanced oxidative capacity",
+            "Exhibiting faster contraction through higher concentrations of glycolytic enzymes"
+        ],
+        "question": "What are the main distinguishing characteristics of fast fibers in comparison to slow fibers?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 108,
+            "paragraph_id": "978-1455770076-p108-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Determination of Distance by Sizes of Retinal Images of Known Objects",
+            "Determination of Distance by Moving Parallax",
+            "Determination of Distance by Stereopsis"
+        ],
+        "options": [
+            "Determination of Distance by Size Comparison",
+            "Determination of Distance by Colors Seen",
+            "Determination of Distance by Sizes of Retinal Images of Known Objects",
+            "Determination of Distance by Sound Waves",
+            "Determination of Distance by Moving Parallax",
+            "Determination of Distance by Stereopsis"
+        ],
+        "question": "What are the three main means by which a person normally perceives distance?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 667,
+            "paragraph_id": "978-1455770076-p667-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Brown corresponds to a ratio of 87 : 33 : 0",
+            "Grayish-Brown corresponds to a ratio of 64 : 53 : 25",
+            "White corresponds to a ratio where all values are equal",
+            "Orange corresponds to a ratio of 99 : 42 : 0",
+            "Blue corresponds to a ratio of 0 : 0 : a certain percentage"
+        ],
+        "options": [
+            "Blue",
+            "Yellow",
+            "Grayish-Brown",
+            "Green",
+            "Orange",
+            "Red",
+            "Violet",
+            "Brown",
+            "White",
+            "Black"
+        ],
+        "question": "What colors do the following sets of ratios correspond to according to the given information?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 678,
+            "paragraph_id": "978-1455770076-p678-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Blue-sensitive pigment",
+            "Green-sensitive pigment",
+            "Red-sensitive pigment"
+        ],
+        "options": [
+            "Scotopsin",
+            "Photopsins",
+            "Blue-sensitive pigment",
+            "Green-sensitive pigment",
+            "Red-sensitive pigment",
+            "Retinal"
+        ],
+        "question": "What are the names given to the color-sensitive pigments in the cones?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 676,
+            "paragraph_id": "978-1455770076-p676-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Spherical lenses",
+            "Cylindrical lenses"
+        ],
+        "options": [
+            "Only spherical lenses",
+            "Both spherical and cylindrical lenses",
+            "Only cylindrical lenses",
+            "Artificial plastic lenses"
+        ],
+        "question": "What types of lenses are involved in the process of correcting astigmatism?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 666,
+            "paragraph_id": "978-1455770076-p666-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Latch mechanism",
+            "Slow cycling of the myosin cross-bridges",
+            "Low energy requirement to sustain contraction"
+        ],
+        "options": [
+            "Troponin activation",
+            "Slow cycling of the myosin cross-bridges",
+            "Rapid relaxation",
+            "High energy requirement",
+            "Stress-relaxation"
+        ],
+        "question": "What mechanisms facilitate prolonged holding of contractions in smooth muscle?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 123,
+            "paragraph_id": "978-1455770076-p123-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Preload",
+            "Contractility",
+            "Afterload",
+            "Ventricular compliance"
+        ],
+        "options": [
+            "Oxygen utilization",
+            "Stroke volume",
+            "End-diastolic pressure",
+            "Isovolumetric contraction",
+            "Left intraventricular pressure",
+            "Preload",
+            "Contractility",
+            "Afterload",
+            "Ventricular compliance",
+            "Systolic pressure"
+        ],
+        "question": "What key factors determine how efficiently and effectively the heart functions?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 142,
+            "paragraph_id": "978-1455770076-p142-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Right atrium",
+            "Left atrium",
+            "Right ventricle",
+            "Left ventricle"
+        ],
+        "options": [
+            "Right ventricle",
+            "Left atrium",
+            "Tricuspid valve",
+            "Pulmonary valve",
+            "Mitral valve",
+            "Aortic valve",
+            "Superior vena cava",
+            "Inferior vena cava"
+        ],
+        "question": "What are the names of the different parts of the heart where blood flows?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 133,
+            "paragraph_id": "978-1455770076-p133-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lack of oxygen",
+            "Excess carbon dioxide",
+            "Increased hydrogen ion concentration",
+            "Adenosine",
+            "Lactic acid",
+            "Increased potassium ions",
+            "Diminished calcium ion concentration",
+            "Increased body temperature",
+            "Decreased blood pressure"
+        ],
+        "options": [
+            "Lack of oxygen",
+            "Excess carbon dioxide",
+            "Increased hydrogen ion concentration",
+            "Adenosine",
+            "Lactic acid",
+            "Increased potassium ions",
+            "Diminished calcium ion concentration",
+            "Increased body temperature",
+            "Decreased blood pressure"
+        ],
+        "question": "What are the factors that can cause local vasodilation according to the physiological mechanisms described?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 128,
+            "paragraph_id": "978-1455770076-p128-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Phase I: Period of filling",
+            "Phase II: Period of isovolumic contraction",
+            "Phase III: Period of ejection"
+        ],
+        "options": [
+            "Phase of relaxation",
+            "Phase I: Period of filling",
+            "Phase II: Period of isovolumic contraction",
+            "Phase III: Period of ejection",
+            "Phase IV: End-diastolic volume"
+        ],
+        "question": "What are the distinct phases identified in the volume-pressure diagram of the cardiac cycle?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 141,
+            "paragraph_id": "978-1455770076-p141-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chromatic aberration detection",
+            "Convergence of the eyes",
+            "Difference in clarity of focus between the fovea and retinal edges",
+            "Degree of accommodation of the lens oscillating"
+        ],
+        "options": [
+            "Chromatic aberration detection",
+            "Convergence of the eyes",
+            "Difference in clarity of focus between the fovea and retinal edges",
+            "Degree of accommodation of the lens oscillating",
+            "Stimulation of parasympathetic nerves"
+        ],
+        "question": "What distinct factors contribute to adapting the focal length of the lens in human vision?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 694,
+            "paragraph_id": "978-1455770076-p694-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Nasal field of vision",
+            "Temporal field of vision"
+        ],
+        "options": [
+            "Nasal field of vision",
+            "Temporal field of vision",
+            "Central field of vision",
+            "Peripheral field of vision"
+        ],
+        "question": "What categories does the field of vision encompass according to the description?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 689,
+            "paragraph_id": "978-1455770076-p689-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inner hair cells",
+            "Outer hair cells",
+            "Cochlear nerve",
+            "Scala vestibuli",
+            "Reissner's membrane",
+            "Middle ear bones",
+            "Organ of Corti",
+            "Spiral ganglion"
+        ],
+        "options": [
+            "Inner hair cells",
+            "Outer hair cells",
+            "Cochlear nerve",
+            "Scala vestibuli",
+            "Tectorial membrane",
+            "Middle ear bones",
+            "Central nervous system",
+            "Organ of Corti",
+            "Spiral ganglion",
+            "Basilar fibers",
+            "Basilar membrane",
+            "Stapes",
+            "Reissner's membrane"
+        ],
+        "question": "What are the key structures involved in generating nerve impulses due to vibrations and potentially contributing to hearing impairment?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 700,
+            "paragraph_id": "978-1455770076-p700-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Streptomycin",
+            "Gentamicin",
+            "Kanamycin",
+            "Chloramphenicol"
+        ],
+        "options": [
+            "Penicillin",
+            "Streptomycin",
+            "Gentamicin",
+            "Kanamycin",
+            "Chloramphenicol",
+            "Erythromycin",
+            "Ciprofloxacin"
+        ],
+        "question": "What types of antibiotics may cause deafness due to their effect on the organ of Corti?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 706,
+            "paragraph_id": "978-1455770076-p706-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Camphoraceous",
+            "Musky",
+            "Floral",
+            "Pepperminty",
+            "Ethereal",
+            "Pungent",
+            "Putrid"
+        ],
+        "options": [
+            "Vision",
+            "Taste",
+            "Color detection",
+            "Hearing",
+            "Camphoraceous",
+            "Musky",
+            "Floral",
+            "Pepperminty",
+            "Ethereal",
+            "Pungent",
+            "Putrid"
+        ],
+        "question": "What classifications of primary sensations of smell have historically been proposed?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 714,
+            "paragraph_id": "978-1455770076-p714-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alpha motor neurons",
+            "Gamma motor neurons",
+            "Type Ia sensorimotor neurons",
+            "Renshaw cells",
+            "Golgi tendon organs",
+            "Inhibitory interneuron",
+            "Excitatory interneuron",
+            "Skeletal motor units"
+        ],
+        "options": [
+            "Alpha motor neurons",
+            "Beta motor neurons",
+            "Delta motor neurons",
+            "Type Ib sensorimotor neurons",
+            "Renshaw cells",
+            "Golgi tendon organs",
+            "Excitatory interneuron",
+            "Skeletal motor units",
+            "Gamma motor neurons",
+            "Type Ia sensorimotor neurons",
+            "Inhibitory interneuron"
+        ],
+        "question": "What types of neurons are specifically involved in controlling muscular activity?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 722,
+            "paragraph_id": "978-1455770076-p722-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mechanical trauma",
+            "Infectious processes",
+            "Ischemia of local areas of heart muscle"
+        ],
+        "options": [
+            "Mechanical trauma",
+            "Infectious processes",
+            "Ischemia of local areas of heart muscle",
+            "Cardiac hypertrophy",
+            "Pulmonary emphysema"
+        ],
+        "question": "What types of cardiac abnormalities can cause a current of injury?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 172,
+            "paragraph_id": "978-1455770076-p172-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Distal Part of the AV Node Beyond the Blocked Point",
+            "Distal Part of the AV Bundle",
+            "Some Part of the Purkinje System Beyond the Block"
+        ],
+        "options": [
+            "SA Node",
+            "Distal Part of the AV Bundle",
+            "Proximal Part of the AV Bundle",
+            "Ventricles Themselves Directly Without Pacemaker Activity",
+            "Distal Part of the AV Node Beyond the Blocked Point",
+            "Bundle of His"
+        ],
+        "question": "What parts of the heart's electrical pathway can serve as origins for spontaneous ventricular signals during complete AV block?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 181,
+            "paragraph_id": "978-1455770076-p181-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased muscle mass of the heart leading to high-voltage ECGs",
+            "Decreased muscle mass resulting from cardiac myopathies or previous myocardial infarctions, leading to low-voltage ECGs",
+            "Fluid surrounding the heart",
+            "Right axis deviation occurring due to conditions such as right bundle branch block",
+            "Left axis deviation typically associated with left bundle branch block"
+        ],
+        "options": [
+            "High blood sugar levels",
+            "Increased muscle mass of the heart leading to high-voltage ECGs",
+            "Low oxygen levels in the body",
+            "Decreased muscle mass resulting from cardiac myopathies or previous myocardial infarctions, leading to low-voltage ECGs",
+            "Fluid surrounding the heart",
+            "Obesity",
+            "Right axis deviation occurring due to conditions such as right bundle branch block",
+            "Chronic cough"
+        ],
+        "question": "What are examples of conditions that can cause abnormal electrocardiogram (ECG) readings?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 171,
+            "paragraph_id": "978-1455770076-p171-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "aVR lead",
+            "aVL lead",
+            "aVF lead"
+        ],
+        "options": [
+            "Lead I",
+            "Lead II",
+            "Lead III",
+            "aVR lead",
+            "aVL lead",
+            "aVF lead"
+        ],
+        "question": "What are the names of the different augmented unipolar limb leads used in electrocardiography?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 160,
+            "paragraph_id": "978-1455770076-p160-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Changes in vascular tone due to local skin temperature changes",
+            "Sweating from localized heat on the body's surface",
+            "Intestino-intestinal reflexes controlling gut motor functions",
+            "Peritoneo-intestinal reflexes inhibiting gastrointestinal motility upon peritoneal irritation",
+            "Evacuation reflexes for emptying the bladder or colon"
+        ],
+        "options": [
+            "Changes in vascular tone due to local skin temperature changes",
+            "Sweating from localized heat on the body's surface",
+            "Intestino-intestinal reflexes controlling gut motor functions",
+            "Peritoneo-intestinal reflexes inhibiting gastrointestinal motility upon peritoneal irritation",
+            "Evacuation reflexes for emptying the bladder or colon"
+        ],
+        "question": "Examples of segmental autonomic reflexes integrated in the spinal cord include what types?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 729,
+            "paragraph_id": "978-1455770076-p729-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Axonal branches to adjacent regions within the cortex",
+            "Fibers passing into the caudate nucleus and putamen",
+            "Large myelinated fibers originating from Betz cells",
+            "Moderate-sized fibers going to the red nuclei of the midbrain",
+            "Small fibers conducting background tonic signals to the motor areas of the cord",
+            "Tremendous number of motor fibers synapsing in the pontine nuclei"
+        ],
+        "options": [
+            "Axonal branches to adjacent regions within the cortex",
+            "Fibers passing into the caudate nucleus and putamen",
+            "Large myelinated fibers originating from Betz cells",
+            "Moderate-sized fibers going to the red nuclei of the midbrain",
+            "Small fibers conducting background tonic signals to the motor areas of the cord",
+            "Tremendous number of motor fibers synapsing in the pontine nuclei"
+        ],
+        "question": "What are the main types of fiber pathways from the motor cortex?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 735,
+            "paragraph_id": "978-1455770076-p735-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Vestibulocerebellum",
+            "Spinocerebellum"
+        ],
+        "options": [
+            "Vestibulocerebellum",
+            "Spinocerebellum",
+            "Pontocerebellum",
+            "Vermis",
+            "Flocculonodular lobe",
+            "Dentate nucleus"
+        ],
+        "question": "What parts of the cerebellum are involved in coordinating motor control functions according to their specified levels?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 750,
+            "paragraph_id": "978-1455770076-p750-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Climbing fibers",
+            "Mossy fibers"
+        ],
+        "options": [
+            "Climbing fibers",
+            "Mossy fibers",
+            "Basket cells",
+            "Stellate cells",
+            "Parallel fibers",
+            "Granule cells",
+            "Purkinje cells",
+            "Deep nuclear cells"
+        ],
+        "question": "What types of fibers transmit signals within the cerebellum according to their origin and function?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 749,
+            "paragraph_id": "978-1455770076-p749-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Granular",
+            "Fusiform",
+            "Pyramidal"
+        ],
+        "options": [
+            "Granular",
+            "Fusiform",
+            "Pyramidal",
+            "Bipolar",
+            "Multipolar",
+            "Unipolar"
+        ],
+        "question": "What are the names of the neuron types commonly found in the cerebral cortex?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 761,
+            "paragraph_id": "978-1455770076-p761-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cutting paper with scissors",
+            "Hammering nails",
+            "Shooting a basketball through a hoop",
+            "Passing a football",
+            "Throwing a baseball",
+            "Shoveling dirt",
+            "Most aspects of vocalization",
+            "Controlled movements of the eyes"
+        ],
+        "options": [
+            "Cutting paper with scissors",
+            "Hammering nails",
+            "Shooting a basketball through a hoop",
+            "Passing a football",
+            "Throwing a baseball",
+            "Shoveling dirt",
+            "Vocalization",
+            "Controlled eye movements"
+        ],
+        "question": "What activities require the involvement of the basal ganglia?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 755,
+            "paragraph_id": "978-1455770076-p755-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Muscle, 1.5 g/dl",
+            "Subcutaneous tissue, 2 g/dl",
+            "Intestine, 4 g/dl",
+            "Liver, 6 g/dl"
+        ],
+        "options": [
+            "Albumin concentration in plasma",
+            "Globulin concentration in plasma",
+            "Fibrinogen concentration in plasma",
+            "Muscle protein concentration",
+            "Subcutaneous tissue protein concentration",
+            "Intestine protein concentration",
+            "Liver protein concentration"
+        ],
+        "question": "What are the distinct protein concentrations found in various body tissues?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 221,
+            "paragraph_id": "978-1455770076-p221-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Speed of blood flow",
+            "Diameter of the blood vessel",
+            "Density of the blood",
+            "Viscosity of the blood"
+        ],
+        "options": [
+            "Speed of blood flow",
+            "Diameter of the blood vessel",
+            "Density of the blood",
+            "Viscosity of the blood",
+            "Heart rate"
+        ],
+        "question": "What are the main factors influencing whether blood flow is laminar or turbulent?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 197,
+            "paragraph_id": "978-1455770076-p197-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased blood volume",
+            "Increased large vessel tone throughout the body",
+            "Dilation of the arterioles",
+            "Weakness of the heart"
+        ],
+        "options": [
+            "Increased blood volume",
+            "Decreased peripheral resistance due to dilatation of arterioles",
+            "Compression of veins entering the thorax",
+            "Weakness of the heart",
+            "Dilation of capillaries"
+        ],
+        "question": "What are the factors that contribute to regulating right atrial pressure?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 208,
+            "paragraph_id": "978-1455770076-p208-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Sodium ions",
+            "Glucose",
+            "Chloride ions",
+            "Water molecules",
+            "Urea"
+        ],
+        "question": "What types of substances diffuse through the cell membranes of the capillary endothelium?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 215,
+            "paragraph_id": "978-1455770076-p215-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sudden electrical shock of the heart",
+            "Ischemia of the heart muscle"
+        ],
+        "options": [
+            "Sudden physical trauma",
+            "Ischemia of the heart muscle",
+            "Normal heartbeat regulation",
+            "Sudden electrical shock of the heart"
+        ],
+        "question": "What are the especially likely factors to initiate ventricular fibrillation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 185,
+            "paragraph_id": "978-1455770076-p185-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "A dopamine system",
+            "A serotonin system",
+            "A norepinephrine system",
+            "An acetylcholine system"
+        ],
+        "options": [
+            "A dopamine system",
+            "An epinephrine system",
+            "A serotonin system",
+            "A melatonin system",
+            "A norepinephrine system"
+        ],
+        "question": "What types of neurotransmitter hormonal agent systems are described?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 776,
+            "paragraph_id": "978-1455770076-p776-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Eating",
+            "Drinking",
+            "Activity level",
+            "Rage",
+            "Fear",
+            "Punishment reactions",
+            "Satiety",
+            "Tranquility",
+            "Hyperactivity",
+            "Extreme rage",
+            "Overt fighting",
+            "Thirst",
+            "Increase in the general level of activity",
+            "Decrease in eating",
+            "Sexual drive"
+        ],
+        "options": [
+            "Eating",
+            "Drinking",
+            "Activity level",
+            "Rage",
+            "Fear",
+            "Punishment reactions",
+            "Satiety",
+            "Tranquility",
+            "Hyperactivity",
+            "Extreme rage",
+            "Overt fighting",
+            "Thirst",
+            "General level of activity increase",
+            "Loss of overt drives",
+            "Passivity",
+            "Excessive drinking",
+            "Increased sexual drive",
+            "Decrease in eating"
+        ],
+        "question": "What are the primary behaviors affected by stimulating different parts of the hypothalamus?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 781,
+            "paragraph_id": "978-1455770076-p781-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Corpus callosum",
+            "Anterior commissure"
+        ],
+        "options": [
+            "Corpus callosum",
+            "Anterior commissure",
+            "Posterior commissure"
+        ],
+        "question": "What structures connect the cortical areas of the two cerebral hemispheres?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 769,
+            "paragraph_id": "978-1455770076-p769-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "High altitude at the top of a high mountain",
+            "Pneumonia",
+            "Carbon monoxide poisoning",
+            "Cyanide poisoning"
+        ],
+        "options": [
+            "High altitude at the top of a high mountain",
+            "Pneumonia",
+            "Carbon monoxide poisoning",
+            "Cyanide poisoning",
+            "Low atmospheric pressure"
+        ],
+        "question": "What are the factors or situations listed where reduced oxygen availability leads to an increase in tissue blood flow?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 228,
+            "paragraph_id": "978-1455770076-p228-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inward eutrophic remodeling",
+            "Hypertrophic remodeling",
+            "Outward remodeling",
+            "Outward hypertrophic remodeling"
+        ],
+        "options": [
+            "Inward eutrophic remodeling",
+            "Hypertrophic remodeling",
+            "Outward remodeling",
+            "Outward hypertrophic remodeling"
+        ],
+        "question": "What types of vascular remodeling can occur due to changes in blood pressure or blood flow?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 235,
+            "paragraph_id": "978-1455770076-p235-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hypothalamus",
+            "Cerebral cortex",
+            "Reticular substance",
+            "Medulla",
+            "Pons",
+            "Diencephalon",
+            "Mesencephalon"
+        ],
+        "options": [
+            "Hypothalamus",
+            "Cerebral cortex",
+            "Reticular substance",
+            "Medulla",
+            "Pons",
+            "Diencephalon",
+            "Mesencephalon",
+            "Spinal cord"
+        ],
+        "question": "What areas of the brain play roles in controlling the vasoconstrictor system?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 241,
+            "paragraph_id": "978-1455770076-p241-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tonic-clonic seizures",
+            "Absence seizures",
+            "Myoclonic seizures",
+            "Atypical absence seizures",
+            "Infantile spasms"
+        ],
+        "options": [
+            "Tonic-clonic seizures",
+            "Absence seizures",
+            "Myoclonic seizures",
+            "Atypical absence seizures",
+            "Infantile spasms"
+        ],
+        "question": "What types of generalized seizures are described?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 792,
+            "paragraph_id": "978-1455770076-p792-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Heart",
+            "Esophagus",
+            "Stomach",
+            "Entire small intestine",
+            "Proximal half of the colon",
+            "Liver",
+            "Gallbladder",
+            "Pancreas",
+            "Kidneys",
+            "Upper portions of the ureters"
+        ],
+        "options": [
+            "Heart",
+            "Stomach",
+            "Small intestine",
+            "Entire large intestine",
+            "Liver",
+            "Gallbladder",
+            "Pancreas",
+            "Kidneys",
+            "Upper portions of the ureters"
+        ],
+        "question": "What structures do the parasympathetic fibers from the tenth cranial nerve primarily supply?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 799,
+            "paragraph_id": "978-1455770076-p799-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Raphe nuclei in the lower half of the pons and in the medulla",
+            "Areas within the nucleus of the tractus solitarius"
+        ],
+        "options": [
+            "Raphe nuclei in the cerebral cortex",
+            "Areas within the nucleus of the tractus solitarius",
+            "Basal ganglia in the forebrain",
+            "Thalamus and hypothalamus alone",
+            "Spinal cord posterior horns",
+            "Limbic system",
+            "Reticular formation and neocortex together"
+        ],
+        "question": "What are the brain regions whose stimulation produces almost natural sleep?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 788,
+            "paragraph_id": "978-1455770076-p788-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chemoreceptors",
+            "Baroreceptors",
+            "Low-pressure receptors"
+        ],
+        "options": [
+            "Chemoreceptors",
+            "Baroreceptors",
+            "Low-pressure receptors",
+            "High-pressure receptors"
+        ],
+        "question": "What types of receptors are involved in regulating arterial pressure?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 246,
+            "paragraph_id": "978-1455770076-p246-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Constriction of the renal arterioles",
+            "Stimulation of aldosterone secretion",
+            "Increase in sodium reabsorption by the kidney tubules",
+            "Reduction of renin secretion due to high arterial pressure",
+            "Automatic feedback mechanism involving the renin-angiotensin system"
+        ],
+        "options": [
+            "Constriction of the renal arterioles",
+            "Stimulation of aldosterone secretion",
+            "Increase in sodium reabsorption by the kidney tubules",
+            "Reduction of renin secretion due to high arterial pressure",
+            "Decrease in urine output due to reduced blood flow through the kidneys",
+            "Automatic feedback mechanism involving the renin-angiotensin system"
+        ],
+        "question": "What mechanisms help regulate arterial pressure during fluctuations in salt consumption according to the described physiological processes?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 260,
+            "paragraph_id": "978-1455770076-p260-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "The degree of pressure shift of the renal output curve for water and salt",
+            "The level of the water and salt intake"
+        ],
+        "options": [
+            "Degree of pressure shift of the cardiac output curve",
+            "Level of the water and carbohydrate intake",
+            "The degree of pressure shift of the renal output curve for water and salt",
+            "The level of the water and salt intake"
+        ],
+        "question": "What are the primary determinants of the long-term arterial pressure level?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 253,
+            "paragraph_id": "978-1455770076-p253-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased arterial pressure",
+            "Increased blood flow to active muscles concurrent with decreased blood flow to organs such as the gastrointestinal tract and the kidneys that are not needed for rapid motor activity",
+            "Increased rates of cellular metabolism throughout the body",
+            "Increased blood glucose concentration",
+            "Increased glycolysis in the liver and in muscle",
+            "Increased muscle strength",
+            "Increased mental activity",
+            "Increased rate of blood coagulation"
+        ],
+        "options": [
+            "Decreased arterial pressure",
+            "Increased muscle weakness",
+            "Increased blood glucose concentration",
+            "Decreased glycolysis in the liver and in muscle",
+            "Increased rates of cellular metabolism throughout the body",
+            "Decreased blood coagulation",
+            "Increased blood flow to inactive muscles",
+            "Increased blood flow to active muscles concurrent with decreased blood flow to non-active organs"
+        ],
+        "question": "What changes occur in the body due to the simultaneous discharge of large portions of the sympathetic nervous system?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 807,
+            "paragraph_id": "978-1455770076-p807-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Interstitial cells of Cajal"
+        ],
+        "options": [
+            "Interstitial cells of Cajal",
+            "Smooth muscle cells",
+            "Epithelial lining cells"
+        ],
+        "question": "What types of specialized cells can act as electrical pacemakers for smooth muscle cells?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 822,
+            "paragraph_id": "978-1455770076-p822-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Autonomic nervous system control",
+            "Local release of vasodilating substances by astrocytes",
+            "Oxygen level-dependent regulation"
+        ],
+        "options": [
+            "Autonomic nervous system control",
+            "Local release of vasodilating substances by astrocytes",
+            "Change in carbon dioxide concentration",
+            "Change in pH",
+            "Oxygen level-dependent regulation"
+        ],
+        "question": "What mechanisms help regulate cerebral blood flow?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 813,
+            "paragraph_id": "978-1455770076-p813-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increases the rate and force of heart contractions",
+            "Releases glucose from the liver",
+            "Constricts most systemic blood vessels",
+            "Elevates arterial pressure"
+        ],
+        "options": [
+            "Increases the rate and force of heart contractions",
+            "Causes vasodilation of systemic blood vessels",
+            "Enhances peristalsis and relaxes sphincters in the gastrointestinal tract",
+            "Decreases blood glucose levels",
+            "Releases glucose from the liver",
+            "Constricts most systemic blood vessels",
+            "Elevates arterial pressure"
+        ],
+        "question": "What are the primary ways sympathetic stimulation affects various bodily functions?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 804,
+            "paragraph_id": "978-1455770076-p804-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acids in the chyme",
+            "Breakdown products of proteins",
+            "Fatty substances in the chyme",
+            "Hypertonic fluids"
+        ],
+        "options": [
+            "Acids in the chyme",
+            "Breakdown products of proteins",
+            "Carbohydrates in the chyme",
+            "Excessive amounts of chyme in the small intestine",
+            "Fatty substances in the chyme",
+            "Hypertonic fluids",
+            "Irritants in the duodenal chyme"
+        ],
+        "question": "What are the stimuli for the release of hormones that inhibit stomach emptying?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 836,
+            "paragraph_id": "978-1455770076-p836-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Total spinal anesthesia",
+            "Hexamethonium",
+            "Opening a large arteriovenous fistula",
+            "Increased blood volume",
+            "Maximal sympathetic stimulation",
+            "Moderate sympathetic stimulation"
+        ],
+        "options": [
+            "Total spinal anesthesia",
+            "Hexamethonium",
+            "Opening a large arteriovenous fistula",
+            "Increased blood volume",
+            "Autoregulatory increase in peripheral vascular resistance",
+            "Stress-relaxation mechanism",
+            "Maximal sympathetic stimulation",
+            "Moderate sympathetic stimulation",
+            "Compensatory effects initiated due to increased blood volume",
+            "Contraction of peripheral vessels"
+        ],
+        "question": "What are the distinct methods described for altering cardiac output?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 279,
+            "paragraph_id": "978-1455770076-p279-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Potassium ions",
+            "Adenosine",
+            "Lactic acid",
+            "Carbon dioxide",
+            "Nitric oxide"
+        ],
+        "options": [
+            "Potassium ions",
+            "Adenosine",
+            "Lactic acid",
+            "Carbon dioxide",
+            "Sympathetic vasoconstriction",
+            "Parasympathetic dilatation",
+            "Nitric oxide"
+        ],
+        "question": "What are the main factors contributing to the regulation of blood flow in skeletal muscles?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 283,
+            "paragraph_id": "978-1455770076-p283-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increasing the workload on the damaged heart",
+            "Overstretching of the heart, which further weakens the heart",
+            "Filtration of fluid into the lungs, causing pulmonary edema and consequent deoxygenation of the blood",
+            "Development of extensive edema in most parts of the body"
+        ],
+        "options": [
+            "Increasing the workload on the damaged heart",
+            "Overstretching of the heart, which further weakens the heart",
+            "Filtration of fluid into the lungs, causing pulmonary edema and consequent deoxygenation of the blood",
+            "Development of extensive edema in most parts of the body"
+        ],
+        "question": "What are the physiological consequences of excess fluid retention in severe cardiac failure?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 296,
+            "paragraph_id": "978-1455770076-p296-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hyperthyroidism",
+            "Anemia",
+            "Beriberi",
+            "Atrioventricular shunts",
+            "Anxiety",
+            "Paget's disease",
+            "Pregnancy"
+        ],
+        "options": [
+            "Hypothyroidism",
+            "Myocardial infarction",
+            "Severe coronary blood vessel blockage",
+            "Pulmonary disease",
+            "Anxiety",
+            "Mild shock",
+            "Traumatic shock",
+            "Paget's disease",
+            "Pregnancy",
+            "Hyperthyroidism",
+            "Anemia",
+            "Beriberi",
+            "Atrioventricular shunts",
+            "Mild valve disease",
+            "Control young adults",
+            "Average 45-year-old adult",
+            "Hypertension"
+        ],
+        "question": "What conditions are characterized by high cardiac outputs resulting from chronic reductions in total peripheral resistance?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 273,
+            "paragraph_id": "978-1455770076-p273-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Surgically removing the clot in the coronary artery, often in combination with a coronary bypass graft",
+            "Catheterizing the blocked coronary artery and infusing either streptokinase or tissue-type plasminogen activator enzymes"
+        ],
+        "options": [
+            "Administering Digitalis to strengthen the heart",
+            "Infusion of whole blood, plasma, or a blood pressure-raising drug",
+            "Catheterization followed by administration of Streptokinase",
+            "Surgical removal of the clot combined with a coronary bypass graft",
+            "Heart Transplantation"
+        ],
+        "question": "What methods are utilized to save the lives of patients in cardiogenic shock?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 299,
+            "paragraph_id": "978-1455770076-p299-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Decreased cardiac output",
+            "Damming of blood in the pulmonary blood vessels",
+            "Fibrillation of the heart",
+            "Rupture of the heart"
+        ],
+        "options": [
+            "Decreased cardiac output due to weakened muscles",
+            "Damming of blood in the body's venous system leading to increased capillary pressures",
+            "Fibrillation of the heart caused by irregular heartbeat patterns",
+            "Rupture of the heart due to excessive strain",
+            "Pulmonary embolism",
+            "Low cardiac output failure"
+        ],
+        "question": "What are the primary factors contributing to death after an acute coronary occlusion?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 290,
+            "paragraph_id": "978-1455770076-p290-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Water",
+            "Electrolytes",
+            "Glycoproteins",
+            "Large polysaccharides",
+            "Small quantities of protein"
+        ],
+        "options": [
+            "Water",
+            "Glycoproteins",
+            "Bicarbonate ions",
+            "Polysaccharides",
+            "Protein"
+        ],
+        "question": "What are the main components of mucus?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 843,
+            "paragraph_id": "978-1455770076-p843-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hydrochloric acid",
+            "Proteoses",
+            "Peptones",
+            "Long-chain fatty acids"
+        ],
+        "options": [
+            "Hydrochloric acid",
+            "Proteoses",
+            "Long-chain fatty acids",
+            "Sodium bicarbonate",
+            "Carbon dioxide",
+            "Water",
+            "Pepsin",
+            "Lipase",
+            "Enzymes",
+            "Fat",
+            "Food",
+            "Gastric juice",
+            "Peptoness"
+        ],
+        "question": "What substances stimulate the release of hormones in the alimentary tract?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 851,
+            "paragraph_id": "978-1455770076-p851-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Galactose",
+            "Glucose"
+        ],
+        "options": [
+            "Fructose",
+            "Glucose",
+            "Galactose",
+            "Sucrose",
+            "Maltose",
+            "Other glucose polymers"
+        ],
+        "question": "What sugars does lactose break down into during carbohydrate digestion?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 858,
+            "paragraph_id": "978-1455770076-p858-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cephalic phase",
+            "Gastric phase",
+            "Intestinal phase"
+        ],
+        "options": [
+            "Cephalic phase",
+            "Gastric phase",
+            "Intestinal phase",
+            "Vagovagal reflexes",
+            "Enteric reflexes"
+        ],
+        "question": "What are the phases of gastric secretion?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 847,
+            "paragraph_id": "978-1455770076-p847-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Normal heart sounds",
+            "Murmurs",
+            "Clicks",
+            "Gallops",
+            "Split heart sounds"
+        ],
+        "options": [
+            "Normal heart sounds",
+            "Murmurs",
+            "Clicks",
+            "Gallops",
+            "Split heart sounds"
+        ],
+        "question": "What categories of heart sounds are recognized in relation to their origin and characteristics?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 307,
+            "paragraph_id": "978-1455770076-p307-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased capillary permeability",
+            "Cardiac depression",
+            "Venous pooling of blood",
+            "Tissue ischemia",
+            "Release of toxins",
+            "Intravascular clotting",
+            "Decreased systemic blood flow",
+            "Decreased nutrition of the vascular system",
+            "Decreased cardiac output",
+            "Vascular dilation",
+            "Decreased venous return",
+            "Decreased blood volume",
+            "Decreased vasomotor activity",
+            "Decreased cardiac nutrition",
+            "Decreased nutrition of tissues",
+            "Decreased arterial pressure"
+        ],
+        "options": [
+            "Increased capillary permeability",
+            "Cardiac depression",
+            "Venous pooling of blood",
+            "Tissue ischemia",
+            "Release of toxins",
+            "Intravascular clotting",
+            "Vasodilation",
+            "Decrease in blood pH levels",
+            "Decreased systemic blood flow",
+            "Decreased nutrition of the vascular system",
+            "Decreased cardiac output",
+            "Increased body temperature",
+            "Vascular dilation"
+        ],
+        "question": "What types of factors contribute to the progression of shock through positive feedback mechanisms?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 320,
+            "paragraph_id": "978-1455770076-p320-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Depressed mitochondrial activity",
+            "Decreased cellular metabolism of nutrients",
+            "Release of hydrolases due to breaking open of lysosomes",
+            "Accumulation of sodium and chloride within cells",
+            "Loss of potassium from cells",
+            "Swelling of cells"
+        ],
+        "options": [
+            "Increased mitochondrial activity",
+            "Normalized hormonal function",
+            "Enhanced nutrient metabolism",
+            "Depressed lysosomal integrity",
+            "Improved cardiac contractility",
+            "Reduced cellular swelling"
+        ],
+        "question": "What cellular processes or conditions are affected due to severe shock?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 322,
+            "paragraph_id": "978-1455770076-p322-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Stenosis of the channel of blood flow at some point in the heart or in a closely allied major blood vessel",
+            "An anomaly that allows blood to flow backward from the left side of the heart or aorta to the right side of the heart or pulmonary artery, thus failing to flow through the systemic circulation, which is called a left-to-right shunt",
+            "An anomaly that allows blood to flow directly from the right side of the heart into the left side of the heart, thus failing to flow through the lungs\u2014called a right-to-left shunt"
+        ],
+        "options": [
+            "Stenosis of channels of blood flow outside the heart",
+            "Anomaly causing blood to flow backward between sides of the heart",
+            "Right-to-left shunting due to anomalous connections",
+            "Coarctation of the aorta affecting venous return"
+        ],
+        "question": "What are the main types of congenital anomalies of the heart and its associated vessels?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 312,
+            "paragraph_id": "978-1455770076-p312-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Poliomyelitis",
+            "Myasthenia Gravis",
+            "Muscle Dystrophy",
+            "Botulism",
+            "Encephalitis",
+            "Achalasia"
+        ],
+        "options": [
+            "Poliomyelitis",
+            "Myasthenia Gravis",
+            "Muscle Dystrophy",
+            "Botulism",
+            "Encephalitis",
+            "Achalasia"
+        ],
+        "question": "What conditions related to the gastrointestinal system lead to difficulties in swallowing?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 867,
+            "paragraph_id": "978-1455770076-p867-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Swallowed air",
+            "Gases formed in the gut as a result of bacterial action",
+            "Gases that diffuse from the blood into the gastrointestinal tract"
+        ],
+        "options": [
+            "Swallowed food particles",
+            "Diffusion from the bloodstream",
+            "Bacterial fermentation in the intestines",
+            "Air entering during eating",
+            "Gas produced by digestion in the liver",
+            "Movement of gases across cell membranes",
+            "Atmospheric air diffusing into the digestive system",
+            "Chemical reactions within the gut",
+            "Intestinal absorption mechanisms",
+            "Formation of gas bubbles due to enzyme activity",
+            "Production of carbon dioxide through respiration",
+            "Diffusion of oxygen from the respiratory system",
+            "Release of stored gases from cells lining the GI tract",
+            "Swallowing liquids",
+            "Direct injection of medical gases",
+            "Other unlisted possibilities"
+        ],
+        "question": "What are the distinct ways in which gas enters the gastrointestinal tract according to physiological processes?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 872,
+            "paragraph_id": "978-1455770076-p872-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pyruvic acid",
+            "Oxaloacetic acid",
+            "Citric acid",
+            "Fructose-1,6-diphosphate",
+            "Glyceraldehyde-3-phosphate"
+        ],
+        "options": [
+            "Oxaloacetic acid",
+            "Citric acid",
+            "Fructose-1,6-diphosphate",
+            "Glyceraldehyde-3-phosphate",
+            "Pyruvic acid",
+            "Isocitric acid"
+        ],
+        "question": "What are the key intermediates involved in the metabolic pathway from glucose to acetyl-CoA?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 881,
+            "paragraph_id": "978-1455770076-p881-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Extracellular fluid",
+            "Intracellular fluid",
+            "Transcellular fluid"
+        ],
+        "options": [
+            "Extracellular fluid",
+            "Intracellular fluid",
+            "Transcellular fluid"
+        ],
+        "question": "What are the main types of body fluid compartments?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 330,
+            "paragraph_id": "978-1455770076-p330-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Loss of sodium chloride from the extracellular fluid due to overuse of certain medications",
+            "Addition of excess water to the extracellular fluid",
+            "Primary kidney disease affecting sodium conservation"
+        ],
+        "options": [
+            "Loss of sodium chloride from the extracellular fluid due to overuse of certain medications",
+            "Addition of excess water to the extracellular fluid",
+            "Decrease in insulin levels",
+            "Primary kidney disease affecting sodium conservation"
+        ],
+        "question": "What are the reasons behind a decrease in plasma sodium concentration leading to hyponatremia?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 338,
+            "paragraph_id": "978-1455770076-p338-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glucose availability influencing \u03b1-glycerophosphate levels",
+            "A hormone-sensitive cellular lipase activated by:",
+            "* Epinephrine",
+            "* Norepinephrine",
+            "* Cortisol",
+            "* Growth hormone",
+            "* Glucagon",
+            "* ACTH",
+            "* Thyrotropin-releasing hormone",
+            "* Thyroid-stimulating hormone",
+            "* Insulin-like growth factor-I (IGF-I)"
+        ],
+        "options": [
+            "Glucose",
+            "Glycerol",
+            "Hormones",
+            "Free fatty acids",
+            "Cholesterol",
+            "Insulin",
+            "Thyroxine",
+            "Cortisol",
+            "Growth hormone",
+            "ACTH",
+            "IGF-I",
+            "Thyrotropin-releasing hormone",
+            "Norepinephrine",
+            "Epinephrine",
+            "Adrenaline"
+        ],
+        "question": "What substances are involved in promoting the hydrolysis of triglycerides in the process of transporting stored fat for energy?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 888,
+            "paragraph_id": "978-1455770076-p888-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lecithins",
+            "Cephalins",
+            "Sphingomyelin"
+        ],
+        "options": [
+            "Lecithins",
+            "Sphingosines",
+            "Proteins",
+            "Carbohydrates",
+            "Cephalins",
+            "Sphingomyelin"
+        ],
+        "question": "What are the main types of body phospholipids?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 894,
+            "paragraph_id": "978-1455770076-p894-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chylomicrons",
+            "Very-low-density lipoproteins (VLDL)",
+            "Intermediate-density lipoproteins (IDL)",
+            "Low-density lipoproteins (LDL)",
+            "High-density lipoproteins (HDL)"
+        ],
+        "options": [
+            "Chylomicrons",
+            "Very-low-density lipoproteins (VLDL)",
+            "Intermediate-density lipoproteins (IDL)",
+            "Low-density lipoproteins (LDL)",
+            "High-density lipoproteins (HDL)"
+        ],
+        "question": "What types of plasma lipoproteins are listed as being involved in lipid metabolism according to the description of their roles in health and disease?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 897,
+            "paragraph_id": "978-1455770076-p897-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sam R et al"
+        ],
+        "options": [
+            "Schrier RW et al",
+            "Sterns RH et al",
+            "Sam R et al",
+            "Trayes KP et al"
+        ],
+        "question": "What authors wrote about understanding hypernatremia?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 345,
+            "paragraph_id": "978-1455770076-p345-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Regulation of 1,25-Dihydroxyvitamin D 3 Production",
+            "Gluconeogenesis",
+            "Regulation of Acid-Base Balance",
+            "Regulation of Arterial Pressure",
+            "Regulation of Erythrocyte Production"
+        ],
+        "options": [
+            "Regulation of 1,25-Dihydroxyvitamin D 3 Production",
+            "Gluconeogenesis",
+            "Calcium and Phosphate Regulation",
+            "Regulation of Electrolytes",
+            "Blood Cell Formation",
+            "Regulation of Acid-Base Balance",
+            "Regulation of Arterial Pressure",
+            "Waste Removal",
+            "Regulating Potassium Levels",
+            "Maintenance of Extracellular Fluid Volume",
+            "Regulation of Red Blood Cells"
+        ],
+        "question": "What processes related to maintaining bodily health does the kidney participate in?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 348,
+            "paragraph_id": "978-1455770076-p348-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glomerular filtration",
+            "Reabsorption of substances from the renal tubules into the blood",
+            "Secretion of substances from the blood into the renal tubules"
+        ],
+        "options": [
+            "Glomerular filtration alone determines urine composition",
+            "Tubular reabsorption affects how much of a substance ends up in the urine",
+            "Secretion of substances from the peritubular capillaries contributes to the overall process",
+            "Only the liver influences urine composition"
+        ],
+        "question": "What types of kidney processes contribute to determining the composition of urine?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 355,
+            "paragraph_id": "978-1455770076-p355-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glomerular hydrostatic pressure",
+            "Glomerular capillary colloid osmotic pressure",
+            "Renal blood flow"
+        ],
+        "options": [
+            "Arterial blood pressure",
+            "Renal blood flow",
+            "Glomerular hydrostatic pressure",
+            "Blood viscosity",
+            "Glomerular capillary colloid osmotic pressure",
+            "Heart rate"
+        ],
+        "question": "What are the key factors influencing the regulation of the glomerular filtration rate?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 362,
+            "paragraph_id": "978-1455770076-p362-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium",
+            "Chloride",
+            "Water",
+            "Amino acids",
+            "Glucose",
+            "Hydrogen ions",
+            "Bicarbonate ions"
+        ],
+        "options": [
+            "Sodium",
+            "Chloride",
+            "Water",
+            "Amino acids",
+            "Glucose",
+            "Hydrogen ions",
+            "Bicarbonate ions",
+            "Urea",
+            "Creatinine"
+        ],
+        "question": "What substances are primarily involved in being reabsorbed or secreted during renal tubular reabsorption?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 377,
+            "paragraph_id": "978-1455770076-p377-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium diffuses across the luminal membrane into the cell down an electrochemical gradient",
+            "Sodium is transported across the basolateral membrane against an electrochemical gradient by the sodium-potassium ATPase pump",
+            "Sodium, water, and other substances are reabsorbed from the interstitial fluid into the peritubular capillaries by ultrafiltration"
+        ],
+        "options": [
+            "Diffusion of oxygen into the bloodstream",
+            "Ultrafiltration of sodium, water, and other substances into the peritubular capillaries",
+            "Transport of sodium across the luminal membrane into the cell",
+            "Secondary active transport of glucose and amino acids",
+            "Passive diffusion of carbon dioxide"
+        ],
+        "question": "What are the main steps involved in the net reabsorption of sodium ions from the tubular lumen back into the blood?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 373,
+            "paragraph_id": "978-1455770076-p373-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tubuloglomerular feedback",
+            "Autoregulation of renal blood flow",
+            "Adaptive mechanisms in the renal tubules"
+        ],
+        "options": [
+            "Tubuloglomerular feedback",
+            "Autoregulation of renal blood flow",
+            "Changes in arterial pressure",
+            "Adaptive mechanisms in the renal tubules"
+        ],
+        "question": "What factors contribute to preventing large changes in Glomerular Filtration Rate (GFR)?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 367,
+            "paragraph_id": "978-1455770076-p367-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hormonal regulation",
+            "Nervous system influences",
+            "Local control mechanisms"
+        ],
+        "options": [
+            "Hormonal regulation",
+            "Local control mechanisms",
+            "Nervous system influences",
+            "Physical forces within the renal interstitium",
+            "Changes in glomerular filtration rate"
+        ],
+        "question": "What are the primary regulatory mechanisms that influence tubular reabsorption rates within the renal system?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 383,
+            "paragraph_id": "978-1455770076-p383-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium",
+            "Potassium",
+            "Chloride"
+        ],
+        "options": [
+            "Sodium",
+            "Potassium",
+            "Chloride",
+            "Calcium",
+            "Magnesium"
+        ],
+        "question": "What ions are specifically reabsorbed in significant quantities within the thick segment of the nephron during kidney function?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 396,
+            "paragraph_id": "978-1455770076-p396-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Plasma urea concentration",
+            "Glomerular filtration rate (GFR)",
+            "Renal tubular urea reabsorption"
+        ],
+        "options": [
+            "Concentration of sodium in the blood",
+            "Glomerular filtration rate (GFR)",
+            "Plasma urea concentration",
+            "Amount of potassium ingested daily",
+            "Rate of sweat produced during exercise"
+        ],
+        "question": "What determines the rate at which urea is excreted from the body?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 401,
+            "paragraph_id": "978-1455770076-p401-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aquaporin-2 (AQP-2)",
+            "Aquaporin-3 (AQP-3)",
+            "Aquaporin-4 (AQP-4)"
+        ],
+        "options": [
+            "Aquaporin-0 (AQP-0)",
+            "Aquaporin-2 (AQP-2)",
+            "Aquaporin-3 (AQP-3)",
+            "Aquaporin-4 (AQP-4)"
+        ],
+        "question": "What types of aquaporins facilitate water flow across cellular membranes?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 388,
+            "paragraph_id": "978-1455770076-p388-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Supraoptic nuclei",
+            "Paraventricular nuclei",
+            "Posterior pituitary",
+            "Hypothalamus"
+        ],
+        "options": [
+            "Supraoptic nuclei",
+            "Paraventricular nuclei",
+            "Posterior pituitary",
+            "Hypothalamus",
+            "Renal tubules",
+            "Cortical collecting tubules",
+            "Medullary collecting ducts"
+        ],
+        "question": "What are the locations involved in synthesizing and releasing Antidiuretic Hormone?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 406,
+            "paragraph_id": "978-1455770076-p406-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Insulin deficiency",
+            "Aldosterone deficiency",
+            "\u03b2-adrenergic blockade",
+            "Acidosis",
+            "Cell lysis",
+            "Strenuous exercise",
+            "Increased extracellular fluid osmolarity"
+        ],
+        "options": [
+            "Insulin deficiency",
+            "Aldosterone deficiency",
+            "\u03b2-adrenergic blockade",
+            "Acidosis",
+            "Cell lysis",
+            "Strenuous exercise",
+            "Increased extracellular fluid osmolarity"
+        ],
+        "question": "What factors shift potassium ions out of cells and increase extracellular potassium concentration?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 414,
+            "paragraph_id": "978-1455770076-p414-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hydrogen ion concentration",
+            "Aldosterone secretion",
+            "Tubular flow rate",
+            "Distal volume delivery"
+        ],
+        "options": [
+            "Hydrogen ion concentration",
+            "Aldosterone secretion",
+            "Tubular flow rate",
+            "Distal volume delivery"
+        ],
+        "question": "What factors can affect potassium secretion?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 419,
+            "paragraph_id": "978-1455770076-p419-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Physical properties of the circulation",
+            "Dynamics of fluid exchange through the capillary membranes"
+        ],
+        "options": [
+            "Physical properties of the circulation",
+            "Dynamics of fluid exchange through the capillary membranes",
+            "Pressure natriuresis mechanism",
+            "Sympathetic nervous system control",
+            "Hormonal influences on the kidneys"
+        ],
+        "question": "What are the main factors influencing the quantitative amount of fluid distribution between the interstitium and the blood?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 426,
+            "paragraph_id": "978-1455770076-p426-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Na+-HCO 3\u2212 co-transport",
+            "Cl\u2212-HCO 3\u2212 exchange"
+        ],
+        "options": [
+            "Diffusion through the basolateral membrane alone",
+            "Facilitated diffusion involving a single transporter",
+            "Two distinct co-transport/exchange mechanisms",
+            "Passive reabsorption via water channels"
+        ],
+        "question": "What are the mechanisms facilitating the transport of HCO 3 across the basolateral membrane?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 441,
+            "paragraph_id": "978-1455770076-p441-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Metabolic acidosis",
+            "Metabolic alkalosis",
+            "Respiratory acidosis",
+            "Respiratory alkalosis"
+        ],
+        "options": [
+            "Metabolic acid-base disorder",
+            "Respiratory acid-base imbalance",
+            "Mixed acid-base disturbance",
+            "Electrolyte disorder"
+        ],
+        "question": "What categories of acid-base imbalances exist due to alterations in the levels of key substances in the bodily fluids?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 436,
+            "paragraph_id": "978-1455770076-p436-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "By adjusting glomerular filtration",
+            "By changing tubular reabsorption",
+            "By regulating potassium, calcium, phosphate, and magnesium"
+        ],
+        "options": [
+            "Adjusting oxygen consumption",
+            "Regulating glomerular filtration",
+            "Changing cardiac output",
+            "Altering blood pH",
+            "Modifying nerve impulses",
+            "Regulating potassium, calcium, phosphate, and magnesium",
+            "Changing tubular reabsorption"
+        ],
+        "question": "What methods does renal regulation primarily utilize to maintain sodium levels?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 423,
+            "paragraph_id": "978-1455770076-p423-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Respiratory alkalosis",
+            "Respiratory acidosis"
+        ],
+        "options": [
+            "Respiratory alkalosis",
+            "Metabolic alkalosis",
+            "Respiratory acidosis",
+            "Metabolic acidosis"
+        ],
+        "question": "What types of disturbances result in changes to PCO2 levels?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 446,
+            "paragraph_id": "978-1455770076-p446-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bilateral obstruction of the ureters or renal pelvises caused by large stones or blood clots",
+            "Bladder obstruction",
+            "Obstruction of the urethra"
+        ],
+        "options": [
+            "Bilateral obstruction of the ureters due to tumors",
+            "Bladder obstruction",
+            "Obstruction of the ureter due to cancer",
+            "Unilateral obstruction of the ureters or renal pelvises caused by small stones",
+            "Obstruction of the urethra",
+            "Bilateral obstruction of the ureters or renal pelvises caused by large stones or blood clots"
+        ],
+        "question": "What are the listed causes of postrenal acute kidney injury?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 455,
+            "paragraph_id": "978-1455770076-p455-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Decreasing the rate at which the tubules reabsorb water and solutes"
+        ],
+        "options": [
+            "Decreasing the rate at which the tubules reabsorb water and solutes",
+            "Increasing the rate at which the tubules secrete waste products",
+            "Increasing the amount of water intake",
+            "Hypertrophy of the heart muscle"
+        ],
+        "question": "What mechanisms allow the kidneys to maintain normal rates of renal excretion despite having fewer nephrons?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 460,
+            "paragraph_id": "978-1455770076-p460-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bacterial toxins",
+            "Degenerative products of the inflamed tissues",
+            "Reaction products of the \u201ccomplement complex\u201d",
+            "Plasma clotting reaction products in the inflamed area"
+        ],
+        "options": [
+            "Bacterial toxins",
+            "Degenerative products of the inflamed tissues",
+            "Reaction products of the \u201ccomplement complex\u201d",
+            "Plasma clotting reaction products in the inflamed area",
+            "Antibodies developed by the immune system"
+        ],
+        "question": "What are the sources of chemotactic substances that attract white blood cells to inflamed tissue?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 481,
+            "paragraph_id": "978-1455770076-p481-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ruggenenti P",
+            "Cravedi P",
+            "Remuzzi G",
+            "Sarnak MJ",
+            "Levey AS",
+            "Schoolwerth AC",
+            "Sethi S",
+            "Fervenza FC",
+            "Tolwani A",
+            "Wilcox CS"
+        ],
+        "options": [
+            "Ruggenenti P",
+            "Cravedi P",
+            "Remuzzi G",
+            "Sarnak MJ",
+            "Levey AS",
+            "Schoolwerth AC",
+            "Sethi S",
+            "Fervenza FC",
+            "Tolwani A",
+            "Wilcox CS"
+        ],
+        "question": "What authors specifically discussed aspects related to kidney diseases?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 466,
+            "paragraph_id": "978-1455770076-p466-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "IgA",
+            "IgE",
+            "IgG",
+            "IgM"
+        ],
+        "options": [
+            "IgA",
+            "IgC",
+            "IgE",
+            "IgF",
+            "IgG",
+            "IgM"
+        ],
+        "question": "What types of general classes of antibodies exist?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 494,
+            "paragraph_id": "978-1455770076-p494-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rheumatic fever",
+            "One type of glomerulonephritis",
+            "Myasthenia gravis",
+            "Systemic lupus erythematosus (SLE)"
+        ],
+        "options": [
+            "Rheumatoid arthritis",
+            "Systemic lupus erythematosus (SLE)",
+            "Myasthenia gravis",
+            "Glaucoma",
+            "One type of glomerulonephritis",
+            "Type I diabetes mellitus",
+            "Rheumatic fever"
+        ],
+        "question": "What autoimmune diseases are specifically listed as resulting from failure of the tolerance mechanism?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 498,
+            "paragraph_id": "978-1455770076-p498-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Staphylococci",
+            "Streptococci"
+        ],
+        "options": [
+            "Staphylococcus aureus",
+            "Escherichia coli",
+            "Bacillus cereus",
+            "Neisseria gonorrhoeae",
+            "Klebsiella pneumoniae",
+            "Pseudomonas aeruginosa",
+            "Streptococcus pyogenes",
+            "Enterobacter cloacae"
+        ],
+        "question": "What types of bacterial infections typically exhibit characteristics of causing either rapid or slow development of the walling-off process?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 484,
+            "paragraph_id": "978-1455770076-p484-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Kidney",
+            "Heart",
+            "Liver",
+            "Skin",
+            "Bone",
+            "Pancreas",
+            "Cornea",
+            "Limb"
+        ],
+        "options": [
+            "Bone Marrow",
+            "Skin",
+            "Liver",
+            "Kidney",
+            "Heart",
+            "Lung",
+            "Pancreas",
+            "Cornea",
+            "Limb",
+            "Brain",
+            "Spleen",
+            "Stomach",
+            "Small intestine",
+            "Colon"
+        ],
+        "question": "What kinds of tissues and organs have been successfully transplanted?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 505,
+            "paragraph_id": "978-1455770076-p505-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Coumarins",
+            "Oxalate compounds",
+            "Citrate"
+        ],
+        "options": [
+            "Coumarins",
+            "Oxalate compounds",
+            "Siliconed containers",
+            "Citrate",
+            "Glass test tubes",
+            "Vitamin K"
+        ],
+        "question": "What types of substances prevent blood coagulation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 516,
+            "paragraph_id": "978-1455770076-p516-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Formation of prothrombin activator due to vascular injury",
+            "Conversion of prothrombin to thrombin",
+            "Polymerization of fibrinogen to fibrin fibers"
+        ],
+        "options": [
+            "Formation of prothrombin activator due to vascular injury",
+            "Conversion of prothrombin to thrombin via enzymatic reaction",
+            "Polymerization of fibrinogen to fibrin under the influence of thrombin",
+            "Activation of vitamin K-dependent pathways",
+            "Release of inflammatory mediators"
+        ],
+        "question": "What are the main steps involved in the general mechanism of blood coagulation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 509,
+            "paragraph_id": "978-1455770076-p509-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diaphragm",
+            "Intercostal muscles",
+            "Sternocleidomastoid muscles",
+            "Accessory inspiratory muscles",
+            "Abdominal wall muscles",
+            "Pleura",
+            "Trachea",
+            "Primary bronchi",
+            "Secondary bronchi",
+            "Tertiary bronchi",
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Alveolar ducts",
+            "Atria",
+            "Alveolar sacs",
+            "Alveoli",
+            "Blood vessels",
+            "Capillaries",
+            "Surfactants",
+            "Thoracic cage"
+        ],
+        "options": [
+            "Diaphragm",
+            "Intercostal muscles",
+            "Sternocleidomastoid muscles",
+            "Accessory inspiratory muscles",
+            "Abdominal wall muscles",
+            "Pleura",
+            "Trachea",
+            "Primary bronchi",
+            "Secondary bronchi",
+            "Tertiary bronchi",
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Alveolar ducts",
+            "Atria",
+            "Alveolar sacs",
+            "Alveoli",
+            "Blood vessels",
+            "Capillaries",
+            "Surfactants",
+            "Type II alveolar epithelial cells",
+            "Dipalmitoyl phosphatidylcholine",
+            "Phospholipids",
+            "Proteins",
+            "Ions",
+            "Calcium ions",
+            "Surfactant apoproteins",
+            "Thoracic cage"
+        ],
+        "question": "What are the key anatomical structures and substances listed as being involved in the process of respiration?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 524,
+            "paragraph_id": "978-1455770076-p524-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Slight negative pressure maintained by pulmonary capillaries and the pulmonary lymphatic system in the interstitial spaces",
+            "Mechanical suction of excess fluid from the alveoli into the lung interstitium through openings between alveolar epithelial cells",
+            "Carriage of excess fluid away via the pulmonary lymphatics"
+        ],
+        "options": [
+            "Maintenance of slight negative pressure in the interstitial spaces",
+            "Presence of surfactant reducing surface tension within the alveoli",
+            "Efficient functioning of the diaphragm increasing intrathoracic volume",
+            "High concentration of oxygen promoting evaporation of fluids"
+        ],
+        "question": "What factors help prevent the alveoli from becoming filled with fluid under normal conditions?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 538,
+            "paragraph_id": "978-1455770076-p538-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cartilage rings extending around the trachea",
+            "Curved cartilage plates in the bronchi",
+            "Transpulmonary pressures expanding the bronchioles"
+        ],
+        "options": [
+            "Cartilage rings extending around the trachea",
+            "Curved cartilage plates in the bronchi",
+            "Transpulmonary pressures expanding the bronchioles",
+            "Smooth muscle in the walls of the bronchi and bronchioles"
+        ],
+        "question": "What factors contribute to keeping the respiratory passageways open?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 528,
+            "paragraph_id": "978-1455770076-p528-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "High-pressure, low-flow circulation",
+            "Low-pressure, high-flow circulation"
+        ],
+        "options": [
+            "Low-pressure, high-flow circulation",
+            "High-pressure, low-flow circulation",
+            "Systemic circulation"
+        ],
+        "question": "What types of blood circulation systems are described in relation to the lung?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 533,
+            "paragraph_id": "978-1455770076-p533-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carbohydrates",
+            "Fats",
+            "Proteins"
+        ],
+        "options": [
+            "Carbohydrates",
+            "Fats",
+            "Proteins",
+            "Minerals",
+            "Vitamins",
+            "Fiber"
+        ],
+        "question": "What types of nutrients can be utilized to derive energy through oxidative metabolism?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 928,
+            "paragraph_id": "978-1455770076-p928-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Thyroid hormone",
+            "Male sex hormone",
+            "Growth hormone",
+            "Fever",
+            "Environmental temperature extremes",
+            "Pregnancy",
+            "Exercise",
+            "Endocrine disorders",
+            "Various drugs"
+        ],
+        "options": [
+            "Thyroid hormone",
+            "Male sex hormone",
+            "Female sex hormones",
+            "Growth hormone",
+            "Fever",
+            "Sleep",
+            "Malnutrition",
+            "Strenuous exercise"
+        ],
+        "question": "What are the factors contributing to the differences in basal metabolic rates among individuals?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 932,
+            "paragraph_id": "978-1455770076-p932-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carbohydrates",
+            "Fats",
+            "Proteins"
+        ],
+        "options": [
+            "Vitamins",
+            "Minerals",
+            "Amino acids",
+            "Carbohydrates",
+            "Fats",
+            "Nucleic Acids",
+            "Proteins"
+        ],
+        "question": "What are the primary categories of nutrients utilized by the human body according to the concept of determining metabolic utilization?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 912,
+            "paragraph_id": "978-1455770076-p912-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "\u03b1-Melanocyte-stimulating hormone",
+            "Neuropeptide Y",
+            "Leptin",
+            "Serotonin",
+            "Ghrelin",
+            "Cholecystokinin",
+            "Insulin",
+            "Peptide YY",
+            "Cocaine- and amphetamine-regulated transcript",
+            "Glucagon-like peptide",
+            "Corticotropin-releasing hormone",
+            "Norepinephrine",
+            "Endorphins",
+            "Melanin-concentrating hormone",
+            "Agouti-related protein",
+            "Galanin",
+            "Amino acids",
+            "\u03b3-Aminobutyric acid",
+            "Glutamate",
+            "Endocannabinoids",
+            "Orexin A",
+            "Orexin B"
+        ],
+        "options": [
+            "Neuropeptide Y",
+            "Leptin",
+            "Serotonin",
+            "Ghrelin",
+            "Cholecystokinin",
+            "Insulin",
+            "Peptide YY",
+            "Cocaine- and amphetamine-regulated transcript",
+            "Glucagon-like peptide",
+            "Corticoliberin hormone",
+            "Orexin B",
+            "Norepinephrine",
+            "\u03b1-Melanocyte-stimulating hormone",
+            "Endorphins",
+            "Melanin-concentrating hormone",
+            "Agouti-related protein",
+            "Galanin",
+            "Corticotropin-releasing hormone",
+            "Amino acids",
+            "\u03b3-Aminobutyric acid",
+            "Glutamate",
+            "Endocannabinoids",
+            "Orexin A"
+        ],
+        "question": "What neurotransmitters and hormones decrease or increase feeding behavior at the satiety centers within the hypothalamus?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 915,
+            "paragraph_id": "978-1455770076-p915-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Spinal cord",
+            "Abdominal viscera",
+            "Upper abdomen and thorax"
+        ],
+        "options": [
+            "Spinal cord",
+            "Abdominal viscera",
+            "Great veins in the lower abdomen",
+            "Skin",
+            "Thoracic cavity",
+            "Posterior hypothalamus",
+            "Upper abdomen and thorax"
+        ],
+        "question": "What locations house deep body temperature receptors?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 940,
+            "paragraph_id": "978-1455770076-p940-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Filtration and Storage of Blood",
+            "Metabolism of Carbohydrates, Proteins, Fats, Hormones, and Foreign Chemicals",
+            "Formation of Bile",
+            "Storage of Vitamins and Iron",
+            "Formation of Coagulation Factors"
+        ],
+        "options": [
+            "Filtration and Storage of Blood",
+            "Production of Urine",
+            "Metabolism of Carbohydrates, Proteins, Fats, Hormones, and Foreign Chemicals",
+            "Circulating Oxygen Throughout the Body",
+            "Formation of Bile",
+            "Digestion of Food in the Stomach",
+            "Storage of Vitamins and Iron",
+            "Removal of Waste Products",
+            "Formation of Coagulation Factors",
+            "Regulation of Heart Rate"
+        ],
+        "question": "What are the main roles played by the liver in maintaining bodily homeostasis?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 905,
+            "paragraph_id": "978-1455770076-p905-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "46 mm Hg and 45 mm Hg"
+        ],
+        "options": [
+            "1 mm Hg and 40 mm Hg",
+            "40 mm Hg and 45 mm Hg",
+            "45 mm Hg and 46 mm Hg",
+            "46 mm Hg and 45 mm Hg",
+            "Other options listed but they were irrelevant"
+        ],
+        "question": "What are the values of intracellular P CO 2 and interstitial P CO 2?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 553,
+            "paragraph_id": "978-1455770076-p553-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monoxide"
+        ],
+        "options": [
+            "Helium",
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monoxide",
+            "Neon",
+            "Argon",
+            "Hydrogen",
+            "Methane",
+            "Ethylene"
+        ],
+        "question": "What are the substances whose diffusing capacities are discussed?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 548,
+            "paragraph_id": "978-1455770076-p548-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ventral respiratory group of neurons",
+            "Dorsal respiratory group of neurons",
+            "Pneumotaxic center"
+        ],
+        "options": [
+            "Ventral respiratory group of neurons",
+            "Dorsal respiratory group of neurons",
+            "Pneumotaxic center",
+            "Diaphragm",
+            "Thoracic cage"
+        ],
+        "question": "What areas of the brain participate in controlling respiration?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 564,
+            "paragraph_id": "978-1455770076-p564-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inadequate oxygenation of the blood in the lungs because of extrinsic reasons",
+            "Pulmonary disease"
+        ],
+        "options": [
+            "Infection",
+            "High altitude",
+            "Low atmospheric pressure",
+            "Inadequate oxygenation of the blood due to intrinsic reasons",
+            "Inadequate oxygenation of the blood in the lungs because of extrinsic reasons",
+            "Pulmonary disease"
+        ],
+        "question": "What are the main classifications of causes of hypoxia?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 578,
+            "paragraph_id": "978-1455770076-p578-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increased cardiac output initially before returning towards normal",
+            "Increased pulmonary diffusing capacity",
+            "Increase in red blood cells and hemoglobin concentration",
+            "Growth of new systemic circulatory capillaries (increased tissue capillarity)",
+            "Enhancement of mitochondrial function and efficiency in utilizing oxygen",
+            "Hyperventilation leading to reduced carbon dioxide levels and compensatory mechanisms to stabilize pH balance"
+        ],
+        "options": [
+            "Increased cardiac output",
+            "Decreased pulmonary diffusing capacity",
+            "Increase in erythropoietin levels leading to higher red blood cell count",
+            "Reduced blood viscosity due to lower hematocrit values",
+            "Enhanced mitochondrial function and efficiency",
+            "Growth of new systemic circulatory capillaries",
+            "Elevated systolic blood pressure",
+            "Higher concentrations of myoglobin in muscles"
+        ],
+        "question": "What physiological adaptations occur in humans who undergo acclimatization to high-altitude environments?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 587,
+            "paragraph_id": "978-1455770076-p587-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tightening abdominal muscles",
+            "Leaning forward",
+            "Using anti-G suits",
+            "Inflating compression bags around the legs and abdomen",
+            "Reclining seat positioning during space travel"
+        ],
+        "options": [
+            "Tightening abdominal muscles",
+            "Leaning forward",
+            "Using anti-G suits",
+            "Inflating compression bags around the legs and abdomen",
+            "Submerging oneself in water",
+            "Reclining seat positioning during space travel",
+            "Applying positive pressure to the legs and abdomen"
+        ],
+        "question": "What methods are described to counteract the negative effects of G-forces on the human body?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 590,
+            "paragraph_id": "978-1455770076-p590-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "As bicarbonate ions (HCO3\u2212)",
+            "In the dissolved state",
+            "Combined with hemoglobin forming carbaminohemoglobin"
+        ],
+        "options": [
+            "As bicarbonate ions (HCO3\u2212)",
+            "Bound to plasma proteins",
+            "In the dissolved state",
+            "Attached to erythrocytes but outside their membranes",
+            "Combined with hemoglobin forming carbaminohemoglobin",
+            "Converted into glucose for energy storage"
+        ],
+        "question": "What chemical forms does carbon dioxide primarily get transported in within the human bloodstream?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 558,
+            "paragraph_id": "978-1455770076-p558-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Voluntary control through conscious effort",
+            "Neurogenic drive shifting ventilatory response curves during exercise",
+            "Pulmonary irritant receptor stimulation leading to coughing and sneezing",
+            "Cerebral cortex involvement in learning appropriate respiratory adjustments",
+            "Depression of the respiratory center due to anesthesia overdose",
+            "Brain edema affecting respiratory function",
+            "Stimulation of lung \"J receptors\"",
+            "Periodic breathing patterns associated with certain diseases"
+        ],
+        "options": [
+            "Voluntary control through conscious effort",
+            "Neurogenic drive shifting ventilatory response curves during exercise",
+            "Pulmonary irritant receptor stimulation leading to coughing and sneezing",
+            "Cerebral cortex involvement in learning appropriate respiratory adjustments",
+            "Depression of the respiratory center due to anesthesia overdose",
+            "Brain edema affecting respiratory function",
+            "Stimulation of lung \"J receptors\"",
+            "Periodic breathing patterns associated with certain diseases",
+            "Intracranial pressure relief via osmotic removal of fluid"
+        ],
+        "question": "What types of nervous responses and controls influence human respiration according to physiological studies?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 570,
+            "paragraph_id": "978-1455770076-p570-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Estrogen",
+            "Progesterone",
+            "Human Chorionic Somatomammotropin",
+            "Oxytocin",
+            "Prolactin"
+        ],
+        "options": [
+            "Estrogen",
+            "Progesterone",
+            "Human Chorionic Somatomammotropin",
+            "Oxytocin",
+            "Insulin",
+            "Growth Hormone",
+            "Thyroid-stimulating hormone"
+        ],
+        "question": "What are the names of the hormones involved in the processes related to pregnancy and lactation?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1091,
+            "paragraph_id": "978-1455770076-p1091-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ductus arteriosus",
+            "Foramen ovale"
+        ],
+        "options": [
+            "Ductus arteriosus",
+            "Foramen ovale",
+            "Right ventricle",
+            "Left atrium",
+            "Umbilical vein",
+            "Tricuspid valve",
+            "Superior vena cava",
+            "Inferior vena cava",
+            "Liver",
+            "Pulmonary artery"
+        ],
+        "question": "What are the names of the structures involved in significant circulatory changes at birth?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1099,
+            "paragraph_id": "978-1455770076-p1099-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Decreased amino acid transport into muscle cells",
+            "Mobilization of amino acids from non-hepatic tissues",
+            "Enhanced transport of amino acids into hepatic cells",
+            "Increased rate of deamination of amino acids by the liver",
+            "Conversion of amino acids to glucose"
+        ],
+        "options": [
+            "Decreased amino acid transport into muscle cells",
+            "Increased protein synthesis in muscle cells",
+            "Mobilization of amino acids from non-hepatic tissues",
+            "Reduced transport of amino acids into hepatic cells",
+            "Depressed expression of insulin receptor substrate-1",
+            "Enhanced transport of amino acids into hepatic cells",
+            "Increased rate of deamination of amino acids by the liver",
+            "Conversion of amino acids to glucose",
+            "Oxidation of nicotinamide-adenine dinucleotide (NADH)"
+        ],
+        "question": "What are the ways cortisol affects amino acid usage in different parts of the body?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 997,
+            "paragraph_id": "978-1455770076-p997-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Phosphagen System",
+            "Glycogen\u2013Lactic Acid System",
+            "Aerobic System"
+        ],
+        "options": [
+            "Aerobic System",
+            "Anaerobic System",
+            "Phosphagen System",
+            "Glycogen-Lactic Acid System",
+            "Oxygenic System"
+        ],
+        "question": "What are the names of the different metabolic systems that provide a continuous supply of ATP in muscle fibers?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1111,
+            "paragraph_id": "978-1455770076-p1111-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "GLP-1",
+            "GIP"
+        ],
+        "options": [
+            "Gastrin",
+            "Secretin",
+            "Cholecystokinin",
+            "GLP-1",
+            "GIP",
+            "Progesterone",
+            "Estrogen"
+        ],
+        "question": "What are the names of the two most potent gastrointestinal hormones that enhance the rate of insulin release from the pancreatic beta cells?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1015,
+            "paragraph_id": "978-1455770076-p1015-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Heart size",
+            "Heart function",
+            "Maximal attainable heart rate",
+            "Peripheral circulation",
+            "Venous return"
+        ],
+        "options": [
+            "Preload",
+            "Peripheral circulation",
+            "Venous return",
+            "Contractility",
+            "Maximal attainable heart rate",
+            "Afterload"
+        ],
+        "question": "What are the primary factors that determine how greatly the cardiac output can rise during exercise?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1117,
+            "paragraph_id": "978-1455770076-p1117-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Proteins",
+            "Breakdown products of proteins",
+            "Certain other substances",
+            "Lipopolysaccharides"
+        ],
+        "options": [
+            "Lipids",
+            "Proteins",
+            "Carbohydrates",
+            "Nucleotides",
+            "Breakdown products of proteins",
+            "Certain other substances",
+            "Lipopolysaccharides",
+            "Amino acids"
+        ],
+        "question": "What kinds of substances are known to affect the set point of the hypothalamic temperature-regulating center?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 944,
+            "paragraph_id": "978-1455770076-p944-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Surgical removal of most of the thyroid gland",
+            "Administration of propylthiouracil",
+            "Treatment with radioactive iodine",
+            "Administering high concentrations of iodides"
+        ],
+        "options": [
+            "Surgical removal of most of the thyroid gland",
+            "Administration of propylthiouracil",
+            "Treatment with radioactive iodine",
+            "Administering high concentrations of iodides",
+            "Blocking the production of thyroid hormones"
+        ],
+        "question": "What methods are used for treating hyperthyroidism?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 985,
+            "paragraph_id": "978-1455770076-p985-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ion channels open or close",
+            "Enzyme activity increases or decreases",
+            "Gene transcription begins or stops"
+        ],
+        "options": [
+            "Ion channels open or close",
+            "Enzyme activity increases or decreases",
+            "Gene transcription begins or stops",
+            "Neurotransmitters are released or absorbed",
+            "Cellular respiration slows down"
+        ],
+        "question": "What happens inside the cell immediately following the formation of a hormone-receptor complex?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 955,
+            "paragraph_id": "978-1455770076-p955-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dentin",
+            "Enamel",
+            "Pulp",
+            "Cementum",
+            "Connective tissue",
+            "Odontoblasts",
+            "Nerve fibers",
+            "Collagen fibers",
+            "Calcium salts"
+        ],
+        "options": [
+            "Dentin",
+            "Enamel",
+            "Pulp",
+            "Osteoblasts",
+            "Collagen fibers",
+            "Blood vessels",
+            "Lymphatics",
+            "Cementum",
+            "Connective tissue",
+            "Odontoblasts",
+            "Nerve fibers",
+            "Calcium salts",
+            "Phosphate"
+        ],
+        "question": "What types of tissues or materials constitute parts of human teeth?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1041,
+            "paragraph_id": "978-1455770076-p1041-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ovaries",
+            "Uterus",
+            "External Genitalia",
+            "Fallopian Tubes",
+            "Bones",
+            "Subcutaneous tissue",
+            "Breast",
+            "Endometrium"
+        ],
+        "options": [
+            "Ovaries",
+            "Uterus",
+            "External Genitalia",
+            "Fallopian Tubes",
+            "Stomach",
+            "Skin",
+            "Brain",
+            "Liver",
+            "Kidneys",
+            "Bones",
+            "Subcutaneous tissue"
+        ],
+        "question": "What are the different areas where estrogen exerts significant effects?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1069,
+            "paragraph_id": "978-1455770076-p1069-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hyposecretion of pituitary gonadotropic hormones",
+            "Abnormalities in the ovaries",
+            "Thick ovarian capsules",
+            "Endometriosis",
+            "Failure to ovulate"
+        ],
+        "options": [
+            "Hyposecretion of pituitary gonadotropic hormones",
+            "Abnormalities in the ovaries",
+            "Thick ovarian capsules",
+            "Endometriosis",
+            "Failure to ovulate",
+            "Anatomical impediments to egg release"
+        ],
+        "question": "What are the primary factors that contribute to female sterility according to medical understanding?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1077,
+            "paragraph_id": "978-1455770076-p1077-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acromegaly",
+            "Gigantism"
+        ],
+        "options": [
+            "Acromegaly",
+            "Dwarfism",
+            "Gigantism",
+            "Hypoglycemia",
+            "Hyperthyroidism"
+        ],
+        "question": "What health issues can result from excessive activity of the growth hormone-producing cells in the anterior pituitary gland?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 971,
+            "paragraph_id": "978-1455770076-p971-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Vas deferens",
+            "Ampulla",
+            "Prostate gland",
+            "Seminal vesicles",
+            "Bulbourethral glands"
+        ],
+        "options": [
+            "Vas deferens",
+            "Ampulla",
+            "Prostate gland",
+            "Seminal vesicles",
+            "Bulbourethral glands"
+        ],
+        "question": "What parts of the reproductive system contribute to the formation of semen?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1051,
+            "paragraph_id": "978-1455770076-p1051-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hypochromic microcytic anemia",
+            "Macrocytic megaloblastic anemia",
+            "Pernicious anemia",
+            "Hemolytic anemia"
+        ],
+        "options": [
+            "Hypochromic microcytic anemia",
+            "Macrocytic megaloblastic anemia",
+            "Pernicious anemia",
+            "Sickle-cell anemia",
+            "Hemolytic anemia"
+        ],
+        "question": "What are the main types of anemias discussed?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1124,
+            "paragraph_id": "978-1455770076-p1124-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acromegaly",
+            "Cushing\u2019s syndrome",
+            "Obesity",
+            "Polycystic ovary syndrome",
+            "Insulin resistance"
+        ],
+        "options": [
+            "Acromegaly",
+            "Cushing\u2019s syndrome",
+            "Obesity",
+            "Polycystic ovary syndrome",
+            "Diabetes mellitus",
+            "Hypothyroidism",
+            "Hyperthyroidism"
+        ],
+        "question": "What conditions can lead to metabolic disturbances related to insulin?",
+        "source": {
+            "isbn": "978-1455770076",
+            "page": 1135,
+            "paragraph_id": "978-1455770076-p1135-para1"
+        },
+        "type": "list"
     }
 ]

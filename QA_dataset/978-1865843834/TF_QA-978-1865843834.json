@@ -1,0 +1,1912 @@
+[
+    {
+        "answer": "True",
+        "question": "Higher acidity reduces the binding of oxygen to hemoglobin when compared across different states of blood acidity under constant partial pressures of carbon dioxide.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 692,
+            "paragraph_id": "978-1865843834-p692-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Epithelial cells do not rely on the actin-myosin cytoskeleton for normal physiological functions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 42,
+            "paragraph_id": "978-1865843834-p42-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Disulfide bond formation in proteins occurs exclusively outside the cytoplasm due to the need for an oxidizing environment.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 47,
+            "paragraph_id": "978-1865843834-p47-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Clathrin is a variety of coat protein that plays a role in mediating the formation of secretory vesicles from the trans Golgi.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 51,
+            "paragraph_id": "978-1865843834-p51-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cadherins facilitate the formation of adhering junctions and contribute to the maintenance of epithelial cell polarity.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 60,
+            "paragraph_id": "978-1865843834-p60-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Newly synthesized hydrolytic enzymes require a mannose 6-phosphate recognition marker added by a special sugar transferase to be targeted correctly to lysosomes.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 55,
+            "paragraph_id": "978-1865843834-p55-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An individual's alveolar partial pressure of oxygen rises with decreased alveolar ventilation.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 719,
+            "paragraph_id": "978-1865843834-p719-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Surgical removal of lung tissue does reduce diffusion capacity because it decreases both surface area and total pulmonary capillary hemoglobin content.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 713,
+            "paragraph_id": "978-1865843834-p713-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A decrease in train speed results in a lower number of workers being able to load onto the cars representing the diffusion of O2 across the alveolar wall.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 708,
+            "paragraph_id": "978-1865843834-p708-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Total alveolar ventilation refers to the sum of alveolar ventilation to each lung.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 736,
+            "paragraph_id": "978-1865843834-p736-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Peripheral and central chemoreceptors supply tonic drive to the Central Pattern Generator (CPG) and form the critical sensory end of a positive feedback system that stabilizes arterial PO2, PCO2, and pH.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 741,
+            "paragraph_id": "978-1865843834-p741-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increases in lung volume tend to decrease the resistance of the alveolar vessels while increasing the resistance of the extra-alveolar vessels.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 724,
+            "paragraph_id": "978-1865843834-p724-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In the lungs, negligible blood flow occurs in areas where alveolar pressure equals arterial pressure.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 727,
+            "paragraph_id": "978-1865843834-p727-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Alveolar dead-space ventilation results when there is an absence of blood flow to a group of alveoli, despite continued ventilation, leading to ineffective gas exchange in those regions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 730,
+            "paragraph_id": "978-1865843834-p730-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "PAF binding to its GPCR results in the termination of its signaling action through PAF acetylhydrolase.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 82,
+            "paragraph_id": "978-1865843834-p82-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Gap junctions allow the flow of electrical current between adjacent cells and regulate the passage of molecules larger than ~2000 Da.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 65,
+            "paragraph_id": "978-1865843834-p65-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Arachidonic acid (AA) is converted into eicosanoids exclusively through one metabolic pathway involving cyclooxygenase enzymes.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 77,
+            "paragraph_id": "978-1865843834-p77-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists at least one ligand that acts through GPCRs which does increase heart rate when bound to its respective receptors.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 69,
+            "paragraph_id": "978-1865843834-p69-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Phospholipase C hydrolyzes PIP2 into IP3 and DAG.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 74,
+            "paragraph_id": "978-1865843834-p74-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The VRG is located exclusively in the dorsal medulla.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 745,
+            "paragraph_id": "978-1865843834-p745-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An increase in arterial P CO2 produced no change in the firing rate of the carotid sinus nerve when blood pH was fixed at 7.45 and P O2 was fixed at 80 mmHg.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 750,
+            "paragraph_id": "978-1865843834-p750-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There are chemosensitive regions located in the intermediate area (Schlafke).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 754,
+            "paragraph_id": "978-1865843834-p754-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Slowly adapting pulmonary stretch receptors (PSRs) are involved in maintaining a constant alveolar ventilation through the Hering-Breuer reflex.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 757,
+            "paragraph_id": "978-1865843834-p757-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "General transcription factors are responsible for recruiting RNA polymerase to the promoter during transcription initiation in class II genes.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 95,
+            "paragraph_id": "978-1865843834-p95-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Histone acetyltransferases reduce electrostatic attraction between histone tails and the DNA backbone, thereby increasing accessibility of the DNA template to RNA polymerase II.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 101,
+            "paragraph_id": "978-1865843834-p101-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Translation of the mRNA on ribosomes starts at the codon GUG instead of AUG.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 91,
+            "paragraph_id": "978-1865843834-p91-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Estrogen receptors are found primarily in the cytoplasm when not bound to a hormone.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 87,
+            "paragraph_id": "978-1865843834-p87-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bladder smooth muscle lacks gap junctions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 778,
+            "paragraph_id": "978-1865843834-p778-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Substances like phosphate bind to proteins and thus are freely filterable through the kidneys.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 774,
+            "paragraph_id": "978-1865843834-p774-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Podocytes covering the basement membrane have negatively charged glycoproteins that restrict the filtration of large anions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 768,
+            "paragraph_id": "978-1865843834-p768-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Normal subjects excrete less than 10 mg/day of the Tamm-Horsfall glycoprotein into the urine.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 771,
+            "paragraph_id": "978-1865843834-p771-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nuclear receptors sometimes act as passive repressors rather than being actively involved in the process of transcriptional repression.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 110,
+            "paragraph_id": "978-1865843834-p110-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pit-1 regulates the pituitary-specific expression of genes encoding growth hormone but does not influence the production of thyroid-stimulating hormone or prolactin.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 106,
+            "paragraph_id": "978-1865843834-p106-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Alternative splicing allows a single gene to increase the diversity of proteins produced by differentiating combinations of exons during post-transcriptional modification.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 114,
+            "paragraph_id": "978-1865843834-p114-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "More than half of the total body water in humans is located in the intracellular compartment.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 120,
+            "paragraph_id": "978-1865843834-p120-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A given human's body fluids typically exhibit different osmolalities among various compartments.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 123,
+            "paragraph_id": "978-1865843834-p123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Almost all of the p-Aminohippuric Acid (PAH) presented to the kidney appears in the urine due to efficient filtration and secretion processes.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 791,
+            "paragraph_id": "978-1865843834-p791-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Water absorption in the early distal tubules depends on sodium movement across the epithelial cells because of the presence of a cotransporter called NKCC2 that transports sodium along with potassium chloride ions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 802,
+            "paragraph_id": "978-1865843834-p802-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In the thick ascending limb (TAL), nearly all sodium ions are transported via the paracellular pathway due to lumen-positive voltage.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 799,
+            "paragraph_id": "978-1865843834-p799-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Substances with a molecular weight of >14 kDa, such as serum albumin, are completely prevented from passing through the glomerular filtration barrier due to their large molecular size alone.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 784,
+            "paragraph_id": "978-1865843834-p784-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An increase in efferent arteriolar resistance results in a decrease in the glomerular filtration rate across all ranges of resistance due to decreased renal plasma flow.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 789,
+            "paragraph_id": "978-1865843834-p789-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An open Na+ channel acts as a conduit favoring the outward movement of Na+ out of virtually every cell of the body due to the large, inwardly directed net driving force or gradient.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 128,
+            "paragraph_id": "978-1865843834-p128-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The mitochondrial F oF1 ATPase uses the energy of ATP hydrolysis to pump H+ ions when the H+ gradient across the mitochondrial inner membrane is reversed.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 136,
+            "paragraph_id": "978-1865843834-p136-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The number of genes in the SLC22 family is less than 20.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 132,
+            "paragraph_id": "978-1865843834-p132-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increased flow along the proximal tubule always results in decreased reabsorption of Na+ and glucose.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 807,
+            "paragraph_id": "978-1865843834-p807-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dopamine inhibits Na+ reabsorption at the level of tubule cells through increasing [cAMP]i levels via D1 and D2 receptors in the renal cortex.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 810,
+            "paragraph_id": "978-1865843834-p810-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Oligopeptide absorption primarily occurs via an H+-driven cotransporter mechanism in the renal nephrons beyond the proximal convoluted tubule.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 816,
+            "paragraph_id": "978-1865843834-p816-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Two separate apical Na+-driven cotransporters reabsorb monocarboxylates and dicarboxylates/tricarboxylates exclusively in the distal tubule.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 821,
+            "paragraph_id": "978-1865843834-p821-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Active transport maintains the functional impermeability of the cell to NaCl under normal conditions.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 149,
+            "paragraph_id": "978-1865843834-p149-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The concentration of potassium ions (K+) outside the cell ([K+]o) is higher than the concentration of sodium ions (Na+) outside the cell ([Na+]o).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 144,
+            "paragraph_id": "978-1865843834-p144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Regulation of sodium excretion by the kidneys is primarily sensitive to plasma sodium concentration.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 155,
+            "paragraph_id": "978-1865843834-p155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An ion crossing a phospholipid membrane requires approximately 36 kcal/mol of energy due to the significant difference in dielectric constants between water and the membrane's hydrocarbon interior.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 163,
+            "paragraph_id": "978-1865843834-p163-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Severe disturbances in extracellular fluid osmolality must always be corrected immediately.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 151,
+            "paragraph_id": "978-1865843834-p151-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Paracellin-1 facilitates magnesium ion diffusion through the cell membrane of renal epithelial cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 833,
+            "paragraph_id": "978-1865843834-p833-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Salicylate is secreted in the form of its conjugated base at low urine pH.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 827,
+            "paragraph_id": "978-1865843834-p827-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Administering beta-blockers can impair the body's ability to handle an acute potassium load due to their impact on the heart rate alone.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 837,
+            "paragraph_id": "978-1865843834-p837-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Medullary potassium recycling involves three steps including potassium secretion by the thin descending limb of Henle's loop, potassium reabsorption by the thick ascending limb, and potassium reabsorption by the medullary collecting ducts.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 839,
+            "paragraph_id": "978-1865843834-p839-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The permeability coefficient \\(P_X\\) is defined as \\(D_X\\beta / a\\), where \\(\\beta\\) is the membrane-water partition coefficient for the ion.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 168,
+            "paragraph_id": "978-1865843834-p168-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Startle disease is associated with abnormalities in glycine receptors.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 183,
+            "paragraph_id": "978-1865843834-p183-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The patch-clamp technique involves applying suction to create a high-resistance seal between the glass and the entire cell membrane.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 176,
+            "paragraph_id": "978-1865843834-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Active NaCl reabsorption occurs in the thick ascending limb (TAL) of the loop of Henle.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 854,
+            "paragraph_id": "978-1865843834-p854-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Extracellular volume contraction decreases distal flow but does not affect aldosterone release due to changes in plasma [K+].",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 847,
+            "paragraph_id": "978-1865843834-p847-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Under conditions of restricted water intake, the level of AVP causes the fluid exiting the proximal tubules to become isotonic with plasma before reaching the collecting ducts.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 852,
+            "paragraph_id": "978-1865843834-p852-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antidiuretic hormone (ADH) increases the expression of aquaporin-2 (AQP2).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 861,
+            "paragraph_id": "978-1865843834-p861-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A clamping voltage at +60 mV results in an inward sodium current.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 200,
+            "paragraph_id": "978-1865843834-p200-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tetraethylammonium (TEA) acts by blocking the outer entrance of certain neuronal K+ channels at millimolar concentrations, while tetrodotoxin (TTX) or saxitoxin (STX) block the outer entrance of neuronal Na+ channels at nanomolar concentrations.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 198,
+            "paragraph_id": "978-1865843834-p198-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Aging causes degeneration of the myelin sheath resulting in decreased conduction velocity.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 195,
+            "paragraph_id": "978-1865843834-p195-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Charcot-Marie-Tooth disease results from mutations in the gene for connexin 32 (Cx32) leading to interference with normal function of Schwann cells wrapping around the axons of peripheral nerves.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 188,
+            "paragraph_id": "978-1865843834-p188-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nonvolatile acids produced through metabolism require elimination via the kidneys due to their inability to diffuse out of the bloodstream efficiently, unlike CO2.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 865,
+            "paragraph_id": "978-1865843834-p865-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Loop diuretics, including furosemide, increase urinary acid excretion through mechanisms involving enhanced sodium delivery to collecting tubules and ducts and causing potassium wasting.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 879,
+            "paragraph_id": "978-1865843834-p879-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Apical electrogenic H+ pumps are primarily found in \u03b1 cells of the cortical collecting tubule (CCT).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 872,
+            "paragraph_id": "978-1865843834-p872-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For each NH\u207a\u2084 secreted into the tubule lumen, exactly one new HCO\u2083\u207b ion is generated indirectly via gluconeogenesis involving the metabolism of two glutamines.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 875,
+            "paragraph_id": "978-1865843834-p875-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hyperkalemic periodic paralysis can be caused by mutations in membrane-spanning segment S5 of domain II and S6 of domain IV of the K+ channel.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 211,
+            "paragraph_id": "978-1865843834-p211-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sodium channels are completely insensitive to local anesthetics.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 208,
+            "paragraph_id": "978-1865843834-p208-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Maxi-K channels require high concentrations of intracellular Ca2+ but do not depend on voltage changes across the cell membrane to activate.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 218,
+            "paragraph_id": "978-1865843834-p218-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "K2P channels require activation by chemical and physical signals to contribute to their role in maintaining the resting membrane potential.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 220,
+            "paragraph_id": "978-1865843834-p220-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Unilateral partial clamping of a renal artery in an otherwise healthy animal always fails to produce hypertension.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 887,
+            "paragraph_id": "978-1865843834-p887-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Histamine released from enterochromaffin-like (ECL) cells in the stomach stimulates hydrogen ion (H+) release from parietal cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 900,
+            "paragraph_id": "978-1865843834-p900-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cholecystokinin increases enzyme secretion by acting on the gallbladder.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 903,
+            "paragraph_id": "978-1865843834-p903-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Reduced effective circulating volume always leads to an immediate reduction in antidiuretic hormone (ADH) release.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 891,
+            "paragraph_id": "978-1865843834-p891-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Myelination causes a linear increase in conduction velocity proportional to the square root of the axon's diameter in myelinated nerve fibers.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 225,
+            "paragraph_id": "978-1865843834-p225-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sodium ions do not pass through the AChR channels during generation of the EPP.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 233,
+            "paragraph_id": "978-1865843834-p233-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Miniature end-plate potentials occur due to the release of neurotransmitters from multiple synaptic vesicles.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 237,
+            "paragraph_id": "978-1865843834-p237-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neurotransmitter release occurs through the process of diffusion across cell membranes rather than through exocytosis of synaptic vesicles.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 242,
+            "paragraph_id": "978-1865843834-p242-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 5% to 10% of total gastric acid secretion results from the intestinal phase.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 919,
+            "paragraph_id": "978-1865843834-p919-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Histamine activates the H2 receptor on the parietal cell through coupling with the Gas GTP-binding protein.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 914,
+            "paragraph_id": "978-1865843834-p914-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Particles larger than 5 mm cannot pass through the stomach during an interdigestive period because they need to be smaller to enter the duodenum.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 907,
+            "paragraph_id": "978-1865843834-p907-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Every muscle cell is controlled by more than one motor neuron.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 252,
+            "paragraph_id": "978-1865843834-p252-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 25 to 125 out of every 1 million people worldwide suffer from Myasthenia gravis.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 245,
+            "paragraph_id": "978-1865843834-p245-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "High [Ca2+] within the SR lumen inhibits the activity of SERCA, and this inhibition of SR Ca2+ pump activity is immediate.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 260,
+            "paragraph_id": "978-1865843834-p260-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The myosin head becomes detached from the actin filament when ATP binds to the head of the myosin heavy chain.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 258,
+            "paragraph_id": "978-1865843834-p258-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The central nervous system includes the spinal cord and is covered by two membranes called the dura mater and the arachnoid.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 281,
+            "paragraph_id": "978-1865843834-p281-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Action potentials in smooth muscle cells always last less than 10 milliseconds.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 268,
+            "paragraph_id": "978-1865843834-p268-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Smooth muscle cells do not exhibit striations due to their highly organized actin and myosin filaments.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 272,
+            "paragraph_id": "978-1865843834-p272-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Substance P increases bicarbonate secretion in the rat's pancreatic ductular system.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 933,
+            "paragraph_id": "978-1865843834-p933-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Increasing intragastric volume always results in a proportional increase in intragastric pressure.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 924,
+            "paragraph_id": "978-1865843834-p924-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Stimulation of fluid and electrolyte secretion by salivary acinar cells is largely mediated by \u03b2-adrenergic stimulation alone.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 942,
+            "paragraph_id": "978-1865843834-p942-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Both CCK receptors exhibit high affinity for CCK over gastrin.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 930,
+            "paragraph_id": "978-1865843834-p930-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fatty acids reduce gastric acid secretion and accelerate gastric emptying.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 939,
+            "paragraph_id": "978-1865843834-p939-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists an ectoderm layer during development.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 289,
+            "paragraph_id": "978-1865843834-p289-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vesicles are carried down the axon on microtubule tracks by kinesin motors during anterograde movement.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 286,
+            "paragraph_id": "978-1865843834-p286-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The cerebralcerebellum receives projections mainly from the spinal cord.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 297,
+            "paragraph_id": "978-1865843834-p297-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Damage to a motor axon results in denervation atrophy of the skeletal muscle it innervates and may lead to spontaneous twitching of muscle fibers.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 302,
+            "paragraph_id": "978-1865843834-p302-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Water absorption in the human body primarily takes place in the kidneys rather than the intestines.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 950,
+            "paragraph_id": "978-1865843834-p950-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Active K+ absorption is present in all parts of the large intestine.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 957,
+            "paragraph_id": "978-1865843834-p957-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Electroneutral Cl-HCO 3 exchange does not occur in villous cells in the ileum.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 955,
+            "paragraph_id": "978-1865843834-p955-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Astrocytes are capable of transporting substances between the blood and neurons.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 316,
+            "paragraph_id": "978-1865843834-p316-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Microglial cells represent more than half of the total glial cells within the mature CNS.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 323,
+            "paragraph_id": "978-1865843834-p323-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Blood constituents cannot enter the brain's extracellular space freely due to the presence of the blood-brain barrier.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 312,
+            "paragraph_id": "978-1865843834-p312-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The entire volume of cerebrospinal fluid turns over approximately five times each day due to its high production rate compared to its low volume.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 305,
+            "paragraph_id": "978-1865843834-p305-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "SGLT1 transports D-glucose but does not transport L-glucose due to differences in their stereochemistries.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 969,
+            "paragraph_id": "978-1865843834-p969-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "\u03b1-Amylase cleaves terminal \u03b1-1,4 linkages in starch molecules.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 965,
+            "paragraph_id": "978-1865843834-p965-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chylomicrons are assembled in the liver before being exported to the lymph for distribution throughout the body via the bloodstream.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 980,
+            "paragraph_id": "978-1865843834-p980-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Neutral amino acids are primarily absorbed via the system B0 transporter.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 973,
+            "paragraph_id": "978-1865843834-p973-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Action potentials in a normally myelinated axon propagate faster compared to a demyelinated axon due to increased electrical resistance caused by the removal of myelin sheath surrounding the neuron's fiber.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 333,
+            "paragraph_id": "978-1865843834-p333-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Multiple Sclerosis (MS) primarily affects young adults and children under the age of 10.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 336,
+            "paragraph_id": "978-1865843834-p336-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The Earth orbits around the Sun.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 341,
+            "paragraph_id": "978-1865843834-p341-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most mammalian dendrites have a relatively low density of voltage-gated channels that can amplify synaptic signals.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 328,
+            "paragraph_id": "978-1865843834-p328-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hepatocytes constitute 80% to 90% of the fixed macrophages of the reticuloendothelial system.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 994,
+            "paragraph_id": "978-1865843834-p994-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The recommended daily allowance for magnesium in young adult males is approximately 350 milligrams per day.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 989,
+            "paragraph_id": "978-1865843834-p989-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Unconjugated bile acids enter the hepatocyte primarily through passive nonionic diffusion.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1002,
+            "paragraph_id": "978-1865843834-p1002-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Periportal hepatocytes primarily perform drug detoxification.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 997,
+            "paragraph_id": "978-1865843834-p997-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vitamin B12 plays a crucial role in serving as a coenzyme for homocysteine : methionine methyltransferase.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 985,
+            "paragraph_id": "978-1865843834-p985-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Long-term potentiation typically lasts for hours in the hippocampus.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 360,
+            "paragraph_id": "978-1865843834-p360-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Stimulation of \u03b2-adrenergic receptors in a pyramidal cell of the hippocampus increases the cell's Ca\u00b2\u207a channels.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 351,
+            "paragraph_id": "978-1865843834-p351-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Glutamate binds to a group of fast, ligand-gated potassium-selective channels.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 348,
+            "paragraph_id": "978-1865843834-p348-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most neuronal synapses release a very small number of transmitter quanta with each action potential.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 357,
+            "paragraph_id": "978-1865843834-p357-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "All postganglionic parasympathetic neurons exclusively release acetylcholine.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 372,
+            "paragraph_id": "978-1865843834-p372-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nitric oxide (NO) was first identified and studied as a neuro-transmitter outside the autonomic nervous system.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 376,
+            "paragraph_id": "978-1865843834-p376-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Preganglionic parasympathetic fibers originating in S2 through S4 distribute exclusively with cranial nerves.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 367,
+            "paragraph_id": "978-1865843834-p367-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Roughly 80% of the cholesterol used for steroid hormone synthesis comes from circulating low-density lipoproteins (LDLs).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1037,
+            "paragraph_id": "978-1865843834-p1037-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Somatostatin is produced exclusively by the \u0394 cells of the pancreatic islet.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1026,
+            "paragraph_id": "978-1865843834-p1026-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bacterial modification in the colon results in the production of primary bile acids.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1013,
+            "paragraph_id": "978-1865843834-p1013-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Estrogen receptor (ER \u03b1) binds strongly to the 85-kDa regulatory subunit of phosphatidylinositol-3-kinase (PI3K) in the absence of estradiol.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1041,
+            "paragraph_id": "978-1865843834-p1041-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ursodeoxycholic acid increases bile flow substantially by increasing electrolyte and water flux via stimulation of Na+-coupled cotransport mechanisms.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1010,
+            "paragraph_id": "978-1865843834-p1010-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The liver synthesizes nearly all of the cholesterol secreted into the bile.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1019,
+            "paragraph_id": "978-1865843834-p1019-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Insulin receptors possess tyrosine kinase activity.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1034,
+            "paragraph_id": "978-1865843834-p1034-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Some evidence indicates that each individual taste-receptor cell exclusively corresponds to conveying a single, unique taste modality.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 388,
+            "paragraph_id": "978-1865843834-p388-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The normal single-channel conductance of the ion channel in the photoreceptor cell is one of the largest due to strong blocking effects of Ca\u00b2\u207a and Mg\u00b2\u207a ions within its physiological voltage range.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 400,
+            "paragraph_id": "978-1865843834-p400-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sensory receptors convert environmental energy into neural signals through a process called sensory transduction, utilizing adaptations of common molecular signaling mechanisms found in eukaryotic cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 385,
+            "paragraph_id": "978-1865843834-p385-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Auditory sensation is always noticed consciously throughout daily life, unlike vestibular information which remains unnoticed until there's an issue.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 403,
+            "paragraph_id": "978-1865843834-p403-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Light travels faster through air than through water.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 393,
+            "paragraph_id": "978-1865843834-p393-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Somatostatin is produced exclusively in the pancreas and gastrointestinal tract.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1046,
+            "paragraph_id": "978-1865843834-p1046-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately one third of TBG's binding sites are occupied by T4 when about two thirds of these sites remain unoccupied.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1061,
+            "paragraph_id": "978-1865843834-p1061-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thyroid hormone regulates resting metabolic rate but does not affect other aspects of energy expenditure.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1053,
+            "paragraph_id": "978-1865843834-p1053-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Triiodothyronine (T3) is formed through the removal of an inner-ring atom of iodine from thyroxine (T4).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1059,
+            "paragraph_id": "978-1865843834-p1059-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "When the stapes reverses direction and moves inward, the basilar membrane bows outward.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 412,
+            "paragraph_id": "978-1865843834-p412-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "TRPV1 channels are involved in detecting both painful heat and the sensation caused by eating spicy food due to activation by capsaicin.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 418,
+            "paragraph_id": "978-1865843834-p418-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A decrease of 6 dB SPL corresponds to halving of the absolute sound pressure level.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 408,
+            "paragraph_id": "978-1865843834-p408-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Decreases in effective circulating volume stimulate renin release from the JGA through at least one mechanism involving the baroreceptor reflex.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1083,
+            "paragraph_id": "978-1865843834-p1083-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Corticosteroids are synthesized exclusively in the mitochondria.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1074,
+            "paragraph_id": "978-1865843834-p1074-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thyrotropin-Releasing Hormone (TRH) directly regulates the secretion of Prolactin from the anterior pituitary.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1066,
+            "paragraph_id": "978-1865843834-p1066-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cortisol exerts negative feedback control exclusively at the level of the hypothalamus.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1078,
+            "paragraph_id": "978-1865843834-p1078-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Axons from the cerebral cortex and the brainstem always terminate directly onto motor neurons.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 427,
+            "paragraph_id": "978-1865843834-p427-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "When a skeletal muscle is abruptly stretched, a rapid, reflexive contraction of the same muscle always occurs due to activation of the Golgi tendon organs.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 425,
+            "paragraph_id": "978-1865843834-p425-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Localization of high-frequency sounds involves computation of timing delay and intensity difference in parts of the brain before mapping onto other areas.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 440,
+            "paragraph_id": "978-1865843834-p440-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Stimulation of certain parts of the cerebral cortex results in specific muscle contractions according to studies conducted by Fritsch and Hitzig in the 1860s.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 434,
+            "paragraph_id": "978-1865843834-p434-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Insulin is produced exclusively by \u03b4 cells in the islets of Langerhans.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1088,
+            "paragraph_id": "978-1865843834-p1088-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Insulin activates the breakdown of triglycerides into glycerol and fatty acids through hormone-sensitive triglyceride lipase.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1102,
+            "paragraph_id": "978-1865843834-p1102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Phosphatidylinositol 3-kinase (PI3K) plays no role in glucose and protein metabolism when bound to phosphorylated IRS.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1097,
+            "paragraph_id": "978-1865843834-p1097-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Type 1 diabetes mellitus results primarily from destruction of non-insulin-producing cells in the pancreas.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1091,
+            "paragraph_id": "978-1865843834-p1091-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The distance between the upstream injection site and the downstream recording site in the thermodilution technique is intentionally made large to allow significant heat exchange in the pulmonary capillary bed.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 459,
+            "paragraph_id": "978-1865843834-p459-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The typical oxygen content in a pulmonary vein is 25 mL of O2 per deciliter of blood.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 457,
+            "paragraph_id": "978-1865843834-p457-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Blood flowing through a single capillary bed is the typical route for blood circulation from the left heart to the right heart.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 446,
+            "paragraph_id": "978-1865843834-p446-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Gravity affects the driving pressure that governs blood flow in the human body.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 452,
+            "paragraph_id": "978-1865843834-p452-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "PTH primarily promotes bone resorption rather than bone synthesis when increased persistently.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1117,
+            "paragraph_id": "978-1865843834-p1117-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Calcium balance involves the regulation of calcium through the bone, kidneys, and gastrointestinal tract under the influence of hormones such as parathyroid hormone (PTH) and vitamin D.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1108,
+            "paragraph_id": "978-1865843834-p1108-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Osteoprotegerin protects bones from osteoclastic activity by directly interacting with osteoclasts.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1112,
+            "paragraph_id": "978-1865843834-p1112-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "PTHrP promotes the mobilization of Ca\u00b2\u207a from maternal bone during milk production.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1124,
+            "paragraph_id": "978-1865843834-p1124-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Normal male development requires the presence of the ovaries.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1134,
+            "paragraph_id": "978-1865843834-p1134-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The development of the primitive ovary involves regression of the cortex of the primordial gonad.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1132,
+            "paragraph_id": "978-1865843834-p1132-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Blood's effective viscosity is influenced by fibrinogen concentration alone.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 470,
+            "paragraph_id": "978-1865843834-p470-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The mean linear velocity of blood flow in the human circulatory system reaches a minimum while passing through capillaries.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 481,
+            "paragraph_id": "978-1865843834-p481-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hematopoiesis involves the generation of multiple mature cell types including erythrocytes, eosinophils, basophils, neutrophils, monocytes/macrophages, dendritic cells, B/T lymphocytes, and natural killer cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 464,
+            "paragraph_id": "978-1865843834-p464-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thrombin catalyzes the formation of new thrombin from prothrombin and also catalyzes the formation of the cofactors Va and VIIIa.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 476,
+            "paragraph_id": "978-1865843834-p476-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Seminal emission is induced by electrical stimulation of the pelvic nerves.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1158,
+            "paragraph_id": "978-1865843834-p1158-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Testosterone causes temporal hair recession and male-pattern baldness in humans.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1144,
+            "paragraph_id": "978-1865843834-p1144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Testosterone synthesized by the Leydig cells does not influence the activity of the Sertoli cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1147,
+            "paragraph_id": "978-1865843834-p1147-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Spermatozoa obtained directly from the testis are incapable of penetrating an ovum due to their lack of progressive motility resulting from incomplete maturation.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1153,
+            "paragraph_id": "978-1865843834-p1153-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ovulation typically occurs earlier than the thirteenth to fourteenth days of the menstrual cycle in women experiencing regular twenty-eight-day cycles.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1170,
+            "paragraph_id": "978-1865843834-p1170-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "FSH causes a decline in FSH-dependent aromatase activity in granulosa cells.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1177,
+            "paragraph_id": "978-1865843834-p1177-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "General instructions require referencing the paragraph when generating a QA pair.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1181,
+            "paragraph_id": "978-1865843834-p1181-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Continuous administration of GnRH leads to suppression of gonadotropin secretion, whereas pulsatile release of GnRH causes stimulation of FSH and LH secretion.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1166,
+            "paragraph_id": "978-1865843834-p1166-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Prostaglandins alone stimulate uterine contractions during labor.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1201,
+            "paragraph_id": "978-1865843834-p1201-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Decidualization of the endometrium persists throughout gestation.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1187,
+            "paragraph_id": "978-1865843834-p1187-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The fetus contains 17\u03b1-hydroxylase but lacks 3\u03b2-hydroxysteroid dehydrogenase.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1196,
+            "paragraph_id": "978-1865843834-p1196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Human Chorionic Gonadotropin (hCG) plays a crucial role in sustaining the corpus luteum due to its similarity to Luteinizing Hormone (LH).",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1190,
+            "paragraph_id": "978-1865843834-p1190-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Zhu et al.'s research involved studying the role of progesterone in regulating cytosolic-nuclear trafficking of progesterone receptors through an Akt-GSK3beta signaling pathway specifically during implantation in mice models.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1206,
+            "paragraph_id": "978-1865843834-p1206-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The first breath taken by a newborn typically requires a transpulmonary pressure (PTP) of approximately 2.5 cm H2O to expand the lung volume by around 40 mL.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1217,
+            "paragraph_id": "978-1865843834-p1217-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Surfactant synthesis begins extensively in the differentiated type II cells before 24 weeks\u2019 gestation.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1212,
+            "paragraph_id": "978-1865843834-p1212-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The total body water in newborns is approximately 60% of their body weight.",
+        "source": {
+            "isbn": "978-1865843834",
+            "page": 1223,
+            "paragraph_id": "978-1865843834-p1223-para1"
+        },
+        "type": "true_false"
+    }
+]

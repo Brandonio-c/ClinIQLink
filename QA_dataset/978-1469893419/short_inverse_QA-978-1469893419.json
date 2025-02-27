@@ -1,0 +1,314 @@
+[
+    {
+        "answer": "Figure 2.2 illustrates the change in probabilities when a diagnostic test's specificity is at 93%.",
+        "false_answer": "The statement claiming Figure 2.2 demonstrates the effect of revising probabilities given a diagnostic test's specificity of 93%.",
+        "incorrect_explanation": "The actual specificity mentioned in relation to Figure 2.2 is 91%, not 92% nor 93%. Therefore, any discussion about the effects observed under these different conditions would inherently be inaccurate according to the information presented.",
+        "question": "What does Figure 2.2 show regarding the revision of probabilities with a diagnostic test having a specificity of 92%?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 41,
+            "paragraph_id": "978-1469893419-p41-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sensitivity measures both how well a test identifies people who truly have a disease and also includes the rate at which it correctly identifies those without the disease.",
+        "false_answer": "Sensitivity measures both how well a test identifies people who truly have a disease and also includes the rate at which it correctly identifies those without the disease.",
+        "incorrect_explanation": "This statement incorrectly combines the definitions of sensitivity and specificity. According to the given information, sensitivity specifically estimates how well a test detects true cases (those with the disease), whereas specificity would relate more closely to identifying true non-cases (correctly excluding those without the disease).",
+        "question": "What does sensitivity specifically measure according to the principles outlined?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 37,
+            "paragraph_id": "978-1469893419-p37-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Checking both systolic and diastolic hypertension.",
+        "false_answer": "Checking both systolic and diastolic hypertension.",
+        "incorrect_explanation": "According to the plan outlined under point 2 regarding elevated blood pressure, the focus was specifically on checking standards for assessing blood pressure and rechecking systolic blood pressure, indicating concern over systolic hypertension rather than mentioning assessment of both types together.",
+        "question": "What is typically involved when assessing elevated blood pressure according to Mrs. N's case?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 31,
+            "paragraph_id": "978-1469893419-p31-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When evidence is insufficient, the USPSTF discourages the use of the service.",
+        "false_answer": "When evidence is insufficient, the USPSTF discourages the use of the service.",
+        "incorrect_explanation": "This statement incorrectly suggests that the USPSTF advises against services with insufficient evidence. According to the paragraph, if the service is offered under these conditions, patients should simply understand the uncertainty surrounding the balance of benefits and harms; hence, the correct conclusion is represented by grade I, which indicates the need for awareness of uncertainties rather than outright discouragement of the service.",
+        "question": "What does the USPSTF conclude when evidence regarding a service's balance of benefits and harms is deemed insufficient?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 46,
+            "paragraph_id": "978-1469893419-p46-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "OLDCARTS stands for Origin, Length, Diagnosis, Complications, Age, Reaction, Treatment, and Symptoms.",
+        "false_answer": "OLDCARTS stands for Origin, Length, Diagnosis, Complications, Age, Reaction, Treatment, and Symptoms.",
+        "incorrect_explanation": "The given answer introduces several inaccuracies compared to what OLDCARTS actually represents according to the chapter's description. Specifically, OLDCARTS correctly stands for Onset, Location, Duration, Character, Aggravating/Alleviating Factors, Radiation, and Timing. Therefore, the correct expansion of OLDCARTS includes different components focusing on symptom attributes rather than origin, length, diagnosis, complications, age, reaction, treatment, and general symptoms themselves.",
+        "question": "What does the mnemonic device OLDCARTS stand for when eliciting symptoms' essential characteristics during a medical interview?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 56,
+            "paragraph_id": "978-1469893419-p56-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Alerting hospital administration before attempting any communication.",
+        "false_answer": "Alerting hospital administration before attempting any communication.",
+        "incorrect_explanation": "According to the guidelines for handling difficult situations, when dealing with an angry or disruptive patient, one should first accept their angry feelings and allow them to express these emotions without becoming defensive. Specifically, before approaching them, it's recommended to alert security rather than hospital administration, ensuring safety while maintaining professionalism and empathy towards the patient's frustration.",
+        "question": "What steps should ideally precede working with an angry or disruptive patient?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 61,
+            "paragraph_id": "978-1469893419-p61-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "K\u00fcbler-Ross identified six stages in our response to loss: fear, denial and isolation, anger, bargaining, depression or sadness, and acceptance.",
+        "false_answer": "Six stages were identified by K\u00fcbler-Ross: fear, denial and isolation, anger, bargaining, depression or sadness, and acceptance.",
+        "incorrect_explanation": "The paragraph actually mentions five stages according to K\u00fcbler-Ross: denial and isolation, anger, bargaining, depression or sadness, and acceptance. There is no mention of \"fear\" being one of these stages.",
+        "question": "What stages did K\u00fcbler-Ross describe in our response to loss?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 66,
+            "paragraph_id": "978-1469893419-p66-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A nocturnal fall of more than 5% of daytime values is associated with poor cardiovascular outcomes.",
+        "false_answer": "More than 5%",
+        "incorrect_explanation": "According to the chapter, a nocturnal fall of less than 1%, specifically \"<1% of day time values,\" is actually what's associated with poor cardiovascular outcomes. Thus, stating \"more than 5%\" introduces a significant and misleading error regarding the threshold for concern over nocturnal falls in blood pressure readings.",
+        "question": "What percentage of daytime values indicates a poor cardiovascular outcome when observed as a nocturnal fall?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 74,
+            "paragraph_id": "978-1469893419-p74-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Visual Analog Scale compares to a rating system from 0 to 5.",
+        "false_answer": "The Visual Analog Scale compares to a rating system from 0 to 5.",
+        "incorrect_explanation": "The paragraph mentions three common scales: the Visual Analog Scale, the Numeric Rating Scale, and the Faces Pain Scale. Specifically, it notes that the Numeric Rating Scale uses ratings from 1 to 10. There's no mention of comparing the Visual Analog Scale to a 0-to-5 rating; instead, other scales are noted to use ratings up to 10, suggesting a broader comparison rather than specifying what exactly the Visual Analog Scale compares to in terms of numeric ranges within this context.",
+        "question": "What scale does the Visual Analog Scale compare to when assessing pain?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 79,
+            "paragraph_id": "978-1469893419-p79-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 90% of individuals with type 2 diabetes are overweight or obese.",
+        "false_answer": "Approximately 90% of individuals with type 2 diabetes are overweight or obese.",
+        "incorrect_explanation": "The statement claims 90%, which is higher than what's actually reported. According to the given information, more than 80% of people with type 2 diabetes are overweight or obese, making the claim of 90% inaccurate.",
+        "question": "What percentage of people with type 2 diabetes are estimated to be overweight or obese?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 69,
+            "paragraph_id": "978-1469893419-p69-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 30% of primary care clients have mental disorders.",
+        "false_answer": "Approximately 30% of primary care clients have mental disorders.",
+        "incorrect_explanation": "The statement given does not accurately reflect any data presented regarding the prevalence of mental disorders among primary care clients. According to the paragraph, approximately 2% of primary care clients have anxiety, mood disorders including depression account for around 25%, depression alone accounts for about 10%, somatoform disorders range between 1% to 15%, and alcohol and substance abuse vary between 15% to 20%. While there's mention of various percentages for different conditions, none sum up to indicate that exactly 30% of primary care clients have mental disorders overall. Instead, the actual combined prevalence might exceed this when considering comorbidity, but the exact total isn't specified within the paragraph.",
+        "question": "What percentage of primary care clients have mental disorders?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 87,
+            "paragraph_id": "978-1469893419-p87-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Generalized itching can occur due to pregnancy, thyroid disease, seasonal allergies, asthma, and high blood pressure.",
+        "false_answer": "High blood pressure was listed among the causes of generalized itching.",
+        "incorrect_explanation": "While several conditions were correctly identified as causing generalized itching, high blood pressure was incorrectly included. According to the given text, actual causes of generalized itching include dry skin, pregnancy, uremia, jaundice, lymphomas and leukemia, drug reactions, polycythemia vera, and thyroid disease. Seasonal allergies and asthma may also contribute if associated with itchy rashes, particularly those involving watery eyes and atopic dermatitis. High blood pressure was not mentioned as a cause.",
+        "question": "What symptoms indicate potential causes of generalized itching?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 98,
+            "paragraph_id": "978-1469893419-p98-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 12% of the U.S. population suffer from mood disorders and depression.",
+        "false_answer": "Approximately 12% of the U.S. population suffer from mood disorders and depression.",
+        "incorrect_explanation": "The statement claims that approximately 12% of the U.S. population suffers from mood disorders and depression, which contradicts the actual percentage given in the chapter. According to the provided information, depressive and bipolar disorders actually affect over 9% of the U.S. population. Therefore, the correct answer should reflect this accurate percentage rather than overstating it.",
+        "question": "What percentage of the U.S. population suffers from mood disorders and depression?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 90,
+            "paragraph_id": "978-1469893419-p90-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Warts usually appear brownish compared to surrounding skin areas.",
+        "false_answer": "Warts usually appear brownish compared to surrounding skin areas.",
+        "incorrect_explanation": "According to the given information, warts are described as being \"usually skin-colored to pink,\" which contradicts the statement that they appear brownish. Therefore, the correct description should note their typical appearance is more aligned with the patient's natural skin tone or slightly pink rather than brownish.",
+        "question": "What characteristic do warts typically exhibit regarding their color?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 114,
+            "paragraph_id": "978-1469893419-p114-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Paronychia is caused primarily by Streptococcus infections alone.",
+        "false_answer": "Paronychia being caused by Streptococcus infections alone.",
+        "incorrect_explanation": "According to the chapter, Paronychia can result from both *Staphylococcus aureus* and *Streptococcus*. Thus, stating it is caused by *Streptococcus* alone is inaccurate; it overlooks the role of *Staphylococcus aureus* as another common causative agent.",
+        "question": "What typically causes Paronychia?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 122,
+            "paragraph_id": "978-1469893419-p122-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ecchymoses first turn green before transitioning to shades of orange.",
+        "false_answer": "Ecchymoses first turn green before transitioning to shades of orange.",
+        "incorrect_explanation": "According to Table 6-6, ecchymoses actually fade to green, then yellow, and finally brown after initially being purple or purplish blue, with no mention of turning orange during this transition.",
+        "question": "What color do ecchymoses typically change through as they fade?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 119,
+            "paragraph_id": "978-1469893419-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Seals mainly consume squid for nutrition.",
+        "false_answer": "Seals mainly consume squid for nutrition.",
+        "incorrect_explanation": "According to the given information, seals actually feed mostly on fish they catch themselves, serving them essential nutrients throughout their entire life cycle, rather than consuming squid.",
+        "question": "What do seals primarily eat?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 152,
+            "paragraph_id": "978-1469893419-p152-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pulmonary embolism typically presents with a chronic cough.",
+        "false_answer": "Pulmonary embolism typically presents with a chronic cough.",
+        "incorrect_explanation": "According to the chapter on thorax and lungs, pulmonary embolism actually presents with a dry cough, which might sometimes be accompanied by hemoptysis, rather than being described specifically as chronic. Therefore, the statement inaccurately characterizes the nature of the cough associated with pulmonary embolism.",
+        "question": "What symptomatology can occur with pulmonary embolism?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 170,
+            "paragraph_id": "978-1469893419-p170-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Tympanosclerosis involves the deposition of silica and carbon dioxide in the eardrum.",
+        "false_answer": "Tympanosclerosis involves the deposition of silica and carbon dioxide.",
+        "incorrect_explanation": "This answer incorrectly identifies the deposited materials. According to the information given, Tympanosclerosis actually results in the deposition of hyaline and calcium and phosphate crystals, not silica and carbon dioxide.",
+        "question": "What condition characterized by scarring in the middle ear leads to the deposition of which types of materials?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 146,
+            "paragraph_id": "978-1469893419-p146-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For individuals with diabetes, the USPSTF recommends starting routine lipid screening at age 30 for men and women.",
+        "false_answer": "Starting routine lipid screening at age 30 for men and women with diabetes.",
+        "incorrect_explanation": "According to the provided information, the USPSTF actually recommends starting lipid screening for men and women with diabetes at age 20, not 30.",
+        "question": "At what ages does the USPSTF recommend starting routine lipid screening for individuals with diabetes?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 181,
+            "paragraph_id": "978-1469893419-p181-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The recommended age range is 50 to 80 years.",
+        "false_answer": "The U.S. Preventive Services Task Force recommends LDCT screening for smokers between 50 to 80 years old.",
+        "incorrect_explanation": "This is incorrect because according to the given information, the actual recommended age range by the U.S. Preventive Services Task Force for annual low-dose computed tomography (LDCT) screening is for current smokers (or those who have quit within the last 15 years) aged 55 to 79 years, not 50 to 80 years nor for those who quit within the last 20 years.",
+        "question": "What age range does the U.S. Preventive Services Task Force recommend for annual low-dose computed tomography (LDCT) screening for individuals who currently smoke or have quit within the last 20 years?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 155,
+            "paragraph_id": "978-1469893419-p155-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pneumonia",
+        "false_answer": "Pneumonia",
+        "incorrect_explanation": "According to the paragraph, conditions leading to obstructed airways include deformities such as Pectus excavatum, disease of the underlying lung or pleura, phrenic nerve palsy. There's no mention of pneumonia being associated with obstructed airways specifically through these examination findings; instead, it might relate more broadly to respiratory issues but isn't listed among causes of obstructed airways here.",
+        "question": "What condition can lead to obstructed airways according to examination techniques?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 161,
+            "paragraph_id": "978-1469893419-p161-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A persistent headache.",
+        "false_answer": "A persistent headache.",
+        "incorrect_explanation": "The given answer is incorrect because symptoms suggesting detachment of vitreous from the retina actually include seeing lights flashing across the field of vision, among other visual disturbances, not a persistent headache. According to the chapter, these visual disturbances prompt concern over retinal issues rather than headaches being indicative of this condition.",
+        "question": "What symptom specifically indicates detachment of vitreous from the retina according to medical observations?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 126,
+            "paragraph_id": "978-1469893419-p126-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hypertension represents approximately half of all diagnosed cases of cardiovascular diseases.",
+        "false_answer": "Approximately half of all diagnosed cases of cardiovascular diseases being attributed to hypertension.",
+        "incorrect_explanation": "The statement regarding hypertension representing \u201capproximately half\u201d of the diagnoses is incorrect because the actual proportion is described as the \u201cvast majority,\u201d implying more than just over half but without specifying exactly what fraction this constitutes beyond indicating dominance within CVD diagnoses.",
+        "question": "What percentage of diagnoses does hypertension represent among cardiovascular diseases?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 177,
+            "paragraph_id": "978-1469893419-p177-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than two-thirds of these adults exhibit hearing deficits.",
+        "false_answer": "Two-thirds of adults older than 65 years having detectable hearing deficits.",
+        "incorrect_explanation": "According to the given information, more than one-third, not two-thirds, of adults older than 65 years have detectable hearing deficits. Thus, stating that more than two-thirds suffer from this condition introduces a significant error regarding the prevalence rate among seniors.",
+        "question": "What proportion of individuals over 65 experience some form of hearing deficit?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 128,
+            "paragraph_id": "978-1469893419-p128-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In cases of serous otitis media, the umbo shows signs of inflammation.",
+        "false_answer": "In cases of serous otitis media, the umbo shows signs of inflammation.",
+        "incorrect_explanation": "According to Figure 7-5 description within the context, it mentions \"Red bulging drum in acute otitis media,\" indicating that the entire eardrum can appear red during acute otitis media, specifically mentioning this condition rather than focusing on the umbo alone. Additionally, serous otitis media is distinct from acute otitis media; thus, stating the umbo becomes inflamed specifically in serous otitis media introduces two inaccuracies regarding both anatomy involved and conditions described.",
+        "question": "What anatomical feature appears red when there's acute otitis media?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 133,
+            "paragraph_id": "978-1469893419-p133-para1"
+        },
+        "type": "short_inverse"
+    }
+]

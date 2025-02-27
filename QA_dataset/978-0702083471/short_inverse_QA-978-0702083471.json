@@ -1,0 +1,890 @@
+[
+    {
+        "answer": "An elevated creatinine level >80 mL/min/1.73 m^2 suggests severe renal dysfunction.",
+        "false_answer": "Elevated creatinine level >80 mL/min/1.73 m^2 suggests severe renal dysfunction.",
+        "incorrect_explanation": "The given answer incorrectly uses the unit \"mL/min/1.73 m^2,\" which refers to the estimated glomerular filtration rate (eGFR), not the creatinine level. According to the paragraph, patients with renal impairment are identified by a low eGFR (< 60 mL/min/1.73 m^2), indicating the confusion between units for measuring different aspects of kidney function. Creatinine levels themselves do indicate renal health when interpreted appropriately, typically through calculating eGFR rather than being measured in mL/min/1.73 m^2. Thus, the statement confuses how kidney function is assessed.",
+        "question": "What blood test result indicates a significant reduction in kidney function?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 53,
+            "paragraph_id": "978-0702083471-p53-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Plasma digoxin concentration measurements should ideally be taken immediately after administering the dose.",
+        "false_answer": "Measurements should be taken immediately after administering the dose.",
+        "incorrect_explanation": "According to the information given, for Digoxin, samples should actually be taken 6 hours post-dose, allowing time for distribution and steady-state conditions closer to what would reflect the drug's efficacy and safety profile over the dosing period.",
+        "question": "What timing is recommended for taking plasma concentration measurements when monitoring Digoxin levels?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 57,
+            "paragraph_id": "978-0702083471-p57-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lack of knowledge among prescribers.",
+        "false_answer": "Lack of knowledge among prescribers.",
+        "incorrect_explanation": "According to the description, unintentional errors can result from slips (e.g., wrong dosage unit) or lapses (forgetting crucial steps), rather than primarily being caused by a lack of knowledge. Lack of knowledge leads to mistakes, which are considered intentional errors under this framework.",
+        "question": "What is the primary factor contributing to unintended errors in the human error theory model described?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 47,
+            "paragraph_id": "978-0702083471-p47-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Systemic Lupus Erythematosus characteristically increases CRP levels.",
+        "false_answer": "Systemic Lupus Erythematosus characteristically increases CRP levels.",
+        "incorrect_explanation": "According to the table regarding conditions affecting CRP and ESR, Systemic Lupus Erythematosus actually results in normal CRP levels despite being characterized by inflammation, indicating its impact on CRP differs significantly from what would be expected during an acute inflammatory response.",
+        "question": "What effect does Systemic Lupus Erythematosus typically have on CRP levels?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 94,
+            "paragraph_id": "978-0702083471-p94-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Without histamine, mast cells would increase local blood flow and decrease vascular permeability.",
+        "false_answer": "Without histamine, mast cells would increase local blood flow and decrease vascular permeability.",
+        "incorrect_explanation": "According to the given information, mast cells releasing histamine actually increases local blood flow and vascular permeability, indicating that the presence of histamine causes these effects, not the absence of it.",
+        "question": "What happens if mast cells do not contain any histamine?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 89,
+            "paragraph_id": "978-0702083471-p89-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Non-invasive prenatal diagnosis primarily uses maternal blood sampling.",
+        "false_answer": "Non-invasive prenatal diagnosis primarily uses maternal blood sampling.",
+        "incorrect_explanation": "While non-invasive prenatal diagnosis indeed utilizes samples derived from pregnant mothers, the actual technique specifically refers to analyzing free-floating DNA found in the maternal bloodstream rather than relying exclusively on maternal blood cells themselves. Thus, stating it simply as \"maternal blood sampling\" could imply focusing on blood cells, which doesn't precisely capture how this technology works. Correct approaches involve more detailed descriptions emphasizing analysis of circulating cell-free fetal DNA present in the plasma portion of maternal blood, making \"Non-invasive prenatal diagnosis analyzes circulating cell-free fetal DNA\" a more accurate representation.",
+        "question": "What is the primary method through which non-invasive prenatal diagnosis identifies a fetal single-gene defect?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 78,
+            "paragraph_id": "978-0702083471-p78-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10-15 million variants occur in every 200 bases across the human genome.",
+        "false_answer": "Approximately 10-15 million variants occur in every 200 bases across the human genome.",
+        "incorrect_explanation": "The paragraph actually mentions that we each have 3\u20135 million variants in our genome, occurring approximately every 300 bases, indicating a significant discrepancy between the stated and actual numbers.",
+        "question": "How many variants does each individual approximately have in their genome?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 68,
+            "paragraph_id": "978-0702083471-p68-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Through the action of complement system components deposited onto bacterial surfaces, marking them for destruction via opsonization.",
+        "false_answer": "Primary elimination of microbes by neutrophils involves the deposition of complement system components onto bacterial surfaces, facilitating opsonization.",
+        "incorrect_explanation": "While opsonization does indeed mark pathogens for more efficient recognition and ingestion by phagocytes like neutrophils, the primary method described for how neutrophils actually eliminate microbes after ingestion involves the creation of a phagolysosome where both oxidative and non-oxidative killing processes occur, utilizing substances like reactive oxygen species generated by NADPH-oxidase and enzymes contained within cytoplasmic granules.\n- **Correct Approach Based On Paragraph Content Should Be:** Focus on detailing the actual internalized killing methods post-phagocytosis rather than emphasizing surface marking prior to uptake.",
+        "question": "What is the primary mechanism through which neutrophils engage and eliminate microbes?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 86,
+            "paragraph_id": "978-0702083471-p86-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Generally, a depth of 40 or more reads.",
+        "false_answer": "A depth of 40 or more reads is generally accepted as producing diagnostic-grade results.",
+        "incorrect_explanation": "According to the text, a depth of 30 or more reads is actually what's considered sufficient for producing diagnostic-grade results, not 40.",
+        "question": "What is considered sufficient read depth for producing diagnostic-grade results?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 74,
+            "paragraph_id": "978-0702083471-p74-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Seroconversion refers to a twofold decrease in titre between acute and convalescent serum samples.",
+        "false_answer": "Seroconversion refers to a twofold decrease in titre between acute and convalescent serum samples.",
+        "incorrect_explanation": "According to the paragraph, seroconversion is defined as either a change from negative to positive detection or a fourfold rise in titre between acute and convalescent serum samples, not a twofold decrease. Therefore, the correct definition involves a significant increase or transition in antibody presence, indicating exposure to a pathogen.",
+        "question": "What does'seroconversion' specifically refer to in the context of detecting antibodies?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 132,
+            "paragraph_id": "978-0702083471-p132-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The abdominal aortic aneurysm screening programme operates equally among both men and women.",
+        "false_answer": "The abdominal aortic aneurysm screening programme operates equally among both men and women.",
+        "incorrect_explanation": "According to the given information, the abdominal aortic aneurysm screening programme actually operates only in men aged 65 years or older, not in women, thus making the statement regarding equal operation across genders incorrect.",
+        "question": "In what manner does the abdominal aortic aneurysm screening program operate across genders in the United Kingdom?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 123,
+            "paragraph_id": "978-0702083471-p123-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70%.",
+        "false_answer": "Approximately 70%.",
+        "incorrect_explanation": "According to the text, antigen-specific immunotherapy reduces the incidence of recurrent anaphylaxis from 50% to 60% down to approximately 10%. Therefore, the statement claiming 70% recurrence rate after therapy is both significantly higher and inaccurate compared to what is described in the paragraph.",
+        "question": "What percentage of patients who undergo antigen-specific immunotherapy with bee or wasp venom experience recurrent anaphylaxis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 105,
+            "paragraph_id": "978-0702083471-p105-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dark field microscopy.",
+        "false_answer": "Dark field microscopy.",
+        "incorrect_explanation": "While dark field microscopy does involve making organisms appear bright against a dark background, the description specifically matches bright field microscopy's application of stains to enhance contrast, as detailed in the investigation of infection techniques.\n- **Correct Answer Should Be:** Bright field microscopy.",
+        "question": "What method involves examining biological fluids or tissues under a microscope after applying stains to enhance visual contrast?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 130,
+            "paragraph_id": "978-0702083471-p130-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "First-generation cephalosporins lack significant activity against both Gram-positive and Gram-negative organisms.",
+        "false_answer": "First-generation cephalosporins lack significant activity against both Gram-positive and Gram-negative organisms.",
+        "incorrect_explanation": "According to the paragraph, first-generation cephalosporins actually have excellent activity against Gram-positive organisms and some activity against Gram-negatives, rather than lacking activity against both.",
+        "question": "What characteristic do first-generation cephalosporins lack compared to later generations?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 145,
+            "paragraph_id": "978-0702083471-p145-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of all cancers are attributed to inherited cancer syndromes.",
+        "false_answer": "Approximately 20% of all cancers are attributed to inherited cancer syndromes.",
+        "incorrect_explanation": "According to the paragraph, inherited cancer syndromes actually account for 5%-10% of all cancers, not approximately 20%. Thus, the statement overestimates the proportion significantly.",
+        "question": "What percent of all cancers are accounted for by inherited cancer syndromes?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 161,
+            "paragraph_id": "978-0702083471-p161-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% of all pleural effusions are caused by malignancies.",
+        "false_answer": "Approximately 60% of all pleural effusions are caused by malignancies.",
+        "incorrect_explanation": "According to the paragraph, 40%, not 60%, of all pleural effusions are due to malignancy. Therefore, the statement overestimates the actual proportion by half.",
+        "question": "What percent of all pleural effusions are due to malignancy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 172,
+            "paragraph_id": "978-0702083471-p172-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For treating breakthrough pain, a dosage equivalent to one-third of the total daily opioid dose is administered.",
+        "false_answer": "One-third of the total daily opioid dose is given for breakthrough pain.",
+        "incorrect_explanation": "According to the provided paragraph, the recommendation for administering immediate-release (IR) morphine for breakthrough pain is actually one-sixth of the total 24-hour dose of opioid, not one-third.",
+        "question": "What is typically recommended for managing breakthrough pain when controlling cancer-related pain?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 198,
+            "paragraph_id": "978-0702083471-p198-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Increased secretions resulting in dysphagia occur because of malignant ascites.",
+        "false_answer": "Malignant ascites causes increased secretions leading to dysphagia.",
+        "incorrect_explanation": "According to the given information, increased secretions due to dysphagia actually result from mouth issues associated with another condition, not specifically mentioning ascites causing this issue. Instead, abdominal swelling occurs secondary to malignant ascites affecting the abdomen area. Therefore, the statement incorrectly links symptoms between different conditions described.",
+        "question": "What condition results in increased secretions leading to dysphagia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 184,
+            "paragraph_id": "978-0702083471-p184-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Healthcare professionals usually document whether the pain is constant or varies throughout the day when assessing its characteristics.",
+        "false_answer": "Documenting pain characteristics focuses on whether the pain is constant or variable.",
+        "incorrect_explanation": "The paragraph emphasizes assessing pain intensity, location, associated features (like hypersensitivity or numbness), and its impact on daily activities, not just constancy or variability.\n- **Correct Approach:** Accurate documentation should include the duration of pain, any precipitating and relieving factors, pain description (dull, sharp, aching, burning), and its effect on the patient's quality of life.",
+        "question": "How do healthcare professionals typically document the characteristics of a patient's pain during an initial consultation?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 191,
+            "paragraph_id": "978-0702083471-p191-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A silent inhalation of water.",
+        "false_answer": "A silent inhalation of water.",
+        "incorrect_explanation": "The given answer introduces a non-existent condition (\"silent inhalation of water\") which does not match any listed cause of hypoxaemia due to ventilation\u2013perfusion mismatch in the paragraph. Correct options include pulmonary embolism, acute exacerbation of asthma, or COPD with high minute volume. Therefore, the statement regarding \"silent inhalation of water\" being a cause is both unsubstantiated and incorrect according to the provided information.",
+        "question": "What is one common cause of hypoxaemia due to ventilation\u2013perfusion mismatch?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 228,
+            "paragraph_id": "978-0702083471-p228-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A MAP of <60 mmHg should be maintained.",
+        "false_answer": "A MAP of <60 mmHg should be maintained.",
+        "incorrect_explanation": "According to the given information, maintaining a MAP of less than 60 mmHg would actually be contrary to what's recommended. Instead, a MAP of more than 70 mmHg should be aimed for to optimize cerebral perfusion. Therefore, the correct recommendation is to maintain a MAP greater than 70 mmHg.",
+        "question": "What should the target arterial blood pressure (MAP) be during acute management of post-cardiac arrest care?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 237,
+            "paragraph_id": "978-0702083471-p237-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Serum mast cell lactate levels are useful to confirm the diagnosis.",
+        "false_answer": "Serum mast cell lactate levels are useful to confirm the diagnosis.",
+        "incorrect_explanation": "The paragraph actually mentions measuring serum mast cell tryptase concentrations, not lactate levels, to confirm the diagnosis of anaphylaxis. Tryptase levels are specifically highlighted as useful because they demonstrate a temporal relationship to the triggering event when tested in series.",
+        "question": "What is typically measured in serial tests following an anaphylactic event to confirm the diagnosis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 215,
+            "paragraph_id": "978-0702083471-p215-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of those polled supported a change.",
+        "false_answer": "Approximately 40% of those polled supported a change.",
+        "incorrect_explanation": "According to the text, 50% of those polled actually supported a change in the law to permit assisted dying, which indicates a higher level of support among medical practitioners compared to the given answer. Therefore, the correct answer should reflect this accurate percentage found within the paragraph's content.",
+        "question": "What percentage of doctors surveyed supported a change in the law regarding assisted dying?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 203,
+            "paragraph_id": "978-0702083471-p203-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A lactate level of >12 mmol/L (108 mg/dL) is associated with extreme mortality.",
+        "false_answer": "A lactate level of >12 mmol/L (108 mg/dL) is associated with extreme mortality.",
+        "incorrect_explanation": "According to the provided paragraph, a lactate level of >8 mmol/L (72 mg/dL) is actually what is associated with an extremely high mortality, triggering immediate escalation measures.",
+        "question": "What serum lactate level indicates severe sepsis according to the given criteria?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 231,
+            "paragraph_id": "978-0702083471-p231-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The patient cannot speak or eat at all until the tracheostomy tube is completely removed.",
+        "false_answer": "The patient cannot speak or eat at all until the tracheostomy tube is completely removed.",
+        "incorrect_explanation": "This statement is incorrect because modern tracheostomy tubes can accommodate speaking valves and do not necessarily prevent eating. Patients can begin assessments for speech and swallow soon after the procedure, depending on their overall condition and the specifics of their care plan. Thus, removal of the tracheostomy tube is not a prerequisite for these basic functions to resume under proper medical supervision.",
+        "question": "What happens to a patient's ability to speak and eat immediately after undergoing a tracheostomy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 251,
+            "paragraph_id": "978-0702083471-p251-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They usually require surgical fixation.",
+        "false_answer": "They usually require surgical fixation.",
+        "incorrect_explanation": "According to the paragraph, simple rib fractures can usually be managed with analgesia, whereas flail segments frequently benefit from surgical fixation. Therefore, the statement about simple rib fractures needing surgical fixation is incorrect because they generally do not require surgery unless specified otherwise, such as being part of a flail segment.",
+        "question": "What typically occurs to simple rib fractures during management?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 248,
+            "paragraph_id": "978-0702083471-p248-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Activated charcoal is typically administered.",
+        "false_answer": "Activated charcoal is typically administered.",
+        "incorrect_explanation": "According to the given text, evidence for efficacy in treating poisoning with certain medications, including calcium channel blockers, is more closely associated with lipid emulsion therapy rather than activated charcoal. While activated charcoal does play a role in managing various poisonings, particularly those involving substances that can be well-absorbed by it, the specific mention of calcium channel blockers aligns more accurately with treatments like lipid emulsion therapy.",
+        "question": "What method is primarily used for treating poisoning with substances like calcium channel blockers?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 258,
+            "paragraph_id": "978-0702083471-p258-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Barium salts",
+        "false_answer": "Barium salts",
+        "incorrect_explanation": "According to the given information, copper sulphate is described as causing these symptoms upon ingestion, which includes nausea, vomiting, abdominal pain, diarrhea, and discolored secretions. In contrast, barium salts are associated with different primary symptoms such as GI upset, hematemesis, hypersalivation, perioral paraesthesia, cyanosis, bradycardia, chest pain, and profound hypokalaemia. Therefore, the statement incorrectly attributes the symptoms caused by copper sulphate ingestion to barium salts instead.",
+        "question": "What substance causes nausea, vomiting, abdominal pain, diarrhea, and discoloration when ingested?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 269,
+            "paragraph_id": "978-0702083471-p269-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A sharp, immediate onset of severe abdominal pain leading to fatal complications within minutes.",
+        "false_answer": "Sharp, immediate onset of severe abdominal pain leading to fatal complications within minutes following a black krait's bite.",
+        "incorrect_explanation": "According to the paragraph, while krait bites are indeed dangerous and can lead to devastating flaccid paralysis and a high mortality rate, they are characterized by being 'painless'. Some species of kraits, however, are now known to cause rhabdomyolysis and/or severe hyponatraemia. Severe abdominal pain might occur in some patients due to systemic envenoming, but the description does not accurately reflect typical observations immediately post-bite, particularly concerning the immediacy and intensity described.",
+        "question": "What is typically observed after a black krait's bite?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 284,
+            "paragraph_id": "978-0702083471-p284-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A typical dose of flumazenil given to reverse benzodiazepine effects in overdose situations is usually around 1 mg.",
+        "false_answer": "Flumazenil dosage being around 1 mg.",
+        "incorrect_explanation": "According to the information provided, the specified dose of flumazenil for countering benzodiazepine overdose is actually 0.5 mg IV, which might need repetition if necessary. Therefore, stating that a typical dose is around 1 mg introduces a factual error regarding the recommended initial dosing.",
+        "question": "What dose of flumazenil is typically administered intravenously to counteract benzodiazepine overdose?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 263,
+            "paragraph_id": "978-0702083471-p263-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Splint hemorrhage",
+        "false_answer": "Splint hemorrhage",
+        "incorrect_explanation": "The given answer incorrectly identifies splint hemorrhage as indicative of chronic liver disease when, according to the text, finger clubbing and other unspecified signs are associated with this condition.",
+        "question": "What sign might indicate chronic liver disease during examination?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 301,
+            "paragraph_id": "978-0702083471-p301-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The typical dose of nifedipine for preventing HAPE is 30mg modified release once daily.",
+        "false_answer": "The statement claims that the typical dose of nifedipine for preventing HAPE is 30mg modified release once daily.",
+        "incorrect_explanation": "According to the information provided, the actual recommendation for nifedipine prophylactically to prevent HAPE starts with a dose of 60 mg modified release divided into 2\u20133 doses, beginning one day before ascending above 2500 meters and continuing for five more days at altitude or until descending below 2500 meters.",
+        "question": "What dose of nifedipine is typically administered prophylactically to prevent High Altitude Pulmonary Oedema?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 293,
+            "paragraph_id": "978-0702083471-p293-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ascariasis",
+        "false_answer": "Ascariasis",
+        "incorrect_explanation": "According to the table detailing parasite infections causing eosinophilia, Ancylostoma duodenale actually leads to anaemia, not ascariasis. Ascariasis refers specifically to an infection with Ascaris lumbricoides, which causes L\u00f6ffler's syndrome.",
+        "question": "What clinical syndrome does Ancylostoma duodenale infestation commonly lead to?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 317,
+            "paragraph_id": "978-0702083471-p317-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sodium ion concentration in Pepsi is approximately 65 mmol/L.",
+        "false_answer": "Sodium ion concentration in Pepsi is approximately 65 mmol/L.",
+        "incorrect_explanation": "According to Box 13.13, the actual concentration of sodium ions in Pepsi is listed as 6.5 mmol/L, which makes the statement incorrect because it overestimates the true value by nearly tenfold.",
+        "question": "What concentration of sodium ions is present in Pepsi according to Box 13.13?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 313,
+            "paragraph_id": "978-0702083471-p313-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 75% of these cases result in septic conditions.",
+        "false_answer": "Approximately 75% of Deep Venous Thrombosis cases resulting from femoral vein injection experience septic conditions.",
+        "incorrect_explanation": "According to the given information, approximately 50%, not 75%, of Deep Venous Thromboses caused by femoral vein injections are septic.",
+        "question": "What percentage of patients developing Deep Venous Thrombosis due to femoral vein injection experience septicaemia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 305,
+            "paragraph_id": "978-0702083471-p305-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For Ebola fever, there's a consistent mortality rate of exactly 40%.",
+        "false_answer": "Exactly 40%",
+        "incorrect_explanation": "According to the table provided in the paragraph, Ebola fever actually has a mortality rate ranging between 25% and 90%, indicating variability rather than a fixed rate of 40%. Therefore, stating a single exact mortality rate of 40% for Ebola fever is inaccurate.",
+        "question": "What mortality rate is specifically noted for individuals diagnosed with Ebola fever?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 328,
+            "paragraph_id": "978-0702083471-p328-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Desquamation typically starts within 5 days following the onset of symptoms.",
+        "false_answer": "Desquamination typically starts within 5 days following the onset of symptoms.",
+        "incorrect_explanation": "According to the paragraph, recovery from TSS is actually accompanied by desquamation occurring around 7\u201310 days after symptom onset, not within 5 days. Therefore, the statement contains a factual error regarding the timing of desquamation in relation to the start of symptoms.",
+        "question": "What is the typical duration before recovery from Staphylococcal Toxic Shock Syndrome (TSS) is marked by desquamation?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 340,
+            "paragraph_id": "978-0702083471-p340-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Airborne transmission",
+        "false_answer": "Airborne transmission",
+        "incorrect_explanation": "According to the paragraph, SARS-CoV-2 is believed to be predominantly transmitted by droplet spread in most circumstances, except during aerosol-generating procedures. Thus, the primary mode of transmission during normal breathing would be droplet spread, not airborne transmission.",
+        "question": "What method does SARS-CoV-2 primarily use for transmission during normal breathing?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 334,
+            "paragraph_id": "978-0702083471-p334-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nearly everyone worldwide lacks the Duffy blood group, making them resistant to *P. vivax*.",
+        "false_answer": "Nearly everyone worldwide lacks the Duffy blood group.",
+        "incorrect_explanation": "This statement is incorrect because it suggests a global deficiency of the Duffy blood group, implying universal resistance to *P. vivax*. In reality, the Duffy blood group's absence primarily offers protection to individuals of West African descent specifically against *P. vivax*, not universally across all populations.",
+        "question": "How frequently do West Africans get infected with *P. vivax* given their genetic predisposition concerning the Duffy blood group?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 359,
+            "paragraph_id": "978-0702083471-p359-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Through direct transmission from infected humans to others.",
+        "false_answer": "Direct transmission from infected humans to others.",
+        "incorrect_explanation": "According to the given information, Clostridium perfringens food poisoning primarily occurs when contaminated meat products are incompletely cooked and stored under anaerobic conditions, allowing spores to germinate and viable organisms to multiply, leading to the production of enterotoxin upon subsequent heating of the food.",
+        "question": "What is the primary mode through which Clostridium perfringens causes food poisoning?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 349,
+            "paragraph_id": "978-0702083471-p349-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Melarsoprol is recommended for both Rhodesiense and Gambiense infections when the central nervous system is involved.",
+        "false_answer": "Melarsoprol is recommended for both Rhodesiense and Gambiense infections when the central nervous system is involved.",
+        "incorrect_explanation": "According to the information provided, Melarsoprol is specifically recommended for treating Stage 2 Rhodesiense infection. For Gambiense infections involving the central nervous system (Stage 2), the recommended treatment is Nifurtimox-Eflornithine Combination Therapy (NECT), which consists of nifurtimox and efhornithine (DFMO) administered together.",
+        "question": "What is the recommended first-line treatment approach for patients diagnosed with Gambiense Human African Trypanosomiasis who present with severe symptoms indicating central nervous system invasion?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 363,
+            "paragraph_id": "978-0702083471-p363-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A dosage of 10\u201315 mg/kg daily for 28 days.",
+        "false_answer": "A dosage of 10\u201315 mg/kg daily for 28 days.",
+        "incorrect_explanation": "According to the provided information, the actual recommendation for treating Loiasis with DEC is a dose of 9\u201312 mg/kg daily, continued for 21 days, not 10\u201315 mg/kg for 28 days.",
+        "question": "What dosage of Diethylcarbamazine (DEC) per kilogram is recommended for treating Loiasis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 375,
+            "paragraph_id": "978-0702083471-p375-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60% of infected persons develop espundia.",
+        "false_answer": "Approximately 60% of infected persons develop espundia.",
+        "incorrect_explanation": "According to the paragraph, actually between 2%\u201340% of infected persons develop 'espundia'. Therefore, stating approximately 60% is both higher than the maximum range and introduces a significant error regarding the prevalence of this condition among infected individuals.",
+        "question": "What percentage of individuals infected with *Leishmania* parasites develop 'espundia', characterized by thickening and erythema of the nasal mucosa?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 369,
+            "paragraph_id": "978-0702083471-p369-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Treatment of severe or life-threatening pulmonary sporotrichosis typically involves the use of fluconazole.",
+        "false_answer": "Fluconazole treatment for severe or life-threatening pulmonary sporotrichosis.",
+        "incorrect_explanation": "According to the information provided, severe or life-threatening disease is actually treated with amphotericin B (with lipid formulation preferred), not fluconazole.",
+        "question": "What is typically involved in treating severe or life-threatening pulmonary sporotrichosis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 383,
+            "paragraph_id": "978-0702083471-p383-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Clindamycin.",
+        "false_answer": "Clindamycin.",
+        "incorrect_explanation": "According to the table outlining treatments for various opportunistic infections, clindamycin is listed as an alternative treatment option, whereas co-trimoxazole (20/100 mg/kg/day IV/PO) is specified as the standard initial choice for treating Pneumocystis jirovecii pneumonia.",
+        "question": "What is typically prescribed as first-line treatment for Pneumocystis jirovecii pneumonia?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 400,
+            "paragraph_id": "978-0702083471-p400-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 15 years",
+        "false_answer": "Approximately 15 years",
+        "incorrect_explanation": "The paragraph specifies that the natural history of untreated HIV infection typically spans around 10 years before progressing to late-stage disease, indicating a discrepancy between the given answer and the actual duration stated in the paragraph.\n- **Correct Answer Should Be:** Around 10 years",
+        "question": "What is the typical duration spanned by the natural history of untreated HIV infection?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 395,
+            "paragraph_id": "978-0702083471-p395-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sebaceous glands located within the vagina.",
+        "false_answer": "Sebaceous glands located within the vagina.",
+        "incorrect_explanation": "The paragraph mentions being aware of normal anatomical features such as prominent sebaceous or paraurethral glands, specifically noting these around the labia majora and minora, indicating their presence outside the vaginal canal rather than inside it. Thus, the statement incorrectly places these glands within the vagina instead of near the vulvar area, which includes structures like the labia majora and minora.",
+        "question": "What feature should healthcare professionals be aware of when examining the vulva during a routine checkup?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 412,
+            "paragraph_id": "978-0702083471-p412-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Diffuse infiltrative lymphocytosis syndrome (DILS) primarily affects individuals with severe immune suppression.",
+        "false_answer": "Diffuse infiltrative lymphocytosis syndrome (DILS) primarily affects individuals with severe immune suppression.",
+        "incorrect_explanation": "According to the given text, DILS actually usually presents in patients with mild immune suppression, making this statement incorrect. Therefore, the correct understanding should note that DILS tends to manifest in those with less compromised immune systems within the context of HIV infection.",
+        "question": "What condition involving polyclonal CD8 lymphocytic infiltration of tissues commonly manifests with bilateral parotid gland enlargement?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 405,
+            "paragraph_id": "978-0702083471-p405-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 85% of syphilis cases in the UK are in men who have sex with men.",
+        "false_answer": "Approximately 85% of syphilis cases in the UK are in men who have sex with men.",
+        "incorrect_explanation": "The given answer incorrectly states the proportion of syphilis cases among men who have sex with men (MSM) in the UK. According to the paragraph, about 75% of syphilis cases in the UK are actually among MSM, not 85%.",
+        "question": "What proportion of syphilis cases in the UK are among men who have sex with men?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 419,
+            "paragraph_id": "978-0702083471-p419-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Myocardial perfusion scanning uses caffeine as a pharmacological agent instead of physical exercise when needed.",
+        "false_answer": "Caffeine is used as a pharmacological agent for myocardial perfusion scanning when physical exercise cannot be performed.",
+        "incorrect_explanation": "According to the paragraph, when physical exercise cannot be used for stress testing in myocardial perfusion scanning, pharmacological agents like dobutamine (an inotrope) or dipyridamole (a vasodilator) are utilized, not caffeine. Therefore, the statement regarding the use of caffeine is incorrect.",
+        "question": "What type of stress test is typically combined with myocardial perfusion scanning when physical exercise cannot be performed?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 441,
+            "paragraph_id": "978-0702083471-p441-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Doxycycline 200 mg orally twice daily for 7 days.",
+        "false_answer": "Doxycycline 200 mg orally twice daily for 7 days.",
+        "incorrect_explanation": "The provided dosage and administration frequency differ from the recommended dosage. According to the paragraph, the correct dosage for uncomplicated chlamydial infection is Doxycycline 100 mg orally twice daily for 7 days, making the answer incorrect due to an altered dosage amount.\n- **Correct Answer Should Be:** Doxycycline 100 mg orally twice daily for 7 days.",
+        "question": "What is the standard dosing schedule for Doxycycline when used as the first-choice treatment for uncomplicated chlamydial infection?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 422,
+            "paragraph_id": "978-0702083471-p422-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Typically, the ventricular response rate during atrial flutter is around 200/min.",
+        "false_answer": "Around 200/min.",
+        "incorrect_explanation": "According to the given information, atrial flutter's typical association includes 2:1, 3:1, or 4:1 AV block, resulting in heart rates of 150, 100, or 75/min respectively, rather than a fixed 200/min rate. Thus, the statement does not accurately reflect common patterns observed in atrial flutter.",
+        "question": "What is typically the ventricular response rate during atrial flutter characterized by approximately 300/min atrial rate?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 456,
+            "paragraph_id": "978-0702083471-p456-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "These murmurs should be evaluated with the bell of the stethoscope.",
+        "false_answer": "Evaluate early diastolic murmurs with the bell of the stethoscope.",
+        "incorrect_explanation": "According to the given information, early diastolic murmurs should actually be evaluated with the diaphragm of the stethoscope because they have a soft, blowing quality with a decrescendo pattern, which contrasts with how these types of murmurs were described as needing assessment via another method in the false answer. Therefore, the correct approach involves utilizing the diaphragm rather than the bell for optimal detection.",
+        "question": "What method should be used to evaluate early diastolic murmurs caused by regurgitation across the aortic or pulmonary valves?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 445,
+            "paragraph_id": "978-0702083471-p445-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A concealed accessory pathway conducts signals from the atria to the ventricles exclusively.",
+        "false_answer": "A concealed accessory pathway conducts signals from the atria to the ventricles exclusively.",
+        "incorrect_explanation": "According to the given information, a concealed accessory pathway actually conducts signals in the retrograde direction (from ventricles to atria) and does not affect the appearance of the ECG in sinus rhythm, unlike what happens with a manifest accessory pathway which conducts in both directions and alters the ECG.",
+        "question": "What characterizes a concealed accessory electrical pathway in the heart?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 460,
+            "paragraph_id": "978-0702083471-p460-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 70% of internal mammary artery grafts are patent 10 years after surgery.",
+        "false_answer": "Approximately 70% of internal mammary artery grafts are patent 10 years after surgery.",
+        "incorrect_explanation": "According to the paragraph, the actual percentage of internal mammary artery grafts remaining patent 10 years after surgery is over 80%, making the statement incorrect. Therefore, the correct answer should state that more than 80% of these grafts remain patent.",
+        "question": "What percentage of internal mammary artery grafts remain patent ten years after coronary artery bypass grafting?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 475,
+            "paragraph_id": "978-0702083471-p475-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To determine the necessity of immediate surgical intervention.",
+        "false_answer": "To determine the necessity of immediate surgical intervention.",
+        "incorrect_explanation": "According to the paragraph, CT coronary angiography clarifies the diagnosis, guides the use of preventive and anti-anginal therapies, and serves as a guide for the appropriate use of invasive cardiac catheterization, rather than determining the need for immediate surgery. Instead, it helps reduce unnecessary procedures and targets them towards those who would truly benefit, thereby improving outcomes through better-targeted interventions.",
+        "question": "What is the primary purpose of CT coronary angiography in diagnosing and managing angina?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 471,
+            "paragraph_id": "978-0702083471-p471-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Temporary pacing systems should ideally not exceed 30 days of usage to minimize complication risks.",
+        "false_answer": "Temporary pacing systems should ideally not exceed 30 days of usage.",
+        "incorrect_explanation": "According to the paragraph, the recommendation is actually to limit the use of temporary pacing systems to less than 7 days, as complication rates increase with time.",
+        "question": "What is the recommended maximum duration for using a temporary pacing system?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 466,
+            "paragraph_id": "978-0702083471-p466-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Aspirin should be taken orally in doses ranging from 50\u2013200 mg daily.",
+        "false_answer": "Oral administration of 50\u2013200 mg aspirin daily.",
+        "incorrect_explanation": "According to the paragraph, the recommended dose of aspirin for improving survival ranges from 75\u2013325 mg daily, with the first tablet being 300 mg. Therefore, stating a range of 50\u2013200 mg is both too narrow and includes dosages outside the specified effective range.",
+        "question": "What dosage range of aspirin is recommended for improving survival when administered orally?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 482,
+            "paragraph_id": "978-0702083471-p482-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mild hypertension exists when the BP is above 150/100 mmHg.",
+        "false_answer": "Mild hypertension exists when the BP is above 150/100 mmHg.",
+        "incorrect_explanation": "According to the paragraph, the British Hypertension Society defines mild hypertension as existing when the BP is above 140/90 mmHg, making the statement incorrect.",
+        "question": "What threshold does the British Hypertension Society classify as defining mild hypertension?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 490,
+            "paragraph_id": "978-0702083471-p490-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Severe aortic stenosis resulting from rheumatic disease typically occurs at 20-40 years old.",
+        "false_answer": "Severe aortic stenosis resulting from rheumatic disease typically occurs at 20-40 years old.",
+        "incorrect_explanation": "According to the paragraph, rheumatic disease of the aortic valve presents similarly to bicuspid aortic valves, generally affecting individuals in their 30-60 years, especially considering the gradual nature of stenosis development.\n- **Correct Answer Should Be:** Patients with rheumatic disease tend to experience severe aortic stenosis around 30-60 years of age.",
+        "question": "At what typical age range does severe aortic stenosis resulting from rheumatic disease tend to occur?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 502,
+            "paragraph_id": "978-0702083471-p502-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10%.",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "The paragraph mentions several percentages regarding different types of endocarditis (such as around 3%-4% for the HACEK group), but it does not specify any particular percentage for Brucella endocarditis; thus, stating it accounts for approximately 10% introduces a number not supported by the given text.",
+        "question": "What percent of cases does Brucella endocarditis account for?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 507,
+            "paragraph_id": "978-0702083471-p507-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hepatitis B",
+        "false_answer": "Hepatitis B",
+        "incorrect_explanation": "The paragraph lists several viruses that can cause myocarditis, specifically mentioning Coxsackie, adenovirus, influenza A, human immunodeficiency virus (HIV), influenza B, and SARS-CoV-2. Hepatitis B is not listed among them, making the statement incorrect. According to the provided information, one of the correctly identified viral agents alongside influenza A would actually be another listed virus like HIV or SARS-CoV-2.",
+        "question": "What viral agent is identified alongside influenza A as a potential cause of myocarditis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 517,
+            "paragraph_id": "978-0702083471-p517-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Coarctation of the aorta is three times as common in females.",
+        "false_answer": "Coarctation of the aorta is three times as common in females.",
+        "incorrect_explanation": "According to the provided paragraph, coarctation of the aorta is actually *twice as common* in *males*, contradicting the statement made in the answer. Therefore, the correct observation regarding the gender distribution should reflect that coarctation of the aorta is twice as common in males, not three times as common in females.",
+        "question": "What is the typical gender distribution observed in patients diagnosed with coarctation of the aorta?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 513,
+            "paragraph_id": "978-0702083471-p513-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Restrictive cardiomyopathy.",
+        "false_answer": "Restrictive cardiomyopathy.",
+        "incorrect_explanation": "While both conditions affect the filling of the heart, they are distinct. Restrictive cardiomyopathy involves stiffness of the heart muscle itself, limiting ventricular expansion. In contrast, constrictive pericarditis refers specifically to the constraint imposed by the pericardium being thickened, calcified, or scarred, preventing proper heart movement and expansion. Thus, the description given fits more accurately with constrictive pericarditis rather than restrictive cardiomyopathy.",
+        "question": "What condition does constriction of the heart due to compression by fluid accumulation typically describe?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 522,
+            "paragraph_id": "978-0702083471-p522-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Finger clubbing describes painful swelling of the terminal phalanges.",
+        "false_answer": "Finger clubbing describes painful swelling of the terminal phalanges.",
+        "incorrect_explanation": "According to the paragraph, finger clubbing actually describes *painless* swelling of the soft tissues of the terminal phalanges, causing increased longitudinal and lateral convexity of the nail. Therefore, the statement incorrectly introduces pain as a characteristic of finger clubbing when, in fact, it is described as being painless.",
+        "question": "What does finger clubbing describe?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 538,
+            "paragraph_id": "978-0702083471-p538-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "White blood cells",
+        "false_answer": "White blood cells",
+        "incorrect_explanation": "While white blood cells might occasionally be present, specifically red blood cells and eosinophils are noted characteristics in cases of pulmonary infarction leading to pleural effusion. Therefore, stating \"white blood cells\" alone does not accurately represent what is typically found in the pleural fluid during pulmonary infarction.",
+        "question": "What is typically found in the pleural fluid when there's pulmonary infarction?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 543,
+            "paragraph_id": "978-0702083471-p543-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Around 10%-15%.",
+        "false_answer": "Around 10%-15%.",
+        "incorrect_explanation": "According to the paragraph, CAP accounts for around 5%\u201312% of all lower respiratory tract infections, not 10%-15%. Therefore, the correct answer should reflect this specified range.",
+        "question": "What percentage range of all lower respiratory tract infections does Community-Acquired Pneumonia (CAP) account for?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 559,
+            "paragraph_id": "978-0702083471-p559-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adults over 70 are often given a year-long course of chemoprophylaxis.",
+        "false_answer": "Adults over 70 are often given a year-long course of chemoprophylaxis.",
+        "incorrect_explanation": "According to the information provided, chemoprophylaxis should be offered to adults up to the age of 65, though age-specific cutoffs vary by country. Furthermore, typical durations mentioned include a course of rifampicin and isoniazid for 3 months or isoniazid alone for 6 months, indicating that the standard recommendation does not specify a year-long course nor targets specifically adults over 70.",
+        "question": "What is typically the duration of chemoprophylaxis offered to adults?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 569,
+            "paragraph_id": "978-0702083471-p569-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Over three-quarters of primary lung tumors.",
+        "false_answer": "Over three-quarters of primary lung tumors.",
+        "incorrect_explanation": "The statement claims over three-quarters of primary lung tumors can be visualized and sampled directly through a flexible bronchoscope, contradicting the actual proportion provided in the paragraph. According to the paragraph, over *half* of primary lung tumors can be visualized and sampled this way, not over three-quarters. Therefore, the correct answer should reflect this accurate proportion.",
+        "question": "What proportion of primary lung tumors can typically be visualized and sampled directly via flexible bronchoscope?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 576,
+            "paragraph_id": "978-0702083471-p576-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The decision to perform a CTPA during pregnancy primarily depends on minimizing exposure to maternal breast tissue.",
+        "false_answer": "Minimizing exposure to maternal breast tissue is the primary consideration for performing a CTPA during pregnancy.",
+        "incorrect_explanation": "While considering the risk of radiation to breast tissue is important, especially in cases of a family history of breast carcinoma, the primary concern actually involves balancing the risks of radiation exposure against the need for accurate diagnosis. According to the text, the choice between CTPA and V/Q scanning in pregnant women considers both fetal exposure and maternal benefits, emphasizing safety and diagnostic necessity rather than focusing solely on breast tissue protection.",
+        "question": "What is the primary consideration when deciding whether to perform a computed tomography pulmonary angiogram (CTPA) during pregnancy?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 594,
+            "paragraph_id": "978-0702083471-p594-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of cases.",
+        "false_answer": "Approximately 80% of cases.",
+        "incorrect_explanation": "According to the provided text, fibrosis actually occurs in around 20% of cases of pulmonary sarcoidosis, making the statement significantly inaccurate.",
+        "question": "What percentage of patients with pulmonary sarcoidosis develop fibrosis?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 584,
+            "paragraph_id": "978-0702083471-p584-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "For primary FSGS treatment, the standard dose of glucocorticoids is between 1.5 and 4.0 mg/kg/day.",
+        "false_answer": "The standard dose of glucocorticoids for primary FSGS is between 1.5 and 4.0 mg/kg/day.",
+        "incorrect_explanation": "According to the given information, the actual recommended dosage range of glucocorticoids for primary FSGS is 0.5\u20132.0 mg/kg/day, making the provided answer inaccurate.",
+        "question": "What is the typical dosage range of glucocorticoids prescribed for primary FSGS?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 621,
+            "paragraph_id": "978-0702083471-p621-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A FENa greater than 5.0% indicates pre-renal failure.",
+        "false_answer": "A FENa greater than 5.0% indicates pre-renal failure.",
+        "incorrect_explanation": "According to the text, a FENa typically greater than 1.0%, not 5.0%, suggests acute tubular necrosis rather than pre-renal failure. Pre-renal failure is indicated by a FENa typically less than 1.0%. Thus, stating that a FENa greater than 5.0% indicates pre-renal failure introduces both a numerical error and reversals of conditions associated with different ranges of FENa values.",
+        "question": "What does a Fractional Excretion of Sodium (FENa) greater than 5.0% typically indicate?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 610,
+            "paragraph_id": "978-0702083471-p610-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Percussion over the right flank.",
+        "false_answer": "Percussion over the right flank.",
+        "incorrect_explanation": "The statement incorrectly suggests checking for the left kidney via percussion over the wrong side. According to standard anatomical locations, each kidney would typically correspond to being examined on their respective sides. Therefore, the correct approach to examine the left kidney involves percussing for tenderness in the area corresponding to the left renal angle rather than the right flank.",
+        "question": "What method can be used during clinical examination to check for abnormalities specifically associated with the left kidney?",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 606,
+            "paragraph_id": "978-0702083471-p606-para1"
+        },
+        "type": "short_inverse"
+    }
+]

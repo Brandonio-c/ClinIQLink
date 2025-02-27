@@ -1,0 +1,3282 @@
+[
+    {
+        "answer": "False",
+        "question": "Withdrawal typically presents with stooped posture.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 60,
+            "paragraph_id": "978-1609139711-p60-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients being interviewed through one-way mirrors do not need to be informed about the presence of observers behind them.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 26,
+            "paragraph_id": "978-1609139711-p26-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Anxiety impairs immediate retention and long-term memory.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 64,
+            "paragraph_id": "978-1609139711-p64-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "No established clinical uses currently exist for MDMA.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 977,
+            "paragraph_id": "978-1609139711-p977-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Network therapy combines psychodynamic and cognitive-behavioral approaches while involving the patient's peers and significant others.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 987,
+            "paragraph_id": "978-1609139711-p987-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cocaine usage led to agitation and irregular breathing patterns in some cases.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 982,
+            "paragraph_id": "978-1609139711-p982-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Risperidone's peak plasma level for the parent compound occurs after 3 hours.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1931,
+            "paragraph_id": "978-1609139711-p1931-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Clozapine does not have an FDA indication for treating both mania and depression despite being highly effective for these conditions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1928,
+            "paragraph_id": "978-1609139711-p1928-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Risperidone is approved by the FDA for the long-term treatment of mania.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1925,
+            "paragraph_id": "978-1609139711-p1925-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Adults cannot stop developing without facing stagnation according to Erikson's theory.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2865,
+            "paragraph_id": "978-1609139711-p2865-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A couple's decision to seek happiness through separation after decades together influenced their children's understanding and eventual acceptance of the situation due to being mutually agreed upon.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2868,
+            "paragraph_id": "978-1609139711-p2868-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Certain drugs can cause urinary retention in men with prostate hypertrophy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 87,
+            "paragraph_id": "978-1609139711-p87-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A person's prenatal history includes consideration of their mother's pregnancy duration.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 99,
+            "paragraph_id": "978-1609139711-p99-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Difficulty initiating speech may be due to anxiety, stuttering, or Parkinson's disease.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 91,
+            "paragraph_id": "978-1609139711-p91-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ms. G consumed four to six 20-oz bottles of caffeinated diet cola per day.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1009,
+            "paragraph_id": "978-1609139711-p1009-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Varenicline reduces the reinforcing effects of nicotine by blocking dopaminergic stimulation responsible for smoking reinforcement/reward.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1001,
+            "paragraph_id": "978-1609139711-p1001-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Designer amphetamines cause the release of serotonin but do not affect other neurotransmitters.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 992,
+            "paragraph_id": "978-1609139711-p992-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A combination of a nicotine patch and nicotine gum helped Ms. H remain abstinent throughout her entire attempt to stop smoking cigarettes.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 996,
+            "paragraph_id": "978-1609139711-p996-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nicotine reaches the brain within 10 minutes after being inhaled during smoking.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1004,
+            "paragraph_id": "978-1609139711-p1004-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Asenapine should be taken while fasting to maximize absorption rates.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1942,
+            "paragraph_id": "978-1609139711-p1942-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ziprasidone causes significant weight gain in patients.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1939,
+            "paragraph_id": "978-1609139711-p1939-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Quetiapine's pharmacokinetics allow for administration less frequently than twice a day because its receptor occupancy persists after serum levels decline significantly.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1936,
+            "paragraph_id": "978-1609139711-p1936-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Clozapine is always used immediately after diagnosis of psychosis due to its effectiveness.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1948,
+            "paragraph_id": "978-1609139711-p1948-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Erikson's final psychosocial stage involves resolving the crisis between integrity and acceptance.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2890,
+            "paragraph_id": "978-1609139711-p2890-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In 2010, almost half of older women under 75 years old lived alone.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2882,
+            "paragraph_id": "978-1609139711-p2882-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "By 2050, the oldest-old are expected to make up more than half of the entire U.S. population.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2887,
+            "paragraph_id": "978-1609139711-p2887-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Older adults who engage in continued social interactions tend to exhibit improved emotional well-being compared to those experiencing isolation.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2895,
+            "paragraph_id": "978-1609139711-p2895-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A complete denial of illness indicates an absence of intellectual insight.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 106,
+            "paragraph_id": "978-1609139711-p106-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Physicians are allowed to disclose protected health information without obtaining patient authorization when it's needed for routine purposes such as treatment, payment, and healthcare operations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 117,
+            "paragraph_id": "978-1609139711-p117-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Psychotherapy notes should always be included with the rest of the medical records.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 112,
+            "paragraph_id": "978-1609139711-p112-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The LEAD standard includes expert clinical evaluation and medical records as components.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 123,
+            "paragraph_id": "978-1609139711-p123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Psilocybin remains active when ingested raw but loses potency when dried or cooked into foods.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1027,
+            "paragraph_id": "978-1609139711-p1027-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hallucinogens are classified as Schedule II controlled substances.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1023,
+            "paragraph_id": "978-1609139711-p1023-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tapering off of caffeine typically takes around seven months to complete.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1013,
+            "paragraph_id": "978-1609139711-p1013-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children with mental disabilities, particularly those diagnosed with autistic disorder, do not receive treatments involving antipsychotic drugs for controlling aggressive behaviors.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1955,
+            "paragraph_id": "978-1609139711-p1955-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Decanoate preparations of antipsychotic medications are always absorbed slower than enanthate preparations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1971,
+            "paragraph_id": "978-1609139711-p1971-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Low-potency drugs, including chlorpromazine, are less likely to induce seizures compared to high-potency drugs.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1958,
+            "paragraph_id": "978-1609139711-p1958-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tricyclic drugs and SSRIs that do not inhibit CYP2D6 result in decreased plasma concentrations of both tricyclics and DRAs when interacting with them.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1967,
+            "paragraph_id": "978-1609139711-p1967-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Both the Eating Disorder Examination (EDE) and the Bulimia Test-Revised (BULIT-R) require administration by a trained clinician.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 144,
+            "paragraph_id": "978-1609139711-p144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Hamilton Rating Scale for Depression (HAM-D) includes all symptoms for depression listed in DSM-III and its successors.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 134,
+            "paragraph_id": "978-1609139711-p134-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A diagnosis with the Clinician-Administered PTSD Scale (CAPS) requires one symptom of avoidance.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 138,
+            "paragraph_id": "978-1609139711-p138-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The CBCL generates definitive medical diagnoses.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 148,
+            "paragraph_id": "978-1609139711-p148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Activated charcoal binds PCP and reduces its toxicity in human subjects according to the provided medical research.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1040,
+            "paragraph_id": "978-1609139711-p1040-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Chronic inhalant users often exhibit peripheral neuropathy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1050,
+            "paragraph_id": "978-1609139711-p1050-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A person experiencing hallucinogen intoxication typically displays pupillary constriction.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1032,
+            "paragraph_id": "978-1609139711-p1032-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Inhalant use disorder is one of the categories included under the broader classification of \"other (or unknown) substance-related disorders.\"",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1045,
+            "paragraph_id": "978-1609139711-p1045-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Alterations of consciousness due to hypnosis affect the basic anatomical structure of the sensory systems in humans.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2925,
+            "paragraph_id": "978-1609139711-p2925-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Somatosensory system processes six somatosensory modalities including light touch, pressure, pain, temperature, vibration, but excludes proprioception.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2914,
+            "paragraph_id": "978-1609139711-p2914-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Animal studies have found that NMDA glutamate receptors are involved in the formation of the hippocampal place code.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2937,
+            "paragraph_id": "978-1609139711-p2937-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Open communication between parents and teenagers plays a significant role in shaping the teenager's emotional well-being.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2904,
+            "paragraph_id": "978-1609139711-p2904-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Responses to facial features predominantly occur in the right inferior temporal cortex (ITC).",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2920,
+            "paragraph_id": "978-1609139711-p2920-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cerebral ablation renders unintentional movements uncoordinated but does not affect voluntary movements.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2928,
+            "paragraph_id": "978-1609139711-p2928-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of left-handers have right-hemispheric language dominance.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2933,
+            "paragraph_id": "978-1609139711-p2933-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Psychopharmacology is a discipline focused primarily on the psychological impacts of pharmacologically active substances on individuals diagnosed with various mental health conditions but does not delve significantly into their neurological mechanisms at the cellular level.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2907,
+            "paragraph_id": "978-1609139711-p2907-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Damage to the frontal lobe does not result in disorientation and difficulty with cognitive functions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 155,
+            "paragraph_id": "978-1609139711-p155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately two-thirds of left-handed individuals exhibit left-hemisphere dominance for language.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 154,
+            "paragraph_id": "978-1609139711-p154-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Max is a black-colored dog.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1071,
+            "paragraph_id": "978-1609139711-p1071-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Exogenously administered Anabolic-Androgenic Steroids (AAS) lead to increased endogenous testosterone production through stimulation of the hypothalamic-pituitary-gonadal axis.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1059,
+            "paragraph_id": "978-1609139711-p1059-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Euphoria is listed as one of the typical symptoms associated with anabolic steroid use.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1055,
+            "paragraph_id": "978-1609139711-p1055-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The capital city of France is Berlin.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1068,
+            "paragraph_id": "978-1609139711-p1068-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A normative sample of exactly 2,600 subjects was used to construct the Minnesota Multiphasic Personality Inventory 2 after eliminating participants due to test invalidity or incomplete information.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 182,
+            "paragraph_id": "978-1609139711-p182-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Facial recognition is a method used to assess complex visuospatial abilities.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 176,
+            "paragraph_id": "978-1609139711-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Minnesota Multiphasic Personality Inventory-2 contains fewer than 500 questions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 186,
+            "paragraph_id": "978-1609139711-p186-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A gyrus contains parts of several brain structures related to emotion regulation called the limbic system.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2942,
+            "paragraph_id": "978-1609139711-p2942-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "During the first two postnatal years, up to 30 million synapses form per second due to peak synaptogenesis activity.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2949,
+            "paragraph_id": "978-1609139711-p2949-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Insulin-like growth factor I regulates cell survival promotion but does not affect other aspects of neuron development.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2953,
+            "paragraph_id": "978-1609139711-p2953-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The presence of hepatomegaly in a patient is diagnostic for alcohol use disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 202,
+            "paragraph_id": "978-1609139711-p202-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neuroleptic malignant syndrome is characterized by autonomic instability, hyperpyrexia, severe extrapyramidal symptoms, and muscle rigidity but does not involve significant elevations in creatine kinase levels due to sustained muscle contractions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 207,
+            "paragraph_id": "978-1609139711-p207-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tachypnea is one symptom associated with salicylate toxicity.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 205,
+            "paragraph_id": "978-1609139711-p205-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A comprehensive patient assessment requires only a thorough history but does not need collateral sources of information.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 196,
+            "paragraph_id": "978-1609139711-p196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists research articles regarding addiction published before 2020.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1087,
+            "paragraph_id": "978-1609139711-p1087-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizophrenia can be diagnosed through a single mental status examination alone.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1091,
+            "paragraph_id": "978-1609139711-p1091-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Major depressive disorder primarily affects males rather than females.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1076,
+            "paragraph_id": "978-1609139711-p1076-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neural stem cells primarily reside outside of the cerebral cortex and hippocampus.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2963,
+            "paragraph_id": "978-1609139711-p2963-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The presence of a roof plate is essential for the formation of the cerebellum and midline hippocampal structures during spinal cord development.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2958,
+            "paragraph_id": "978-1609139711-p2958-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Birds lay soft-shelled eggs.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2970,
+            "paragraph_id": "978-1609139711-p2970-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Deletions of Lef1 lead to the absence of the cerebral cortex.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2973,
+            "paragraph_id": "978-1609139711-p2973-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients with schizophrenia consistently exhibit increased metabolic activity in the frontal lobes when performing tasks that require the prefrontal cortex.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 223,
+            "paragraph_id": "978-1609139711-p223-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Ethanol directly exerts neurotoxic and gliotoxic effects according to research findings documented via MRI applications to alcohol dependence.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 229,
+            "paragraph_id": "978-1609139711-p229-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "HIV patients with chronic hepatitis B who exhibit active viral replication are at an increased risk of developing certain health complications.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 216,
+            "paragraph_id": "978-1609139711-p216-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Normal pressure hydrocephalus progresses to the point of acutely increased intracranial pressure before stabilization.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 220,
+            "paragraph_id": "978-1609139711-p220-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Brief psychotic disorder includes negative symptoms among its diagnostic criteria.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1115,
+            "paragraph_id": "978-1609139711-p1115-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mrs. P's initial diagnosis involved symptoms that included hearing voices, which started approximately 10 years after the onset of her illness.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1108,
+            "paragraph_id": "978-1609139711-p1108-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Psychotic symptoms in mood disorders do not completely resolve once the underlying depression is treated.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1127,
+            "paragraph_id": "978-1609139711-p1127-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A person with delusional disorder may experience complete remission after taking prescribed medication and therapy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1121,
+            "paragraph_id": "978-1609139711-p1121-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizophrenia and substance use disorders do not share a common etiology and pathology.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1129,
+            "paragraph_id": "978-1609139711-p1129-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "People wearing blue-tinted glasses perceive red hues less intensely.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1124,
+            "paragraph_id": "978-1609139711-p1124-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In studies examining alcohol dependence through Magnetic Resonance Spectroscopy (MRS), cortical GABA levels during acute withdrawal appear normal but decrease upon recovery.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 232,
+            "paragraph_id": "978-1609139711-p232-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Infants aged 18 months or younger can typically engage in symbolic play with toys, exhibiting their developmental level and emotional state through this mode of interaction.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 243,
+            "paragraph_id": "978-1609139711-p243-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There exists no requirement to gather detailed information regarding the child's current school functioning during psychiatric evaluations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 239,
+            "paragraph_id": "978-1609139711-p239-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 60% of patients given an antipsychotic medication for acute schizophrenia experience improvement to the point where they achieve a complete remission or exhibit only mild symptoms.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1143,
+            "paragraph_id": "978-1609139711-p1143-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The establishment of a strong therapeutic alliance is considered the most significant factor predicting the success of psychotherapy in patients with schizophrenia.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1148,
+            "paragraph_id": "978-1609139711-p1148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately twenty-five percent of patients with schizophrenia experience complete recovery after being diagnosed.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1134,
+            "paragraph_id": "978-1609139711-p1134-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Newer generation antipsychotic medications completely eliminate the risk of developing tardive dyskinesia.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1140,
+            "paragraph_id": "978-1609139711-p1140-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "First-generation antipsychotics always cause extrapyramidal side effects in patients.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1138,
+            "paragraph_id": "978-1609139711-p1138-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "DISC1 protein modulates cytoskeletal function, neurotransmission, and synaptic plasticity specifically in pyramidal neurons.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2990,
+            "paragraph_id": "978-1609139711-p2990-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Blockade of the vesicular monoamine transporter by reserpine results in increased brain levels of dopamine, serotonin, and norepinephrine.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3017,
+            "paragraph_id": "978-1609139711-p3017-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The enzyme aromatic amino acid decarboxylase is involved in both the synthesis of serotonin and the synthesis of catecholamines.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3011,
+            "paragraph_id": "978-1609139711-p3011-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There is enough information in this prompt to create a factually correct True/False statement about the topic discussed in the absent paragraph.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2979,
+            "paragraph_id": "978-1609139711-p2979-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Most serotonergic innervation of the cortex originates from the ventral tegmental area.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3000,
+            "paragraph_id": "978-1609139711-p3000-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The tuberomammillary nucleus contains histaminergic cell bodies that exhibit their lowest level of activity during REM sleep.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3004,
+            "paragraph_id": "978-1609139711-p3004-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "GABA is catabolized by GABA transaminase (GABA-T) to yield succinic semialdehyde.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3028,
+            "paragraph_id": "978-1609139711-p3028-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Neuropeptides play a role in regulating behavioral and physiological processes such as thermoregulation, eating habits, and emotional states.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3037,
+            "paragraph_id": "978-1609139711-p3037-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The genetic study suggests that the dysregulation of NMDA receptors in the brain contributes to the development of schizophrenia due to decreased availability of D-serine caused by variations in genes encoding proteins related to D-serine metabolism.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3034,
+            "paragraph_id": "978-1609139711-p3034-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 20% of glutamate found in the brain represents the neurotransmitter pool of glutamate.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3024,
+            "paragraph_id": "978-1609139711-p3024-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Myelination continues until early childhood after birth.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2984,
+            "paragraph_id": "978-1609139711-p2984-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hippocampal neuronal atrophy was observed.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2992,
+            "paragraph_id": "978-1609139711-p2992-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Schizophrenia results from too little dopaminergic activity according to the simplest formulation of the dopamine hypothesis.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1162,
+            "paragraph_id": "978-1609139711-p1162-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Advanced paternal age, specifically fathers over 60 years old, is associated with a heightened risk of their children developing schizophrenia.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1160,
+            "paragraph_id": "978-1609139711-p1160-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Parkinson's disease involves an increase in the number of D2 receptors in the caudate, putamen, and the nucleus accumbens.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1155,
+            "paragraph_id": "978-1609139711-p1155-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Some individuals diagnosed with schizophrenia might benefit from certain types of therapy approaches, including exploration of past experiences through psychotherapy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1168,
+            "paragraph_id": "978-1609139711-p1168-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thyrotropin-releasing hormone was discovered before pyroglutamylhistidylprolinamide tripeptide.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3044,
+            "paragraph_id": "978-1609139711-p3044-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Administration of substance P to animals results in behavioral effects mimicking those observed in human subjects experiencing PTSD symptoms.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3052,
+            "paragraph_id": "978-1609139711-p3052-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thyroxine hormone regulates the production of mRNA for the pituitary TRH receptor.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3046,
+            "paragraph_id": "978-1609139711-p3046-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A manic patient's predominant mood always remains consistent throughout the duration of the illness.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1174,
+            "paragraph_id": "978-1609139711-p1174-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hearing impairments cannot mimic signs of intellectual disability under certain conditions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 321,
+            "paragraph_id": "978-1609139711-p321-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In evaluating mood, feelings, and affect among older persons, nearly 50 percent of those considering suicide suffer from depression.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 288,
+            "paragraph_id": "978-1609139711-p288-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Aripiprazole reduces aggression in individuals with intellectual disabilities according to some research findings.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 325,
+            "paragraph_id": "978-1609139711-p325-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In table 1-28 section B, comprehension includes words.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 255,
+            "paragraph_id": "978-1609139711-p255-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The Developmental Test of Visual-Motor Integration (VMI) generates standard scores for children aged between 2 and 16 years old.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 268,
+            "paragraph_id": "978-1609139711-p268-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hearing impairment occurs more than twice as often in individuals with intellectual disability compared to the general population.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 276,
+            "paragraph_id": "978-1609139711-p276-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dylan's diagnosis of fragile X syndrome occurred before he reached high school age.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 316,
+            "paragraph_id": "978-1609139711-p316-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "People with moderate intellectual disability can usually acquire language and communicate effectively during late adulthood.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 313,
+            "paragraph_id": "978-1609139711-p313-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Wechsler Preschool and Primary Scale of Intelligence\u2014Revised (WPPSI-R) assesses children aged between 4 years old and over 8 years old.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 262,
+            "paragraph_id": "978-1609139711-p262-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Research exists examining the safety and tolerability of atypical antipsychotics in patients with bipolar disorder, covering prevalence, monitoring, and management.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 297,
+            "paragraph_id": "978-1609139711-p297-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The American Association on Intellectual and Developmental Disabilities (AAIDD) is involved in educating the public about intellectual disability and supports related research and legislation.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 308,
+            "paragraph_id": "978-1609139711-p308-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A neuropsychiatric examination combines information from neurologic, neuropsychological testing, and mental status examinations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 258,
+            "paragraph_id": "978-1609139711-p258-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Alpha-linolenic acid (ALA) is the parent compound of omega-3 fatty acids.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3071,
+            "paragraph_id": "978-1609139711-p3071-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Anandamide was the second endogenously produced endocannabinoid reported.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3060,
+            "paragraph_id": "978-1609139711-p3060-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Injecting DHEA and DHEA-S into the brains of mice promotes long-term memory and reverses amnesia.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3074,
+            "paragraph_id": "978-1609139711-p3074-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pharmacologic inhibitors of FAAH produce desirable effects comparable to those produced by THC but lack undesired effects such as altered appetite.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3064,
+            "paragraph_id": "978-1609139711-p3064-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Omega-3-fatty acid adjunctive therapy has been proven effective through extensive research.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1203,
+            "paragraph_id": "978-1609139711-p1203-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Untreated manic episodes last approximately 3 months.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1196,
+            "paragraph_id": "978-1609139711-p1196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A patient described feeling an \"inner emptiness and a bottomless void.\"",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1193,
+            "paragraph_id": "978-1609139711-p1193-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bipolar disorder's past year prevalence among U.S. adults was studied through data collected between 1999 and 2002.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1208,
+            "paragraph_id": "978-1609139711-p1208-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Elevated cortisol concentrations are associated with an increased incidence of mood disturbances.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3080,
+            "paragraph_id": "978-1609139711-p3080-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bipolar disorder patients exhibit decreased levels of inflammatory cytokines when experiencing mania.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3094,
+            "paragraph_id": "978-1609139711-p3094-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Thyroid hormones regulate the metabolism of food and temperature, and contribute to optimal tissue development and function across almost all bodily systems.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3085,
+            "paragraph_id": "978-1609139711-p3085-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dysthymic Disorder requires more than two months being completely symptom-free during the course of the illness.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1227,
+            "paragraph_id": "978-1609139711-p1227-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In full remission requires having zero symptoms present continuously over two months.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1224,
+            "paragraph_id": "978-1609139711-p1224-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Almost all depressed patients complain about reduced energy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1216,
+            "paragraph_id": "978-1609139711-p1216-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Karl Abraham believed that manic episodes might reflect an inability to tolerate a developmental tragedy, such as the loss of a parent.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1212,
+            "paragraph_id": "978-1609139711-p1212-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients with mosaicism due to nondisjunction after fertilization typically have more than 47 chromosomes.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 332,
+            "paragraph_id": "978-1609139711-p332-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Phenylketonuria (PKU) requires continuous dietary management throughout one's lifetime.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 336,
+            "paragraph_id": "978-1609139711-p336-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fetal damage caused by maternal infections depends solely on the type of viral infection.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 340,
+            "paragraph_id": "978-1609139711-p340-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Exposure to toxic substances such as lead is considered a risk factor for communication disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 347,
+            "paragraph_id": "978-1609139711-p347-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Measures of electroencephalography (EEG) patterns are used to assess neurocognitive function and temperament as an endophenotype for psychiatric disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3115,
+            "paragraph_id": "978-1609139711-p3115-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Genome-wide levels of significance are recommended for all replication association studies.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3110,
+            "paragraph_id": "978-1609139711-p3110-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Siblings of individuals with autism are between 5 to 20 times more likely to develop autism than someone in the general population.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3119,
+            "paragraph_id": "978-1609139711-p3119-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Modern twin studies of psychiatric disorders typically rely on unstructured interviews by a single clinician.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3102,
+            "paragraph_id": "978-1609139711-p3102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pedigree analysis focuses exclusively on mapping Mendelian disorders such as Huntington disease.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3106,
+            "paragraph_id": "978-1609139711-p3106-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "At least one episode of mania lasting less than 24 hours is sufficient to diagnose Bipolar I Disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1236,
+            "paragraph_id": "978-1609139711-p1236-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals experiencing severe bereavement are always advised against taking antidepressants due to potential side effects.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1239,
+            "paragraph_id": "978-1609139711-p1239-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Selective serotonin reuptake inhibitors (SSRIs) are the first line of treatment due to differing overall efficacies among antidepressants.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1250,
+            "paragraph_id": "978-1609139711-p1250-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive behavioral therapy is effective regardless of cognitive dysfunction levels according to Table 7-13.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1260,
+            "paragraph_id": "978-1609139711-p1260-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals experiencing depression typically exhibit normal sleep patterns.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1269,
+            "paragraph_id": "978-1609139711-p1269-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Depression affects approximately half of the global population over their lifetimes.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1263,
+            "paragraph_id": "978-1609139711-p1263-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Quetiapine and aripiprazole have the best evidence as augmentation agents among those listed.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1254,
+            "paragraph_id": "978-1609139711-p1254-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A child's speech sound error may involve substituting one sound for another, such as saying \"bwu\" instead of \"blue\".",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 369,
+            "paragraph_id": "978-1609139711-p369-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Normal 3-year-olds correctly articulate /s/.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 373,
+            "paragraph_id": "978-1609139711-p373-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lena's understanding and speaking abilities developed faster than those of her older siblings.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 365,
+            "paragraph_id": "978-1609139711-p365-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately 30% of late-talking children exhibit persistent language impairments beyond preschool years due to having mild forms of the disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 359,
+            "paragraph_id": "978-1609139711-p359-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children who receive early intervention for stuttering can be more than three times less likely to achieve full resolution of their stuttering compared to those who do not receive early treatment.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 379,
+            "paragraph_id": "978-1609139711-p379-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Phase 1 of stuttering development primarily occurs during the elementary school years.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 381,
+            "paragraph_id": "978-1609139711-p381-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Spiral galaxies primarily consist of older stars.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3143,
+            "paragraph_id": "978-1609139711-p3143-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Computer analysis of data extracted from the EEG is involved in QEEG.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3138,
+            "paragraph_id": "978-1609139711-p3138-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Methamphetamine renders animals permanently arrhythmic when administered chronically.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3151,
+            "paragraph_id": "978-1609139711-p3151-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chromosome 18 has been conclusively proven to harbor a locus associated with bipolar disorder through replicated significant linkage results.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3126,
+            "paragraph_id": "978-1609139711-p3126-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Neuregulin mediates functions related to neurotransmission and contributes significantly to the understanding of schizophrenia's etiology in humans through studies involving targeted disruptions of erbB4.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3130,
+            "paragraph_id": "978-1609139711-p3130-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Panic attacks occur exclusively in individuals diagnosed with panic disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1288,
+            "paragraph_id": "978-1609139711-p1288-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chronic stress increases glucocorticoid levels through decreased activity in the HPA axis.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1277,
+            "paragraph_id": "978-1609139711-p1277-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Psychodynamic theories of depression involve the idea that disturbances during the infant-mother relationship lead to subsequent vulnerability to depression.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1279,
+            "paragraph_id": "978-1609139711-p1279-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately 70% of autistic children do develop useful speech.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 399,
+            "paragraph_id": "978-1609139711-p399-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Autism spectrum disorder is typically evident before the end of the first year of life in most cases.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 392,
+            "paragraph_id": "978-1609139711-p392-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children diagnosed with autism spectrum disorder typically exhibit more even patterns of intelligence quotient scores compared to their peers with language disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 405,
+            "paragraph_id": "978-1609139711-p405-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Quetiapine is primarily recommended as an initial therapy option for treating generalized anxiety disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1304,
+            "paragraph_id": "978-1609139711-p1304-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hyperthyroidism is a medical condition that can produce symptoms overlapping with those of panic disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1301,
+            "paragraph_id": "978-1609139711-p1301-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Women have lower rates of almost all anxiety disorders compared to men.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1309,
+            "paragraph_id": "978-1609139711-p1309-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Social anxiety disorder involves anxiety about being negatively judged but does not require clinical significance or impairment.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1296,
+            "paragraph_id": "978-1609139711-p1296-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive therapy requires formal operational thinking but has been tested empirically regarding this requirement.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3173,
+            "paragraph_id": "978-1609139711-p3173-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Infants develop an attachment to multiple persons during the first three phases of attachment formation.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3176,
+            "paragraph_id": "978-1609139711-p3176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Positive reinforcement occurs when an action prevents or eliminates a negative event.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3186,
+            "paragraph_id": "978-1609139711-p3186-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fear conditioning requires conscious awareness for its occurrence or development.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3190,
+            "paragraph_id": "978-1609139711-p3190-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Jean Piaget referred to himself primarily as a genetic epistemologist who focused mainly on adult psychological disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3163,
+            "paragraph_id": "978-1609139711-p3163-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Simple attention from others does influence human behavior as a form of reinforcer.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3196,
+            "paragraph_id": "978-1609139711-p3196-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "During the stage of concrete operations, egocentric thought is completely eliminated in favor of operational thought.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3167,
+            "paragraph_id": "978-1609139711-p3167-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children who suffer from anaclitic depression exhibit symptoms including sadness, apathy, and weight loss.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3181,
+            "paragraph_id": "978-1609139711-p3181-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Massage therapy before bedtime improves sleep quality in children with autism spectrum disorder between the ages of 5 years and 10 years.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 411,
+            "paragraph_id": "978-1609139711-p411-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Adderall XR contains Dextroamphetamine/amphetamine and is approved for individuals aged 3 and older.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 438,
+            "paragraph_id": "978-1609139711-p438-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amantadine significantly improves hyperactivity in children with autism, as rated by investigators.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 415,
+            "paragraph_id": "978-1609139711-p415-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "CNS stimulants carry a black-box warning for potential increases in suicidal thoughts or behaviors in children with ADHD.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 434,
+            "paragraph_id": "978-1609139711-p434-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Removing the transdermal methylphenidate patch by 5 PM allowed Justin to fall asleep within 30 to 45 minutes after getting into bed.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 426,
+            "paragraph_id": "978-1609139711-p426-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Elevated serotonin levels are acquired by platelets through the process of diffusion.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 419,
+            "paragraph_id": "978-1609139711-p419-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Up to 90 percent of children with ADHD have persistent impairment from symptoms into adulthood.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 448,
+            "paragraph_id": "978-1609139711-p448-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Excoriation Disorder became recognized as a distinct mental health diagnosis with the publication of DSM-4.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1338,
+            "paragraph_id": "978-1609139711-p1338-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists evidence suggesting serotonin norepinephrine reuptake inhibitors (SNRIs) show some level of clinical efficacy in treating certain types of anxiety disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1322,
+            "paragraph_id": "978-1609139711-p1322-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Body Dysmorphic Disorder includes preoccupation with one's body appearance but does not require the presence of recurrent thoughts about comparing oneself physically to others.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1346,
+            "paragraph_id": "978-1609139711-p1346-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cities like Paris, New York City, and London have launched bike-sharing systems since 2007.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1324,
+            "paragraph_id": "978-1609139711-p1324-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Obsessive-Compulsive Disorder (OCD) typically follows an acute rather than a chronic course if left untreated.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1355,
+            "paragraph_id": "978-1609139711-p1355-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Habit Reversal Training (HRT) increases awareness regarding hair-pulling urges.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1370,
+            "paragraph_id": "978-1609139711-p1370-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cognitive-behavioral therapy (CBT) includes Exposure and Response Prevention (ERP).",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1357,
+            "paragraph_id": "978-1609139711-p1357-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of the untreated patients diagnosed with Posttraumatic Stress Disorder (PTSD) remain unchanged or worsened after one year.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1388,
+            "paragraph_id": "978-1609139711-p1388-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The 48-year-old woman presenting to the emergency room reported feeling betrayed due to her husband requesting a divorce after their 25-year marriage.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1376,
+            "paragraph_id": "978-1609139711-p1376-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Marked distress and impairment in functioning due to adjustment disorders occur immediately upon exposure to a stressor.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1382,
+            "paragraph_id": "978-1609139711-p1382-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Naturalistic experience-sampling methods involve contacting research participants once per year to assess their subjective well-being over time.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3259,
+            "paragraph_id": "978-1609139711-p3259-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Early school success among low-income children is primarily attributed to higher levels of intelligence according to the Head Start Program findings.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3254,
+            "paragraph_id": "978-1609139711-p3254-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The nonoccurrence of an aversive event reinforces an organism's avoidance behavior according to two-factor or two-process theory.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3202,
+            "paragraph_id": "978-1609139711-p3202-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sensitization studies utilizing the gill-withdrawal reflex demonstrate that long-lasting plasticity within this circuitry involves the growth of neural processes and does not require motor activity.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3210,
+            "paragraph_id": "978-1609139711-p3210-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Left inferior prefrontal cortex activation is primarily associated with the actual recall of memories rather than the initial encoding process.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3235,
+            "paragraph_id": "978-1609139711-p3235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Maturity and positive mental health are almost synonymous according to recent longitudinal studies on human development across different ages.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3247,
+            "paragraph_id": "978-1609139711-p3247-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Positive emotions originate in the amygdala.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3250,
+            "paragraph_id": "978-1609139711-p3250-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An organism learns through the process of reinforcement and punishment to associate specific actions with desired outcomes.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3207,
+            "paragraph_id": "978-1609139711-p3207-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists more than one category of human memory, including both non-declarative and declarative types.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3230,
+            "paragraph_id": "978-1609139711-p3230-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Lena exhibited difficulties in mastering basic number concepts during her time in kindergarten.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 467,
+            "paragraph_id": "978-1609139711-p467-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Brett scored below average on all subtests of the Wechsler Intelligence Scale for Children-III.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 474,
+            "paragraph_id": "978-1609139711-p474-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Developmental coordination disorder includes impairments due to medical conditions such as cerebral palsy, muscular dystrophy, or a neuromuscular disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 479,
+            "paragraph_id": "978-1609139711-p479-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dyslexia refers to a pattern of learning difficulties primarily affecting mathematical abilities.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 453,
+            "paragraph_id": "978-1609139711-p453-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A diagnosis of Persistent (Chronic) Motor or Vocal Tic would occur if symptoms of ONLY motor OR vocal tics are present.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 499,
+            "paragraph_id": "978-1609139711-p499-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Genetic factors likely play no role in stereotypic movements.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 496,
+            "paragraph_id": "978-1609139711-p496-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children who exhibit nail biting do not suffer from stereotypic movement disorder unless their nail biting causes noticeable harm.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 489,
+            "paragraph_id": "978-1609139711-p489-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Research indicates that complications during pregnancy and being prematurely born significantly increase the risk of having a reading disability.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 464,
+            "paragraph_id": "978-1609139711-p464-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Jackson meets the DSM-5 criteria for ADHD.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 458,
+            "paragraph_id": "978-1609139711-p458-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A specific laboratory diagnostic test exists for diagnosing Tourette disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 504,
+            "paragraph_id": "978-1609139711-p504-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Genetic influences affect almost every measurable aspect of human behavior, including but not limited to risk aversion, visuomotor skills, and various personality traits.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3267,
+            "paragraph_id": "978-1609139711-p3267-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Karl von Frisch, along with Konrad Lorenz and Nikolaas Tinbergen, won the Nobel Prize in psychology in 1973.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3269,
+            "paragraph_id": "978-1609139711-p3269-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Subhuman primate development involves studying animals under controlled environments to understand aspects related to human psychopathology.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3274,
+            "paragraph_id": "978-1609139711-p3274-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients with pseudoepileptic seizures always exhibit dissociative symptoms, including amnesia and an antecedent history of psychological trauma.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1408,
+            "paragraph_id": "978-1609139711-p1408-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dissociative fugue involves traveling away from home while recalling one's entire past and assuming no new identities.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1404,
+            "paragraph_id": "978-1609139711-p1404-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "About 6.8 percent of the general population experiences post-traumatic stress disorder during their lifetime.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1393,
+            "paragraph_id": "978-1609139711-p1393-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dominance in social hierarchies among rats results in higher levels of aggression due to reduced stress.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3280,
+            "paragraph_id": "978-1609139711-p3280-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In the United States, according to several community-based epidemiologic studies, African Americans were found to have lower rates of major depression compared to whites and Hispanics.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3293,
+            "paragraph_id": "978-1609139711-p3293-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A clinician making a psychiatric diagnosis should always ignore principles of cultural relativism when evaluating a patient's behavior.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3289,
+            "paragraph_id": "978-1609139711-p3289-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Guanfacine was found to reduce both tics and ADHD symptoms in a multicenter industry trial of 148 children.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 513,
+            "paragraph_id": "978-1609139711-p513-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A child diagnosed with chronic motor or vocal tic disorder cannot also be diagnosed with Tourette disorder at the same time according to the DSM-5 criteria.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 517,
+            "paragraph_id": "978-1609139711-p517-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Rumination disorder typically starts after 6 months of age.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 527,
+            "paragraph_id": "978-1609139711-p527-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pica diagnosed according to DSM-5 requires cultural acceptance of the practice.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 522,
+            "paragraph_id": "978-1609139711-p522-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dissociative amnesia often resolves spontaneously when removed from traumatic situations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1426,
+            "paragraph_id": "978-1609139711-p1426-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Depersonalization involves a sense of being detached from oneself and observing oneself from afar.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1412,
+            "paragraph_id": "978-1609139711-p1412-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There are eight questions listed for assessing dissociative identity disorder process symptoms during a mental status examination.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1419,
+            "paragraph_id": "978-1609139711-p1419-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "For PTSD diagnosis in children under 7 years old, one criterion involves observing significant changes in cognition related to reduced expression of positive emotions or increased expressions of shame.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 546,
+            "paragraph_id": "978-1609139711-p546-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Reactive Attachment Disorder begins after the age of 5 according to DSM-5 criteria.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 536,
+            "paragraph_id": "978-1609139711-p536-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Traumatized children with burns treated with SSRIs do develop PTSD at rates lower than those untreated.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 551,
+            "paragraph_id": "978-1609139711-p551-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hormone levels in children with growth failure due to malnutrition are always low.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 538,
+            "paragraph_id": "978-1609139711-p538-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Possession syndrome is considered an illness because it causes distress, is involuntary, and does not occur during cultural rituals.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3308,
+            "paragraph_id": "978-1609139711-p3308-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Infants exhibit erotic activities related to feeding and bowel-bladder functions before they reach one year old according to Freud's theories.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3328,
+            "paragraph_id": "978-1609139711-p3328-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "At least half of individuals experiencing *ataque de nervios* report improvements immediately following their first episode.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3306,
+            "paragraph_id": "978-1609139711-p3306-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cultural equivalence cannot be achieved through mere translation because meanings and idiomatic expressions vary significantly between languages.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3301,
+            "paragraph_id": "978-1609139711-p3301-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sigmund Freud's comprehensive theory of the ego developed prior to his formulation of dream theory.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3323,
+            "paragraph_id": "978-1609139711-p3323-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The latency period is characterized by active pursuit of opposite-sex relationships.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3336,
+            "paragraph_id": "978-1609139711-p3336-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sigmund Freud developed psychoanalysis between 1870 and 1902.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3316,
+            "paragraph_id": "978-1609139711-p3316-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fluoxetine and escitalopram have received FDA approval specifically for treating major depression in preschool-aged children.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 567,
+            "paragraph_id": "978-1609139711-p567-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A cumulative score of 40 or lower indicates significant depression according to the CDRS-R assessment tool.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 562,
+            "paragraph_id": "978-1609139711-p562-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bereavement is classified as a mental disorder in the DSM-5.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 560,
+            "paragraph_id": "978-1609139711-p560-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The emergence of the transference neurosis usually manifests slowly over time during the analytic process.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3358,
+            "paragraph_id": "978-1609139711-p3358-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Trust develops through repeated experiences of need satisfaction during adolescence.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3342,
+            "paragraph_id": "978-1609139711-p3342-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Individuals diagnosed with fibromyalgia exhibit chronic pain compared to control subjects without the diagnosis.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1475,
+            "paragraph_id": "978-1609139711-p1475-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Medications should always be prescribed when treating patients with somatic symptom disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1485,
+            "paragraph_id": "978-1609139711-p1485-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "At least half of patients in clinical depersonalization case series have histories of significant trauma.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1439,
+            "paragraph_id": "978-1609139711-p1439-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients diagnosed with pseudologia fantastica typically exhibit truthful behavior regarding their personal lives outside of the fabricated stories they tell about themselves.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1462,
+            "paragraph_id": "978-1609139711-p1462-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The patient experienced blindness as one of his conversion disorder symptoms.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1453,
+            "paragraph_id": "978-1609139711-p1453-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Medications including selective serotonin reuptake inhibitors are used for treating associated symptoms in dissociative identity disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1435,
+            "paragraph_id": "978-1609139711-p1435-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Appointing a guardian for medical and psychiatric decisions is recommended for patients with factitious disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1488,
+            "paragraph_id": "978-1609139711-p1488-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "According to the DSM-5, a requirement for diagnosing Somatic Symptom Disorder includes evidence that there is no underlying medical cause for the disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1445,
+            "paragraph_id": "978-1609139711-p1445-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Conversion Disorder involves persistent and severe dysfunction due to complaints including autonomic arousal symptoms or other less specific complaints lasting more than six months.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1449,
+            "paragraph_id": "978-1609139711-p1449-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A study indicates that there is no correlation between central serotonin levels and suicidal behavior among adolescents.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 575,
+            "paragraph_id": "978-1609139711-p575-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children exhibiting the broader phenotype of bipolar disorder may develop additional conditions including anxiety disorders and depressive disorders later on.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 580,
+            "paragraph_id": "978-1609139711-p580-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children diagnosed with disruptive mood dysregulation disorder typically develop classic bipolar I or II disorders later in life.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 587,
+            "paragraph_id": "978-1609139711-p587-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals with Binge-Eating Disorder always feel full before engaging in frequent binges.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1510,
+            "paragraph_id": "978-1609139711-p1510-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately three-quarters of people suffering from anorexia nervosa reduce their food intake to lose weight while engaging in regular binge eating and purging behaviors.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1498,
+            "paragraph_id": "978-1609139711-p1498-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients with the purging subtype of anorexia nervosa typically restrict their food intake while engaging in intermittent binge or purge episodes.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1504,
+            "paragraph_id": "978-1609139711-p1504-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Males exhibit higher rates of disruptive mood dysregulation disorder compared to females between ages 9 to 19 years old.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 593,
+            "paragraph_id": "978-1609139711-p593-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children under the age of 10 cannot exhibit the symptoms typical of older children with conduct disorder due to developmental limitations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 605,
+            "paragraph_id": "978-1609139711-p605-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children exhibiting oppositional defiant disorder usually show signs no earlier than late adolescence.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 600,
+            "paragraph_id": "978-1609139711-p600-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Conduct Disorder is always diagnosed before Substance Abuse Disorder.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 611,
+            "paragraph_id": "978-1609139711-p611-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Generativity typically begins at around the age of 30 according to Erikson's formulation.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3381,
+            "paragraph_id": "978-1609139711-p3381-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Erich Fromm identified six character types common to Western culture.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3396,
+            "paragraph_id": "978-1609139711-p3396-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Erikson's theory includes a total of six distinct stages of ego development across the entire lifespan.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3370,
+            "paragraph_id": "978-1609139711-p3370-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Alfred Adler rejected the idea that depression results from fixation at the oral stage.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3385,
+            "paragraph_id": "978-1609139711-p3385-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In therapeutic relationships, transference involves displacing feelings towards someone else onto the therapist through mechanisms including projection and displacement.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3362,
+            "paragraph_id": "978-1609139711-p3362-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Identity diffusion typically results in individuals having a clear understanding of themselves and their roles in society.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3375,
+            "paragraph_id": "978-1609139711-p3375-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Raymond Cattell developed factor analysis specifically for understanding human personality traits after immigrating to the United States.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3392,
+            "paragraph_id": "978-1609139711-p3392-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bulimia nervosa involves recurrent compensatory behaviors but does not necessarily involve being underweight.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1514,
+            "paragraph_id": "978-1609139711-p1514-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Combination therapy involving CBT and medication is always found to be less effective than medication alone in treating eating disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1524,
+            "paragraph_id": "978-1609139711-p1524-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals with a family history of anorexia nervosa are up to 7 times more likely to receive a diagnosis during their lifetime compared to those with no family history.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1526,
+            "paragraph_id": "978-1609139711-p1526-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Patients with anorexia nervosa typically receive cognitive-behavioral therapy as outpatients.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1520,
+            "paragraph_id": "978-1609139711-p1520-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Panic disorder with agoraphobia typically begins before the age of 5.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 630,
+            "paragraph_id": "978-1609139711-p630-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children with separation anxiety disorder experience fewer physical complaints than those with other types of anxiety disorders.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 625,
+            "paragraph_id": "978-1609139711-p625-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Children who experience severe abuse exhibit defensive behaviors due to misperceiving non-threatening situations as threats.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 617,
+            "paragraph_id": "978-1609139711-p617-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Melanie Klein's theory postulates that the ego splits due to dealing with the terror of annihilation related to the death instinct.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3403,
+            "paragraph_id": "978-1609139711-p3403-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Carl Rogers developed client-centered psychotherapy with therapists attempting to help clients achieve unconditional negative regard through strict adherence to a predefined structure of therapy.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3419,
+            "paragraph_id": "978-1609139711-p3419-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Henry Murray founded the Boston Psychoanalytic Institute alone.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3411,
+            "paragraph_id": "978-1609139711-p3411-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Karl A. Menninger wrote a book titled \"The Human Mind.\"",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3408,
+            "paragraph_id": "978-1609139711-p3408-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Generalized anxiety disorder affects approximately 3 percent of school-age children according to recent findings.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 635,
+            "paragraph_id": "978-1609139711-p635-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Janine started communicating verbally with the therapist before completing three full sessions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 642,
+            "paragraph_id": "978-1609139711-p642-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Research studies about various forms of eating disorders were conducted during multiple years.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1533,
+            "paragraph_id": "978-1609139711-p1533-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Urinary tract infections, obstructions, or anatomical conditions causing bladder dysfunction typically manifest in children experiencing only nocturnal enuresis.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1543,
+            "paragraph_id": "978-1609139711-p1543-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Enuresis in childhood was studied in a large British cohort published in Scand J Urol Nephrol in 2008.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1548,
+            "paragraph_id": "978-1609139711-p1548-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A diagnosis of encopresis typically involves ruling out other medical illnesses through tests, including determining if sphincter tone is abnormal.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1538,
+            "paragraph_id": "978-1609139711-p1538-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fluoxetine dosage ranges between 10 to 30 mg for treating OCD.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 654,
+            "paragraph_id": "978-1609139711-p654-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cases of infection-triggered OCD have been termed Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcus (PANDAS).",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 656,
+            "paragraph_id": "978-1609139711-p656-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Clozapine is more effective than olanzapine in improving symptoms of treatment-resistant schizophrenia in youth.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 665,
+            "paragraph_id": "978-1609139711-p665-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Progressive brain gray matter loss does occur in childhood-onset schizophrenia.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 669,
+            "paragraph_id": "978-1609139711-p669-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "According to the definition given by the World Health Organization in 1948, health includes being free from disease but also having complete physical, mental, and social well-being.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3432,
+            "paragraph_id": "978-1609139711-p3432-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Research indicates that obsessions occur exclusively in individuals diagnosed with psychopathological conditions.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3441,
+            "paragraph_id": "978-1609139711-p3441-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dorothea Dix conducted an investigation of the mentally ill poor in New York State before advocating for the establishment of the Utica State Hospital.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3456,
+            "paragraph_id": "978-1609139711-p3456-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dr. Philippe Pinel removed patients' chains during his tenure at the Bic\u00eatre Hospital.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3452,
+            "paragraph_id": "978-1609139711-p3452-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The book titled \"Prisoners of Our Thoughts: Viktor Frankl's Principles for Discovering Meaning in Life and Work\" was published before the year 2005.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3447,
+            "paragraph_id": "978-1609139711-p3447-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Harry Stack Sullivan developed his personality theory focusing primarily on observable, measurable behavior.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3422,
+            "paragraph_id": "978-1609139711-p3422-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Narcolepsy Type 1 requires excessive daytime sleepiness along with cataplexy and/or hypocretin deficiency.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1573,
+            "paragraph_id": "978-1609139711-p1573-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Monarch butterflies migrate thousands of miles each year from Canada to Mexico primarily to avoid hot summer days.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1584,
+            "paragraph_id": "978-1609139711-p1584-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "People experiencing sleep-related breathing disorders always stop breathing completely during sleep due to airway obstruction.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1552,
+            "paragraph_id": "978-1609139711-p1552-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chronic insomnia disorder lasts less than three months.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1564,
+            "paragraph_id": "978-1609139711-p1564-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Coffee does not contain any stimulants.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1560,
+            "paragraph_id": "978-1609139711-p1560-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sleepwalking typically peaks at around age 40 in adults.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1588,
+            "paragraph_id": "978-1609139711-p1588-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There were studies conducted between 1997 and 2013 regarding various aspects of intellectual disabilities, including their genetic basis, trends in healthcare utilization, and treatment options for associated conditions like ADHD.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 686,
+            "paragraph_id": "978-1609139711-p686-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hummingbirds migrate in large groups during their seasonal travels.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 691,
+            "paragraph_id": "978-1609139711-p691-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Treatment of substance use disorders in adolescents takes place exclusively in an intensive integrated setting.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 679,
+            "paragraph_id": "978-1609139711-p679-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Participants who used marijuana by 18 years of age were more than twice as likely to develop schizophrenia compared to non-users.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 676,
+            "paragraph_id": "978-1609139711-p676-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cognitive-behavioral therapies are considered boutique treatments.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3470,
+            "paragraph_id": "978-1609139711-p3470-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "President John F. Kennedy signed the Mental Retardation Facilities and Community Mental Health Center Construction Act.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3466,
+            "paragraph_id": "978-1609139711-p3466-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Adolf Meyer's work emphasized focusing on the causes of mental illness through examining environmental influences and preventing future issues before they arise.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3461,
+            "paragraph_id": "978-1609139711-p3461-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fran\u00e7ois Pinel was born before Benjamin Rush.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3478,
+            "paragraph_id": "978-1609139711-p3478-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Benign Sleep Myoclonus of Infancy typically lasts up to one year after birth.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1605,
+            "paragraph_id": "978-1609139711-p1605-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Amnesia for sleep terror episodes usually does not occur.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1592,
+            "paragraph_id": "978-1609139711-p1592-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Parental primary enuresis does not increase the likelihood that children will develop enuresis themselves.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1600,
+            "paragraph_id": "978-1609139711-p1600-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Eating disorders including anorexia nervosa primarily occur in younger populations.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3489,
+            "paragraph_id": "978-1609139711-p3489-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The French city of Lyon is the capital of France because of its strategic geographical location under King Louis XIV.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3491,
+            "paragraph_id": "978-1609139711-p3491-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sigmund Freud published his work titled \u201cStudies On Hysteria\u201d before George Miller Beard released \u201cA Practical Treatise on Nervous Exhaustion (Neurasthenia)\u201d.",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3482,
+            "paragraph_id": "978-1609139711-p3482-para1"
+        },
+        "type": "true_false"
+    }
+]

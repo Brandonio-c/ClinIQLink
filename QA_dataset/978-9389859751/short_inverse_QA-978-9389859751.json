@@ -1,0 +1,974 @@
+[
+    {
+        "answer": "Human bodily functions operate optimally between a pH range of 6.95 to 7.25.",
+        "false_answer": "A pH range of 6.95 to 7.25.",
+        "incorrect_explanation": "The given pH range is incorrect because according to the information provided, the actual pH range within which the body's functions are considered optimal and unaffected is between 7.35 and 7.45. Any deviation from this range can lead to impaired bodily functions.",
+        "question": "What is the typical pH range within which human bodily functions remain unaffected?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 54,
+            "paragraph_id": "978-9389859751-p54-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mutations in the CA-2 isoenzyme of carbonic anhydrase lead to softening of bones.",
+        "false_answer": "Mutations in the CA-2 isoenzyme of carbonic anhydrase lead to softening of bones.",
+        "incorrect_explanation": "According to the paragraph, mutations in the CA-2 isoenzyme actually impair acidification of bone by osteoclasts, resulting in the formation of hard and dense bones\u2014a condition known as osteopetrosis. Thus, the correct outcome of these mutations is bone hardening, not softening.",
+        "question": "What is the effect of mutations in the CA-2 isoenzyme of carbonic anhydrase?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 61,
+            "paragraph_id": "978-9389859751-p61-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hemoglobin binds oxygen in the lungs and releases it in the tissues, thereby facilitating the indirect release of carbon dioxide through the formation of carbaminohemoglobin at a rate of 20% efficiency.",
+        "false_answer": "Hemoglobin facilitates the transport of carbon dioxide from tissues back to the lungs at a rate of 20% efficiency through binding mechanisms.",
+        "incorrect_explanation": "The statement introduces an arbitrary and inaccurate \"rate of 20% efficiency,\" which is not supported by any evidence within our assumed informational context. Moreover, while hemoglobin does play a role in transporting carbon dioxide via carbaminohemoglobin formation, specifying an exact \"efficiency rate\" without basis is misleading. A more accurate description would focus on the biochemical processes involved rather than unsubstantiated quantitative measures.",
+        "question": "How does hemoglobin facilitate the transport of carbon dioxide from tissues back to the lungs?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 51,
+            "paragraph_id": "978-9389859751-p51-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Changes in sodium ion concentrations do not affect the membrane potential in any type of tissue.",
+        "false_answer": "Changes in sodium ion concentrations do not affect the membrane potential in any type of tissue.",
+        "incorrect_explanation": "According to the provided information, differential distribution of Na+ and K+ by the Na+-K+ ATPase is indeed responsible for generating the membrane potential, specifically mentioning this occurs in excitable tissues like nerves and muscles. There's no mention of how changes in sodium ion concentrations might uniquely influence membrane potentials differently between excitable and non-excitable tissues regarding this aspect. Therefore, stating that changes in sodium ion concentrations do not affect the membrane potential at all introduces an inaccurate generalization, especially since the actual impact may vary depending on tissue types and other factors not detailed here. Moreover, given the discussion focuses primarily on the role of sodium and potassium in establishing membrane potentials in excitable tissues, implying there's absolutely no effect elsewhere could be misleading without specifying further details about those contexts.",
+        "question": "What happens to the membrane potential in non-excitable tissues during changes in sodium ion concentrations?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 74,
+            "paragraph_id": "978-9389859751-p74-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary mechanism utilized is passive diffusion of ions down their concentration gradients.",
+        "false_answer": "Passive diffusion of ions down their concentration gradients.",
+        "incorrect_explanation": "According to the text, the body utilizes the sodium-potassium ATPase pump actively to move ions against their concentration gradients, specifically pumping 3 Na+ outside the cell and moving 2 K+ inside per molecule of ATP hydrolyzed, rather than relying on passive diffusion alone. This helps regulate ion concentrations and maintains cellular integrity.",
+        "question": "What mechanism does the body primarily utilize to prevent excessive accumulation of positively charged ions inside cells?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 71,
+            "paragraph_id": "978-9389859751-p71-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary reason is because osmolality depends on the mass rather than the number of solute particles in solution.",
+        "false_answer": "The primary reason is because osmolality depends on the mass rather than the number of solute particles in solution.",
+        "incorrect_explanation": "According to the paragraph, osmolality is actually one of the colligative properties, which depend on the number of solute particles, not their mass or chemical nature. Therefore, the statement regarding dependence on mass instead of particle numbers is incorrect.",
+        "question": "What is the primary reason for the correlation between plasma osmolality measurements and calculations involving sodium, glucose, and urea?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 81,
+            "paragraph_id": "978-9389859751-p81-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An increase in sodium levels always results in immediate diuresis.",
+        "false_answer": "An increase in sodium levels always results in immediate diuresis.",
+        "incorrect_explanation": "According to the provided paragraph, an increase in sodium actually leads to osmoreceptor activation and the development of thirst, making hypernatremia rare in those who can drink water. Immediate diuresis isn't described as a consequence of high sodium levels regarding this scenario.",
+        "question": "What happens when sodium levels increase significantly with respect to total body water?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 77,
+            "paragraph_id": "978-9389859751-p77-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Water contributes approximately 50% of the body weight.",
+        "false_answer": "Approximately 50%",
+        "incorrect_explanation": "According to the provided scenario, water actually constitutes 60% of the body weight, not 50%. This is crucial for calculating the total body water and subsequently determining other volumes like plasma volume. Thus, the statement made in the answer is factually incorrect regarding the proportion of body weight attributed to water.",
+        "question": "What percent of body weight does water contribute according to the scenario involving a 45-year-old male patient being treated for bacterial sepsis?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 84,
+            "paragraph_id": "978-9389859751-p84-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nonpolar amino acids dissolve freely throughout the entire protein when surrounded by water.",
+        "false_answer": "Nonpolar amino acids dissolve freely throughout the entire protein when surrounded by water.",
+        "incorrect_explanation": "According to the given information, in aqueous solutions (or a polar environment), the side chains of nonpolar amino acids actually tend to cluster together in the interior of the protein, not dissolve freely throughout it. This phenomenon is described as the hydrophobic effect, where nonpolar R groups act similarly to droplets of oil coalescing in an aqueous environment, helping to give the protein its three-dimensional shape. Therefore, the correct understanding is that nonpolar amino acids aggregate internally within the protein in aqueous conditions, contrary to dissolving freely throughout the protein.",
+        "question": "How do nonpolar amino acids behave in the presence of water inside proteins?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 94,
+            "paragraph_id": "978-9389859751-p94-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 60% of the myoglobin polypeptide chain is folded into alpha helices.",
+        "false_answer": "Approximately 60%",
+        "incorrect_explanation": "The given answer incorrectly states that about 60% of the myoglobin polypeptide chain is folded into alpha helices. According to the information provided, this is wrong because it actually mentions \"~80%\" being folded into eight stretches of alpha-helix, indicating a significantly higher proportion of the protein structure dedicated to alpha helices compared to what was answered.",
+        "question": "What percentage of the myoglobin polypeptide chain is folded into alpha helices?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 119,
+            "paragraph_id": "978-9389859751-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "After oxygen binds to the heme of hemoglobin, the iron atom moves out of the plane of the heme.",
+        "false_answer": "The statement claiming that after oxygen binds to the heme of hemoglobin, the iron atom moves out of the plane of the heme.",
+        "incorrect_explanation": "According to the given information, specifically Figure 8.6, when oxygen binds to the heme of hemoglobin, the iron actually moves into the plane of the heme, not out of it. This movement affects the position of the proximal histidine (His F8) and subsequently influences the interaction between the alpha-beta dimers, transitioning hemoglobin towards the R (relaxed) state.",
+        "question": "What happens to the iron atom located in the heme of hemoglobin after binding with oxygen?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 122,
+            "paragraph_id": "978-9389859751-p122-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hydrolyzation occurs at approximately 120 degrees Celsius.",
+        "false_answer": "Approximately 120 degrees Celsius.",
+        "incorrect_explanation": "The paragraph specifies that hydrolysis by strong acid occurs at 110 \u00b0C, making the statement inaccurate by 10 degrees Celsius. Therefore, the correct answer should state that hydrolyzation happens at exactly 110 \u00b0C, according to the given method.",
+        "question": "What temperature is typically used when hydrolyzing the polypeptide by strong acid?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 106,
+            "paragraph_id": "978-9389859751-p106-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hydrogen bonds need to be broken.",
+        "false_answer": "Hydrogen bonds need to be broken.",
+        "incorrect_explanation": "According to the information given, breaking hydrogen bonds does indeed play roles in various biochemical processes, especially concerning DNA double helix stability and some aspects of protein folding. However, specifically regarding hair straightening, the text indicates that it's actually the disulfide bonds cross-linked to alpha-helices of keratin that get broken upon applying heat, allowing for the straightening of curly hair. Therefore, the correct answer involves the disruption of these covalent links rather than just any interaction like hydrogen bonding.",
+        "question": "What type of bond needs to be broken through heat application to achieve hair straightening?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 114,
+            "paragraph_id": "978-9389859751-p114-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To assess insulin sensitivity over several years.",
+        "false_answer": "Measuring glycated hemoglobin primarily assesses insulin sensitivity over several years.",
+        "incorrect_explanation": "The actual purpose of measuring glycated hemoglobin, particularly HbA1c, is to evaluate the average level of blood glucose control over approximately the past 2-3 months, providing insight into how effectively treatment plans are working. Insulin sensitivity isn't directly assessed through this method; instead, HbA1c reflects cumulative exposure of red blood cells to glucose, serving as an indicator of recent glycemic control rather than insulin action per se.",
+        "question": "What is the primary reason for measuring glycated hemoglobin in diabetic patients?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 136,
+            "paragraph_id": "978-9389859751-p136-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Oxidization results in the formation of carboxyhemoglobin, reducing the affinity of hemoglobin for carbon dioxide.",
+        "false_answer": "Oxidization results in the formation of carboxyhemoglobin, reducing the affinity of hemoglobin for carbon dioxide.",
+        "incorrect_explanation": "This statement contains two key inaccuracies. Firstly, the oxidation of heme iron from Fe2+ to Fe3+ actually produces methemoglobin, not carboxyhemoglobin. Secondly, methemoglobin cannot bind oxygen (O2), not that it affects the binding affinity for carbon dioxide. Carboxyhemoglobin refers to a complex formed between carbon monoxide (CO) and hemoglobin, distinct from the product described here. Thus, the correct understanding involves recognizing the production of methemoglobin upon oxidation and acknowledging its inability to bind O2.",
+        "question": "What happens when the heme iron in hemoglobin gets oxidized from Fe2+ to Fe3+, specifically regarding its ability to bind oxygen?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 130,
+            "paragraph_id": "978-9389859751-p130-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The rate of reaction becomes inversely proportional to the substrate concentration.",
+        "false_answer": "The rate of reaction becomes inversely proportional to the substrate concentration when the substrate concentration is significantly higher than the Km.",
+        "incorrect_explanation": "According to the paragraph, when [S] is much greater (>>) than Km, the velocity is constant and equal to V max, indicating that the rate of reaction is actually independent of substrate concentration under these conditions, making the reaction zero-order with respect to substrate concentration, rather than becoming inversely proportional to the substrate concentration.",
+        "question": "What happens to the rate of reaction when the substrate concentration is significantly higher than the Km?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 157,
+            "paragraph_id": "978-9389859751-p157-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Osteogenesis Imperfecta",
+        "false_answer": "Osteogenesis Imperfecta",
+        "incorrect_explanation": "The given answer incorrectly identifies Osteogenesis Imperfecta as resulting from insufficient inhibition of elastase in the alveoli. According to the paragraph, this description actually applies to conditions involving alpha-1 antitrypsin deficiency, specifically how it affects the balance between elastase activity and its inhibition within the lung alveoli, potentially leading to diseases like emphysema. Therefore, the correct association would involve alpha-1 antitrypsin deficiency rather than Osteogenesis Imperfecta, which is described separately as a genetic disorder of bone fragility characterized by frequent fractures.",
+        "question": "What condition results when there's insufficient inhibition of elastase in the alveoli?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 147,
+            "paragraph_id": "978-9389859751-p147-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When attaching the suffix \"-ase,\" the name reflects the removal of the last substrate rather than describing the entire catalyzed reaction accurately.",
+        "false_answer": "The statement claims the suffix \"-ase\" application focuses on removing the last substrate's name.",
+        "incorrect_explanation": "According to the paragraph, the suffix \"-ase\" is actually attached to a \"fairly complete description of the chemical reaction catalyzed, including the names of all the substrates.\" Thus, the focus is on providing a comprehensive overview of what the enzyme does, contrary to focusing merely on the removal of the last substrate.",
+        "question": "What is unique about how the suffix \"-ase\" is applied when naming enzymes?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 152,
+            "paragraph_id": "978-9389859751-p152-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Copper atoms in cytochrome c oxidase facilitate the reduction of water to molecular oxygen.",
+        "false_answer": "Copper atoms in cytochrome c oxidase facilitate the reduction of water to molecular oxygen.",
+        "incorrect_explanation": "This statement incorrectly describes both the components involved in the reaction facilitated by cytochrome c oxidase and their roles. According to the given information, cytochrome c oxidase actually reduces oxygen (O2) to water (H2O), not the other way around. Additionally, the electrons are moved through various parts of the enzyme complex involving copper and cytochrome units, ultimately leading to the reduction of oxygen to water. Thus, the correct description involves reducing oxygen to water, not water to oxygen.",
+        "question": "What is the role of the copper atoms within cytochrome c oxidase?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 182,
+            "paragraph_id": "978-9389859751-p182-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The active site decreases the overall energy output during biochemical reactions.",
+        "false_answer": "The active site decreases the overall energy output during biochemical reactions.",
+        "incorrect_explanation": "This statement is incorrect because, according to principles of biochemistry, the active site actually helps decrease the activation energy needed for a reaction to occur, thereby increasing the rate of the reaction rather than decreasing the overall energy output.",
+        "question": "What does the active site of an enzyme do?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 166,
+            "paragraph_id": "978-9389859751-p166-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The concentration of H+ ions is assumed to be 10^(-6) mol/L.",
+        "false_answer": "The concentration of H+ ions is assumed to be 10^(-6) mol/L.",
+        "incorrect_explanation": "The given answer incorrectly states the concentration of hydrogen ions (H+) as 10^-6 mol/L instead of the actual value of 10^-7 mol/L, which corresponds to a pH of 7 according to the paragraph. Therefore, the correct assumption regarding the concentration of H+ ions for calculating the standard free energy change, \u0394G0, is indeed 10^-7 mol/L, reflecting a pH level of 7.",
+        "question": "What is the concentration of hydrogen ions (H+) considered in calculations involving the standard free energy change, \u0394G0?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 176,
+            "paragraph_id": "978-9389859751-p176-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 80% of its respiratory energy is used for thermogenesis.",
+        "false_answer": "Approximately 80%",
+        "incorrect_explanation": "The given answer incorrectly states that approximately 80% of respiratory energy is used for thermogenesis in brown fat. According to the paragraph, it's actually around 90%, stating that \"~90% of its respiratory energy is used for thermogenesis in infants in response to cold.\"",
+        "question": "What percentage of respiratory energy is used for thermogenesis in brown fat?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 186,
+            "paragraph_id": "978-9389859751-p186-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary method by which galactose is absorbed into enterocytes is through an energy- and Na+-independent monosaccharide transporter.",
+        "false_answer": "Galactose is absorbed through an energy- and Na+-independent monosaccharide transporter.",
+        "incorrect_explanation": "Unlike fructose, which indeed uses GLUT-5 for absorption, galactose (and glucose) is absorbed through secondary active transport involving the sodium-dependent glucose cotransporter 1 (SGLT-1).",
+        "question": "What is the primary method by which galactose is absorbed into enterocytes?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 196,
+            "paragraph_id": "978-9389859751-p196-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The movement of electrons through the electron transport chain directly synthesizes ATP.",
+        "false_answer": "The movement of electrons through the electron transport chain directly synthesizes ATP.",
+        "incorrect_explanation": "This statement incorrectly suggests that electron movement directly produces ATP. According to the paragraph, what actually happens is that the electron transport chain creates a proton gradient across the inner mitochondrial membrane. It's the flow of protons back across this membrane, through the ATP synthase complex, that drives the synthesis of ATP from ADP + Pi, not the electron movement itself.",
+        "question": "What specifically drives the synthesis of ATP from ADP + Pi within the mitochondrion according to the chapter summary?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 189,
+            "paragraph_id": "978-9389859751-p189-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A linear peptide bond.",
+        "false_answer": "A linear peptide bond.",
+        "incorrect_explanation": "The paragraph specifies that cAMP phosphodiesterase targets and cleaves the cyclic 3',5'-phosphodiester bond in cAMP, converting it to 5'-AMP. Thus, the statement regarding a linear peptide bond is both irrelevant and inaccurate in this biochemical context.",
+        "question": "What type of bond is specifically targeted by cAMP phosphodiesterase for the breakdown of cAMP?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 207,
+            "paragraph_id": "978-9389859751-p207-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nicotinamide adenine dinucleotide (NAD+) primarily captures and stores chemical energy.",
+        "false_answer": "Nicotinamide adenine dinucleotide (NAD+) primarily captures and stores chemical energy.",
+        "incorrect_explanation": "While NAD+ does play a crucial role in capturing chemical energy through redox reactions, stating it as the primary carrier of chemical energy generated through the breakdown of complex molecules overlooks the central role of ATP. According to the text, ATP generation is emphasized throughout the explanation of catabolic processes, especially in the context of oxidative phosphorylation following the production of acetyl-CoA. Thus, ATP is correctly identified as the key molecule for storing and transferring chemical energy within cellular metabolism.",
+        "question": "What molecule serves as the primary carrier of chemical energy generated through the breakdown of complex molecules?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 204,
+            "paragraph_id": "978-9389859751-p204-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When the levels of glucagon are decreased and the levels of insulin are elevated, there is a decrease in the hepatic fructose 2,6-bisphosphate, leading to an inhibition of glycolysis.",
+        "false_answer": "There is a decrease in the hepatic fructose 2,6-bisphosphate, leading to an inhibition of glycolysis.",
+        "incorrect_explanation": "According to the paragraph, elevated levels of insulin actually cause an increase in hepatic fructose 2,6-bisphosphate because PFK-2 is dephosphorylated, thereby increasing the rate of glycolysis. Thus, the statement in the answer regarding the decrease in fructose 2,6-bisphosphate and subsequent inhibition of glycolysis under conditions described is incorrect. Instead, these conditions favor glycolysis over gluconeogenesis.",
+        "question": "What happens to the rate of glycolysis when the levels of glucagon are decreased and the levels of insulin are elevated?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 212,
+            "paragraph_id": "978-9389859751-p212-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When pyruvate is reduced, it produces ethanol.",
+        "false_answer": "Reduction of pyruvate results in ethanol.",
+        "incorrect_explanation": "While pyruvate indeed participates in reactions leading to various products depending on cellular conditions, under normal human physiological conditions, especially within aerobic glycolysis or when considering typical mammalian biochemistry, pyruvate being converted to lactate rather than ethanol upon reduction would be more accurate. Ethanol production from pyruvate typically involves additional steps and microorganisms, notably yeasts. Therefore, stating pyruvate reduces directly to ethanol overlooks these specifics.",
+        "question": "What happens when pyruvate undergoes reduction?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 218,
+            "paragraph_id": "978-9389859751-p218-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of the fresh weight.",
+        "false_answer": "Approximately 5%",
+        "incorrect_explanation": "According to the given paragraph, approximately 400 grams of glycogen constitutes around 1%-2% of the fresh weight of resting muscle, not 5%. Therefore, the statement claiming 5% is an overestimation and incorrect.",
+        "question": "How much of the fresh weight does approximately 400 grams of glycogen constitute in resting muscle?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 243,
+            "paragraph_id": "978-9389859751-p243-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fatty acids act as the intermediate acceptors.",
+        "false_answer": "Fatty acids act as the intermediate acceptors.",
+        "incorrect_explanation": "According to the given information, lipoic acid linked to a lysine residue in E2 of the pyruvate dehydrogenase complex acts as the \"swinging arm,\" allowing interaction between different components and serving as an intermediate acceptor of the acetyl group. Therefore, fatty acids do not play this role; instead, it's lipoic acid that does.",
+        "question": "What plays the role of an intermediate acceptor of the acetyl group during the reaction involving the pyruvate dehydrogenase complex?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 230,
+            "paragraph_id": "978-9389859751-p230-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Calcium ions inhibit the activity of PDH phosphatase, thus reducing the activation of E1.",
+        "false_answer": "Calcium ions inhibit the activity of PDH phosphatase, thus reducing the activation of E1.",
+        "incorrect_explanation": "According to the given information, calcium (Ca2+) is actually a strong activator of PDH phosphatase, stimulating E1 activity. This means the statement in the answer is opposite to what is true; instead of inhibiting PDH phosphatase, calcium enhances its action, leading to increased activation of E1.",
+        "question": "What is the role of calcium ions in regulating the activity of the pyruvate dehydrogenase complex?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 224,
+            "paragraph_id": "978-9389859751-p224-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Mutations in the gene for aldolase A lead to Classic Galactosemia.",
+        "false_answer": "Mutations in the gene for aldolase A lead to Classic Galactosemia.",
+        "incorrect_explanation": "According to the text, mutations in the gene for GALT (galactose 1-phosphate uridylyltransferase) lead to Classic Galactosemia, not mutations in the gene for aldolase A. Aldolase B is actually implicated in Hereditary Fructose Intolerance when mutated.",
+        "question": "What results from a mutation in the gene for aldolase A?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 263,
+            "paragraph_id": "978-9389859751-p263-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5%-7% of glycogen undergoes lysosomal degradation through the action of acid \u03b1(1\u21924)-glucosidase.",
+        "false_answer": "Approximately 5%-7% of glycogen undergoes lysosomal degradation through the action of acid \u03b1(1\u21924)-glucosidase.",
+        "incorrect_explanation": "The given percentage range (5%-7%) does not match the actual percentage specified in the paragraph for glycogen undergoing lysosomal degradation via acid \u03b1(1\u21924)-glucosidase. According to the paragraph, a much smaller fraction of glycogen, specifically between 1% and 3%, is degraded through this pathway. Therefore, the correct answer should reflect this accurate percentage range rather than stating a higher, incorrect one.",
+        "question": "What percentage of glycogen is primarily involved in the lysosomal degradation pathway?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 247,
+            "paragraph_id": "978-9389859751-p247-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During lactation, lactose synthase works alone to convert UDP-glucose into lactose.",
+        "false_answer": "Lactose synthase working alone converts UDP-glucose into lactose.",
+        "incorrect_explanation": "According to the given information, lactose synthase actually involves two components: protein A (\u03b2-D-galactosyltransferase) and protein B (\u03b1-lactalbumin). Together, they facilitate the conversion of UDP-galactose and glucose into lactose, altering the substrate preference of protein A towards glucose over N-acetyl-D-glucosamine.",
+        "question": "What enzymes work together during lactation in mammary glands to synthesize lactose?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 261,
+            "paragraph_id": "978-9389859751-p261-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vitamin E primarily donates electrons for the reduction of hydrogen peroxide.",
+        "false_answer": "Vitamin E primarily donates electrons for the reduction of hydrogen peroxide.",
+        "incorrect_explanation": "According to the given information, NADPH acts as the source of reducing equivalents for the reduction of hydrogen peroxide via glutathione reductase, making this statement incorrect. Vitamin E does act as an antioxidant but is described differently in relation to ROS detoxification.",
+        "question": "What compound serves as the primary electron donor for the reduction of hydrogen peroxide?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 270,
+            "paragraph_id": "978-9389859751-p270-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Most of the lactate dehydrogenase activity.",
+        "false_answer": "Most of the lactate dehydrogenase activity.",
+        "incorrect_explanation": "The statement incorrectly identifies the enzyme activity predominantly present in reticulocytes and younger RBCs during the moderate form of G6PD deficiency. According to the paragraph, it's actually the G6PD enzyme activity, specifically an unstable but kinetically normal version of this enzyme, which is mostly found in these cell types, not lactate dehydrogenase.",
+        "question": "What is typically found in the reticulocytes and younger red blood cells (RBCs) in cases of the moderate form of Glucose-6-phosphate Dehydrogenase (G6PD) deficiency?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 274,
+            "paragraph_id": "978-9389859751-p274-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pyruvate dehydrogenase",
+        "false_answer": "Pyruvate dehydrogenase",
+        "incorrect_explanation": "This choice incorrectly identifies the enzyme because pyruvate dehydrogenase requires mitochondrial presence and thus would not be found active within red blood cells lacking mitochondria. Instead, the correct enzyme whose activity reflects thiamine status in red blood cells is actually transketolase, which operates independently of mitochondria and utilizes thiamine pyrophosphate (TPP).",
+        "question": "What enzyme's activity measured in red blood cells indicates thiamine status, given that these cells lack mitochondria and therefore cannot utilize certain pathways reliant on mitochondrial enzymes?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 279,
+            "paragraph_id": "978-9389859751-p279-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Fructose",
+        "false_answer": "Fructose",
+        "incorrect_explanation": "According to the paragraph, the synthesis of the trihexoside linker begins with the transfer of a xylose from UDP-xylose to the hydroxyl group of a serine (or threonine) catalyzed by xylosyltransferase. Thus, xylose, not fructose, is involved in this initial step. The mention of fructose in other contexts does not relate to the initiation of the trihexoside linker synthesis.",
+        "question": "What molecule serves as the sugar donor during the initial step of synthesizing the trihexoside linker on the core protein?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 285,
+            "paragraph_id": "978-9389859751-p285-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "During the elongation of palmitate, malonyl-CoA serves as the donor of two-carbon units at the carboxylate end.",
+        "false_answer": "That malonyl-CoA donates two-carbon units during the elongation of palmitate.",
+        "incorrect_explanation": "While the statement mentions malonyl-CoA's involvement correctly, there was confusion regarding what specifically asked for malondialdehyde, which isn't even discussed within the given context. Therefore, the actual false premise lies in addressing malondialdehyde instead of focusing purely on the accurate biochemical involved \u2013 malonyl-CoA, indicating a mix-up of distinct chemical names leading to the error.",
+        "question": "What is the role of malondialdehyde in relation to the addition of two-carbon units during the elongation of palmitate?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 320,
+            "paragraph_id": "978-9389859751-p320-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Deficiency in glucoronidase.",
+        "false_answer": "Deficiency in glucoronidase.",
+        "incorrect_explanation": "According to the information given, I-cell disease is actually caused by a deficiency of the phosphotransferase needed for synthesizing the mannose 6-phosphate signal, which targets acid hydrolases to the lysosomal matrix. There is no mention that glucoronidase deficiency causes I-cell disease; instead, deficiencies in different enzymes lead to various diseases, such as \u03b2-glucuronidase being associated with Sly syndrome, indicating each disease has distinct enzymatic defects.",
+        "question": "What enzyme's deficiency leads to the symptoms observed in patients with I-cell disease?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 296,
+            "paragraph_id": "978-9389859751-p296-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In the jejunum.",
+        "false_answer": "Dietary lipid emulsification occurs in the jejunum.",
+        "incorrect_explanation": "According to the given information, emulsification actually takes place in the duodenum, making the statement regarding the jejunum incorrect. The correct site of dietary lipid emulsification is indeed the duodenum, as specified in the initial description of the process.",
+        "question": "Where does the critical process of dietary lipid emulsification occur?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 306,
+            "paragraph_id": "978-9389859751-p306-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Succinyl CoA:acetoacetate CoA transferase",
+        "false_answer": "Succinyl CoA:acetoacetate CoA transferase",
+        "incorrect_explanation": "This enzyme actually provides a CoA molecule to acetoacetate in extrahepatic tissues to facilitate further metabolism. Instead, HMG-CoA lyase is responsible for converting HMG-CoA to acetoacetate and acetyl-CoA, serving as a critical step in ketone body synthesis within the liver.",
+        "question": "What enzyme catalyzes the conversion of HMG-CoA to acetoacetate and acetyl-CoA?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 330,
+            "paragraph_id": "978-9389859751-p330-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of all carnitine in the body is contained within skeletal muscle.",
+        "false_answer": "Approximately 50% of all carnitine in the body is contained within skeletal muscle.",
+        "incorrect_explanation": "The statement is incorrect because, according to the information provided, skeletal muscle actually contains approximately 97% of all carnitine in the body, not 50%. This discrepancy highlights a significant difference in understanding the distribution of carnitine among various bodily tissues.",
+        "question": "What percentage of all carnitine does skeletal muscle contain according to the given biochemical processes?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 325,
+            "paragraph_id": "978-9389859751-p325-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Sphingomyelin consists mainly of sphingosine linked directly to cholesterol.",
+        "false_answer": "Sphingomyelin consists mainly of sphingosine linked directly to cholesterol.",
+        "incorrect_explanation": "According to the given information, sphingomyelin is produced when the alcohol group at carbon 1 of sphingosine is esterified to phosphorylcholine, indicating that sphingomyelin's main components are sphingosine and phosphorylcholine (forming ceramide), rather than being linked directly to cholesterol.",
+        "question": "What component does sphingomyelin primarily consist of?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 339,
+            "paragraph_id": "978-9389859751-p339-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hormone-insensitive lipase.",
+        "false_answer": "Hormone-insensitive lipase",
+        "incorrect_explanation": "The correct term should be hormone-sensitive lipase because this enzyme plays a crucial role in breaking down stored triglycerides within adipose tissue under hormonal regulation, especially during periods of low insulin levels such as fasting or starvation. Thus, the actual enzyme responsible for breaking down stored triacylglycerols is indeed hormone-sensitive lipase, not hormone-insensitive lipase.",
+        "question": "What enzyme breaks down stored triacylglycerols in adipocytes during periods of fasting or starvation?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 335,
+            "paragraph_id": "978-9389859751-p335-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 5%.",
+        "false_answer": "Up to 5%",
+        "incorrect_explanation": "According to the given information, Type B Niemann-Pick disease actually shows up to 10% of normal enzyme activity, making the statement about showing up to 5% incorrect.",
+        "question": "What percent of normal enzyme activity does Type B Niemann-Pick disease show?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 344,
+            "paragraph_id": "978-9389859751-p344-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Phospholipase A1 releases arachidonic acid.",
+        "false_answer": "Phospholipase A1 releases arachidonic acid.",
+        "incorrect_explanation": "According to the given text, it's actually phospholipase A2 that releases arachidonic acid from membrane phospholipids in response to various signals, not phospholipase A1.",
+        "question": "What enzyme is responsible for releasing arachidonic acid from membrane phospholipids?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 349,
+            "paragraph_id": "978-9389859751-p349-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An increase in insulin leads to phosphorylation (deactivation) of the reductase.",
+        "false_answer": "An increase in insulin leads to phosphorylation (deactivation) of the reductase.",
+        "incorrect_explanation": "According to the paragraph, an increase in insulin actually favors dephosphorylation (activation) of HMG CoA reductase, not phosphorylation. Therefore, the correct outcome of increased insulin is activation, not deactivation.",
+        "question": "How does an increase in insulin affect the activity of HMG CoA reductase?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 363,
+            "paragraph_id": "978-9389859751-p363-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In AERD, aspirin activates the phospholipase enzymes.",
+        "false_answer": "Aspirin activates the phospholipase enzymes.",
+        "incorrect_explanation": "According to the text, NSAIDs (including aspirin) actually do not affect phospholipases; they inhibit cyclooxygenase but not lipoxygenase, leading to more production of leukotrienes instead. Thus, the statement that aspirin activates phospholipase enzymes is incorrect because there's no mention of activation of these enzymes by aspirin in relation to AERD.",
+        "question": "What enzyme does aspirin exacerbate in the condition of aspirin-exacerbated respiratory disease (AERD)?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 356,
+            "paragraph_id": "978-9389859751-p356-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The sun sets over the mountains at noon.",
+        "false_answer": "The sun sets over the mountains at noon.",
+        "incorrect_explanation": "The statement incorrectly says the sun \"sets,\" which happens at night, instead of \"rises.\" Additionally, it mentions \"noon,\" which is midday, rather than \"dawn,\" when the sun actually rises. According to the paragraph, the sun rises over the mountains at dawn, not noon, and certainly doesn't set then.",
+        "question": "At what time does the sun rise over the mountains?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 372,
+            "paragraph_id": "978-9389859751-p372-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cholecystokinin",
+        "false_answer": "Cholecystokinin",
+        "incorrect_explanation": "According to the paragraph, cholecystokinin mediates the release and activation of pancreatic zymogens but does not convert trypsinogen to trypsin. Instead, this action is attributed to enteropeptidase (also called enterokinase), which removes a hexapeptide from the N-terminus of trypsinogen, converting it to trypsin. Furthermore, there's a discrepancy between stating the removal of a \"heptapeptide,\" whereas the paragraph specifies the removal of a \"hexapeptide.\"",
+        "question": "What enzyme synthesizes and activates the conversion of trypsinogen to trypsin through the removal of a heptapeptide?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 397,
+            "paragraph_id": "978-9389859751-p397-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Low HDL cholesterol, specifically values at or exceeding 60 mg/dl, indicates increased risk factors for heart disease.",
+        "false_answer": "Values at or exceeding 60 mg/dl indicate increased risk factors for heart disease.",
+        "incorrect_explanation": "According to the paragraph, an HDL cholesterol level of 40 mg/dl or less is actually considered a risk factor for heart disease, indicating lower levels increase this risk rather than higher ones being problematic.",
+        "question": "What does a low level of HDL cholesterol signify according to clinical standards discussed regarding cardiovascular health risks?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 384,
+            "paragraph_id": "978-9389859751-p384-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Uric Acid",
+        "false_answer": "Uric Acid",
+        "incorrect_explanation": "According to the given information, when amino acids are degraded, their amino groups eventually convert into urea via the liver's urea cycle, not uric acid. Urea is specifically described as the disposal form of amino groups from amino acids, contrasting with uric acid, which is associated with the degradation of purine nucleotides.",
+        "question": "What compound does the amino group from amino acids ultimately get converted into during their degradation?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 392,
+            "paragraph_id": "978-9389859751-p392-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Bicarbonate provides two carbon atoms of urea.",
+        "false_answer": "Bicarbonate provides two carbon atoms of urea.",
+        "incorrect_explanation": "According to the given text, bicarbonate actually provides *only* the carbon atom of urea, indicating a singular contribution rather than dual as suggested in the false answer. Thus, the statement inaccurately doubles the number of carbon atoms contributed by bicarbonate.",
+        "question": "What is the role of bicarbonate in the synthesis of urea?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 403,
+            "paragraph_id": "978-9389859751-p403-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pyruvate kinase.",
+        "false_answer": "Pyruvate kinase",
+        "incorrect_explanation": "The false answer incorrectly identifies the enzyme involved in converting glutamate to glutamine. According to the provided information, this conversion is actually facilitated by glutamine synthetase, not pyruvate kinase. Thus, the correct answer should be glutamine synthetase.",
+        "question": "What enzyme catalyzes the conversion of glutamate to glutamine?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 419,
+            "paragraph_id": "978-9389859751-p419-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Methyltransferase",
+        "false_answer": "Methyltransferase",
+        "incorrect_explanation": "The false answer given is incorrect because the actual enzyme involved in this process is methionine synthase, not methyltransferase. According to the provided information, methionine synthase uses methylcobalamin (derived from vitamin B12) to convert homocysteine back to methionine. While methyltransferases do participate in transferring methyl groups in various biochemical reactions, they are not specifically responsible for the remethylation of homocysteine to methionine via methylcobalamin.",
+        "question": "What enzyme requires cobalamin to facilitate the conversion of homocysteine back to methionine?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 415,
+            "paragraph_id": "978-9389859751-p415-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When ornithine combines with carbamoyl phosphate by ornithine transcarbamylase, it forms arginine.",
+        "false_answer": "Arginine formation through the combination of ornithine and carbamoyl phosphate.",
+        "incorrect_explanation": "According to the given biochemical pathway, when ornithine combines with carbamoyl phosphate by the action of ornithine transcarbamylase, it actually forms citrulline, not arginine. Thus, the statement provided in the answer contains a critical factual error regarding the product of the reaction between ornithine and carbamoyl phosphate in the urea cycle.",
+        "question": "What happens when ornithine combines with carbamoyl phosphate during the urea cycle?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 411,
+            "paragraph_id": "978-9389859751-p411-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hepatitis D infection",
+        "false_answer": "Hepatitis D infection",
+        "incorrect_explanation": "According to the paragraph, the condition associated with severe deficiency of UROD is actually Porphyria cutanea tarda (PCT), and clinical expression of this deficiency is influenced by various factors such as hepatic iron overload, exposure to sunlight, alcohol ingestion, estrogen therapy, and the presence of hepatitis B or C or HIV infections, but there's no mention of Hepatitis D being specifically linked to UROD deficiency.",
+        "question": "What condition is primarily responsible for causing the severe deficiency of UROD observed in patients?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 434,
+            "paragraph_id": "978-9389859751-p434-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Up to 50% of normal enzyme activity.",
+        "false_answer": "Up to 50% of normal enzyme activity",
+        "incorrect_explanation": "According to the information provided, patients with intermediate forms of MSUD actually have up to 30% of normal enzyme activity, not up to 50%. Therefore, stating they have up to 50% of normal enzyme activity introduces a factual error regarding the extent of enzyme activity in these patients.",
+        "question": "What percentage of normal enzyme activity do patients with the intermediate forms of Maple Syrup Urine Disease (MSUD) exhibit?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 424,
+            "paragraph_id": "978-9389859751-p424-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Phenylalanine hydroxylase.",
+        "false_answer": "Phenylalanine hydroxylase.",
+        "incorrect_explanation": "While phenylalanine hydroxylase does require tetrahydro-biopterin, the question specifically refers to the synthesis of serotonin. According to the given information, the step involving tetrahydro-biopterin in serotonin synthesis is actually the hydroxylation of tryptophan, not the activity of phenylalanine hydroxylase itself. Thus, the correct answer would relate more accurately to the hydroxylase involved in converting tryptophan to 5-hydroxytryptophan, though this specific enzyme name isn't detailed beyond being compared analogously to phenylalanine hydroxylase. Therefore, stating phenylalanine hydroxylase as the enzyme requiring tetrahydro-biopterin in serotonin synthesis introduces confusion regarding the actual biochemical pathway described.",
+        "question": "What enzyme requires tetrahydro-biopterin when synthesizing serotonin?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 441,
+            "paragraph_id": "978-9389859751-p441-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Visible symptoms of jaundice occur when bilirubin levels exceed 5 mg/dl.",
+        "false_answer": "Bilirubin levels exceeding 5 mg/dl cause visible symptoms of jaundice.",
+        "incorrect_explanation": "According to the given information, jaundice becomes apparent at much lower bilirubin concentrations. Specifically, it mentions that jaundice is seen at bilirubin levels of 2\u20133 mg/dl, making the statement in the answer inaccurate.",
+        "question": "What level of bilirubin in the blood typically causes visible symptoms of jaundice?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 438,
+            "paragraph_id": "978-9389859751-p438-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At blood glucose levels >45 mg/dl, glucokinase is inhibited by glucose 6-phosphate.",
+        "false_answer": "At blood glucose levels >45 mg/dl, glucokinase is inhibited by glucose 6-phosphate.",
+        "incorrect_explanation": "According to the paragraph, at blood glucose levels >45 mg/dl, glucokinase phosphorylates glucose in amounts proportional to the glucose concentration because it lacks direct inhibition by glucose 6-phosphate, its product. Therefore, the statement that glucokinase is inhibited by glucose 6-phosphate under these conditions is false. Instead, the proportionality results from the absence of this inhibition.",
+        "question": "What happens at blood glucose levels higher than 45 mg/dl regarding glucokinase activity?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 454,
+            "paragraph_id": "978-9389859751-p454-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Epinephrine triggers the increase in blood glucose.",
+        "false_answer": "Epinephrine triggers the increase in blood glucose.",
+        "incorrect_explanation": "According to the given text, it's actually the decrease in insulin level and/or the action of glucagon that allows for an increase in blood glucose during certain conditions, not specifically the ingestion of food triggering this through epinephrine alone. Instead, rising blood glucose after eating typically signals insulin secretion, aiming to manage and regulate this increase effectively. Thus, the statement incorrectly identifies epinephrine as the primary trigger for increased blood glucose following food intake, whereas in reality, insulin plays a crucial role in managing blood glucose spikes after meals.",
+        "question": "What triggers the increase in blood glucose following the ingestion of food?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 463,
+            "paragraph_id": "978-9389859751-p463-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When glucagon levels are elevated in anticipation of increased glucose use, insulin levels remain unaffected.",
+        "false_answer": "Insulin levels remain unaffected.",
+        "incorrect_explanation": "According to the given information, elevated catecholamine levels lead to the stimulation of glucagon release during physiological stress, causing glucagon levels to elevate regardless of blood glucose concentrations. Moreover, it specifically mentions that \"In these situations...insulin levels are depressed.\" Therefore, the statement that insulin levels remain unaffected when glucagon levels are elevated is incorrect because they actually decrease under those conditions.",
+        "question": "What happens when glucagon levels are elevated in anticipation of increased glucose use?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 458,
+            "paragraph_id": "978-9389859751-p458-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60%.",
+        "false_answer": "Approximately 60%.",
+        "incorrect_explanation": "According to the given information, skeletal muscle actually accounts for approximately 40%, not 60%, of the body mass in individuals of healthy weight.",
+        "question": "What proportion of the human body's total mass does skeletal muscle account for?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 472,
+            "paragraph_id": "978-9389859751-p472-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When the body compensates for insulin resistance with elevated insulin levels, it results in significantly lower blood glucose levels compared to those found in non-obese individuals.",
+        "false_answer": "Lowered blood glucose levels occur when the body compensates for insulin resistance with elevated insulin levels.",
+        "incorrect_explanation": "According to the given information, when the body compensates for insulin resistance with elevated insulin levels, especially in obese individuals, this actually maintains blood glucose levels similar to those observed in lean individuals, rather than lowering them further.",
+        "question": "What occurs when an individual's body compensates for insulin resistance through elevated levels of insulin?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 490,
+            "paragraph_id": "978-9389859751-p490-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When someone undergoes forced overeating, they return immediately to their starting weight.",
+        "false_answer": "Immediate return to starting weight after forced overeating.",
+        "incorrect_explanation": "According to Figure 30.4, after periods of forced overeating or undereating, once given unrestricted food again, the body does indeed tend towards returning to its initial starting weight, but this doesn't imply immediate action; rather, it suggests recovery back to baseline weights post-restriction removal.",
+        "question": "What happens to body weight when there's forced overeating?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 501,
+            "paragraph_id": "978-9389859751-p501-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of total diabetes cases in India are constituted by Type 1 diabetes.",
+        "false_answer": "Approximately 20% of total diabetes cases in India are constituted by Type 1 diabetes.",
+        "incorrect_explanation": "According to the paragraph, Type 1 diabetes actually constitutes about 10% of total diabetes cases in India, making the statement incorrect. Thus, the correct answer should reflect this accurate percentage.",
+        "question": "What percentage of total diabetes cases in India is constituted by Type 1 diabetes?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 494,
+            "paragraph_id": "978-9389859751-p494-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A lightly active person typically needs around 20%-40% fewer calories than the RMR.",
+        "false_answer": "A lightly active person typically needs around 20%-40% fewer calories than the RMR.",
+        "incorrect_explanation": "According to the given text, a lightly active person actually requires approximately 30%-50% *more* calories than the RMR, not fewer. Thus, the statement regarding needing fewer calories is both quantitatively wrong and directionally opposite to what is indicated.",
+        "question": "What is the approximate range of additional calories needed for a lightly active individual compared to the Resting Metabolic Rate (RMR)?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 516,
+            "paragraph_id": "978-9389859751-p516-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Patients with documented CHD are advised to consume approximately 500mg of fish oils each day.",
+        "false_answer": "Approximately 500mg of fish oils per day for patients with documented CHD.",
+        "incorrect_explanation": "According to the given paragraph, for patients with documented CHD, 1 gram (which equals 1000 milligrams) of fish oils is actually recommended per day, making the statement significantly underestimating the suggested dose.",
+        "question": "What is the daily recommendation of fish oils for patients who have been diagnosed with documented Coronary Heart Disease?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 520,
+            "paragraph_id": "978-9389859751-p520-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Children with marasmus usually exhibit significant edema, leading to a swollen appearance, whereas those with kwashiorkor do not display notable swelling.",
+        "false_answer": "Children with marasmus usually exhibit significant edema, leading to a swollen appearance.",
+        "incorrect_explanation": "According to the provided information, it's actually kwashiorkor that presents with edema due to insufficient blood proteins, particularly albumin, giving the affected individual a plump appearance despite potential underlying muscle and fat loss. In contrast, marasmus does not feature edema prominently; instead, it shows marked wasting of muscles and fats.",
+        "question": "What is typically observed in cases of marasmus compared to kwashiorkor regarding body appearance?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 526,
+            "paragraph_id": "978-9389859751-p526-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 21% of total calories should come from proteins.",
+        "false_answer": "Approximately 21% of total calories should come from proteins.",
+        "incorrect_explanation": "The paragraph mentions two different scenarios involving dietary advice for patients with cardiac and diabetes concerns, suggesting protein should make up around 15% of total calories in one instance and approximately 17% in another. Neither scenario recommends 21% of total calories coming from proteins. Therefore, both mentioned contexts contradict the provided false answer.",
+        "question": "In managing a patient diagnosed with coronary heart disease alongside other metabolic issues, what percentages of total calories should ideally come from protein according to general recommendations?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 534,
+            "paragraph_id": "978-9389859751-p534-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adults should consume 15%-25% of their total calories from protein.",
+        "false_answer": "Adults should consume 15%-25% of their total calories from protein.",
+        "incorrect_explanation": "The paragraph specifies that adults should consume 10%\u201335% of their total calories from protein, making the given range incorrect. The correct range allows for more variability and flexibility in dietary choices regarding protein intake.",
+        "question": "What percentage range of total calories should adults consume from protein according to acceptable macronutrient distribution ranges?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 532,
+            "paragraph_id": "978-9389859751-p532-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Newborns need vitamin K supplements primarily because breastmilk contains very little vitamin K compared to formula feeding.",
+        "false_answer": "Breastmilk's low vitamin K levels necessitate supplements in newborns.",
+        "incorrect_explanation": "According to the text, the main issue isn't just that breastmilk lacks sufficient amounts of vitamin K; rather, it's crucially noted that *newborns have sterile intestines* and thus cannot yet synthesize vitamin K through intestinal bacteria, compounded by breastmilk providing only about one-fifth of the needed vitamin K, leading to recommendations for vitamin K supplementation at birth regardless of whether the child is being breastfed or formula-fed.",
+        "question": "What is the primary reason newborns require vitamin K supplements?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 560,
+            "paragraph_id": "978-9389859751-p560-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The daily manganese requirement is approximately 2 milligrams.",
+        "false_answer": "Approximately 2 milligrams of manganese per day.",
+        "incorrect_explanation": "The given answer incorrectly states the daily manganese requirement as 2 milligrams, whereas according to the table, the actual recommended intake is 4 milligrams per day. Thus, the statement underestimates the needed amount of manganese.",
+        "question": "What daily requirement of Manganese does the human body need?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 580,
+            "paragraph_id": "978-9389859751-p580-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Normal serum concentration of magnesium ranges between 4.8\u20137.9 mg/dl.",
+        "false_answer": "Normal serum concentration of magnesium ranges between 4.8\u20137.9 mg/dl.",
+        "incorrect_explanation": "The given answer provides an incorrect range for normal serum concentration of magnesium. According to the information provided, the correct normal serum concentration of magnesium is actually 1.6\u20132.3 mg/dl.",
+        "question": "What is the normal range for the serum concentration of magnesium?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 570,
+            "paragraph_id": "978-9389859751-p570-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The liver stores approximately 75% of the body\u2019s vitamin A.",
+        "false_answer": "The liver stores approximately 75% of the body\u2019s vitamin A.",
+        "incorrect_explanation": "The given answer is incorrect because according to the paragraph, the liver actually stores 90% of the body\u2019s vitamin A, not 75%. Therefore, the correct statement should reflect the higher storage capacity attributed to the liver in relation to vitamin A reserves.",
+        "question": "What percentage of the body's vitamin A does the liver store?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 551,
+            "paragraph_id": "978-9389859751-p551-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When treating hyperlipidemia, the standard dose of niacin is usually around 500mg per day.",
+        "false_answer": "Administration of 500mg of niacin daily for hyperlipidemia treatment.",
+        "incorrect_explanation": "According to the given information, niacin at doses of 1.5g/day, or 100 times the Recommended Dietary Allowance (RDA), is what strongly inhibits lipolysis in adipose tissue during the treatment of hyperlipidemia, making 500mg significantly lower than the effective therapeutic dosage mentioned.",
+        "question": "What dose of niacin is typically administered when treating patients for hyperlipidemia?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 548,
+            "paragraph_id": "978-9389859751-p548-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Hydroxyurea treats melanoma through enhancing ribonucleotide reductase activity.",
+        "false_answer": "Hydroxyurea treats melanoma through enhancing ribonucleotide reductase activity.",
+        "incorrect_explanation": "According to the paragraph, hydroxyurea actually *inhibits* ribonucleotide reductase, rather than enhancing it, thus preventing the generation of substrates needed for DNA synthesis and acting as an antineoplastic agent against cancers like melanoma.",
+        "question": "What role does hydroxyurea play in treating melanoma?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 596,
+            "paragraph_id": "978-9389859751-p596-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A rare condition caused primarily by environmental factors acting independently of any significant genetic influence.",
+        "false_answer": "A rare condition caused primarily by environmental factors acting independently of any significant genetic influence.",
+        "incorrect_explanation": "The statement incorrectly suggests that multifactorial disorders are independent of genetic influences and implies they are rare conditions. In contrast, according to the given paragraph, multifactorial disorders are actually influenced by both environmental factors and multiple gene interactions, making them more complex rather than purely environmentally driven. Furthermore, these disorders are described as being among the most common types, such as diabetes mellitus type 2 and hypertension, indicating they are prevalent rather than rare.",
+        "question": "What does the term multifactorial disorder typically describe in genetic contexts?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 588,
+            "paragraph_id": "978-9389859751-p588-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Uracil-DNA phosphorylase initiates the removal of uracil from DNA.",
+        "false_answer": "Uracil-DNA phosphorylase initiates the removal of uracil from DNA.",
+        "incorrect_explanation": "The given answer incorrectly identifies the enzyme responsible for initiating uracil removal. According to the information available, uracil-DNA N-glycosylase actually performs this role by cleaving the bond between uracil and the sugar-phosphate backbone, not uracil-DNA phosphorylase.",
+        "question": "What enzyme catalyzes the initial step of removing uracil from DNA during base excision repair?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 623,
+            "paragraph_id": "978-9389859751-p623-para1"
+        },
+        "type": "short_inverse"
+    }
+]

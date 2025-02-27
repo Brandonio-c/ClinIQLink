@@ -602,5 +602,301 @@
             "paragraph_id": "978-0071376396-p160-para1"
         },
         "type": "list"
+    },
+    {
+        "answer": [
+            "Alcohol abuse",
+            "Psychiatric illness",
+            "Stranger to the child",
+            "Prior sexual abuse",
+            "Relative or known to the child"
+        ],
+        "options": [
+            "Alcohol abuse",
+            "Psychiatric illness",
+            "Stranger to the child",
+            "Prior sexual abuse",
+            "Relative or known to the child",
+            "Low socioeconomic status",
+            "Early drug use",
+            "Parental drug use",
+            "Depression"
+        ],
+        "question": "What factors contribute to child sexual abuse according to common findings among offenders?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 172,
+            "paragraph_id": "978-0071376396-p172-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Postmenopausal women",
+            "Elderly widows living alone",
+            "Breast-fed infants",
+            "Infants fed cow\u2019s milk",
+            "Adolescents with heavy menstrual bleeding"
+        ],
+        "options": [
+            "Postmenopausal women",
+            "Elderly widows living alone",
+            "Breast-fed infants",
+            "Infants fed cow\u2019s milk",
+            "Adolescents with heavy menstrual bleeding"
+        ],
+        "question": "What factors contribute to a higher risk of adverse effects from iron deficiency anemia among different patient groups?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 179,
+            "paragraph_id": "978-0071376396-p179-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diabetic nephropathy",
+            "Hypertensive nephropathy",
+            "Glomerulonephritis",
+            "Cystic kidney disease",
+            "Interstitial nephritis",
+            "Collagen vascular disease",
+            "Obstructive nephropathy"
+        ],
+        "options": [
+            "Diabetic nephropathy",
+            "Hypertensive nephropathy",
+            "Glomerulonephritis",
+            "Cystic kidney disease",
+            "Interstitial nephritis",
+            "Collagen vascular disease",
+            "Obstructive nephropathy"
+        ],
+        "question": "What conditions account for End Stage Renal Disease (ESRD) according to the given statistics?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 199,
+            "paragraph_id": "978-0071376396-p199-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Male gender",
+            "Relative of the child (such as father, uncle, older brother)",
+            "Nonrelative known to the child",
+            "Previous victim of sexual abuse"
+        ],
+        "options": [
+            "Female gender",
+            "Stranger to the victim",
+            "Victim of previous sexual abuse",
+            "Relative of the child (such as father, uncle, older brother)",
+            "Non-relative unknown to the child"
+        ],
+        "question": "What are some characteristics commonly observed among individuals who commit sexual abuse?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 194,
+            "paragraph_id": "978-0071376396-p194-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sickle cell disease",
+            "Cystic fibrosis",
+            "Beta-thalassemia",
+            "Tay-Sachs disease"
+        ],
+        "options": [
+            "Sickle cell disease",
+            "Cystic fibrosis",
+            "Beta-thalassemia",
+            "Hemochromatosis",
+            "Tay-Sachs disease"
+        ],
+        "question": "What genetic disorders are commonly associated with specific ethnic or geographic groups?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 183,
+            "paragraph_id": "978-0071376396-p183-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diets high in animal fat",
+            "Not having treatment for colonic polyps",
+            "Inflammatory bowel disease",
+            "Obesity"
+        ],
+        "options": [
+            "High-fat diet",
+            "Low-fiber diet",
+            "High-fiber diet",
+            "Animal fat consumption",
+            "Physical activity",
+            "Family history of colorectal issues",
+            "Age greater than 50",
+            "Obesity"
+        ],
+        "question": "What are the risk factors associated with the development of colon cancer?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 191,
+            "paragraph_id": "978-0071376396-p191-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Family history",
+            "Gastric hyperacidity",
+            "Cigarette smoking",
+            "Blood group O",
+            "Use of NSAID in persons over age 55"
+        ],
+        "options": [
+            "Increased use of safety belts",
+            "Excessive alcohol consumption",
+            "Family history",
+            "Blood group A",
+            "Gastric hyperacidity",
+            "Winter birth",
+            "Genetic vulnerability",
+            "Early developmental insults",
+            "Cigarette smoking",
+            "Blood group O"
+        ],
+        "question": "What are the identified risk factors for developing gastritis/peptic ulcer disease?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 201,
+            "paragraph_id": "978-0071376396-p201-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sodium",
+            "Calcium",
+            "Zinc"
+        ],
+        "options": [
+            "Zinc",
+            "Sodium",
+            "Calcium",
+            "Vitamin D"
+        ],
+        "question": "What substances contribute to maintaining various bodily functions and structures?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 205,
+            "paragraph_id": "978-0071376396-p205-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Provider-based tracking",
+            "Practice-based immunization assessments with feedback results"
+        ],
+        "options": [
+            "Provider-based tracking",
+            "Practice-based immunization assessments with feedback results",
+            "Increasing public awareness about vaccines",
+            "Offering free vaccinations at community centers"
+        ],
+        "question": "Which methods besides recalling/reminding systems are effective in increasing immunization rates?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 216,
+            "paragraph_id": "978-0071376396-p216-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Physicians",
+            "Registered Nurses",
+            "Chiropractors",
+            "Social Service Workers",
+            "Psychologists",
+            "Dentists",
+            "Osteopaths",
+            "Optometrists",
+            "Podiatrists",
+            "Mental Health Professionals",
+            "Volunteers in Residential Facilities",
+            "Hospital Administrators"
+        ],
+        "options": [
+            "Physicians",
+            "Registered Nurses",
+            "Chiropractors",
+            "Social Service Workers",
+            "Psychologists",
+            "Dentists",
+            "Osteopaths",
+            "Optometrists",
+            "Podiatrists",
+            "Mental Health Professionals",
+            "Volunteers in Residential Facilities",
+            "Hospital Administrators"
+        ],
+        "question": "What types of individuals are required to report suspected cases of child abuse?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 238,
+            "paragraph_id": "978-0071376396-p238-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Independent Practice Associations (IPAs)",
+            "Professional Review Organizations (PROs)",
+            "Staff model HMOs",
+            "Mixed-model HMOs",
+            "Health Maintenance Organizations (HMOs)",
+            "Preferred Provider Organizations (PPOs)"
+        ],
+        "options": [
+            "Independent Practice Associations (IPAs)",
+            "Professional Review Organizations (PROs)",
+            "Staff model HMOs",
+            "Mixed-model HMOs",
+            "Home health services",
+            "Nonprofit multi-home systems"
+        ],
+        "question": "What types of organizations are involved in providing healthcare services?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 223,
+            "paragraph_id": "978-0071376396-p223-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Living Will",
+            "Advance Directive",
+            "Power of Attorney"
+        ],
+        "options": [
+            "Living Will",
+            "Advance Directive",
+            "Last Testament",
+            "Power of Attorney",
+            "Medical Proxy"
+        ],
+        "question": "What options do exist for directing care or making healthcare decisions for oneself prior to losing decision-making capability?",
+        "source": {
+            "isbn": "978-0071376396",
+            "page": 233,
+            "paragraph_id": "978-0071376396-p233-para1"
+        },
+        "type": "list"
     }
 ]

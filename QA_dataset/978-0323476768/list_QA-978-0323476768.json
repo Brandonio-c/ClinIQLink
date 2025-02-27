@@ -1,0 +1,1544 @@
+[
+    {
+        "answer": [
+            "Cell Wall Material",
+            "Cytoplasm",
+            "Plasma Membrane",
+            "Ribosomes",
+            "Mesosome",
+            "Pili/Fimbriae",
+            "Plasmids"
+        ],
+        "options": [
+            "Nucleic Acid",
+            "Lipoproteins",
+            "Peptidoglycan Layer",
+            "Enzymes",
+            "Cell Wall Material",
+            "Cytoplasm",
+            "Plasma Membrane",
+            "Ribosomes",
+            "Mesosome",
+            "Pili/Fimbriae",
+            "Plasmids",
+            "Antibiotics",
+            "Lymphocytes"
+        ],
+        "question": "What types of cellular components are typically found in bacterial organisms?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 18,
+            "paragraph_id": "978-0323476768-p18-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Epidemiology",
+            "Virulence",
+            "Clinical diseases",
+            "Diagnostics",
+            "Treatment"
+        ],
+        "options": [
+            "Epidemiology",
+            "Virulence",
+            "Clinical diseases",
+            "Diagnostics",
+            "Treatment",
+            "Mnemonic aids"
+        ],
+        "question": "What aspects of microbiology form the foundation of microbiology knowledge?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 13,
+            "paragraph_id": "978-0323476768-p13-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acid-fast stain",
+            "Gram stain"
+        ],
+        "options": [
+            "Acid-fast stain",
+            "Gram stain",
+            "Blue dye stain",
+            "Red dye stain"
+        ],
+        "question": "What types of stains are commonly used to classify bacteria?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 19,
+            "paragraph_id": "978-0323476768-p19-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Yeast",
+            "Molds"
+        ],
+        "options": [
+            "Viruses",
+            "Bacteria",
+            "Yeast",
+            "Protozoa",
+            "Helminths"
+        ],
+        "question": "What types of single-celled and multi-celled organisms do Fungi consist of?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 20,
+            "paragraph_id": "978-0323476768-p20-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Viruses",
+            "Bacteria",
+            "Fungi",
+            "Parasites"
+        ],
+        "options": [
+            "Animals",
+            "Plants",
+            "Protists",
+            "Viruses",
+            "Bacteria",
+            "Fungi",
+            "Parasites"
+        ],
+        "question": "What categories do microbes get subdivided into?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 17,
+            "paragraph_id": "978-0323476768-p17-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "S. pyogenes",
+            "S. agalactiae"
+        ],
+        "options": [
+            "S. pneumoniae",
+            "S. pyogenes",
+            "S. agalactiae",
+            "S. anginosus"
+        ],
+        "question": "What types of streptococci are primarily discussed regarding their involvement in human diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 36,
+            "paragraph_id": "978-0323476768-p36-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Size (1 to 20 \u00b5m or larger)",
+            "Shape (spheres [cocci], rods, or spirals)",
+            "Spatial arrangement (single cells, pairs, chains, or clusters)",
+            "Specific growth properties (e.g., aerobic, anaerobic, facultative anaerobes)"
+        ],
+        "options": [
+            "Size (less than 5 \u00b5m)",
+            "Shape (triangles, squares)",
+            "Spatial arrangement (aggregates, colonies)",
+            "Growth conditions (temperature range)",
+            "Presence of flagella",
+            "Cell wall composition",
+            "Nutrient requirements",
+            "Aerobic properties",
+            "Anaerobic capabilities",
+            "Facultative anaerobe behavior",
+            "Size (1 to 20 \u00b5m or larger)"
+        ],
+        "question": "What characteristics are considered when classifying bacteria?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 24,
+            "paragraph_id": "978-0323476768-p24-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Beta-lactam drugs",
+            "Macrolides",
+            "Polypeptides",
+            "Quinolones",
+            "Sulfonamides",
+            "Tetracyclines",
+            "Aminoglycosides",
+            "Lincosamides",
+            "Cephalosporins",
+            "Carbapenems",
+            "Monobactams"
+        ],
+        "options": [
+            "Beta-lactam drugs",
+            "Macrolides",
+            "Polypeptides",
+            "Quinolones",
+            "Sulfonamides",
+            "Tetracyclines",
+            "Aminoglycosides",
+            "Lincosamides",
+            "Cephalosporins",
+            "Carbapenems",
+            "Monobactams"
+        ],
+        "question": "What classes of antibiotics can be identified by their distinct mechanisms?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 26,
+            "paragraph_id": "978-0323476768-p26-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diphtheria",
+            "Inhalational Anthrax",
+            "Various bacterial infections"
+        ],
+        "options": [
+            "Diphtheria",
+            "Inhalational Anthrax",
+            "Tuberculosis",
+            "Influenza",
+            "Various bacterial infections"
+        ],
+        "question": "What diseases are reported by the listed research articles?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 57,
+            "paragraph_id": "978-0323476768-p57-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Production of diphtheria toxin via a lysogenic bacteriophage",
+            "Containment of multiple plasmids",
+            "Introduction of A-B exotoxins",
+            "Existence of a catalytic region and a receptor-binding region"
+        ],
+        "options": [
+            "Presence of gram-positive rods",
+            "Production of diphtheria toxin via a lysogenic bacteriophage",
+            "Containment of multiple plasmids",
+            "Ability to cause catheter-related bacteremia",
+            "Introduction of A-B exotoxins",
+            "Existence of a catalytic region and a receptor-binding region"
+        ],
+        "question": "What are the distinctive features or components specifically associated with Corynebacterium diphtheriae?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 55,
+            "paragraph_id": "978-0323476768-p55-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Polyarthralgias",
+            "Endocarditis",
+            "Multiple Myeloma",
+            "Enterococcus infection",
+            "Streptococcal infections"
+        ],
+        "options": [
+            "Hypertension",
+            "Polyarthralgias",
+            "Endocarditis",
+            "Multiple Myeloma",
+            "Enterococcus infection",
+            "Streptococcal infections"
+        ],
+        "question": "What conditions were associated with various medical cases described?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 46,
+            "paragraph_id": "978-0323476768-p46-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Poor infection control practices",
+            "Irrational drug prescription"
+        ],
+        "options": [
+            "Poor sanitation",
+            "Irrational drug prescription",
+            "Inadequate nutrition",
+            "Poor infection control practices",
+            "Economic instability"
+        ],
+        "question": "What contributes to Multidrug-resistant Tuberculosis (MDR-TB)?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 62,
+            "paragraph_id": "978-0323476768-p62-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunocompromised patients",
+            "Very young children",
+            "Pregnant women",
+            "The elderly"
+        ],
+        "options": [
+            "Immunocompetent adults",
+            "Young healthy men",
+            "Elderly people",
+            "Pregnant women",
+            "Very young children",
+            "Immunocompromised patients"
+        ],
+        "question": "What types of individuals are considered high-risk for Listeria infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 54,
+            "paragraph_id": "978-0323476768-p54-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Holosystolic soft murmur",
+            "Crescendo-decrescendo systolic murmur"
+        ],
+        "options": [
+            "Holodiastolic murmur",
+            "Systolic ejection murmur",
+            "Crescendo-decrescendo diastolic murmur",
+            "Diastolic rumble murmur",
+            "Holosystolic soft murmur",
+            "Decrescendo-crescendo diastolic murmur",
+            "Crescendo-decrescendo systolic murmur"
+        ],
+        "question": "What types of murmurs did the patient exhibit?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 43,
+            "paragraph_id": "978-0323476768-p43-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "M. tuberculosis",
+            "M. leprae",
+            "M. avium complex"
+        ],
+        "options": [
+            "M. tuberculosis",
+            "Rhodococcus equi",
+            "Myces bacterion",
+            "Avis complex"
+        ],
+        "question": "What species cause mycobacterial diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 61,
+            "paragraph_id": "978-0323476768-p61-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Developed convulsions",
+            "Partial left-sided paralysis",
+            "Subcutaneous abscess",
+            "Gradual improvement of brain lesions"
+        ],
+        "options": [
+            "Developed convulsions",
+            "Partial right-sided paralysis",
+            "Complete loss of hearing",
+            "Brain imaging abnormalities showing two lesions",
+            "Subcutaneous abscess",
+            "Gradual improvement of brain lesions",
+            "Total blindness",
+            "Partial left-sided paralysis",
+            "Discharge after 30 days of hospitalization",
+            "Development of pneumonia"
+        ],
+        "question": "What symptoms were observed in the Nocardia-infected patient?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 67,
+            "paragraph_id": "978-0323476768-p67-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gastroenteritis",
+            "Extraintestinal infections",
+            "Cystitis",
+            "Pyelonephritis",
+            "Intraabdominal infection",
+            "Meningitis",
+            "Sepsis"
+        ],
+        "options": [
+            "Gastrointestinal cancer",
+            "Respiratory tract infections",
+            "Cardiovascular conditions",
+            "Sepsis",
+            "Cystitis",
+            "Pyelonephritis",
+            "Intraabdominal infection",
+            "Meningitis"
+        ],
+        "question": "What types of diseases are Escherichia coli associated with?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 90,
+            "paragraph_id": "978-0323476768-p90-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Shigella sonnei",
+            "Shigella flexneri",
+            "Shigella dysenteriae",
+            "Shigella boydii"
+        ],
+        "options": [
+            "Salmonella typhi",
+            "E. coli",
+            "Enteroinvasive E. coli (EIEC)",
+            "STEC",
+            "Shigella sonnei",
+            "Shigella flexneri",
+            "Shigella dysenteriae",
+            "Shigella boydii"
+        ],
+        "question": "What Shigella species cause gastrointestinal diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 96,
+            "paragraph_id": "978-0323476768-p96-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Poultry products such as raw chicken and turkey",
+            "Red meat products such as beef and pork"
+        ],
+        "options": [
+            "Raw vegetables",
+            "Fruits",
+            "Nuts",
+            "Processed meats",
+            "Poultry products such as raw chicken and turkey",
+            "Red meat products such as beef and pork"
+        ],
+        "question": "What types of foods are Salmonella species often isolated from?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 94,
+            "paragraph_id": "978-0323476768-p94-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Clindamycin",
+            "Broad-spectrum \u03b2-lactam antibiotics",
+            "Trimethoprim-sulfamethoxazole"
+        ],
+        "options": [
+            "Clindamycin",
+            "Trimethoprim-sulfamethoxazole",
+            "Metronidazole",
+            "Levofloxacin",
+            "Vancomycin"
+        ],
+        "question": "What medications are associated with Clostridium difficile disease?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 117,
+            "paragraph_id": "978-0323476768-p117-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "C. difficile",
+            "B. fragilis",
+            "Bacteroides ovatus"
+        ],
+        "options": [
+            "C. difficile",
+            "B. fragilis",
+            "Bacteroides ovatus",
+            "Metronidazole",
+            "Vancomycin"
+        ],
+        "question": "What are the names of bacteria associated with clinical cases involving infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 118,
+            "paragraph_id": "978-0323476768-p118-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Providing needed metabolic functions, such as digestion of food",
+            "Stimulation of innate and regulatory immunity",
+            "Prevention of colonization with unwanted pathogens"
+        ],
+        "options": [
+            "Providing metabolic functions through digestion of food",
+            "Stimulation of acquired and adaptive immunity",
+            "Prevention of colonization with pathogenic microorganisms",
+            "Production of antibiotics against harmful bacteria",
+            "Modulation of inflammatory responses",
+            "Promotion of carcinogenesis"
+        ],
+        "question": "What are the roles played by anaerobic bacteria in maintaining human health?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 108,
+            "paragraph_id": "978-0323476768-p108-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Gram-negative rods",
+            "Gram-positive diplococci"
+        ],
+        "options": [
+            "Gram-negative rods",
+            "Gram-positive cocci",
+            "Bacillus subtilis",
+            "Escherichia coli"
+        ],
+        "question": "What are the distinct types of bacteria identified alongside *C. jejuni* during the microscopic examination?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 123,
+            "paragraph_id": "978-0323476768-p123-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Primarily HSV-2",
+            "Other members include HSV-1",
+            "Echoviruses",
+            "Enteroviruses such as coxsackievirus",
+            "Arboviruses which includes several viruses transmitted by mosquitoes"
+        ],
+        "options": [
+            "Herpes Simplex Virus Type 1 (HSV-1)",
+            "Human Immunodeficiency Virus (HIV)",
+            "Coxsackie virus",
+            "Arboviruses",
+            "Yellow Fever Virus"
+        ],
+        "question": "What kinds of viruses can primarily cause meningitis and encephalitis?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 147,
+            "paragraph_id": "978-0323476768-p147-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "DS (Double-strand)",
+            "SS (Single-strand)",
+            "SARS-CoV",
+            "MERS-CoV"
+        ],
+        "options": [
+            "Single-stranded DNA",
+            "SARS-CoV",
+            "Amino acid substitutions T9I, M82I",
+            "DS (Double-strand)",
+            "SS (Single-strand)",
+            "Cleavage site mutations",
+            "MERS-CoV"
+        ],
+        "question": "What types of nucleic acids and coronaviruses are listed?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 144,
+            "paragraph_id": "978-0323476768-p144-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Presence of DNA or RNA",
+            "Presence of nucleic acids in a single strand or double strand",
+            "Shape of the protein shell",
+            "Presence or absence of an envelope",
+            "Overall size"
+        ],
+        "options": [
+            "Type of host they infect",
+            "Presence of DNA or RNA",
+            "Geographical distribution",
+            "Shape of the viral genome",
+            "Presence or absence of an envelope",
+            "Color under UV light",
+            "Number of genes encoded",
+            "Overall size",
+            "Shape of the protein shell"
+        ],
+        "question": "What types of characteristics are considered when classifying viruses?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 143,
+            "paragraph_id": "978-0323476768-p143-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Borrelia burgdorferi"
+        ],
+        "options": [
+            "Borrelia garinii",
+            "Borrelia afzelii",
+            "Borrelia burgdorferi",
+            "Babesia microti"
+        ],
+        "question": "What are the primary pathogens associated with endemic relapsing fever and Lyme disease?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 128,
+            "paragraph_id": "978-0323476768-p128-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Autologous peripheral blood stem cell transplantation complications",
+            "Infectious mononucleosis-related severe neutropenia",
+            "Malignant behaviors influenced by prostaglandins",
+            "Fatal cytomegalovirus interstitial pneumonia"
+        ],
+        "options": [
+            "Autologous peripheral blood stem cell transplantation complications",
+            "Infectious mononucleosis-related severe neutropenia",
+            "Malignant behaviors influenced by prostaglandins",
+            "Fatal cytomegalovirus interstitial pneumonia",
+            "Peripheral bone marrow transplantation",
+            "Stem cell therapy side effects",
+            "Neutrophil recovery post-transplantation",
+            "Post-operative infection management"
+        ],
+        "question": "What medical conditions were discussed?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 164,
+            "paragraph_id": "978-0323476768-p164-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acute, self-limited hepatitis in immunocompetent individuals",
+            "Chronic disease in immunocompromised patients"
+        ],
+        "options": [
+            "Chronic disease in immunocompetent individuals",
+            "Acute, self-limited hepatitis in immunocompromised patients",
+            "Chronic disease in immunocompromised patients",
+            "Acute, self-limited hepatitis in immunocompetent individuals"
+        ],
+        "question": "What types of diseases does Hepatitis E Virus (HEV) cause?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 177,
+            "paragraph_id": "978-0323476768-p177-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Parainfluenza virus",
+            "Respiratory syncytial virus (RSV)",
+            "Human metapneumovirus (HMV)",
+            "Measles virus",
+            "Mumps virus"
+        ],
+        "options": [
+            "Parainfluenza virus",
+            "Respiratory syncytial virus (RSV)",
+            "Human metapneumovirus (HMV)",
+            "Measles virus",
+            "Mumps virus"
+        ],
+        "question": "What types of viruses within the Paramyxoviridae family can present with respiratory symptoms?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 170,
+            "paragraph_id": "978-0323476768-p170-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Human Metapneumovirus (HMV)",
+            "Non-enveloped DNA virus",
+            "Adenovirus",
+            "RNA viruses",
+            "Pathogenic Adenovirus 14"
+        ],
+        "options": [
+            "Human Metapneumovirus (HMV)",
+            "Non-enveloped DNA virus",
+            "Pathogenic Adenovirus 7",
+            "Adenovirus",
+            "RNA viruses",
+            "Pathogenic Adenovirus 14"
+        ],
+        "question": "What types of pathogens cause human respiratory infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 171,
+            "paragraph_id": "978-0323476768-p171-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Microsporum canis",
+            "Sporothrix",
+            "Epidermophyton floccosum",
+            "Trichophyton rubrum",
+            "Candida albicans"
+        ],
+        "options": [
+            "Microsporum canis",
+            "Sporothrix",
+            "Epidermophyton floccosum",
+            "Trichophyton rubrum",
+            "Candida albicans"
+        ],
+        "question": "What are the names of the fungi causing different types of infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 190,
+            "paragraph_id": "978-0323476768-p190-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Histoplasmosis",
+            "Blastomycosis",
+            "Cryptococcosis",
+            "Aspergillosis",
+            "Coccidioidomycosis"
+        ],
+        "options": [
+            "Candidiasis",
+            "Cryptococcosis",
+            "Aspergillosis",
+            "Coccidioidomycosis",
+            "Histoplasmosis",
+            "Blastomycosis",
+            "Dermatophytosis"
+        ],
+        "question": "What types of fungal infections are commonly recognized?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 187,
+            "paragraph_id": "978-0323476768-p187-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amphotericin B",
+            "Fluconazole",
+            "Itraconazole",
+            "Voriconazole"
+        ],
+        "options": [
+            "Amoxicillin",
+            "Fluconazole",
+            "Itraconazole",
+            "Voriconazole",
+            "Penicillin",
+            "Ampicillin",
+            "Ciprofloxacin",
+            "Erythromycin",
+            "Tetracycline",
+            "Acyclovir",
+            "Valacyclovir",
+            "Azithromycin",
+            "Clarithromycin",
+            "Sulfonamides",
+            "Metronidazole",
+            "Clindamycin",
+            "Daptomycin",
+            "Linezolid",
+            "Vancomycin",
+            "Rifampin",
+            "Ethambutol",
+            "Pyrazinamide",
+            "Isoniazid",
+            "Moxifloxacin",
+            "Gatifloxacin",
+            "Levofloxacin",
+            "Ofloxacin",
+            "Ceftriaxone",
+            "Ceftazidime",
+            "Piperacillin/Tazobactam",
+            "Ticarcillin/Clavulanate",
+            "Imipenem/Cilastatin",
+            "Meropenem",
+            "Doripenem",
+            "Televancin",
+            "Tigecycline",
+            "Streptogramins",
+            "Quinupristin/Dalfopristin",
+            "Fosfomycin",
+            "Colistin",
+            "Polymyxin B",
+            "Bacitracin",
+            "Neomycin",
+            "Gentamicin",
+            "Tobramycin",
+            "Amikacin",
+            "Kanamycin",
+            "Netilmicin",
+            "Spectinomycin",
+            "Amphotericin B",
+            "Nystatin",
+            "Griseofulvin",
+            "Terbinafine",
+            "Caspofungin",
+            "Micafungin",
+            "Anidulafungin",
+            "Posaconazole",
+            "Isavuconazonium sulfate"
+        ],
+        "question": "What types of antifungal medications can be administered?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 188,
+            "paragraph_id": "978-0323476768-p188-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Malassezia",
+            "Trichosporon",
+            "Rhodotorula"
+        ],
+        "options": [
+            "Malassezia",
+            "Trichosporon",
+            "Rhodotorula",
+            "Microsporidia",
+            "Pneumocystis",
+            "Histoplasma capsulatum",
+            "Blastomyces dermatitidis",
+            "Cryptococcus neoformans",
+            "Candida auris",
+            "Aspergillus fumigatus"
+        ],
+        "question": "What types of fungi cause catheter-related sepsis according to medical literature?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 216,
+            "paragraph_id": "978-0323476768-p216-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alemtuzumab",
+            "Cyclosporine",
+            "Mycophenolate mofetil",
+            "Prednisone",
+            "Valacyclovir",
+            "Trimethoprim/Sulfamethoxazole"
+        ],
+        "options": [
+            "Alemtuzumab",
+            "Cyclosporine",
+            "Mycophenolate mofetil",
+            "Prednisone",
+            "Valacyclovir",
+            "Trimethoprim/Sulfamethoxazole"
+        ],
+        "question": "What medications did the patient receive?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 218,
+            "paragraph_id": "978-0323476768-p218-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aspergillus fumigatus",
+            "Candida albicans",
+            "Cryptococcus neoformans",
+            "Pneumocystis jirovecii"
+        ],
+        "options": [
+            "Aspergillus fumigatus",
+            "Candida albicans",
+            "Cryptococcus neoformans",
+            "Pneumocystis jirovecii"
+        ],
+        "question": "What types of fungi are identified as causing opportunistic fungal diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 210,
+            "paragraph_id": "978-0323476768-p210-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fungi"
+        ],
+        "options": [
+            "Bacteria",
+            "Viruses",
+            "Fungi",
+            "Protozoa"
+        ],
+        "question": "What types of organisms are associated with causing coccidioidomycosis?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 205,
+            "paragraph_id": "978-0323476768-p205-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Amoebiasis",
+            "Giardiasis",
+            "Leishmaniasis",
+            "Malaria",
+            "Toxoplasmosis",
+            "Trypanosomiasis"
+        ],
+        "options": [
+            "Amoebic dysentery",
+            "Giardiasis",
+            "Leptinosis",
+            "Malaria",
+            "Toxoplasmosis",
+            "Trypansomiasis"
+        ],
+        "question": "What types of infections caused by protozoan parasites can manifest through various symptoms?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 226,
+            "paragraph_id": "978-0323476768-p226-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chloroquine phosphate",
+            "Atovaquone-Proguanil",
+            "Albendazole",
+            "Nitazoxanide"
+        ],
+        "options": [
+            "Chloroquine phosphate",
+            "Atovaquone-Proguanil",
+            "Artemisinin Combination Therapies (ACTs)",
+            "Quinine plus Clindamycin",
+            "Albendazole",
+            "Fumagillin",
+            "Nitazoxanide",
+            "Paromomycin"
+        ],
+        "question": "What primary treatments are listed for parasite infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 228,
+            "paragraph_id": "978-0323476768-p228-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "DNA hybridization",
+            "Molecular techniques (including PCR)"
+        ],
+        "options": [
+            "Buffy coat examination",
+            "Hemoculture",
+            "DNA hybridization",
+            "Molecular techniques (including PCR)",
+            "Blood smear"
+        ],
+        "question": "What types of tests yielded positive results for T. cruzi in specimens taken from the child?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 243,
+            "paragraph_id": "978-0323476768-p243-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ingestion of eggs leads to infections with Enterobius, Trichuris, Ascaris",
+            "Exposure to larvae results in infections with Strongyloides, Necator, Ancylostoma"
+        ],
+        "options": [
+            "Infection occurs via ingestion of eggs for Trichuris and Ascaris but not Strongyloides",
+            "Intestinal nematodes infect humans exclusively through exposure to larvae",
+            "Both ingestion of eggs and exposure to larvae lead to different forms of intestinal nematode infections",
+            "Only Necator and Ancylostoma cause infections after being ingested as eggs",
+            "Enterobius causes an infection when one comes into contact with contaminated water"
+        ],
+        "question": "What types of intestinal nematode infections can occur due to ingestion of eggs versus those occurring due to exposure to larvae?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 246,
+            "paragraph_id": "978-0323476768-p246-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Recurrent pyogenic cholangiohepatitis due to Klebsiella pneumoniae (bacterial)",
+            "Strongyloidiasis caused by Strongyloides stercoralis (parasitic)",
+            "Ascariasis caused by Ascaris lumbricoides (parasitic)"
+        ],
+        "options": [
+            "Recurrent pyogenic cholangiohepatitis due to bacteria",
+            "Recurrent pyogenic cholangiohepatitis due to parasites",
+            "Fungal infections",
+            "Viral hepatitis"
+        ],
+        "question": "What types of infections did this patient experience?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 249,
+            "paragraph_id": "978-0323476768-p249-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Infect Med",
+            "Am Fam Physician"
+        ],
+        "options": [
+            "Infectious Diseases Journal",
+            "Am J Public Health",
+            "American Family Medicine Today",
+            "Infect Med",
+            "European Medical Review",
+            "Am Fam Physician"
+        ],
+        "question": "What are the titles of the medical publications cited?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 255,
+            "paragraph_id": "978-0323476768-p255-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dengue fever",
+            "Malaria",
+            "Rocky Mountain Spotted Fever",
+            "Tularemia",
+            "Bubonic Plague",
+            "Leprosy",
+            "Trachoma",
+            "Filariasis",
+            "Lyme Disease"
+        ],
+        "options": [
+            "Dengue fever",
+            "Cholera",
+            "Malaria",
+            "Rocky Mountain Spotted Fever",
+            "Tularemia",
+            "Bubonic Plague",
+            "Leprosy",
+            "Trachoma",
+            "Filariasis",
+            "Lyme Disease"
+        ],
+        "question": "What diseases are primarily transmitted by different arthropod vectors?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 272,
+            "paragraph_id": "978-0323476768-p272-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dogs",
+            "Foxes",
+            "Coyotes"
+        ],
+        "options": [
+            "Dogs",
+            "Sheep",
+            "Small rodents",
+            "Foxes",
+            "Coyotes"
+        ],
+        "question": "What types of animals act as primary hosts for Echinococcus?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 269,
+            "paragraph_id": "978-0323476768-p269-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Escherichia coli",
+            "Listeria monocytogenes",
+            "Neisseria meningitidis",
+            "Group B Streptococcus",
+            "Streptococcus pneumoniae"
+        ],
+        "options": [
+            "Escherichia coli",
+            "Listeria monocytogenes",
+            "Neisseria meningitidis",
+            "Group B Streptococcus",
+            "Streptococcus pneumoniae"
+        ],
+        "question": "What bacteria are considered possible causes of infection in a 14-day-old baby presenting with fever, hyperactivity, and a stiff neck, especially when the mother reported flu-like symptoms at birth?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 280,
+            "paragraph_id": "978-0323476768-p280-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acute pancreatitis",
+            "Pyogenic cholangitis",
+            "Pulmonary tuberculosis-like symptoms",
+            "Schistosomiasis affecting the spinal cord"
+        ],
+        "options": [
+            "Acute pancreatitis",
+            "Pyogenic cholangitis",
+            "Pulmonary tuberculosis-like symptoms",
+            "Schistosomiasis affecting the spinal cord",
+            "Chronic bronchitis",
+            "Appendicitis"
+        ],
+        "question": "What types of conditions can result from certain parasitic infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 264,
+            "paragraph_id": "978-0323476768-p264-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chlamydia trachomatis",
+            "Herpes simplex virus",
+            "Klebsiella granulomatis",
+            "Neisseria gonorrhoeae",
+            "Treponema pallidum",
+            "Dengue virus",
+            "Hepatitis A virus",
+            "Leptospira interrogans",
+            "Plasmodium falciparum",
+            "Salmonella Typhi",
+            "Borrelia burgdorferi",
+            "Babesiosis",
+            "Ehrlichiosis/anaplasmosis",
+            "Leptospirosis",
+            "Tularemia"
+        ],
+        "options": [
+            "Chlamydia trachomatis",
+            "Herpes simplex virus",
+            "Klebsiella granulomatis",
+            "Neisseria gonorrhoeae",
+            "Treponema pallidum",
+            "Dengue virus",
+            "Hepatitis A virus",
+            "Leptospira interrogans",
+            "Plasmodium falciparum",
+            "Salmonella Typhi",
+            "Borrelia burgdorferi",
+            "Babesiosis",
+            "Ehrlichiosis/anaplasmosis",
+            "Leptospirosis",
+            "Tularemia"
+        ],
+        "question": "What types of pathogens were considered possible causes of infections among the patients discussed?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 300,
+            "paragraph_id": "978-0323476768-p300-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aspergillus fumigatus",
+            "Candida albicans",
+            "Cryptococcus neoformans",
+            "Histoplasma capsulatum",
+            "Pneumocystis jiroveci"
+        ],
+        "options": [
+            "Aspergillus fumigatus",
+            "Candida albicans",
+            "Cryptococcus neoformans",
+            "Histoplasma capsulatum",
+            "Pneumocystis jiroveci"
+        ],
+        "question": "What types of fungi are listed among potential causes of infections in individuals, especially those who might be immunocompromised due to treatments like chemotherapy?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 293,
+            "paragraph_id": "978-0323476768-p293-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Viruses",
+            "Parasites",
+            "Bacteria"
+        ],
+        "options": [
+            "Viruses",
+            "Parasites",
+            "Fungi",
+            "Bacteria"
+        ],
+        "question": "What types of microorganisms can contaminate drinking water?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 312,
+            "paragraph_id": "978-0323476768-p312-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Candida",
+            "Cryptosporidium",
+            "Cyclospora",
+            "Cystoisospora",
+            "Microsporidia"
+        ],
+        "options": [
+            "Candida",
+            "Cryptosporidium",
+            "Cyclospora",
+            "Cystoisospora",
+            "Microsporidia"
+        ],
+        "question": "What are the options given for organisms potentially causing the described illness among the wedding reception guests?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 305,
+            "paragraph_id": "978-0323476768-p305-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neisseria gonorrhoeae",
+            "Listeria monocytogenes",
+            "Trichomonas vaginalis",
+            "Chlamydia trachomatis"
+        ],
+        "options": [
+            "Staphylococcus aureus",
+            "Neisseria gonorrhoeae",
+            "Listeria monocytogenes",
+            "Trichomonas vaginalis",
+            "Chlamydia trachomatis"
+        ],
+        "question": "What types of microorganisms can cause infections during different conditions?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 317,
+            "paragraph_id": "978-0323476768-p317-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acanthamoeba"
+        ],
+        "options": [
+            "Vibrio vulnificus",
+            "Acanthamoeba",
+            "Dientamoeba",
+            "Entamoeba",
+            "Isospora"
+        ],
+        "question": "What are the possible causes of eye infections associated with improper care of contact lenses, according to typical concerns related to hygiene practices like those described by the patient's actions?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 308,
+            "paragraph_id": "978-0323476768-p308-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Antibiotic-associated diarrhea",
+            "Pseudomembranous colitis"
+        ],
+        "options": [
+            "Pneumonia",
+            "Antibiotic-associated diarrhea",
+            "Rheumatoid arthritis",
+            "Pseudomembranous colitis"
+        ],
+        "question": "What types of diseases are associated with C. difficile?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 321,
+            "paragraph_id": "978-0323476768-p321-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Absidia",
+            "Cunninghamella",
+            "Mucor",
+            "Rhizomucor",
+            "Saksenaea"
+        ],
+        "options": [
+            "Absidia",
+            "Cunninghamella",
+            "Mucor",
+            "Rhizomucor",
+            "Saksenaea",
+            "Staphylococcus saprophyticus"
+        ],
+        "question": "What types of zygomycetes can cause human diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 322,
+            "paragraph_id": "978-0323476768-p322-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bacillus cereus growing aerobically",
+            "B. cereus growing aerobically",
+            "C. perfringens growing anaerobically"
+        ],
+        "options": [
+            "B. cereus growing anaerobically",
+            "C. perfringens growing aerobically",
+            "Bacillus cereus growing aerobically",
+            "Corynebacterium jeikeium growing anaerobically",
+            "Nocardia farcinica growing aerobically",
+            "Bacteroides fragilis growing aerobically"
+        ],
+        "question": "What types of bacteria grow under different oxygen conditions?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 333,
+            "paragraph_id": "978-0323476768-p333-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Meningitis",
+            "Generalized illness with headache",
+            "Rash",
+            "Vascular collapse",
+            "Thrombocytopenia",
+            "Hemorrhage",
+            "Hepatic dysfunction",
+            "Renal dysfunction"
+        ],
+        "options": [
+            "Meningitis",
+            "Generalized illness with headache",
+            "Thrombocytopenia",
+            "Hepatic dysfunction",
+            "Renal failure",
+            "Keratitis",
+            "Toxoplasmic keratouveitis"
+        ],
+        "question": "What diseases or conditions result from Leptospira infections?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 342,
+            "paragraph_id": "978-0323476768-p342-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Microsporidia measuring 1 to 2 \u00b5m in diameter",
+            "Cryptosporidium measuring 4 to 6 \u00b5m",
+            "Cyclospora measuring exactly 8 to 10 \u00b5m in diameter",
+            "Cystoisospora measuring 10 to 19 \u00b5m wide and 20 to 30 \u00b5m long"
+        ],
+        "options": [
+            "Microsporidia being less than 1 \u00b5m",
+            "Cryptosporidium being around 5 \u00b5m in diameter",
+            "Cyclospora having dimensions between 7 to 9 \u00b5m",
+            "Cyclospora measuring exactly 8 to 10 \u00b5m in diameter",
+            "Cystoisospora ranging from 15 to 25 \u00b5m in length",
+            "Microsporidia measuring 1 to 2 \u00b5m in diameter",
+            "Cryptosporidium measuring 4 to 6 \u00b5m",
+            "Cystoisospora measuring 10 to 19 \u00b5m wide and 20 to 30 \u00b5m long"
+        ],
+        "question": "What sizes are associated with which acid-fast parasites when differentiating them?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 339,
+            "paragraph_id": "978-0323476768-p339-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neisseria gonorrhoeae",
+            "Streptococcus pyogenes",
+            "Bordetella pertussis"
+        ],
+        "options": [
+            "Streptococcus pneumoniae",
+            "Neisseria gonorrhoeae",
+            "Candida albicans",
+            "Bordetella pertussis",
+            "Staphylococcus aureus",
+            "**Answer:**",
+            "Neisseria gonorrhoeae",
+            "Bordetella pertussis",
+            "Streptococcus pyogenes",
+            "This example shows how to create an itemized query based upon explicit data within a particular passage regarding several pathogenic agents implicated in a medical condition; however, I am tasked now to devise another one following those instructions closely:",
+            "Here's my attempt at creating a completely different pair which fulfills requirements specified earlier:",
+            "<startofQAtext>",
+            "**Question:** Which organisms are associated with production of pharyngitis or related throat infections excluding diphtheria?",
+            "**Options:**",
+            "Haemophilus influenzae",
+            "Escherichia coli",
+            "Candida albicans",
+            "Streptococcus pyogenes",
+            "Neisseria gonorrhoeae",
+            "Pseudomonas aeruginosa",
+            "Bordetella pertussis",
+            "Klebsiella pneumoniae"
+        ],
+        "question": "What types of microorganisms are typically involved in producing pharyngitis?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 336,
+            "paragraph_id": "978-0323476768-p336-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fungal",
+            "Kingella kingae",
+            "Klebsiella pneumoniae"
+        ],
+        "options": [
+            "Fungi",
+            "Bacteria",
+            "Viruses",
+            "Kingella kingae",
+            "Klebsiella pneumoniae",
+            "Listeria monocytogenes"
+        ],
+        "question": "What pathogens can cause Keratitis?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 374,
+            "paragraph_id": "978-0323476768-p374-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cutaneous",
+            "Disseminated",
+            "Mucocutaneous",
+            "Visceral"
+        ],
+        "options": [
+            "Cutaneous",
+            "Disseminated",
+            "Mucocutaneous",
+            "Visceral",
+            "Lymphatic",
+            "Neurological",
+            "Gastrointestinal",
+            "Respiratory"
+        ],
+        "question": "What types of Leishmaniasis exist?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 375,
+            "paragraph_id": "978-0323476768-p375-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mycobacterium avium complex",
+            "Mycobacterium leprae",
+            "Mycobacterium tuberculosis",
+            "Nocardia species"
+        ],
+        "options": [
+            "Mycobacterium avium complex",
+            "Acanthamoeba spp.",
+            "Acinetobacter baumannii",
+            "Acid-fast organisms",
+            "Mycobacterium tuberculosis",
+            "Mycobacterium leprae",
+            "Nocardia species"
+        ],
+        "question": "What types of acid-fast bacteria can cause diseases?",
+        "source": {
+            "isbn": "978-0323476768",
+            "page": 347,
+            "paragraph_id": "978-0323476768-p347-para1"
+        },
+        "type": "list"
+    }
+]

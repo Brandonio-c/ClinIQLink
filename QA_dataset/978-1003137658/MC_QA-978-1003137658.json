@@ -1,0 +1,530 @@
+[
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "About 70%",
+            "B": "Approximately 50%",
+            "C": "Around 90%",
+            "D": "About 85%"
+        },
+        "question": "What percentage of the total number of thymocytes reside in the thymic cortex?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 41,
+            "paragraph_id": "978-1003137658-p41-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Interaction with non-self antigens presented by dendritic cells",
+            "B": "Recognition of self-antigen presented by epithelial cells",
+            "C": "Positive and Negative selection interacting with MHC molecules",
+            "D": "Expression of autoimmune regulators alone"
+        },
+        "question": "What process allows thymocytes to survive apoptosis during their development?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 42,
+            "paragraph_id": "978-1003137658-p42-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Interleukin-4 (IL-4) and Transforming Growth Factor-\u03b2 (TGF\u03b2)",
+            "B": "Interferon-\u03b1 (IFN\u03b1) and Interleukin-10 (IL-10)",
+            "C": "Interleukin-12 (IL-12) and Interferon-\u03b3 (IFN\u03b3)",
+            "D": "Interleukin-6 (IL-6) and Interleukin-8 (IL-8)"
+        },
+        "question": "What promotes differentiation of Th1 cells?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 26,
+            "paragraph_id": "978-1003137658-p26-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "They differentiate further into plasma cells producing more diverse antibodies.",
+            "B": "They undergo rapid proliferation alongside those with high-affinity antibodies.",
+            "C": "They are selected along with those having high-affinity antibodies due to their potential diversity.",
+            "D": "They die and are phagocytosed by macrophages."
+        },
+        "question": "What happens to B cells with low-affinity antibodies in the process described?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 44,
+            "paragraph_id": "978-1003137658-p44-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "IgE or IgM",
+            "B": "IgG or IgA",
+            "C": "IgM or IgD exclusively",
+            "D": "exclusively\nD: Both IgG and IgD"
+        },
+        "question": "What do memory B cells typically carry as their antigen receptor?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 28,
+            "paragraph_id": "978-1003137658-p28-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They primarily facilitate the drainage of fluids back into the bloodstream.",
+            "B": "They serve as reservoirs for storing excess nutrients absorbed during digestion.",
+            "C": "They protect areas where pathogens might invade by housing a significant portion of the body's lymphocytes.",
+            "D": "They function mainly as filters to remove waste products from the circulatory system."
+        },
+        "question": "What role do mucosa-associated lymphoid tissues play in the human body?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 38,
+            "paragraph_id": "978-1003137658-p38-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Interspecies genetic differences",
+            "B": "Intrspecies genetic differences leading to unique combinations of alleles",
+            "C": "Environmental factors influencing immune system development",
+            "D": "Random mutations during somatic hypermutation"
+        },
+        "question": "What determines the presence of variations among individuals regarding their Ig genes?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 52,
+            "paragraph_id": "978-1003137658-p52-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Lamina Propria",
+            "B": "Secretory Immune System",
+            "C": "Gut-associated Lymphoid Tissue (GALT)",
+            "D": "Peyer's Patches"
+        },
+        "question": "What term describes the collections of lymphocytes in the wall of the small intestine?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 46,
+            "paragraph_id": "978-1003137658-p46-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Monoclonal antibodies originate from multiple clones of B cells, while polyclonal antibodies come from a single clone.",
+            "B": "cells, while polyclonal antibodies come from a single clone.  \nB: Monoclonal antibodies have variable specificity and affinity because they are derived from many B-cell clones.",
+            "C": "Monoclonal antibodies are produced by a single clone of B cells, resulting in uniform specificity and affinity.",
+            "D": "Both types of antibodies are produced similarly but vary in their application rather than their biological generation process."
+        },
+        "question": "How do monoclonal and polyclonal antibodies differ in terms of their origin and characteristics?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 59,
+            "paragraph_id": "978-1003137658-p59-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Their ability to recognize single antigens specifically",
+            "B": "They contain both mouse and human components",
+            "C": "Their capacity to bind to only certain types of tissues",
+            "D": "They possess two different specificities allowing them to cross-link different cell types"
+        },
+        "question": "What characteristic makes bispecific antibodies useful therapeutically?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 60,
+            "paragraph_id": "978-1003137658-p60-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only healthy tissues under normal conditions",
+            "B": "Cancerous cells, stressed tissues, and virally infected cells due to the recognition of ULBP1-6, MICA, and MICB",
+            "C": "ancerous cells, stressed tissues, and virally infected cells due to the recognition of ULBP1-6, MICA, and MICB\nC: Primarily bacterial infections through the interaction with Toll-like receptors",
+            "D": "Autoimmune diseases by recognizing self-antigens presented by major histocompatibility complex (MHC)"
+        },
+        "question": "What do the NKG2D molecules allow NK cells and \u03b3\u03b4 T cells to recognize?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 70,
+            "paragraph_id": "978-1003137658-p70-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Neutrophils",
+            "B": "Macrophages, monocytes, and a subset of dendritic cells",
+            "C": "T lymphocytes",
+            "D": "Basophils"
+        },
+        "question": "What kinds of cellular entities typically express mannose receptors?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 71,
+            "paragraph_id": "978-1003137658-p71-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "It undergoes further processing before being recognized by immune cells.",
+            "B": "It remains inside the endoplasmic reticulum forever due to stability issues.",
+            "C": "It is immediately targeted for degradation because it poses no threat.",
+            "D": "It is transported to the cell surface where it can interact with CD8+ T cells."
+        },
+        "question": "What happens once the MHC-peptide complex is correctly assembled?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 83,
+            "paragraph_id": "978-1003137658-p83-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Adaptive immunity requires longer exposure times to develop resistance, while innate immunity develops quicker defenses.",
+            "B": "Innate immunity improves significantly after initial exposures, leading to stronger subsequent reactions.",
+            "C": "Adaptive immunity shows enhanced responses with repeated encounters due to memory, unlike innate immunity.",
+            "D": "Both forms of immunity respond equally well during first and subsequent infections, showing no variation."
+        },
+        "question": "What distinguishes the adaptive (acquired) immune response from the innate (natural) immune response in terms of improvement upon encountering the same pathogen?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 75,
+            "paragraph_id": "978-1003137658-p75-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "An internal antigen is presented on MHC class II molecules exclusively.",
+            "B": "An external antigen normally presented by the class II pathway is presented on MHC class I molecules.",
+            "C": "class II molecules exclusively.\nB: An external antigen normally presented by the class II pathway is presented on MHC class I molecules.\nC: Only viral antigens presented by the class I pathway are recognized by helper T cells.",
+            "D": "Antigens cannot be presented across different classes under any circumstances."
+        },
+        "question": "What happens during cross-presentation?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 84,
+            "paragraph_id": "978-1003137658-p84-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains constant regardless of further stimulation.",
+            "B": "Its expression increases significantly even without antigen restimulation.",
+            "C": "The expression wanes if the T cell is not re-stimulated with antigen.",
+            "D": "It becomes permanently fixed at a certain level immediately following initial stimulation."
+        },
+        "question": "What happens to the expression of the high-affinity IL-2 receptor on a T cell over time if it is not continuously stimulated with antigen?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 95,
+            "paragraph_id": "978-1003137658-p95-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Human Macrophages",
+            "B": "Activated murine macrophages",
+            "C": "Neutrophils",
+            "D": "Mononuclear phagocytes"
+        },
+        "question": "Which cells primarily utilize inducible nitric oxide synthetase (iNOS) after being activated by IFN\u03b3 and triggered with TNF?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 102,
+            "paragraph_id": "978-1003137658-p102-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They inhibit antibody production later in the response due to their ability to bind with antigens more effectively than IgG.",
+            "B": "They suppress the activity of lymphocytes early in the immune process.",
+            "C": "They enhance antibody production at the beginning stages of an immune response.",
+            "D": "They prevent the activation of macrophages throughout the entire duration of the immune response."
+        },
+        "question": "What role do complexes containing IgM play during an immune response?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 122,
+            "paragraph_id": "978-1003137658-p122-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "E-selectin",
+            "B": "VLA-4",
+            "C": "VCAM-1",
+            "D": "MAdCAM-1"
+        },
+        "question": "Which molecule acts by binding to LPAM?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 114,
+            "paragraph_id": "978-1003137658-p114-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ca2+",
+            "B": "Mn2+",
+            "C": "a2+\nB: Mn2+\nC: Mg2+",
+            "D": "Zn2+"
+        },
+        "question": "What ion causes integrins to adopt a high-affinity form?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 113,
+            "paragraph_id": "978-1003137658-p113-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Conjugate Vaccination Method",
+            "B": "Subunit Vaccine Production",
+            "C": "onjugate Vaccination Method\nB: Subunit Vaccine Production\nC: Vector-Based Immunization Approach",
+            "D": "Toxin Modification Technique"
+        },
+        "question": "What method involves using a non-pathogenic viral vector with inserted genes for antigens of another pathogen?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 132,
+            "paragraph_id": "978-1003137658-p132-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Variants increase susceptibility to bacterial infections exclusively.",
+            "B": "Variants decrease the severity of autoimmune diseases uniformly across populations.",
+            "C": "Variants affect the outcome of several viral diseases differently depending on the virus.",
+            "D": "Variants reduce the effectiveness of vaccines broadly."
+        },
+        "question": "What effect do variants of the IFN \u03b3 induced protein IFITM3 have according to the given information?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 127,
+            "paragraph_id": "978-1003137658-p127-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "87",
+            "B": "6",
+            "C": "47",
+            "D": "33"
+        },
+        "question": "What is the relative risk value given for pemphigus vulgaris?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 140,
+            "paragraph_id": "978-1003137658-p140-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Crossing different inbred strains",
+            "B": "Identifying sporadic mutants and inbreeding them",
+            "C": "rossing different inbred strains\nB: Identifying sporadic mutants and inbreeding them\nC: Repeated brother-sister matings in successive generations",
+            "D": "Over-expression of a particular gene"
+        },
+        "question": "What process results in all of the chromosome pairs becoming, and remaining, homozygous?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 145,
+            "paragraph_id": "978-1003137658-p145-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Only IL-1 and TNF \u03b1",
+            "B": "Only GM-CSF, CXCL2, and CXCL10",
+            "C": "SF, CXCL2, and CXCL10\nC: TNF \u03b1, IL-1, GM-CSF, CXCL2, and CXCL10",
+            "D": "Only IL-10 and TGF \u03b2"
+        },
+        "question": "What substances do keratinocytes secrete during the development phase of a contact hypersensitivity reaction?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 155,
+            "paragraph_id": "978-1003137658-p155-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Radioallergosorbent test (RAST)",
+            "B": "Immunoradiometric assay (IRMA)",
+            "C": "Sandwich (capture) immunoassays",
+            "D": "Competition radioimmunoassay"
+        },
+        "question": "What method uses excess specific labeled antibody added to the test antigen, where free antibody is later removed by solid-phase antigen?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 158,
+            "paragraph_id": "978-1003137658-p158-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It remains unchanged because the antibody cannot interact with the transcription factor once bound to DNA.",
+            "B": "It results in a faster movement due to increased negative charges introduced by the antibody.",
+            "C": "It leads to a further shift, often referred to as a supershift, due to the increased size of the complex.",
+            "D": "NA.  \nB: It results in a faster movement due to increased negative charges introduced by the antibody.  \nC: It leads to a further shift, often referred to as a supershift, due to the increased size of the complex.  \nD: It causes the complete loss of signal since the antibody disrupts the interaction between the DNA and the transcription factor."
+        },
+        "question": "What occurs to the mobility shift of a DNA probe-transcription factor complex upon addition of an antibody specifically targeting the transcription factor during electrophoretic mobility-shift assay?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 164,
+            "paragraph_id": "978-1003137658-p164-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Reverse Plaque Assay",
+            "B": "ELISPOT Assay",
+            "C": "Enzyme Immunoassay",
+            "D": "Complement Lysis"
+        },
+        "question": "What method involves mixing lymphocytes with sensitized red blood cells to measure antibody-secreting cells?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 171,
+            "paragraph_id": "978-1003137658-p171-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Clones are groups of cells that grow in defined conditions, whereas cell lines are derived from a single original cell.",
+            "B": "Clones consist of cells that are genetically identical because they derive from a single original cell, unlike cell lines which might start from an initially heterogenous population.",
+            "C": "lones are groups of cells that grow in defined conditions, whereas cell lines are derived from a single original cell.  \nB: Clones consist of cells that are genetically identical because they derive from a single original cell, unlike cell lines which might start from an initially heterogenous population.  \nC: Cell lines are always immortalized, but clones undergo apoptosis after several divisions.",
+            "D": "Clones are formed through the fusion of different cells, typically facilitated by polyethylene glycol (PEG), whereas cell lines originate from a homogenous initial population."
+        },
+        "question": "What characterizes a clone compared to a cell line?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 167,
+            "paragraph_id": "978-1003137658-p167-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Rosetting",
+            "B": "Immunomagnetic bead isolation",
+            "C": "Antigen Suicide",
+            "D": "Density-dependent centrifugation"
+        },
+        "question": "What method involves using magnetic beads coupled to a particular antibody to isolate cell populations?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 170,
+            "paragraph_id": "978-1003137658-p170-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Production of monoclonal antibodies",
+            "B": "Cloning",
+            "C": "loning\nC: Generation of T-cell lines",
+            "D": "Identification of Peptide:MHC complexes"
+        },
+        "question": "What method involves diluting a cell population until individual cells are cultured separately?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 168,
+            "paragraph_id": "978-1003137658-p168-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Antigens disperse throughout the cell membrane",
+            "B": "Antigens remain stationary after binding with antibodies",
+            "C": "The antigens aggregate at one pole of the cell and are then internalized by endocytosis",
+            "D": "Antibodies replace the antigens on the surface of the cell"
+        },
+        "question": "What happens during capping when antibodies bind and cross-link antigens on a live cell?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 165,
+            "paragraph_id": "978-1003137658-p165-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They float at the top of the tube along with lymphocytes.",
+            "B": "They sediment to the middle of the tube due to their average density.",
+            "C": "They sediment to the bottom of the tube because they are denser than Ficoll.",
+            "D": "They disappear after centrifugation due to their sensitivity to Ficoll."
+        },
+        "question": "What happens to red blood cells and polymorphs when a diluted blood sample is layered onto Ficoll and centrifuged?",
+        "source": {
+            "isbn": "978-1003137658",
+            "page": 169,
+            "paragraph_id": "978-1003137658-p169-para1"
+        },
+        "type": "multiple_choice"
+    }
+]

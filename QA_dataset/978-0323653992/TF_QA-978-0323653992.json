@@ -1,0 +1,1072 @@
+[
+    {
+        "answer": "True",
+        "question": "Genetic counseling is indicated after referral to an appropriate specialist for medical management.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 48,
+            "paragraph_id": "978-0323653992-p48-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Preimplantation genetic testing for aneuploidy (PGT-A) is recommended for all patients undergoing IVF.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 54,
+            "paragraph_id": "978-0323653992-p54-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Autosomal dominant conditions occur equally in males and females.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 36,
+            "paragraph_id": "978-0323653992-p36-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The labia majora do not extend beyond the posterior fourchette.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 62,
+            "paragraph_id": "978-0323653992-p62-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "An individual who inherits a chromosomal abnormality always shows overt physical manifestations.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 44,
+            "paragraph_id": "978-0323653992-p44-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tumor suppressor genes follow an autosomal dominant pattern of inheritance.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 56,
+            "paragraph_id": "978-0323653992-p56-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vaginal lubrication during intercourse primarily comes from glands located within the vagina wall.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 67,
+            "paragraph_id": "978-0323653992-p67-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Each hypogastric artery branches into exactly two divisions.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 77,
+            "paragraph_id": "978-0323653992-p77-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Motor fibers to the levator ani muscle arise primarily from the S3 and S4 nerve roots.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 81,
+            "paragraph_id": "978-0323653992-p81-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sentinel lymph node mapping was first performed using blue dye injection in patients with cervical cancer before being refined to utilize near-infrared fluorescence imaging and indocyanine green (ICG).",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 70,
+            "paragraph_id": "978-0323653992-p70-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Gonadotropin-releasing hormone (GnRH) neurons controlling the HPO axis are primarily located within the posterior hypothalamus.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 92,
+            "paragraph_id": "978-0323653992-p92-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Water freezes at exactly 5 degrees Celsius under standard conditions.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 86,
+            "paragraph_id": "978-0323653992-p86-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "GnRH analogs synthesized through substituting amino acid 6 with a d-amino or replacing amino acid 10 with an N-methylamide acquire resistance to enzymatic proteolysis.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 97,
+            "paragraph_id": "978-0323653992-p97-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Progesterone dominance during the luteal phase affects the hypothalamic thermoregulatory center.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 113,
+            "paragraph_id": "978-0323653992-p113-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Non-radioactive labels were initially developed before radioactive ones for immunoassays.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 118,
+            "paragraph_id": "978-0323653992-p118-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A narrow confidence interval indicates poor precision.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 128,
+            "paragraph_id": "978-0323653992-p128-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Menstrual cycles typically last between 10 to 14 days according to general characteristics of an ovulatory cycle.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 148,
+            "paragraph_id": "978-0323653992-p148-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Electronic medical records cannot be altered once they are created.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 141,
+            "paragraph_id": "978-0323653992-p141-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The loss of manpower resulting from the bubonic plague increased the economic significance of human life over real estate and personal properties during this period.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 137,
+            "paragraph_id": "978-0323653992-p137-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hippocrates introduced the concept that an individual's disease originates from natural causes observable within their environment.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 123,
+            "paragraph_id": "978-0323653992-p123-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "According to the CDC, cardiovascular disease is the number one cause of death among U.S. men.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 157,
+            "paragraph_id": "978-0323653992-p157-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In the study published in the British Medical Journal (BMJ) titled \u201cReader's guide to critical appraisal of cohort studies,\u201d the lead author was Rochon.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 132,
+            "paragraph_id": "978-0323653992-p132-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Abdominal examination does not involve listening for bowel sounds with a stethoscope during an abdominal check-up.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 152,
+            "paragraph_id": "978-0323653992-p152-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exercise programs that combine diet plus exercise allow for greater loss of fat stores while maintaining muscle mass compared to diet alone programs.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 180,
+            "paragraph_id": "978-0323653992-p180-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Women who take inhaled glucocorticoids may experience osteopenia due to their medication.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 163,
+            "paragraph_id": "978-0323653992-p163-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Major depression affects more than 15% but less than 40% of women's lives over time according to some findings related to this topic.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 172,
+            "paragraph_id": "978-0323653992-p172-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Migraines primarily occur due to vascular instability caused by estrogen levels remaining high throughout the menstrual cycle.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 168,
+            "paragraph_id": "978-0323653992-p168-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 500,000 to 2.5 million cases involving abuse of the elderly occur per year in the United States.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 209,
+            "paragraph_id": "978-0323653992-p209-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A thin endometrial lining of normal contour visualized by ultrasound essentially rules out intracavitary pathologic conditions in postmenopausal patients.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 219,
+            "paragraph_id": "978-0323653992-p219-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Eating disorder rates among teenagers decreased significantly during the period from 2000 to 2010.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 214,
+            "paragraph_id": "978-0323653992-p214-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In cases where there's genital or rectal trauma leading to bleeding during sexual assault, the risk of HIV transmission increases significantly due to potential open wounds facilitating viral entry.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 203,
+            "paragraph_id": "978-0323653992-p203-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "People diagnosed with Obsessive Compulsive Disorder (OCD) generally realize their obsessions and compulsions are rational.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 184,
+            "paragraph_id": "978-0323653992-p184-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Women's primary motivation for engaging in sex is always driven by a pre-existing desire for sexual arousal.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 193,
+            "paragraph_id": "978-0323653992-p193-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Naltrexone is contraindicated in patients with acute hepatitis or liver failure.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 189,
+            "paragraph_id": "978-0323653992-p189-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Vaginoscopy involves the introduction of a speculum before placing a paracervical block during outpatient hysteroscopy procedures.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 225,
+            "paragraph_id": "978-0323653992-p225-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Robotic-assisted laparoscopy holds no advantage over conventional laparoscopic surgery for certain complex procedures.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 235,
+            "paragraph_id": "978-0323653992-p235-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A Cochrane review found that no single technique prevents vascular injury during laparoscopic surgery.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 230,
+            "paragraph_id": "978-0323653992-p230-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ovotestes typically do not develop if there is minimal presence of testicular tissue in the organ.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 243,
+            "paragraph_id": "978-0323653992-p243-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fig. 12.1 depicts more than two positions for performing a pediatric gynecological examination.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 258,
+            "paragraph_id": "978-0323653992-p258-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Turner syndrome impairs quality of life and sexual function according to Ros et al.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 255,
+            "paragraph_id": "978-0323653992-p255-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Depo-provera users gain between 1.5 kg and 4 kg in weight during their first year of use.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 282,
+            "paragraph_id": "978-0323653992-p282-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Tubal occlusion can occur through an infraumbilical minilaparotomy while the uterus is still enlarged and the tubes can easily be identified postpartum.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 277,
+            "paragraph_id": "978-0323653992-p277-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately half of all cases of Shigella vaginitis present with prepubertal bleeding.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 267,
+            "paragraph_id": "978-0323653992-p267-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 15% to 25% of ovarian neoplasms necessitating surgery in premenarcheal girls are malignant.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 271,
+            "paragraph_id": "978-0323653992-p271-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A dose of approximately 800 rads is associated with temporary ovarian failure.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 295,
+            "paragraph_id": "978-0323653992-p295-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Testosterone production in postmenopausal women depends partially on the ovary.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 300,
+            "paragraph_id": "978-0323653992-p300-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Night nursing is highly correlated with anovulation and amenorrhea.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 286,
+            "paragraph_id": "978-0323653992-p286-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The capital of Germany is Berlin.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 314,
+            "paragraph_id": "978-0323653992-p314-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There is no good prevention strategy apart from lifestyle measures for cardiovascular disease (CVD) in women other than possibly hormone replacement therapy (HRT).",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 319,
+            "paragraph_id": "978-0323653992-p319-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Women younger than 65 years old without traditional risk factors for fracture require routine DEXA scan screenings according to U.S. guidelines.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 307,
+            "paragraph_id": "978-0323653992-p307-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Estrogen deficiency is expected to result in the loss of protection against the development of Alzheimer disease.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 304,
+            "paragraph_id": "978-0323653992-p304-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Decreased estrogen levels after menopause lead to increased bone density.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 330,
+            "paragraph_id": "978-0323653992-p330-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Acupuncture may be effective in alleviating the frequency and severity of hot flushes.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 325,
+            "paragraph_id": "978-0323653992-p325-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 5 to 20 areolar (Montgomery) glands produce an oily secretion functioning to keep the nipple supple and protected.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 338,
+            "paragraph_id": "978-0323653992-p338-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Regular breast self-examinations decrease breast cancer mortality.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 355,
+            "paragraph_id": "978-0323653992-p355-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most patients with Paget's disease also have an underlying cancer somewhere else in the breast.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 362,
+            "paragraph_id": "978-0323653992-p362-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A woman who undergoes oophorectomy due to breast cancer diagnosis generally experiences an increased rate of recurrence.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 347,
+            "paragraph_id": "978-0323653992-p347-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Fibrocystic breast change typically presents with cyclic bilateral breast pain.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 343,
+            "paragraph_id": "978-0323653992-p343-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Tamoxifen reduces the incidence of ER-negative breast cancers.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 353,
+            "paragraph_id": "978-0323653992-p353-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Immediate reconstruction with autologous tissues always takes place before radiation therapy following mastectomy.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 366,
+            "paragraph_id": "978-0323653992-p366-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "More than half of patients with unexplained recurrent pregnancy loss achieve live births without intervention.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 373,
+            "paragraph_id": "978-0323653992-p373-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The study titled \"T4-LIFE study\" investigated whether levothyroxine treatment could improve live birth rates in euthyroid women with recurrent miscarriage who had TPO antibodies.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 394,
+            "paragraph_id": "978-0323653992-p394-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "In normally developing pregnancies, hCG levels increase predictably.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 387,
+            "paragraph_id": "978-0323653992-p387-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antigliadin antibodies are associated with recurrent pregnancy loss.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 383,
+            "paragraph_id": "978-0323653992-p383-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Women with high parity who develop an ectopic pregnancy have a relatively low rate of subsequent conception.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 413,
+            "paragraph_id": "978-0323653992-p413-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 50% of women with surgically confirmed adnexal torsion will have a normal Doppler flow study.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 419,
+            "paragraph_id": "978-0323653992-p419-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Endovaginal color Doppler flow imaging increases the sensitivity of diagnosing ectopic pregnancy compared to routine transvaginal sonography.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 405,
+            "paragraph_id": "978-0323653992-p405-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Women with vulvar vestibuolodynia experience intolerance to pressure in the vulvar region due to spontaneous pain.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 430,
+            "paragraph_id": "978-0323653992-p430-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most cervical myomas arise from the isthmus of the uterus rather than the cervical stroma because of the relative paucity of smooth muscle fibers in the latter.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 435,
+            "paragraph_id": "978-0323653992-p435-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "An imperforate hymen is one of the most common congenital causes of hematometra.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 439,
+            "paragraph_id": "978-0323653992-p439-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pregnancy after endometrial ablation is recommended because of low risks associated with miscarriage, ectopic pregnancy, and invasive placental disorders.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 448,
+            "paragraph_id": "978-0323653992-p448-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately two thirds of women with myomas experience pelvic pain or pressure due to acquired dysmenorrhea being one of the most common complaints related to these growths.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 444,
+            "paragraph_id": "978-0323653992-p444-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately two out of three women with endometriosis do not have ovarian involvement.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 459,
+            "paragraph_id": "978-0323653992-p459-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Corpus luteum cysts larger than 10 cm cannot be managed via minimally invasive surgery.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 455,
+            "paragraph_id": "978-0323653992-p455-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Uterine artery embolization versus hysterectomy in the treatment of symptomatic uterine fibroids involves comparing two different medical procedures.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 470,
+            "paragraph_id": "978-0323653992-p470-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Endometriosis disappears rapidly after surgical menopause due to reduced ovarian hormones.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 481,
+            "paragraph_id": "978-0323653992-p481-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Uterine artery embolization is sometimes considered a viable alternative to hysterectomy.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 466,
+            "paragraph_id": "978-0323653992-p466-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In women with endometriosis, natural killer (NK) cell cytotoxicity against hematopoietic and endometrial cells is increased.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 474,
+            "paragraph_id": "978-0323653992-p474-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Levator avulsion was identified in more than half of participants who were six to seventeen years from first delivery according to some study results.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 501,
+            "paragraph_id": "978-0323653992-p501-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Diaphragmatic endometriosis often presents with left-sided catamenial pneumothorax.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 489,
+            "paragraph_id": "978-0323653992-p489-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nishida found a relationship between the onset of dysmenorrhea and histologic findings in adenomyosis in his study published in Am J Obstet Gynecol in 1991.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 493,
+            "paragraph_id": "978-0323653992-p493-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Point Aa is measured at a distance greater than 5 cm proximal to the urethral meatus.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 506,
+            "paragraph_id": "978-0323653992-p506-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Women with positive preoperative prolapse reduction stress tests have more than twice the chance of developing urinary incontinence after surgery compared to those with negative results.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 510,
+            "paragraph_id": "978-0323653992-p510-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Colpocleisis involves removing a portion of the uterus along with parts of the vaginal epithelium.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 520,
+            "paragraph_id": "978-0323653992-p520-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nonoperative management of a rectocele includes offering patients Kegel exercises, pelvic floor physical therapy, vaginal estrogen, dietary fiber intake review, and adequate hydration recommendation.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 513,
+            "paragraph_id": "978-0323653992-p513-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Sacrosinus suspension involves attaching the vaginal apex to the sacrospinous ligament with tension.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 524,
+            "paragraph_id": "978-0323653992-p524-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Detrusor overactivity typically results in an instantaneous release of urine following a cough.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 536,
+            "paragraph_id": "978-0323653992-p536-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A significant proportion of women may suffer from some degree of urinary incontinence during their lifetime due to being overweight or obese.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 530,
+            "paragraph_id": "978-0323653992-p530-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Obesity doubles a woman's risk of urinary incontinence if her Body Mass Index (BMI) is exactly 35.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 548,
+            "paragraph_id": "978-0323653992-p548-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The PUF patient symptom scale assesses pain associated with sexual intercourse in sexually active patients.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 543,
+            "paragraph_id": "978-0323653992-p543-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Treatment options for Stress Incontinence and Urge Incontinence overlap completely according to Table 21.7.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 560,
+            "paragraph_id": "978-0323653992-p560-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A study demonstrated an improvement in 70% of premenopausal women with stress incontinence after only 1 month of exercising with weighted vaginal cones.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 551,
+            "paragraph_id": "978-0323653992-p551-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Duloxetine was studied for its effects on urethral function and sphincter morphology.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 565,
+            "paragraph_id": "978-0323653992-p565-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pudendal nerve motor latency testing is strongly recommended by the American Society of Colon and Rectal Surgeons for diagnosing fecal incontinence due to childbirth or straining.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 578,
+            "paragraph_id": "978-0323653992-p578-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dysfunction of the Internal Anal Sphincter (IAS) typically results in passive incontinence.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 571,
+            "paragraph_id": "978-0323653992-p571-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Endoanal ultrasound is used to assess the integrity, thickness, and length of the anal sphincter complex.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 576,
+            "paragraph_id": "978-0323653992-p576-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sacral nerve neuromodulation is effective treatment for fecal incontinence due to pudendal neuropathy.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 589,
+            "paragraph_id": "978-0323653992-p589-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Overlapping sphincteroplasty provides symptomatic control of incontinence in more than 90% of patients in the short term.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 586,
+            "paragraph_id": "978-0323653992-p586-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Treatment for pediculosis pubis or scabies should be prescribed for sexual contacts within the previous six months.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 595,
+            "paragraph_id": "978-0323653992-p595-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Secondary syphilis typically manifests between 6 weeks and 6 months after the appearance of the primary chancre if left untreated.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 601,
+            "paragraph_id": "978-0323653992-p601-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Bacterial vaginosis typically presents with increased discharge that is described as white and thin.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 605,
+            "paragraph_id": "978-0323653992-p605-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A total of more than 50 cases of endometriosis were documented across the studied groups with initially misdiagnosed PID.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 616,
+            "paragraph_id": "978-0323653992-p616-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fungal vulvovaginitis primarily affects women outside the childbearing years.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 609,
+            "paragraph_id": "978-0323653992-p609-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Total opioid use decreased by more than 75% in patients undergoing gynecologic surgery.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 628,
+            "paragraph_id": "978-0323653992-p628-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than half of postoperative fevers occur due to infectious causes.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 641,
+            "paragraph_id": "978-0323653992-p641-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The city of Paris is situated in Germany.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 631,
+            "paragraph_id": "978-0323653992-p631-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Asthma increases the incidence of perioperative respiratory problems less than twofold.",
+        "source": {
+            "isbn": "978-0323653992",
+            "page": 635,
+            "paragraph_id": "978-0323653992-p635-para1"
+        },
+        "type": "true_false"
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "answer": "A concentration of around 10% is usually adequate.",
+        "false_answer": "Around 10%",
+        "incorrect_explanation": "According to the provided paragraph, levels of 1% to 2% of factor XIII are actually considered adequate for hemostasis, not 10%.",
+        "question": "What level of factor XIII concentration is generally considered sufficient for achieving hemostasis in individuals with factor XIII deficiency?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 35,
+            "paragraph_id": "978-1260469752-p35-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Postoperative doses of an antimicrobial agent should be administered continuously until full recovery.",
+        "false_answer": "Administration of postoperative doses of an antimicrobial agent should continue until full recovery.",
+        "incorrect_explanation": "According to the paragraph, there is no evidence that administration of postoperative doses of an antimicrobial agent provides any additional benefit beyond the initial dose(s), especially since prolonged use encourages microbial drug resistance. Thus, continuous dosing until full recovery is both unnecessary and discouraged.",
+        "question": "How long after an initial dose of an antimicrobial agent can you continue administering postoperative doses to prevent surgical site infections effectively?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 52,
+            "paragraph_id": "978-1260469752-p52-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They are insensitive to changes in CO2 and O2 tension.",
+        "false_answer": "Chemoreceptors in the aorta and carotid bodies are insensitive to changes in CO2 and O2 tension.",
+        "incorrect_explanation": "According to the information, chemoreceptors in the aorta and carotid bodies actually *are* sensitive to changes in O2 tension among other things, making the claim that they are insensitive to these changes incorrect.\n- **Correct Information Should Be:** Chemoreceptors in the aorta and carotid bodies are indeed sensitive to changes in O2 tension, along with sensing H+ ion concentration and CO2 levels.",
+        "question": "What do chemoreceptors in the aorta and carotid bodies sense regarding oxygen levels?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 43,
+            "paragraph_id": "978-1260469752-p43-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20%-23%.",
+        "false_answer": "Approximately 20%-23%.",
+        "incorrect_explanation": "This range does not match any given option correctly; according to the information, if antibiotic therapy directed against both aerobes and anaerobes is administered to patients undergoing appendectomy for perforated or gangrenous appendicitis whose wounds are primarily closed, this results in SSI rates of approximately 3% to 4%, making the statement incorrect.",
+        "question": "What percentage of patients with perforated appendicitis who receive antibiotics and undergo primary closure of their appendectomy wound will experience a wound infection?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 60,
+            "paragraph_id": "978-1260469752-p60-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "They need to obtain head and abdominal CT scans.",
+        "false_answer": "Obtaining head and abdominal CT scans is the next immediate step.",
+        "incorrect_explanation": "According to the scenario described, despite having a severe head injury (indicated by a low Glasgow Coma Scale score), the primary concern that needs urgent attention is controlling the source of bleeding causing hypotension, identified as potentially coming from an abdominal hemorrhage rather than the head injury itself. Therefore, intubation followed by exploration of the abdomen is prioritized over obtaining further diagnostic imaging like CT scans.",
+        "question": "A patient with a Glasgow Coma Scale score of 7 following an automobile accident requires which procedure first among the options given when they show minimal improvement after initial fluid resuscitation efforts aimed at addressing their hypotensive state?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 63,
+            "paragraph_id": "978-1260469752-p63-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Myocardial infarction",
+        "false_answer": "Myocardial infarction",
+        "incorrect_explanation": "According to the given information, traumatic pericardial tamponade, not myocardial infarction, is what leads to an increase in intrapericardial pressure causing impaired right atrial filling and subsequent decrease in right ventricular output. While both conditions affect the heart's functioning, the description specifically matches the effects described under traumatic pericardial tamponade.",
+        "question": "What condition is associated with an increase in intrapericardial pressure leading to impaired right atrial filling and subsequently decreased right ventricular output?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 68,
+            "paragraph_id": "978-1260469752-p68-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Reprogramming of energy homeostasis.",
+        "false_answer": "Reprogramming of energy homeostasis.",
+        "incorrect_explanation": "The paragraph actually mentions \"reprogramming of energy metabolism,\" not \"homeostasis.\" Therefore, the correct term associated with the new hallmarks of cancer is \"metabolism,\" indicating how cancer cells adapt their metabolic processes differently compared to normal cells.",
+        "question": "What represents one of the newly identified hallmarks of cancer according to recent findings?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 96,
+            "paragraph_id": "978-1260469752-p96-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In the GI tract, wound strength takes significantly longer to recover compared to the skin.",
+        "false_answer": "In the GI tract, wound strength takes significantly longer to recover compared to the skin.",
+        "incorrect_explanation": "This claim is contrary to what is indicated, suggesting instead that wound strength recovers more quickly in the GI tract relative to the skin, making the actual comparison opposite to what was falsely claimed.",
+        "question": "How does the recovery of wound strength compare between the gastrointestinal (GI) tract and the skin?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 89,
+            "paragraph_id": "978-1260469752-p89-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Transplantation involves only moving intact organs within the same individual.",
+        "false_answer": "Transplantation involves only moving intact organs within the same individual.",
+        "incorrect_explanation": "The statement incorrectly limits transplantation to moving only intact organs and restricts it to occurring within the same individual. According to the paragraph, transplantation can involve tissues or cells besides just whole organs, and it can occur between individuals (such as in allografts), not just within the same person. Additionally, there's no specification that the movement must happen only within the same individual, making autotransplants just one category among others like allotransplants and xenotransplants.",
+        "question": "What does transplantation involve according to medical procedures described?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 100,
+            "paragraph_id": "978-1260469752-p100-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 1 occurrence per 500 surgeries.",
+        "false_answer": "Approximately 1 occurrence per 500 surgeries.",
+        "incorrect_explanation": "The given answer incorrectly estimates the frequency of retained surgical items. According to the provided text, the actual estimated range is between 1 case per 8,000 to 18,000 operations, corresponding to approximately 1 case or more each year for a typical large hospital or around 1,500 cases per year nationwide. Thus, stating \"approximately 1 occurrence per 500 surgeries\" significantly overestimates the problem's scale compared to what is indicated in the chapter.",
+        "question": "What is the estimated frequency at which retained surgical items occur in the United States?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 116,
+            "paragraph_id": "978-1260469752-p116-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A standard 3-lead ECG detects 99% of ischemia, whereas a 12-lead ECG detects slightly less, around 97%.",
+        "false_answer": "A standard 3-lead ECG detects 99% of ischemia, whereas a 12-lead ECG detects slightly less, around 97%.",
+        "incorrect_explanation": "According to the paragraph, a standard 3-lead ECG will detect 95% of ischemia, whereas a 12-lead ECG will detect more than 98%. Therefore, the statement provided in the answer is incorrect because it reverses the comparative effectiveness of 3-lead versus 12-lead ECGs in detecting ischemia and provides inaccurate percentages.",
+        "question": "What percentage of ischemia can a standard 3-lead electrocardiogram (ECG) detect compared to a 12-lead ECG?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 119,
+            "paragraph_id": "978-1260469752-p119-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Atrial fibrillation impacts the reliability of PPV measurements in mechanically ventilated patients more significantly than any other condition mentioned.",
+        "false_answer": "Atrial fibrillation impacts the reliability of PPV measurements in mechanically ventilated patients more significantly than any other condition mentioned.",
+        "incorrect_explanation": "While atrial arrhythmias can indeed interfere with the usefulness of PPV, they do not render PPV completely unreliable; rather, PPV's utility might be compromised compared to certain conditions under which it performs well. According to the passage, PPV remains simple and reliable despite potential interference from atrial arrhythmias. Moreover, the actual statement regarding what affects PPV's reliability involves factors like mechanical ventilation and intrathoracic pressure variations, not specifically highlighting one condition over others in a comparative manner concerning overall impact on PPV calculations across diverse scenarios.",
+        "question": "What factor among those listed does NOT impact the calculation of pulse pressure variability (PPV) when determining preload responsiveness?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 123,
+            "paragraph_id": "978-1260469752-p123-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of breast cancers overexpress the HER-2 growth factor receptor.",
+        "false_answer": "Approximately 50% of breast cancers overexpress the HER-2 growth factor receptor.",
+        "incorrect_explanation": "The statement incorrectly claims that about half of breast cancers overexpress the HER-2 receptor. According to the paragraph, however, Trastuzumab's target, the HER-2 growth factor receptor, is actually overexpressed in around 25%, not 50%, of breast cancers. Therefore, the correct answer should reflect this accurate percentage.",
+        "question": "What proportion of breast cancers typically overexpress the HER-2 growth factor receptor targeted by Trastuzumab?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 138,
+            "paragraph_id": "978-1260469752-p138-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An extended simple mastectomy removes the nipple-areola complex and levels I, II, and III axillary lymph nodes.",
+        "false_answer": "An extended simple mastectomy removes the nipple-areola complex and levels I, II, and III axillary lymph nodes.",
+        "incorrect_explanation": "According to the given text, an extended simple mastectomy actually removes the nipple-areola complex and **only** level I axillary lymph nodes, not levels II and III. Therefore, the statement incorrectly includes removal of levels II and III axillary lymph nodes in an extended simple mastectomy.",
+        "question": "What does an extended simple mastectomy remove besides all breast tissue?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 154,
+            "paragraph_id": "978-1260469752-p154-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 2.5 liters.",
+        "false_answer": "More than 2.5 liters.",
+        "incorrect_explanation": "According to the provided text, the guideline for tolerating a lobectomy suggests an FEV1 of more than 1.5 L, not 2.5 L. Thus, stating that an FEV1 of more than 2.5 liters is needed is incorrect because it exceeds the actual threshold given for lobectomy tolerance.",
+        "question": "What is the minimum FEV1 level considered sufficient for tolerating a lobectomy according to general guidelines?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 165,
+            "paragraph_id": "978-1260469752-p165-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of patients.",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "The paragraph specifies that approximately 15%, not 10%, of patients with Ebstein's Anomaly have a WPW syndrome type of accessory pathway with associated preexcitation. Therefore, the correct answer should reflect this accurate percentage.",
+        "question": "What percentage of patients with Ebstein's Anomaly have a Wolff-Parkinson-White (WPW) syndrome type of accessory pathway with associated preexcitation?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 182,
+            "paragraph_id": "978-1260469752-p182-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In 1968.",
+        "false_answer": "In 1968.",
+        "incorrect_explanation": "The incorrect answer provides a wrong year. According to the given text, Fontan's pioneering surgery actually took place in 1971, making the statement incorrect. Therefore, the correct answer should reflect the accurate year of Fontan's surgery.",
+        "question": "What year did Fontan perform his pioneering surgery involving a classic Glenn anastomosis?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 173,
+            "paragraph_id": "978-1260469752-p173-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Nylon",
+        "false_answer": "Nylon",
+        "incorrect_explanation": "According to the chapter, aneurysm formation is particularly common after patch aortoplasty when using **Dacron material**, not nylon.",
+        "question": "What material's use in patch aortoplasty for coarctation of the aorta repair is particularly associated with aneurysm formation at the repair site?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 177,
+            "paragraph_id": "978-1260469752-p177-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Only one additional CT scan is needed, usually obtained on day 7 of treatment, compared with the initial scan, to suffice for assessing aortic stability.",
+        "false_answer": "One additional CT scan on day 7 suffices for assessment.",
+        "incorrect_explanation": "According to the text, at least two serial CT scans are recommended\u2014typically obtained on days 2 or 3 and again on days 8 or 9\u2014to effectively evaluate aortic expansion and ensure stability before considering discharge or shifting medication regimens.",
+        "question": "How many serial CT scans are typically recommended to compare with the initial scan for ruling out significant aortic expansion in nonoperative treatment of descending aortic dissection?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 199,
+            "paragraph_id": "978-1260469752-p199-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 50% of the myocardium must be necrosed.",
+        "false_answer": "More than 50% of the myocardium must be necrosed.",
+        "incorrect_explanation": "The passage indicates that once more than 20% of the myocardium is necrosed, there is an irreversible progression to ventricular dilation and failure, making the claim of needing over 50% incorrect.",
+        "question": "At what percentage of myocardial necrosis does there begin an irreversible progression to ventricular dilation and failure following a myocardial infarction?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 189,
+            "paragraph_id": "978-1260469752-p189-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The superior thyroid artery provides the primary blood supply.",
+        "false_answer": "The superior thyroid artery provides the primary blood supply.",
+        "incorrect_explanation": "According to the paragraph, the cervical portion of the esophagus actually receives its main blood supply from the inferior thyroid artery, not the superior thyroid artery.",
+        "question": "What primarily supplies the blood to the cervical portion of the esophagus?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 220,
+            "paragraph_id": "978-1260469752-p220-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The left subclavian vein typically courses posterior to the anterior scalene muscle.",
+        "false_answer": "The left subclavian vein typically courses posterior to the anterior scalene muscle.",
+        "incorrect_explanation": "According to the given information, the left subclavian vein actually always passes **anterior** to both the anterior and middle scalene muscles, which indicates a significant difference from the statement made in the false answer. Therefore, the correct answer should state that the left subclanian vein courses **anterior** to the anterior scalene muscle, contrary to the assertion made in the incorrect answer.",
+        "question": "What is the usual positioning of the left subclavian vein concerning the anterior scalene muscle according to standard human anatomy?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 210,
+            "paragraph_id": "978-1260469752-p210-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 1% to 2% of all hypertensive patients in the United States are affected by renal artery occlusive disease.",
+        "false_answer": "About 1% to 2% of all hypertensive patients in the United States are affected by renal artery occlusive disease.",
+        "incorrect_explanation": "According to the chapter, obstructive lesions of the renal artery can produce hypertension, affecting approximately 5% to 10% of all hypertensive patients in the United States, not 1% to 2%. Therefore, the statement given in the answer underestimates the prevalence significantly.",
+        "question": "What percentage of all hypertensive patients in the United States does renal artery occlusive disease affect?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 206,
+            "paragraph_id": "978-1260469752-p206-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Grade B",
+        "false_answer": "Grade B",
+        "incorrect_explanation": "Grade B refers to one or more erosions limited to the mucosal fold(s) and greater than 5 mm in longitudinal extent. The description given matches neither Grade B nor the other grades correctly because it describes erosions extending beyond the mucosal folds and covering between half to two-thirds of the esophageal circumference, which doesn't align perfectly with any described category. Specifically, Grade C involves erosions extending over the mucosal folds but covering less than three-quarters of the esophageal circumference, making the provided scenario most closely resemble Grade C rather than Grade B.",
+        "question": "According to the Los Angeles (LA) grading system, what classification would a patient's condition fall under if they had erosions in the esophagus extending beyond the mucosal folds and covering between half to two-thirds of the esophageal circumference?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 227,
+            "paragraph_id": "978-1260469752-p227-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Histamine",
+        "false_answer": "Histamine",
+        "incorrect_explanation": "According to the paragraph, histamine stimulates gastrin release and subsequently leads to acid secretion, whereas somatostatin is the hormone released from antral D cells that acts as the primary inhibitor of gastrin secretion in a paracrine manner.",
+        "question": "What substance is released from antral D cells to inhibit gastrin secretion predominantly through a paracrine mechanism?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 236,
+            "paragraph_id": "978-1260469752-p236-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The accuracy ranges from 40% to 75%.",
+        "false_answer": "40% to 75%",
+        "incorrect_explanation": "This range does not match the given accuracy in the paragraph, which states the accuracy is between 58% and 83%.",
+        "question": "What percentage range represents the accuracy of detecting pathologically positive lymph nodes through ultrasound?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 256,
+            "paragraph_id": "978-1260469752-p256-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Lifelong treatment is needed only for vitamin C and calcium deficiencies.",
+        "false_answer": "Lifelong treatment is needed only for vitamin C and calcium deficiencies.",
+        "incorrect_explanation": "According to the text, the actual deficiencies requiring lifelong treatment after Roux-en-Y gastric bypass include pernicious anemia due to vitamin B12 deficiency, iron deficiency anemia, and deficiencies of vitamins A, E, D, and K, making option D (\"All of the above\") the correct choice regarding various types of deficiencies, specifically mentioning fat-soluble vitamins along with others.",
+        "question": "Which nutrient deficiencies necessitate lifelong supplementation following a Roux-en-Y gastric bypass among adolescent patients?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 247,
+            "paragraph_id": "978-1260469752-p247-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 40% of patients experience isolated perineal and anorectal disease.",
+        "false_answer": "Approximately 40% of patients experience isolated perineal and anorectal disease.",
+        "incorrect_explanation": "According to the provided information, isolated perineal and anorectal disease actually occurs in 5% to 10% of patients with Crohn\u2019s disease, not approximately 40%.",
+        "question": "What percentage of patients with Crohn's disease experience isolated perineal and anorectal involvement?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 250,
+            "paragraph_id": "978-1260469752-p250-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Astronomers mainly rely on spaceships for observing astronomical events and bodies.",
+        "false_answer": "Astronomers mainly rely on spaceships for observing astronomical events and bodies.",
+        "incorrect_explanation": "The statement is incorrect because, according to the paragraph, astronomers actually use both \"ground-based telescopes and spacecraft,\" indicating that their observation methods involve more than just spaceships (or spacecraft), also incorporating ground-based equipment. Therefore, the correct answer would acknowledge the dual approach of utilizing both types of technology for observations.",
+        "question": "What do astronomers primarily utilize when studying various celestial bodies?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 267,
+            "paragraph_id": "978-1260469752-p267-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An increase in the metabolism of a drug results in a prolonged duration of the drug's action because the enhanced metabolic activity leads to higher concentrations of the drug being maintained in the system.",
+        "false_answer": "An increase in the metabolism of a drug results in a prolonged duration of the drug's action.",
+        "incorrect_explanation": "According to basic pharmacokinetic principles discussed, when the rate of metabolism of a drug increases (i.e., enzyme induction occurs), the duration of the drug's action actually decreases, not increases. Increased metabolism breaks down the drug faster, leading to lower effective concentrations and shorter durations of action. Conversely, if the metabolism of a drug is decreased (due to enzyme inhibition), the drug tends to remain active for a longer period since less of it is broken down at any given time.",
+        "question": "How do changes in the rate of metabolism of drugs influence their effects within the body according to general principles outlined in pharmacology discussions regarding liver functions?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 281,
+            "paragraph_id": "978-1260469752-p281-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 40% of patients with compensated cirrhosis and 50% of those with decompensated cirrhosis have esophageal varices.",
+        "false_answer": "About 40% of patients with compensated cirrhosis and 50% of those with decompensated cirrhosis have esophageal varices.",
+        "incorrect_explanation": "The given answer inaccurately represents the prevalence of esophageal varices among patients with cirrhosis. According to the provided information, approximately 30% of patients with compensated cirrhosis and 60% of patients with decompensated cirrhosis actually have esophageal varices. Thus, the statement significantly underestimates the occurrence in decompensated cirrhosis and slightly overestimates it in compensated cirrhosis.",
+        "question": "Among patients with compensated versus decompensated cirrhosis, what percentages respectively have esophageal varices?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 284,
+            "paragraph_id": "978-1260469752-p284-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of patients with cholangiocarcinoma have Primary Sclerosing Cholangitis (PSC).",
+        "false_answer": "Approximately 50% of patients with cholangiocarcinoma have Primary Sclerosing Cholangitis (PSC).",
+        "incorrect_explanation": "The statement is incorrect because according to the chapter, approximately 10% of patients with cholangiocarcinoma have Primary Sclerosing Cholangitis (PSC), not 50%. Therefore, the correct answer should reflect that around 10%, rather than half, of those with cholangiocarcinoma also suffer from PSC.",
+        "question": "What percentage of patients with cholangiocarcinoma have Primary Sclerosing Cholangitis (PSC)?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 289,
+            "paragraph_id": "978-1260469752-p289-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 85% of bile acids are reabsorbed, mainly in the duodenum and jejunum.",
+        "false_answer": "Approximately 85% of bile acids being reabsorbed mostly in the duodenum and jejunum.",
+        "incorrect_explanation": "According to the paragraph, about 95% of the bile acid pool is indeed reabsorbed through the enterohepatic circulation, but the majority of this absorption occurs in the terminal ileum and some in the colon after deconjugation by gut bacteria, not in the duodenum and jejunum as the false answer suggests.",
+        "question": "What percentage of bile acids are eventually reabsorbed in the human body, and where does the majority of this absorption primarily occur?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 296,
+            "paragraph_id": "978-1260469752-p296-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 65 years old.",
+        "false_answer": "More than 65 years old.",
+        "incorrect_explanation": "The given answer incorrectly specifies the age threshold as more than 65 years old. According to Ranson's criteria outlined in the table, for non-gallstone pancreatitis cases, the specified criterion regarding age is actually being older than 55 years at admission.",
+        "question": "What age threshold indicates a higher severity according to Ranson's criteria when considering acute pancreatitis cases not caused by gallstones?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 302,
+            "paragraph_id": "978-1260469752-p302-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To address failure of chemotherapy to reduce splenomegaly.",
+        "false_answer": "Performing a splenectomy primarily addresses failure of chemotherapy to reduce splenomegaly.",
+        "incorrect_explanation": "According to the given information, the actual indication for splenectomy in CML is symptomatic relief of issues such as early satiety caused by splenomegaly, not specifically addressing failed chemotherapy's inability to decrease splenomegaly.",
+        "question": "What is the primary reason for performing a splenectomy in patients diagnosed with Chronic Myelogenous Leukemia (CML)?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 316,
+            "paragraph_id": "978-1260469752-p316-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Daily antibiotics are typically administered until the patient reaches 10 years of age.",
+        "false_answer": "Administering daily antibiotics until the patient reaches 10 years of age.",
+        "incorrect_explanation": "According to the given information, common recommendations suggest giving daily antibiotics until 5 years of age or at least 5 years after splenectomy, not specifically until they reach 10 years old. Therefore, the statement introduces an incorrect time frame regarding the administration of antibiotics for preventing OPSI in young asplenic patients.",
+        "question": "What is the recommended duration for administering daily antibiotics to prevent overwhelming postsplenectomy infection (OPSI) in young asplenic patients?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 319,
+            "paragraph_id": "978-1260469752-p319-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 10% of all patients with rheumatoid arthritis develop this condition.",
+        "false_answer": "Approximately 10%",
+        "incorrect_explanation": "According to the chapter, the condition described, known as Felty's Syndrome, actually occurs in approximately 3%, not 10%, of all patients with rheumatoid arthritis.\n- **Correct Information Based on Paragraph:** Two-thirds of these cases occur in women, indicating a gender predisposition within those affected by Felty's Syndrome among rheumatoid arthritis patients.",
+        "question": "What condition characterized by the presence of rheumatoid arthritis, splenomegaly, and neutropenia affects approximately what percent of patients with rheumatoid arthritis?",
+        "source": {
+            "isbn": "978-1260469752",
+            "page": 311,
+            "paragraph_id": "978-1260469752-p311-para1"
+        },
+        "type": "short_inverse"
+    }
+]

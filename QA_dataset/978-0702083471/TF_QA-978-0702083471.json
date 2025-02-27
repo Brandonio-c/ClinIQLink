@@ -1,0 +1,1032 @@
+[
+    {
+        "answer": "False",
+        "question": "Hypothalamus and pituitary gland are peripheral endocrine glands.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 1,
+            "paragraph_id": "978-0702083471-p1-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dr. Ami Prakashvir Parikh works at Lilavati Hospital and Research Centre.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 17,
+            "paragraph_id": "978-0702083471-p17-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Genomic technology is currently used to diagnose and prevent common diseases such as cancer.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 61,
+            "paragraph_id": "978-0702083471-p61-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Array Comparative Genomic Hybridization (array CGH) can detect balanced chromosome rearrangements where there is no loss or gain of genes/chromosome material.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 73,
+            "paragraph_id": "978-0702083471-p73-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The CYP2D6 gene determines codeine activation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 79,
+            "paragraph_id": "978-0702083471-p79-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Familial fever syndromes are primarily caused by bacterial infections.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 95,
+            "paragraph_id": "978-0702083471-p95-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Severe Combined Immune Deficiency (SCID) always involves a lack of T-cell and NK-cell maturation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 99,
+            "paragraph_id": "978-0702083471-p99-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Non-synonymous mutations always lead to premature termination of translation due to the introduction of a stop codon.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 65,
+            "paragraph_id": "978-0702083471-p65-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Activation of the complement system via the classical pathway requires the presence of bacterial cell-wall components.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 87,
+            "paragraph_id": "978-0702083471-p87-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Anne's diagnosis of colon cancer at the age of 46 years indicates she likely suffers from an autosomal recessive disorder because both males and females are equally affected in her family history.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 69,
+            "paragraph_id": "978-0702083471-p69-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Immunoglobulins (Ig) are soluble proteins produced by plasma cells and consist of four heavy and three light chains.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 90,
+            "paragraph_id": "978-0702083471-p90-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Atopic individuals exhibit an inappropriate IgE immune response to harmful substances.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 104,
+            "paragraph_id": "978-0702083471-p104-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients discontinuing due to immune-related adverse events after having a favorable response to immune checkpoint blockade may lose their antitumor response immediately.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 110,
+            "paragraph_id": "978-0702083471-p110-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Botulinum toxin affects cellular processes by preventing the release of neurotransmitters involved in muscle relaxation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 129,
+            "paragraph_id": "978-0702083471-p129-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Post-transplant malignancies arise due to failure to control bacterial infections leading to malignant transformation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 112,
+            "paragraph_id": "978-0702083471-p112-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lateral flow immunochromatography primarily detects antibodies.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 133,
+            "paragraph_id": "978-0702083471-p133-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "A host who has a microorganism surviving and replicating on an epithelial surface without inducing a pathological change is considered infected.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 125,
+            "paragraph_id": "978-0702083471-p125-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Combination therapy is never indicated for treating severe infections.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 140,
+            "paragraph_id": "978-0702083471-p140-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Approximately 90% of patients who report a penicillin allergy actually have an IgE-mediated allergy.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 144,
+            "paragraph_id": "978-0702083471-p144-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The capital city of France is Berlin.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 156,
+            "paragraph_id": "978-0702083471-p156-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The basic reproduction number (R0) for measles is higher than that of SARS-CoV-2 and Ebola.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 154,
+            "paragraph_id": "978-0702083471-p154-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Cancer cells producing procoagulant/fibrinolytic substances contribute to a prothrombotic state.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 171,
+            "paragraph_id": "978-0702083471-p171-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vinyl chloride (PVC) manufacturing is linked to liver angiosarcoma.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 162,
+            "paragraph_id": "978-0702083471-p162-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Immunotherapy treatment is expected to become less prevalent for many types of cancers and indications in the future.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 176,
+            "paragraph_id": "978-0702083471-p176-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A multidisciplinary team includes a nurse specialist, auditor, and scheduler among other specialists.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 166,
+            "paragraph_id": "978-0702083471-p166-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Non-steroidal anti-inflammatory drugs (NSAIDs) are generally ineffective in managing neuropathic pain.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 192,
+            "paragraph_id": "978-0702083471-p192-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chronic pain does serve a useful protective function against further injury.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 186,
+            "paragraph_id": "978-0702083471-p186-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Palliative care involves the exclusive use of opioids for cancer pain relief.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 199,
+            "paragraph_id": "978-0702083471-p199-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Procalcitonin (PCT) measurement in venous blood is primarily used for diagnosing bacterial infections.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 214,
+            "paragraph_id": "978-0702083471-p214-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A 12-lead ECG should be performed in patients with chest pain whose history is compatible with myocardial ischemia.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 212,
+            "paragraph_id": "978-0702083471-p212-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Increasing physical activity in individuals with chronic pain requires personalized approaches since everyone's needs differ significantly.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 205,
+            "paragraph_id": "978-0702083471-p205-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Intravenous glucocorticoids are commonly used to treat refractory hypertension because there is strong evidence that they significantly improve outcomes.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 233,
+            "paragraph_id": "978-0702083471-p233-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Over 95% of oxygen carried in the blood is bound to haemoglobin.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 226,
+            "paragraph_id": "978-0702083471-p226-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Oxygen saturation levels between 95% and 96%, when a patient is receiving oxygen therapy, correspond to an alert level according to the NEWS scoring system described.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 224,
+            "paragraph_id": "978-0702083471-p224-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Basic Life Support includes maneuvers aimed at maintaining a high level of circulation during cardiac arrest.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 236,
+            "paragraph_id": "978-0702083471-p236-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Broad-spectrum antibiotics should always be administered immediately after diagnosing severe abdominal pain due to potential bacterial translocation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 252,
+            "paragraph_id": "978-0702083471-p252-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Donation after brain death requires the agreement of family and next of kin before proceeding.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 249,
+            "paragraph_id": "978-0702083471-p249-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dobutamine causes less vasodilatation compared to adrenaline when administered as an inotropic agent in critical illness management.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 242,
+            "paragraph_id": "978-0702083471-p242-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Sodium thiosulfate enhances detoxification by rhodanese.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 259,
+            "paragraph_id": "978-0702083471-p259-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nerve agent VX is capable of inducing respiratory paralysis or failure.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 270,
+            "paragraph_id": "978-0702083471-p270-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Diamorphine (heroin) overdose manifestations always start with oral mucosal ulcers.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 265,
+            "paragraph_id": "978-0702083471-p265-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Laboratory investigations specifically designed to detect venom are commercially available for Australian snakebites but not yet developed for other types of envenomation where venom concentrations are typically lower.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 282,
+            "paragraph_id": "978-0702083471-p282-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Excessive movement of a hypothermic patient whose core temperature is below 30\u00b0C can lead to ventricular fibrillation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 297,
+            "paragraph_id": "978-0702083471-p297-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Heatstroke can cause intestinal mucosal impairment leading to systemic toxin circulation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 291,
+            "paragraph_id": "978-0702083471-p291-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Injection drug users are always infected with only one pathogen.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 307,
+            "paragraph_id": "978-0702083471-p307-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Coagulase-negative staphylococcal line infections always require catheter removal for effective treatment.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 310,
+            "paragraph_id": "978-0702083471-p310-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fever is always accurately measured through axillary and aural methods.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 302,
+            "paragraph_id": "978-0702083471-p302-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Giardia lamblia infection may lead to a malabsorption syndrome if left untreated.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 315,
+            "paragraph_id": "978-0702083471-p315-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The period 3\u20137 days after the onset of fever in dengue infection is considered the critical phase during which signs of DHF or DSS may develop.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 326,
+            "paragraph_id": "978-0702083471-p326-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Oseltamivir is commonly used to treat infections with H5N1 viruses.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 324,
+            "paragraph_id": "978-0702083471-p324-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dexamethasone improves survival and is recommended for hospitalised patients requiring supplemental oxygen or mechanical ventilation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 336,
+            "paragraph_id": "978-0702083471-p336-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Diphtheria antitoxin neutralizes circulating toxin that has already fixed to tissues.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 352,
+            "paragraph_id": "978-0702083471-p352-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Adults with localized bone disease related to brucellosis require gentamicin treatment.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 343,
+            "paragraph_id": "978-0702083471-p343-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Malaria in humans is exclusively caused by *Plasmodium falciparum*.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 358,
+            "paragraph_id": "978-0702083471-p358-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Melioidosis is most commonly found in North America.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 348,
+            "paragraph_id": "978-0702083471-p348-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "American trypanosomiasis (Chagas' disease) is caused by the protozoan *Trypanosoma cruzi* and primarily affects individuals who live in urban centers throughout North America.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 364,
+            "paragraph_id": "978-0702083471-p364-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Anisakiasis infection is commonly associated with the consumption of raw fish.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 377,
+            "paragraph_id": "978-0702083471-p377-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Treatment of visceral leishmaniasis with conventional amphotericin B achieves a higher initial cure rate compared to treatment with Sb.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 368,
+            "paragraph_id": "978-0702083471-p368-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Lymphatic filariasis is typically characterized by the presence of adult worms living outside the lymphatic system.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 374,
+            "paragraph_id": "978-0702083471-p374-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dimorphic fungi exist exclusively in a filamentous form under all environmental conditions.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 382,
+            "paragraph_id": "978-0702083471-p382-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "In patients with HIV infection, Toxoplasmosis affects the retina.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 391,
+            "paragraph_id": "978-0702083471-p391-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "CMV colitis presents with acute large bowel symptoms and fever in patients with CD4 counts below 50 cells/mm^3.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 401,
+            "paragraph_id": "978-0702083471-p401-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Primary HIV infection is symptomatic in more than 80% of cases.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 396,
+            "paragraph_id": "978-0702083471-p396-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Starting ART immediately upon confirmation of HIV diagnosis improves retention in care among asymptomatic individuals.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 408,
+            "paragraph_id": "978-0702083471-p408-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Syphilis is exclusively transmitted through the moist mucous membranes of the genitals during sexual activity.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 414,
+            "paragraph_id": "978-0702083471-p414-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rates of macroide resistance in *Chlamydia trachomatis* are less than 10%.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 427,
+            "paragraph_id": "978-0702083471-p427-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cardiac muscle contraction force is primarily regulated by the influx of potassium ions through slow potassium channels.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 434,
+            "paragraph_id": "978-0702083471-p434-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Troponin I and troponin T are exclusively diagnostic indicators for acute myocardial infarction.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 437,
+            "paragraph_id": "978-0702083471-p437-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exertional chest pain is typically a presenting symptom of coronary artery disease.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 442,
+            "paragraph_id": "978-0702083471-p442-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Heart transplantation is commonly performed in patients older than sixty years old regardless of their health status.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 452,
+            "paragraph_id": "978-0702083471-p452-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Left Bundle Branch Block (LBBB) typically signifies important underlying heart disease and causes ventricular incoordination which may worsen symptoms in patients suffering from heart failure.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 455,
+            "paragraph_id": "978-0702083471-p455-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Low cardiac output in chronic heart failure always results in low blood pressure.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 448,
+            "paragraph_id": "978-0702083471-p448-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The management of torsades de pointes includes giving intravenous magnesium.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 462,
+            "paragraph_id": "978-0702083471-p462-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Excessive alcohol consumption contributes to the development of cardiovascular disease primarily through increasing levels of bad cholesterol.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 470,
+            "paragraph_id": "978-0702083471-p470-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Troponin levels become elevated before 12 hours after myocardial infarction.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 480,
+            "paragraph_id": "978-0702083471-p480-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Type 2 myocardial infarction requires clinical evidence of ischemia, such as ECG changes or symptoms of chest pain.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 477,
+            "paragraph_id": "978-0702083471-p477-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cardiac Resynchronization Therapy (CRT) always includes a defibrillator component.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 467,
+            "paragraph_id": "978-0702083471-p467-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Severe Limb Ischemia (SLI) includes Critical Limb Ischemia (CLI).",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 485,
+            "paragraph_id": "978-0702083471-p485-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antihypertensive therapy reduces the incidence of stroke and coronary artery disease (CAD).",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 492,
+            "paragraph_id": "978-0702083471-p492-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Effort-related dyspnea is typically the first symptom noticed by patients with mitral stenosis before it progresses to being noticeable even at rest.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 498,
+            "paragraph_id": "978-0702083471-p498-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ventricular septal defect is the most common non-congenital cardiac issue.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 514,
+            "paragraph_id": "978-0702083471-p514-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Regurgitation of blood through the aortic valve always causes immediate severe left ventricular failure.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 503,
+            "paragraph_id": "978-0702083471-p503-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Constrictive pericarditis typically causes significant breathlessness due to lung congestion.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 521,
+            "paragraph_id": "978-0702083471-p521-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The measurement of serum CRP is less reliable than the ESR in monitoring the progression of infective endocarditis.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 509,
+            "paragraph_id": "978-0702083471-p509-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Arrhythmogenic ventricular cardiomyopathy predominantly affects the myocardium of the right ventricle.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 519,
+            "paragraph_id": "978-0702083471-p519-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nodules larger than 3 centimeters are nearly always malignant according to guidelines from the Fleischner Society.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 540,
+            "paragraph_id": "978-0702083471-p540-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Radial elastic traction prevents the small airways from narrowing significantly due to surrounding alveoli pressure during inhalation.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 529,
+            "paragraph_id": "978-0702083471-p529-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Asthma is characterized by a wet cough that improves at night.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 536,
+            "paragraph_id": "978-0702083471-p536-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Nasal FeNO sampling is considered as a first-line diagnostic tool specifically for identifying ciliary dysfunction syndrome before proceeding to nasal brush biopsy and genetic testing.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 556,
+            "paragraph_id": "978-0702083471-p556-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Emphysema is classified by the pattern of enlarged airspaces, including types called centriacinar, panacinar, and paraseptal.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 551,
+            "paragraph_id": "978-0702083471-p551-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "High levels of urea indicate a higher severity of infections in the respiratory system.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 561,
+            "paragraph_id": "978-0702083471-p561-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Patients diagnosed with asthma always exhibit abnormal lung function as measured by spirometry.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 547,
+            "paragraph_id": "978-0702083471-p547-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Simple aspergillomas are always symptomatic and give rise to life-threatening recurrent haemoptysis.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 572,
+            "paragraph_id": "978-0702083471-p572-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Finger clubbing is sometimes observed in cases of lung cancer.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 575,
+            "paragraph_id": "978-0702083471-p575-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Most mycobaterial lymphadenitis in non-immigrant children in the United Kingdom is caused by Mycobacterium bovis.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 566,
+            "paragraph_id": "978-0702083471-p566-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Idiopathic pulmonary fibrosis is characterized by a progressive fibrosing interstitial pneumonia of known cause.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 580,
+            "paragraph_id": "978-0702083471-p580-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Mesothelioma is a malignant tumor affecting the liver.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 592,
+            "paragraph_id": "978-0702083471-p592-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Obstructive sleep apnea/hypopnea syndrome affects approximately 1% of women and 2% of men aged 30\u201360 years old in European-descent populations.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 596,
+            "paragraph_id": "978-0702083471-p596-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Treatment with diethylcarbamazine confirms the diagnosis of tropical pulmonary eosinophilia.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 586,
+            "paragraph_id": "978-0702083471-p586-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hypertension identifies a population at higher risk of developing chronic kidney disease (CKD).",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 615,
+            "paragraph_id": "978-0702083471-p615-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There are websites available for accessing information on various respiratory conditions through societies dedicated to respiratory health.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 602,
+            "paragraph_id": "978-0702083471-p602-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Oliguria is commonly associated with pre-renal Acute Kidney Injury (AKI) where fluid status activation prompts sodium retention through the renin\u2013angiotensin\u2013aldosterone system and promotes water retention via ADH release.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 613,
+            "paragraph_id": "978-0702083471-p613-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acute tubulo-interstitial nephritis is characterized by rapid deterioration in renal function accompanied by fever and macular rash but does not involve eosinophilia on peripheral smear.",
+        "source": {
+            "isbn": "978-0702083471",
+            "page": 605,
+            "paragraph_id": "978-0702083471-p605-para1"
+        },
+        "type": "true_false"
+    }
+]

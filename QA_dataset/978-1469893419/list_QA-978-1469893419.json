@@ -1,0 +1,761 @@
+[
+    {
+        "answer": [
+            "Recommendations on sequencing the physical examination and documenting records",
+            "Descriptions of interviewing patients and taking their health histories",
+            "Details and illustrations of regional physical examinations",
+            "Reminders of common, normal, and abnormal physical findings",
+            "Provides visual aids and comparative tables to guide recognition of common and selected findings"
+        ],
+        "options": [
+            "Recommendations on sequencing the physical examination and documenting records",
+            "Descriptions of interviewing patients and taking their health histories",
+            "Details and illustrations of regional physical examinations",
+            "Information on abnormal findings",
+            "Visual aids and comparative tables"
+        ],
+        "question": "What does Bates' Pocket Guide provide to help students learn about physical examinations?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 8,
+            "paragraph_id": "978-1469893419-p8-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Head",
+            "Eyes",
+            "Ears",
+            "Nose and sinuses",
+            "Mouth and pharynx (also referred to as throat)"
+        ],
+        "options": [
+            "Hair and nails",
+            "Skin",
+            "Neck",
+            "Lymph Nodes",
+            "Thyroid Gland",
+            "Trachea",
+            "Carotid Arteries",
+            "Skull",
+            "Face",
+            "Hands",
+            "Visual Fields",
+            "Sclera",
+            "Conjunctiva",
+            "Cornea",
+            "Iris",
+            "Lens",
+            "Ocular Fundi",
+            "Auricles",
+            "Canals",
+            "Drums",
+            "Lips",
+            "Oral Mucosa",
+            "Tongue",
+            "Tonsils",
+            "Pharynx",
+            "Teeth",
+            "Cranial Nerves"
+        ],
+        "question": "What parts of the HEENT region do medical professionals typically examine during a physical examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 19,
+            "paragraph_id": "978-1469893419-p19-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neck",
+            "Thyroid gland",
+            "Cervical lymph nodes",
+            "Trachea",
+            "Back",
+            "Posterior thorax",
+            "Lungs",
+            "Spine",
+            "Muscles",
+            "Breasts",
+            "Axillae",
+            "Epitrochlear nodes",
+            "Hands",
+            "Arms",
+            "Shoulders",
+            "Temporomandibular joints",
+            "Anterior thorax"
+        ],
+        "options": [
+            "Neck",
+            "Thyroid gland",
+            "Cervical lymph nodes",
+            "Trachea",
+            "Back",
+            "Posterior thorax",
+            "Lungs",
+            "Spine",
+            "Muscles",
+            "Breasts",
+            "Axillae",
+            "Epitrochlear nodes",
+            "Hands",
+            "Arms",
+            "Shoulders",
+            "Temporomandibular joints",
+            "Anterior thorax"
+        ],
+        "question": "What body parts or areas do healthcare professionals typically examine during an initial clinical assessment?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 20,
+            "paragraph_id": "978-1469893419-p20-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Seizures",
+            "Tremors",
+            "Muscle weakness",
+            "Paralysis",
+            "Numbness or tingling sensations",
+            "Parkinson's disease",
+            "Multiple sclerosis",
+            "Alzheimer's disease",
+            "Stroke",
+            "Transient ischemic attacks (TIAs)"
+        ],
+        "options": [
+            "Muscle weakness",
+            "Paralysis",
+            "Numbness or tingling sensations",
+            "High blood pressure",
+            "Heart murmurs",
+            "Respiratory issues",
+            "Arthritis",
+            "Osteoporosis",
+            "Stroke",
+            "Alzheimer's disease",
+            "Multiple sclerosis",
+            "Tremors",
+            "Parkinson's disease",
+            "Seizures"
+        ],
+        "question": "What conditions related to the nervous system might be assessed during a medical evaluation?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 14,
+            "paragraph_id": "978-1469893419-p14-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Headaches described as frontal, throbbing, mild to moderately severe",
+            "Associated nausea",
+            "Vomiting"
+        ],
+        "options": [
+            "Headaches",
+            "Nausea",
+            "Vomiting",
+            "Visual changes",
+            "Motor-sensory deficits"
+        ],
+        "question": "What symptoms does Mrs. N experience during episodes of headaches?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 26,
+            "paragraph_id": "978-1469893419-p26-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Identify abnormal findings",
+            "Localize findings anatomically",
+            "Cluster the clinical findings",
+            "Search for the probable cause(s) of the findings",
+            "Generate hypotheses about the causes of the patient\u2019s problems",
+            "Test the hypotheses and establish a working diagnosis"
+        ],
+        "options": [
+            "Identifying normal findings",
+            "Localizing findings clinically",
+            "Searching for historical data",
+            "Generating hypotheses about the patient's condition",
+            "Testing the hypothesis",
+            "Cluster the clinical findings",
+            "Eliminating irrelevant laboratory results",
+            "Determining the final prognosis"
+        ],
+        "question": "What are the key steps identified for making diagnoses?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 23,
+            "paragraph_id": "978-1469893419-p23-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Migraine headaches",
+            "Elevated blood pressure",
+            "Cystocele with occasional stress incontinence",
+            "Overweight",
+            "Family stress",
+            "Low back pain",
+            "Tobacco abuse since age 18 years",
+            "Varicose veins",
+            "History of right pyelonephritis in 1998",
+            "Allergy to penicillin",
+            "Health maintenance"
+        ],
+        "options": [
+            "Elevated blood pressure",
+            "Overweight",
+            "Family stress",
+            "Cystocele with occasional stress incontinence",
+            "Low back pain",
+            "Tobacco abuse since age 18 years",
+            "Varicose veins",
+            "History of right pyelonephritis in 1998",
+            "Allergy to penicillin",
+            "Health maintenance",
+            "Headaches"
+        ],
+        "question": "What issues are included in the example problem list for the case of Mrs. N.?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 33,
+            "paragraph_id": "978-1469893419-p33-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Empathetic tone",
+            "Objective tone",
+            "Sensitive tone"
+        ],
+        "options": [
+            "Confrontational tone",
+            "Disapproving tone",
+            "Humorous tone",
+            "Empathetic tone",
+            "Objective tone",
+            "Sensitive tone"
+        ],
+        "question": "What tones are considered appropriate when writing clinical records according to professional standards?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 35,
+            "paragraph_id": "978-1469893419-p35-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Eye contact",
+            "Facial expressions",
+            "Posture",
+            "Head position and movement",
+            "Interpersonal distance",
+            "Placement of the arms or legs",
+            "Physical contact",
+            "Mirroring paralanguage"
+        ],
+        "options": [
+            "Eye contact",
+            "Facial expressions",
+            "Posture",
+            "Head position and movement",
+            "Interpersonal distance",
+            "Placement of the arms or legs",
+            "Physical contact",
+            "Mirroring paralanguage"
+        ],
+        "question": "What nonverbal communication methods can healthcare providers use?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 52,
+            "paragraph_id": "978-1469893419-p52-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acknowledgement of power dynamics within healthcare",
+            "An understanding of how cultural backgrounds affect patient care",
+            "Recognition of the importance of self-reflection",
+            "Development of patient-centered approaches that take into account individuals\u2019 cultural contexts"
+        ],
+        "options": [
+            "Acknowledgement of power dynamics outside of healthcare settings",
+            "Understanding of how social backgrounds influence communication styles",
+            "Recognition of the importance of team collaboration",
+            "Development of patient-focused approaches considering individual needs",
+            "Acknowledgment of power dynamics within healthcare"
+        ],
+        "question": "What key elements constitute Cultural Humility?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 58,
+            "paragraph_id": "978-1469893419-p58-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Selection Bias",
+            "Performance Bias",
+            "Detection Bias",
+            "Attrition Bias"
+        ],
+        "options": [
+            "Selection Bias",
+            "Performance Bias",
+            "Detection Bias",
+            "Attrition Bias",
+            "Information Bias",
+            "Publication Bias",
+            "Recall Bias"
+        ],
+        "question": "What types of biases may occur during clinical research according to the given text?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 43,
+            "paragraph_id": "978-1469893419-p43-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diabetes",
+            "Heart disease",
+            "Stroke",
+            "Hypertension",
+            "Osteoarthritis",
+            "Sleep apnea syndrome",
+            "Some forms of cancer"
+        ],
+        "options": [
+            "Diabetes",
+            "Heart disease",
+            "Stroke",
+            "Hypertension",
+            "Osteoarthritis",
+            "Sleep apnea syndrome",
+            "Cancer",
+            "Marfan syndrome",
+            "Osteoporosis",
+            "Turner syndrome"
+        ],
+        "question": "What conditions can increase the risk due to obesity?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 72,
+            "paragraph_id": "978-1469893419-p72-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "SBP is \u2265140 mm Hg and DBP is <90 mm Hg",
+            "Systolic level falls under one category while diastolic falls under another higher category"
+        ],
+        "options": [
+            "SBP >160 mmHg and DBP >95mmHg",
+            "Systolic level falls under one category while diastolic falls under another higher category",
+            "SBP is \u2265180 mm Hg and DBP is \u2265110 mm Hg",
+            "SBP is \u2265140 mm Hg and DBP is <90 mm Hg",
+            "A combination where both SBP and DBP values do not fit any other classification"
+        ],
+        "question": "What types of blood pressure readings can classify someone's condition as having Stage 1 or Stage 2 hypertension, or isolated systolic hypertension?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 76,
+            "paragraph_id": "978-1469893419-p76-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Be non-judgmental",
+            "Explain why you need to know certain information",
+            "Find opening questions for sensitive topics and learn the specific kinds of information needed",
+            "Consciously acknowledge whatever discomfort you are feeling"
+        ],
+        "options": [
+            "Be judgmental about the patient's situation",
+            "Explain why certain questions are being asked due to their relevance to potential risks",
+            "Avoid discussing any topic related to sex because it might cause discomfort",
+            "Acceptance is key but do not acknowledge one\u2019s own discomfort",
+            "Keep the conversation brief and avoid detailed discussions"
+        ],
+        "question": "What guidelines are recommended when broaching sensitive topics?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 63,
+            "paragraph_id": "978-1469893419-p63-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Baked white potatoes",
+            "Sweet potatoes",
+            "Beet greens",
+            "Soybeans",
+            "Spinach",
+            "Lentils",
+            "Kidney beans",
+            "Yogurt",
+            "Tomato paste, juice, puree, and sauce",
+            "Bananas",
+            "Plantains",
+            "Many dried fruits",
+            "Orange juice"
+        ],
+        "options": [
+            "Canned soups",
+            "Pretzels",
+            "Potato chips",
+            "White potatoes",
+            "Soybeans",
+            "Spinach",
+            "Bananas"
+        ],
+        "question": "What dietary sources can help increase intake of potassium?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 81,
+            "paragraph_id": "978-1469893419-p81-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dairy foods such as milk, natural cheeses, and yogurt",
+            "Calcium-fortified cereals, fruit juice, soy milk, and tofu",
+            "Dark green leafy vegetables like collard, turnip, and mustard greens; bok choy",
+            "Sardines"
+        ],
+        "options": [
+            "Iron-fortified cereals",
+            "Dark green leafy vegetables like collard, turnip, and mustard greens; bok choy",
+            "Sardines",
+            "Folate-fortified cereals",
+            "Vitamin D\u2013fortified milk",
+            "Cod liver oil",
+            "Egg yolk",
+            "Mushrooms",
+            "Enriched and whole grain bread",
+            "Spinach, peas, lentils, turnip greens, and artichokes",
+            "Clams, mussels, oysters",
+            "Dairy foods such as milk, natural cheeses, and yogurt",
+            "Dried prunes and raisins"
+        ],
+        "question": "What food sources are rich in calcium according to dietary guidelines?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 83,
+            "paragraph_id": "978-1469893419-p83-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hyperthyroidism-related hair changes",
+            "Sparse hair associated with hypothyroidism",
+            "Alopecia areata",
+            "Normal male and female pattern hair loss with aging"
+        ],
+        "options": [
+            "Hypertension-related hair changes",
+            "Hyperthyroidism-related hair changes",
+            "Male and female pattern hair loss due to hypertension",
+            "Sparse hair associated with diabetes",
+            "Ne, silky hair in hyperthyroidism",
+            "Alopecia areata",
+            "Normal male and female pattern hair loss with aging",
+            "Basal cell carcinoma signs on the face"
+        ],
+        "question": "What types of conditions related to hair characteristics are described?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 104,
+            "paragraph_id": "978-1469893419-p104-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reciting back three given words after instruction",
+            "Serial 7s calculation",
+            "Pointing to objects when asked their names",
+            "Following written instructions on cards"
+        ],
+        "options": [
+            "Serial 7s calculation",
+            "Reciting back three given words after instruction",
+            "Pointing to objects when asked their names",
+            "Drawing a clock face",
+            "Following written instructions on cards",
+            "Answering personal history questions",
+            "Listing serial numbers",
+            "Solving mathematical problems",
+            "Recognizing pictures of common animals",
+            "Identifying colors"
+        ],
+        "question": "Which tasks does the patient perform during the Mental Status examination portion involving Orientation to Time, Registration, Naming, Reading, and other cognitive functions assessment?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 95,
+            "paragraph_id": "978-1469893419-p95-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Face, ears, chest, abdomen, extremities, buttocks, genital area"
+        ],
+        "options": [
+            "Face and ears",
+            "Chest and abdomen",
+            "Extremities and buttocks",
+            "Genital area and back",
+            "Shoulders, upper arms, forearms, wrists, palms, fingers",
+            "**Answer:**",
+            "Face and ears",
+            "Frontal aspects before moving to the posterior ones implied indirectly through mentioning inspection sequence but directly stating \"Start by inspecting the front side first\"",
+            "Since this does not exactly follow guidelines I reformatted my attempt to adhere more precisely to given directives:",
+            "<startofQAtext>",
+            "**Question:** Which areas are inspected during the initial phase of an integrated skin examination?",
+            "**Options:**",
+            "Lower legs, calf muscles, ankles, feet, heels, toes, arches, soles",
+            "Back, shoulders, upper arms, forearms, wrists, palms, fingers, lower legs, calf muscles, ankles, feet, heels, toes, arches, soles",
+            "Face, ears, chest, abdomen, extremities, buttocks, genital area",
+            "Posterior aspect"
+        ],
+        "question": "When conducting an integrated skin examination, which of the following areas do healthcare professionals typically start examining?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 102,
+            "paragraph_id": "978-1469893419-p102-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Orientation to time, place, and person",
+            "Attention",
+            "Digit span \u2014 ability to repeat a series of numbers forward and then backward",
+            "Serial 7s \u2014 ability to subtract 7 repeatedly, starting with 100",
+            "Spelling backward of a five-letter word, such as W-O-R-L-D",
+            "Remote Memory"
+        ],
+        "options": [
+            "Orientation to time, place, and person",
+            "Attention",
+            "Thought processes",
+            "Insight and judgment",
+            "Perceptions",
+            "Remote memory",
+            "Mood assessment",
+            "Language comprehension",
+            "Calculation skills"
+        ],
+        "question": "What cognitive functions can be assessed during a patient examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 93,
+            "paragraph_id": "978-1469893419-p93-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Patient Self-Skin Examination",
+            "Hair examination technique involving checking patterns of hair loss",
+            "Evaluating the bedbound patient through careful skin inspection"
+        ],
+        "options": [
+            "Patient Self-Skin Examination",
+            "Skin inspection for local redness",
+            "Hair examination technique involving checking patterns of hair loss",
+            "Evaluating the bedbound patient through careful skin inspection",
+            "Checking for signs of impending necrosis"
+        ],
+        "question": "What are possible techniques for examining patients?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 107,
+            "paragraph_id": "978-1469893419-p107-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Macules",
+            "Patches"
+        ],
+        "options": [
+            "Flat skin lesions",
+            "Macules",
+            "Patches",
+            "Papillomas",
+            "Nodules",
+            "Morbilliform eruptions"
+        ],
+        "question": "What types of primary skin lesions are described?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 109,
+            "paragraph_id": "978-1469893419-p109-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Barrel Chest",
+            "Traumatic Flail Chest",
+            "Funnel Chest (Pectus Excavatum)"
+        ],
+        "options": [
+            "Barrel Chest",
+            "Traumatic Flail Chest",
+            "Funnel Chest (Pectus Excavatum)",
+            "Normal Adult Thorax shape"
+        ],
+        "question": "What types of thoracic abnormalities are described?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 172,
+            "paragraph_id": "978-1469893419-p172-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Peutz-Jeghers syndrome",
+            "Tuberous sclerosis complex (Bourneville's disease)",
+            "Hereditary hemorrhagic telangiectasia"
+        ],
+        "options": [
+            "Angular cheilitis",
+            "Herpes simplex",
+            "Angioedema",
+            "Peutz-Jeghers syndrome",
+            "Syphilitic chancre",
+            "Carcinoma of the lip",
+            "Tuberous sclerosis complex (Bourneville's disease)",
+            "Hereditary hemorrhagic telangiectasia"
+        ],
+        "question": "What conditions affecting the head and neck region involve abnormalities of skin coloration?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 148,
+            "paragraph_id": "978-1469893419-p148-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rapid Shallow Breathing (Tachypnea)",
+            "Rapid Deep Breathing (Hyperpnea, Hyperventilation)",
+            "Slow Breathing (Bradypnea)",
+            "Cheyne-Stokes Breathing",
+            "Ataxic (Biots) Breathing",
+            "Sighs Sighing Breathing",
+            "Prolonged expiration Obstructive Breathing"
+        ],
+        "options": [
+            "Rapid Shallow Breathing (Tachypnea)",
+            "Slow Breathing (Bradypnea)",
+            "Hyperpnea",
+            "Hyperventilation",
+            "Cheyne-Stokes Breathing",
+            "Ataxic (Biots) Breathing",
+            "Prolonged expiration Obstructive Breathing",
+            "Normal Inspiration"
+        ],
+        "question": "What types of abnormal breathing patterns can occur?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 171,
+            "paragraph_id": "978-1469893419-p171-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Large pleural effusion",
+            "Lobr pneumonia",
+            "Healthy lung",
+            "Emphysema",
+            "Pneumothorax"
+        ],
+        "options": [
+            "Large pleural effusion",
+            "Lobr pneumonia",
+            "Healthy lung",
+            "Emphysema",
+            "Pneumothorax"
+        ],
+        "question": "What conditions cause changes in percussion notes characterized by their relative intensity, pitch, and duration during examination?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 158,
+            "paragraph_id": "978-1469893419-p158-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Auscultation of the chest",
+            "Percussion of the chest in a \"ladder\" pattern",
+            "Forced Expiratory Time (FET)",
+            "Standardized \"6-minute walk test\""
+        ],
+        "options": [
+            "Auscultation of the chest",
+            "Percussion of the chest in a \"ladder\" pattern",
+            "Forced Expiratory Time (FET)",
+            "Standardized \"6-minute walk test\"",
+            "Walking with the patient down the hall"
+        ],
+        "question": "What techniques are specified for assessing lung function during clinical assessment?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 162,
+            "paragraph_id": "978-1469893419-p162-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tricuspid stenosis",
+            "Pulmonary hypertension",
+            "Pulmonic stenosis"
+        ],
+        "options": [
+            "Tricuspid stenosis",
+            "Atrial fibrillation",
+            "Pulmonary hypertension",
+            "Constrictive pericarditis",
+            "Tricuspid regurgitation",
+            "Pulmonic stenosis",
+            "Right ventricle infarction"
+        ],
+        "question": "What conditions can cause abnormally prominent a waves?",
+        "source": {
+            "isbn": "978-1469893419",
+            "page": 184,
+            "paragraph_id": "978-1469893419-p184-para1"
+        },
+        "type": "list"
+    }
+]

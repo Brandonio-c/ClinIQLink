@@ -1,0 +1,772 @@
+[
+    {
+        "answer": "Late adolescence.",
+        "question": "When does schizophrenia typically begin according to the given stages of development?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 59,
+            "paragraph_id": "978-1609139711-p59-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Depressive mood features.",
+        "question": "What is typically observed during stimulant withdrawal regarding mood?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 985,
+            "paragraph_id": "978-1609139711-p985-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Ataxia suggests diffuse brain disease among other conditions.",
+        "question": "What might indicate diffuse brain disease during visual inspection of a patient's gait?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 88,
+            "paragraph_id": "978-1609139711-p88-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The highest FDA-approved dose of Lumateperone is 42 mg.",
+        "question": "What is the highest FDA-approved dose of Lumateperone?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1947,
+            "paragraph_id": "978-1609139711-p1947-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Phencyclidine is classified as a Schedule II controlled substance, and ketamine is classified as a Schedule III controlled substance.",
+        "question": "What classification do phencyclidine and ketamine receive under controlled substance categorization?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1024,
+            "paragraph_id": "978-1609139711-p1024-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Tolerance often develops for this side effect over the first few days.",
+        "question": "What is the typical outcome regarding orthostatic hypotension over the course of treatment with certain medications?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1959,
+            "paragraph_id": "978-1609139711-p1959-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Ratings on six domains including cognition, understanding and communication, mobility, self-care, getting along, and life activities.",
+        "question": "What is WHODAS 2.0 composed of?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 125,
+            "paragraph_id": "978-1609139711-p125-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "PANDEMIC DISORDER SEVERITY SCALE (PDSS) incorrect",
+        "question": "What is the name of the scale that addresses frequency of attacks among other dimensions?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 136,
+            "paragraph_id": "978-1609139711-p136-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Normal controls score below 20, personality disordered patients above 30, and psychotherapy outpatients between 20 to 30.",
+        "question": "What scale ranges do normal controls, personality disordered patients, and psychotherapy outpatients typically fall into when taking the Personality Disorder Questionnaire?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 147,
+            "paragraph_id": "978-1609139711-p147-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Kicking the digital dog: a longitudinal investigation of young adults' victimization and cyber-displaced aggression.",
+        "question": "What was the title of the article written by Wright and Li published in Cyberpsychology, Behavior, and Social Networking?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2903,
+            "paragraph_id": "978-1609139711-p2903-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It does not assess executive functions, often impaired in dementia patients.",
+        "question": "What is one limitation of the Mini-Mental State Examination?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 168,
+            "paragraph_id": "978-1609139711-p168-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Symptoms disappear promptly, usually within a few weeks.",
+        "question": "What typically happens to psychotic symptoms after discontinuing anabolic steroids?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1056,
+            "paragraph_id": "978-1609139711-p1056-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Lability, irritability, anxiety, panic attacks, depressed mood, euphoria, mania, or paranoia, along with cognitive dysfunctions.",
+        "question": "What symptoms may occur in patients with elevated cortisol levels due to Cushing syndrome?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 208,
+            "paragraph_id": "978-1609139711-p208-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Abuse of tobacco, alcohol, and drugs; poor dietary habits; and obesity.",
+        "question": "What factors contribute to medical comorbidity?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 195,
+            "paragraph_id": "978-1609139711-p195-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Effects of chronic, heavy cannabis use on executive functions.",
+        "question": "What publication by Crean et al., published in Journal of Addiction Medicine in 2011, examines the effects of chronic, heavy cannabis use?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1075,
+            "paragraph_id": "978-1609139711-p1075-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Snow",
+        "question": "What covers the mountains where the sun rises?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 224,
+            "paragraph_id": "978-1609139711-p224-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Bipolar type and depressive type.",
+        "question": "What types of specifiers does DSM-5 list for schizoaffective disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1107,
+            "paragraph_id": "978-1609139711-p1107-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 1 hour.",
+        "question": "What is the typical duration needed to administer the Child and Adolescent Psychiatric Assessment (CAPA)?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 247,
+            "paragraph_id": "978-1609139711-p247-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Weight gain and metabolic problems.",
+        "question": "What kind of side effects do second-generation antipsychotics typically cause?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1137,
+            "paragraph_id": "978-1609139711-p1137-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Researchers can try adjunctive medications including lamotrigine, mirtazapine, or somatic treatments like ECT.",
+        "question": "What alternative treatments can researchers try if standard medication fails?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1144,
+            "paragraph_id": "978-1609139711-p1144-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately 0.3 percent of those taking Clozapine experience agranulocytosis.",
+        "question": "What percentage of people experience agranulocytosis when taking Clozapine?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1141,
+            "paragraph_id": "978-1609139711-p1141-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The cell bodies of serotonergic neurons are clustered in the midline raphe nuclei of the brainstem.",
+        "question": "Where are the cell bodies of serotonergic neurons clustered?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2999,
+            "paragraph_id": "978-1609139711-p2999-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They are reduced.",
+        "question": "What happens to the density of parvalbumin-expressing interneurons?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2989,
+            "paragraph_id": "978-1609139711-p2989-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Administering bFGF increased neuron number by 87%, specifically enhancing glutamate employing excitatory pyramidal neurons.",
+        "question": "What effect did administering bFGF through ICV injection have on neuron numbers in the cerebral cortex?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 2978,
+            "paragraph_id": "978-1609139711-p2978-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "New England Journal of Medicine.",
+        "question": "What journal published Lieberman and First discussing psychotic disorders?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1170,
+            "paragraph_id": "978-1609139711-p1170-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Major Histocompatibility Complex (MHC) region.",
+        "question": "What region's variation, specifically DRB1*04:01, shows strong association with schizophrenia?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1165,
+            "paragraph_id": "978-1609139711-p1165-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Heme oxygenase enzyme.",
+        "question": "What converts heme into the molecule biliverdin?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3059,
+            "paragraph_id": "978-1609139711-p3059-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Irritability, insomnia, jumpiness, and excessive energy.",
+        "question": "What were some symptoms experienced by Mr. B during certain episodes?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1191,
+            "paragraph_id": "978-1609139711-p1191-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Older than 4 years of age.",
+        "question": "At what minimum age might children start having some understanding of reality versus fantasy?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 257,
+            "paragraph_id": "978-1609139711-p257-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Motivation, emotional state, anxiety, and cultural milieu.",
+        "question": "What factors can influence a child's score on an intelligence test?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 261,
+            "paragraph_id": "978-1609139711-p261-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Between 2.5 to 3 years old.",
+        "question": "At what minimum age might a child show signs of atypical development if they have not started using phrases?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 254,
+            "paragraph_id": "978-1609139711-p254-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately one-third.",
+        "question": "What percentage of intellectually disabled people might also have Autism Spectrum Disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 322,
+            "paragraph_id": "978-1609139711-p322-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "An increase in the extracellular concentration of longer fragments of \u03b2-amyloid (A\u03b242).",
+        "question": "What do mutations in the APP gene lead to?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3117,
+            "paragraph_id": "978-1609139711-p3117-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Non-transmitted chromosomes, specifically those copies of chromosomes not passed from parent to child.",
+        "question": "What do family-based association studies use as control chromosomes?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3108,
+            "paragraph_id": "978-1609139711-p3108-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Sudden onset, presence of self-reproach, diurnal variations, and ability to remember when coached distinguish them.",
+        "question": "What differentiates the cognitive symptoms of major depressive disorder from those of diseases like Alzheimer's?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1235,
+            "paragraph_id": "978-1609139711-p1235-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "\u03b3-Aminobutyric acid (GABA).",
+        "question": "What neurotransmitter has an inhibitory effect on ascending monoamine pathways?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1271,
+            "paragraph_id": "978-1609139711-p1271-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "These mistakes are usually self-corrected by age seven years.",
+        "question": "What typically happens to speech sound mistakes made by children younger than three years of age?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 378,
+            "paragraph_id": "978-1609139711-p378-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Third grade",
+        "question": "What grade level is Ramon currently attending?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 358,
+            "paragraph_id": "978-1609139711-p358-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "bottle, baby, and bubble.",
+        "question": "What words did Martin say \"bahbah\" for?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 372,
+            "paragraph_id": "978-1609139711-p372-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They return to baseline levels after being elevated at night.",
+        "question": "What happens to serum levels of melatonin during the day?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3142,
+            "paragraph_id": "978-1609139711-p3142-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The interpeak interval varies as a function of the photoperiod in which the animal was housed.",
+        "question": "What happens to the interpeak interval in SCN neurons from horizontally cut preparations?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3149,
+            "paragraph_id": "978-1609139711-p3149-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "An acute destructive cerebral lesion.",
+        "question": "What do periodic lateralizing epileptiform discharges suggest?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3136,
+            "paragraph_id": "978-1609139711-p3136-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "4:1 male-to-female ratio.",
+        "question": "What sex ratio is associated with Autism Spectrum Disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 404,
+            "paragraph_id": "978-1609139711-p404-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "SOCIAL SKILLS TRAINING.",
+        "question": "What method involves guided practice in initiating social conversations among children?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 410,
+            "paragraph_id": "978-1609139711-p410-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Psychotherapies, particularly behavioral therapies.",
+        "question": "What is typically considered the first-line treatment option for individuals with specific phobias?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1306,
+            "paragraph_id": "978-1609139711-p1306-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "After the first one or two panic attacks, patients may be relatively unconcerned about their condition.",
+        "question": "What typically happens after the first one or two panic attacks?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1302,
+            "paragraph_id": "978-1609139711-p1302-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It weakens due to punishment.",
+        "question": "What happens to behavior when it leads to a negative outcome?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3185,
+            "paragraph_id": "978-1609139711-p3185-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Increased his dose to 20 mg/day.",
+        "question": "What dosage change did Brett make after feeling slight effects from taking 10mg of Adderall XR?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 450,
+            "paragraph_id": "978-1609139711-p450-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "5 to 15 mg/day.",
+        "question": "What dose range did aripiprazole utilize in treating tantrums, aggression, and self-injury?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 413,
+            "paragraph_id": "978-1609139711-p413-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "SSRIs, specifically sertraline and paroxetine, have strong evidence for efficacy.",
+        "question": "What pharmacological interventions have strong evidence for treating PTSD?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1390,
+            "paragraph_id": "978-1609139711-p1390-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "How partners or parents respond to emotion in others.",
+        "question": "What is essential for healthy infant development, adolescent development, and marital harmony?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3255,
+            "paragraph_id": "978-1609139711-p3255-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They stop lever pressing because they learn the lever predicts shock.",
+        "question": "What happens when rats are punished with mild foot shock for pressing a lever?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3204,
+            "paragraph_id": "978-1609139711-p3204-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Difficulty learning dressing skills and feeding skills.",
+        "question": "What manifestations do preschoolers exhibit related to their fine motor development?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 481,
+            "paragraph_id": "978-1609139711-p481-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "An estimated 4 to 8 percent.",
+        "question": "What percentage of youth in the United States have been identified with dyslexia?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 463,
+            "paragraph_id": "978-1609139711-p463-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Treatments include perceptual-motor training, deficit-oriented approaches, and task-specific interventions.",
+        "question": "What kinds of interventions are utilized in treating Developmental Coordination Disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 486,
+            "paragraph_id": "978-1609139711-p486-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They initiated play bouts and lost most self-directed behaviors.",
+        "question": "What was happening with the isolates' behaviors by the end of the 6-month therapy period?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3275,
+            "paragraph_id": "978-1609139711-p3275-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "86%",
+        "question": "What percentage of students in the CBITS group reported significantly decreased PTSD symptoms?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 550,
+            "paragraph_id": "978-1609139711-p550-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Dramatic movements, aggressive/violent actions, guttural/incoherent verbalizations, and gestures/comments referencing possessing personalities.",
+        "question": "What behaviors occur during the altered state of consciousness?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3309,
+            "paragraph_id": "978-1609139711-p3309-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Sigmund Freud",
+        "question": "Who published The Interpretation of Dreams?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3320,
+            "paragraph_id": "978-1609139711-p3320-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately 1 to 1.5 percent.",
+        "question": "What percentage of the general population suffers from Dissociative Identity Disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1438,
+            "paragraph_id": "978-1609139711-p1438-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "To receive medical attention and participate in the medical system.",
+        "question": "What motivates individuals with Factitious Disorder?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1444,
+            "paragraph_id": "978-1609139711-p1444-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Tooth enamel can become damaged.",
+        "question": "What happens to tooth enamel due to the acid content of vomitus in patients with bulimia nervosa?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1507,
+            "paragraph_id": "978-1609139711-p1507-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They can recover completely.",
+        "question": "What happens to children with mild cases of Oppositional Defiant Disorder who receive proper treatment?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 598,
+            "paragraph_id": "978-1609139711-p598-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They acquire initiative, enabling project planning, task assignment, plan execution, and assuming responsibility.",
+        "question": "What happens when children navigate successfully through STAGE 3: INITIATIVE VERSUS GUILT?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3373,
+            "paragraph_id": "978-1609139711-p3373-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Thirty percent below their expected weight requires psychiatric hospitalization.",
+        "question": "What percentage below their expected weight requires psychiatric hospitalization?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1519,
+            "paragraph_id": "978-1609139711-p1519-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Field Theory.",
+        "question": "What did Kurt Lewin adapt from the field approach of physics?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3407,
+            "paragraph_id": "978-1609139711-p3407-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Fox J, Goss K.",
+        "question": "Who edited the book \"Eating and its Disorders\"?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1532,
+            "paragraph_id": "978-1609139711-p1532-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "About 10 percent.",
+        "question": "What percentage of cases might indicate OCD represents a prodrome of a psychotic disorder in children and adolescents?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 652,
+            "paragraph_id": "978-1609139711-p652-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Parietofrontal cortical regions, specifically the supramarginal gyrus, dorsolateral prefrontal cortex, and orbitofrontal cortex.",
+        "question": "What areas show reduced gray matter density in OCD patients?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 657,
+            "paragraph_id": "978-1609139711-p657-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Benedict Morel.",
+        "question": "Who coined the term d\u00e9mence pr\u00e9coce?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3457,
+            "paragraph_id": "978-1609139711-p3457-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The Eiffel Tower and Notre Dame Cathedral",
+        "question": "What two landmarks make the city of Paris famous?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3448,
+            "paragraph_id": "978-1609139711-p3448-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They find it difficult to awaken the person; once awake, the sleepwalker appears confused.",
+        "question": "What happens when someone tries to awaken an individual who is sleepwalking?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1587,
+            "paragraph_id": "978-1609139711-p1587-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Relocation to a new city and place of employment.",
+        "question": "What event triggered Ms. W's development of insomnia?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1558,
+            "paragraph_id": "978-1609139711-p1558-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "President Kennedy's introduction of legislation in 1963.",
+        "question": "What event led to the creation of legislation aiming to reduce hospitalization rates among those with serious mental illnesses?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3465,
+            "paragraph_id": "978-1609139711-p3465-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "De Contagione et contagiosis morbis.",
+        "question": "What was the name of Girolamo Fracastoro's book?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 3475,
+            "paragraph_id": "978-1609139711-p3475-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Periodic limb movement disorder (PLMD).",
+        "question": "What condition may involve brief, stereotypic repetitive movements of the limbs?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1601,
+            "paragraph_id": "978-1609139711-p1601-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Physiological activities monitored by polysomnography include brain wave activity, eye movements, muscle tone, air flow, respiratory effort, blood oxygen levels, heart rate, and limb movements.",
+        "question": "What physiological activities are continuously monitored by polysomnography?",
+        "source": {
+            "isbn": "978-1609139711",
+            "page": 1607,
+            "paragraph_id": "978-1609139711-p1607-para1"
+        },
+        "type": "short_answer"
+    }
+]

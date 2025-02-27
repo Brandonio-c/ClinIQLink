@@ -2077,5 +2077,2651 @@
             "paragraph_id": "978-0198795551-p221-para1"
         },
         "type": "list"
+    },
+    {
+        "answer": [
+            "Severe intellectual disability",
+            "Persistent behavior disorder with serious behavioral disturbances"
+        ],
+        "options": [
+            "Severe intellectual disability",
+            "Persistent behavior disorder with serious behavioral disturbances",
+            "Early stages of dementia where progression is rapid",
+            "Post-head injury syndrome",
+            "Non-epileptic seizure disorder"
+        ],
+        "question": "What conditions can lead to refusing or revoking a license for both Group 1 and Group 2 drivers?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1056,
+            "paragraph_id": "978-0198795551-p1056-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Severe dementia",
+            "Significant intellectual impairment",
+            "Mental illness"
+        ],
+        "options": [
+            "Severe dementia",
+            "Significant intellectual impairment",
+            "Personality disorder",
+            "Being socially deviant",
+            "Addiction to drugs or intoxicants",
+            "Physical injury"
+        ],
+        "question": "What types of disorders are specifically included within the definition of'mental disorder' according to the Mental Health Act?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1046,
+            "paragraph_id": "978-0198795551-p1046-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Primary care",
+            "Community studies",
+            "Psychiatric patient samples",
+            "Other populations"
+        ],
+        "options": [
+            "Primary care",
+            "Community studies",
+            "Psychiatric patient samples",
+            "Other populations",
+            "Family settings",
+            "Educational institutions"
+        ],
+        "question": "What types of settings do studies examine when looking at personality disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 621,
+            "paragraph_id": "978-0198795551-p621-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Shyness",
+            "Confidence",
+            "Anger",
+            "Generosity",
+            "Tendency to display emotions",
+            "Sensitivity",
+            "Being pernickety",
+            "Impulsiveness",
+            "Recklessness",
+            "Aggressiveness",
+            "Emotional dysregulation",
+            "Attachment issues"
+        ],
+        "options": [
+            "Shyness",
+            "Confidence",
+            "Anger",
+            "Generosity",
+            "Tendency to display emotions",
+            "Sensitivity",
+            "Being pernickety",
+            "Impulsiveness",
+            "Recklessness",
+            "Aggressiveness",
+            "Emotional dysregulation",
+            "Attachment issues"
+        ],
+        "question": "What types of enduring characteristics describe someone's personality?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 608,
+            "paragraph_id": "978-0198795551-p608-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Childhood abuse experiences",
+            "Interaction between childhood experience and pre-programmed patterns of behavior",
+            "Environmental responses",
+            "Internal cues such as memories",
+            "External threats"
+        ],
+        "options": [
+            "Childhood abusive experiences",
+            "Interaction between childhood experience and pre-programmed patterns of behavior",
+            "Environmental responses",
+            "Poor emotional vocabulary",
+            "Narrow focus of attention",
+            "Deficit in self-reflection",
+            "Internal cues such as memories",
+            "External threats",
+            "Temperamental vulnerability"
+        ],
+        "question": "What are the key factors contributing to the formation and maintenance of maladaptive schemas in individuals?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 620,
+            "paragraph_id": "978-0198795551-p620-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mutually exclusive",
+            "Comorbid",
+            "Hierarchical"
+        ],
+        "options": [
+            "Mutually Exclusive Relationship",
+            "Hierarchical Relationship",
+            "Comorbidity",
+            "Independent Condition"
+        ],
+        "question": "What types of relationships exist between personality disorders and other mental health conditions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 622,
+            "paragraph_id": "978-0198795551-p622-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Heritability of normal personality traits",
+            "Some evidence of heritability of cluster B PDs",
+            "Familial relationship between schizotypal PD and schizophrenia",
+            "Relationship between paranoid PD and delusional disorder",
+            "Between borderline PD and affective disorder"
+        ],
+        "options": [
+            "Familial relationship between schizoid PD and delusional disorder",
+            "Relationship between XYY genotype and psychosis",
+            "Genetic link between autism spectrum disorder and obsessive-compulsive personality disorder",
+            "Heritability of normal personality traits",
+            "Relationship between paranoid PD and affective disorder",
+            "Evidence linking bipolar disorder to cluster C personality disorders"
+        ],
+        "question": "What types of genetic relationships exist regarding personality disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 619,
+            "paragraph_id": "978-0198795551-p619-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "VGKC (voltage-gated potassium channel) antibodies",
+            "NMDA receptor antibody encephalitis",
+            "Paraneoplastic encephalitis",
+            "Other antibodies"
+        ],
+        "options": [
+            "Voltage-gated sodium channel (VSCC) antibodies",
+            "NMDA receptor antibody encephalitis",
+            "Paraneoplastic encephalitis",
+            "Other antibodies",
+            "Glutamate receptor antibody encephalitis"
+        ],
+        "question": "What clinical subtypes of autoimmune encephalitis are described?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 226,
+            "paragraph_id": "978-0198795551-p226-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increasing age",
+            "Down\u2019s Syndrome",
+            "Apolipoprotein \u03b54 allele",
+            "Diabetes",
+            "Smoking",
+            "Hypertension in middle age"
+        ],
+        "options": [
+            "Increasing age",
+            "Apolipoprotein \u03b54 allele",
+            "Diabetes",
+            "Smoking",
+            "Hypertension in middle age",
+            "Higher level of premorbid education",
+            "Lower levels of physical activity",
+            "Non-steroidal anti-inflammatory drugs (NSAIDs)",
+            "First-degree relatives having the condition",
+            "Carrying the apolipoprotein E \u03b52 allele",
+            "Single-gene autosomal dominant inheritance",
+            "Amyloid plaque formation",
+            "Neurofibrillary tangle presence",
+            "Down\u2019s Syndrome"
+        ],
+        "question": "What are the established risk factors contributing to the development of Dementia of Alzheimer's Type?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 233,
+            "paragraph_id": "978-0198795551-p233-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Eosinophilic A\u2013synuclein neuronal inclusions",
+            "Senile plaques",
+            "Lewy neurites \u2014distinctive pattern of ubiquitin and A-synuclein immunoreactive neuritic degeneration",
+            "Neuronal loss"
+        ],
+        "options": [
+            "Eosinophilic A\u2013synuclein neuronal inclusions",
+            "Neuronal loss in cerebral hemispheres",
+            "Senile plaques",
+            "Ubiquitin immunoreactivity",
+            "NFTs",
+            "Tau pathology"
+        ],
+        "question": "What pathological features are associated with Lewy body dementia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 241,
+            "paragraph_id": "978-0198795551-p241-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tiredness",
+            "Muscular aches and pains",
+            "Breathlessness",
+            "Insomnia",
+            "Dysphoria",
+            "Panic",
+            "Loss of appetite",
+            "GI problems",
+            "Palpitations"
+        ],
+        "options": [
+            "Palpitations",
+            "Asphyxia",
+            "Dizziness",
+            "Haan",
+            "Tiredness",
+            "Muscular aches and pains",
+            "Breathlessness",
+            "Insomnia",
+            "Dysphoria",
+            "Panic",
+            "Loss of appetite",
+            "GI problems"
+        ],
+        "question": "What are the symptoms typically associated with hwa-byung?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1073,
+            "paragraph_id": "978-0198795551-p1073-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Anorexia Nervosa",
+            "Substance Misuse",
+            "Hallucinogen Use",
+            "Alcohol Problems",
+            "Fasting",
+            "Binge Drinking"
+        ],
+        "options": [
+            "Anorexia Nervosa",
+            "Substance Misuse",
+            "Hallucinogen Use",
+            "Alcohol Problems",
+            "Eating Disorders",
+            "Fasting",
+            "Binge Drinking"
+        ],
+        "question": "What types of conditions or behaviors related to eating habits or substance abuse do different cultures exhibit?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1067,
+            "paragraph_id": "978-0198795551-p1067-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Belief in magic",
+            "Blood deficiency",
+            "Balance of elements",
+            "Somatic complaints such as headaches",
+            "Emphasis on psychological terms",
+            "Lack of fluency in the interview language",
+            "Non-verbal communication styles"
+        ],
+        "options": [
+            "Belief in magic",
+            "Blood deficiency",
+            "Balance of elements",
+            "Somatic complaints such as headaches",
+            "Emphasis on psychological terms",
+            "Lack of fluency in the interview language",
+            "Non-verbal communication styles"
+        ],
+        "question": "What types of cultural factors influence how individuals present and discuss depression and other mental health conditions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1065,
+            "paragraph_id": "978-0198795551-p1065-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mirtazapine",
+            "Mianserin",
+            "MAOIs",
+            "TCAs",
+            "Citalopram",
+            "Paroxetine"
+        ],
+        "options": [
+            "Mirtazapine",
+            "Bupropion",
+            "Fluoxetine",
+            "Citalopram",
+            "Paroxetine",
+            "Aripiprazole",
+            "Naltrexone",
+            "Metformin"
+        ],
+        "question": "What medications cause weight gain among antidepressants?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1080,
+            "paragraph_id": "978-0198795551-p1080-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mood disturbances",
+            "Psychosis",
+            "Subcortical dementia"
+        ],
+        "options": [
+            "Mood disturbances",
+            "Psychosis",
+            "Subcortical dementia",
+            "Depression",
+            "Schizophrenia-like psychosis",
+            "OCD"
+        ],
+        "question": "What psychiatric syndromes can occur in Wilson's Disease?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 246,
+            "paragraph_id": "978-0198795551-p246-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dysphasia",
+            "Dysarthria"
+        ],
+        "options": [
+            "Dyslexia",
+            "Dyscalculia",
+            "Dysgraphia",
+            "Dysphasia",
+            "Dysarthria"
+        ],
+        "question": "What types of speech and language disorders occur after acquired brain injuries?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 253,
+            "paragraph_id": "978-0198795551-p253-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hydrocephalus",
+            "Post-traumatic epilepsy"
+        ],
+        "options": [
+            "Hydrocephalus",
+            "Post-traumatic epilepsy",
+            "Benign paroxysmal positional vertigo (BPPV)",
+            "Mild cognitive symptoms",
+            "Aggression",
+            "ADHD-like syndromes",
+            "Depressed conscious level"
+        ],
+        "question": "What complications are specifically noted to be associated with neuropsychiatric deterioration following an Acquired Brain Injury?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 254,
+            "paragraph_id": "978-0198795551-p254-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neurodegenerative diseases (like dementia)",
+            "Psychiatric conditions (such as negative symptoms of schizophrenia and psychomotor retardation in depression)"
+        ],
+        "options": [
+            "Neurodegenerative diseases",
+            "Psychiatric conditions",
+            "Infectious diseases",
+            "Cardiovascular issues"
+        ],
+        "question": "What categories of medical conditions can display characteristics resembling those of Parkinson's disease, such as tremors and difficulty moving?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1087,
+            "paragraph_id": "978-0198795551-p1087-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "SSRIs",
+            "Trazodone",
+            "Buspirone",
+            "Venlafaxine"
+        ],
+        "options": [
+            "Amphetamines",
+            "SSRIs",
+            "Trazodone",
+            "Metoclopramide",
+            "Buspirone",
+            "Venlafaxine"
+        ],
+        "question": "What medications can contribute to Serotonin Syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1093,
+            "paragraph_id": "978-0198795551-p1093-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mood Stabilizers",
+            "Benzodiazepines",
+            "Beta Blockers",
+            "Analgesics",
+            "ACE Inhibitors",
+            "Diuretics",
+            "Metformin",
+            "Digoxin",
+            "Lithium",
+            "Antipsychotics"
+        ],
+        "options": [
+            "Antidepressants",
+            "Mood Stabilizers",
+            "Benzodiazepines",
+            "Beta Blockers",
+            "Analgesics",
+            "ACE Inhibitors",
+            "Diuretics",
+            "Metformin",
+            "Digoxin"
+        ],
+        "question": "What types of medications typically require dosage adjustments when prescribed for individuals suffering from renal impairment?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1103,
+            "paragraph_id": "978-0198795551-p1103-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Seminars in Old Age Psychiatry",
+            "The Maudsley Prescribing Guidelines in Psychiatry",
+            "Textbook of Pain",
+            "Adults with Incapacity (Scotland) Act 2000: Code of Practice"
+        ],
+        "options": [
+            "Seminars in Old Age Psychiatry",
+            "The Maudsley Prescribing Guidelines in Psychiatry",
+            "Adults with Incapacity (Scotland) Act 2000: Code of Practice",
+            "Textbook of Pain",
+            "Journal articles by various authors"
+        ],
+        "question": "What are some key publication titles regarding mental health practices, especially those focused on end-of-life care, advance decisions, and psychiatric treatments?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 650,
+            "paragraph_id": "978-0198795551-p650-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "High rates of accidents",
+            "Suicide",
+            "Violent death"
+        ],
+        "options": [
+            "High rates of accidents",
+            "Development of new skills",
+            "Suicide",
+            "Better social relationships",
+            "Violent death"
+        ],
+        "question": "What outcomes can occur due to personality disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 633,
+            "paragraph_id": "978-0198795551-p633-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Advice shops",
+            "Self-help groups",
+            "Residential rehabilitation facilities"
+        ],
+        "options": [
+            "Primary care centers",
+            "Specialist psychiatrists",
+            "Advice shops",
+            "Self-help groups",
+            "Residential rehabilitation facilities"
+        ],
+        "question": "What types of non-medical agencies might offer assistance to individuals dealing with substance misuse issues?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 653,
+            "paragraph_id": "978-0198795551-p653-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Physical dependence",
+            "Psychological dependence"
+        ],
+        "options": [
+            "Physical dependence",
+            "Psychological dependence",
+            "Social dependence"
+        ],
+        "question": "What types of dependence are included within the concept of dependence related to substance use?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 658,
+            "paragraph_id": "978-0198795551-p658-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Psychotropics"
+        ],
+        "options": [
+            "Antihistamines",
+            "Anxiolytics/Hypnotics",
+            "Mood Stabilizers",
+            "Psychotropics"
+        ],
+        "question": "What types of medications require serum monitoring because of their interaction with other medications?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1105,
+            "paragraph_id": "978-0198795551-p1105-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Remove the source (e.g., ligature)",
+            "Give 100% O2"
+        ],
+        "options": [
+            "Remove the ligature",
+            "Give oxygen therapy",
+            "Conduct critical incident reviews immediately",
+            "Arrange for psychological assessments",
+            "Provide supportive care"
+        ],
+        "question": "What immediate actions can be taken during attempted asphyxiation?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1115,
+            "paragraph_id": "978-0198795551-p1115-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chlorpromazine",
+            "Diazepam",
+            "Haloperidol",
+            "Lorazepam",
+            "Olanzapine",
+            "Promethazine",
+            "Quetiapine",
+            "Risperidone"
+        ],
+        "options": [
+            "Chlorpromazine",
+            "Diazepam",
+            "Haloperidol",
+            "Lorazepam",
+            "Olanzapine",
+            "Promethazine",
+            "Quetiapine",
+            "Risperidone"
+        ],
+        "question": "What typical PRN oral medications are listed for treating acute behavioral disturbances?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1119,
+            "paragraph_id": "978-0198795551-p1119-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Drink industry workers",
+            "Travelling salesmen",
+            "Doctors"
+        ],
+        "options": [
+            "Drink industry workers",
+            "Travelling salesmen",
+            "Doctors",
+            "Engineers",
+            "Teachers"
+        ],
+        "question": "What professions are associated with heavy drinking and drink-related harm?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 668,
+            "paragraph_id": "978-0198795551-p668-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Previous history of withdrawal seizures",
+            "Idiopathic epilepsy",
+            "History of head injury",
+            "Hypokalemia"
+        ],
+        "options": [
+            "Previous history of withdrawal seizures",
+            "Idiopathic epilepsy",
+            "History of substance abuse other than alcohol",
+            "Hypokalemia",
+            "Comorbidity of diabetes"
+        ],
+        "question": "What are the predisposing factors for complications related to alcohol withdrawal?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 680,
+            "paragraph_id": "978-0198795551-p680-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Set a weekly and daily alcohol limit and keep to it.",
+            "Do not drink alone.",
+            "Do not drink with individuals who drink heavily themselves.",
+            "Pace drinking, matching the consumption of a light or slow drinker.",
+            "Do not buy rounds.",
+            "Alternate soft and alcoholic drinks. Drink with a meal.",
+            "Rehearse what to say if offered a drink that you do not want.",
+            "Plan alternative, enjoyable non-drinking activities to replace drinking periods."
+        ],
+        "options": [
+            "Set a monthly and yearly alcohol limit and keep to it.",
+            "Pace drinking by consuming less than others around you.",
+            "Buy fewer rounds when out socially.",
+            "Alternate between different types of hard liquor throughout the night.",
+            "Rehearse saying yes to offered drinks politely.",
+            "Plan social gatherings centered around heavy drinking events.",
+            "Match your pace of drinking to a moderate drinker's rate.",
+            "Eat before starting to consume alcohol during meals.",
+            "Avoid purchasing bottles of wine unless absolutely necessary.",
+            "Attend therapy sessions focused on smoking cessation.",
+            "Refuse offers of free alcoholic beverages graciously.",
+            "Engage in team-building exercises while sober instead of going to bars after work.",
+            "Practice mindfulness meditation during happy hour specials.",
+            "Limit alcohol intake according to personal goals rather than peer pressure."
+        ],
+        "question": "What techniques might help someone aiming to switch from an 'at-risk' or harmful drinking pattern to one of controlled drinking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 676,
+            "paragraph_id": "978-0198795551-p676-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Trifluoperazine",
+            "Perphenazine",
+            "Fluphenazine"
+        ],
+        "options": [
+            "Promazine",
+            "Trifluoperazine",
+            "Pericyazine",
+            "Thioridazine",
+            "Haloperidol",
+            "Benperidol",
+            "Pimozide",
+            "Zuclopenthixol",
+            "Chlorpromazine",
+            "Perphenazine",
+            "Diphenhydramine",
+            "Phenobarbital"
+        ],
+        "question": "What types of medications are classified under Group 3\u2014piperazine phenothiazines?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 281,
+            "paragraph_id": "978-0198795551-p281-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Clozapine",
+            "Depot antipsychotic medication",
+            "Benzamides",
+            "Antiepileptics",
+            "ECT"
+        ],
+        "options": [
+            "Depot antipsychotics",
+            "Benzamides",
+            "Antiepileptics",
+            "Electroconvulsive Therapy (ECT)",
+            "Oral antipsychotics",
+            "Lithium",
+            "Clozapine",
+            "Smoking cessation",
+            "Acetylcholinesterase inhibitors (AChEIs)"
+        ],
+        "question": "What types of pharmacological interventions are discussed in relation to managing schizophrenia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 287,
+            "paragraph_id": "978-0198795551-p287-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "An uninterrupted period of illness during which there is a major depressive, manic, or mixed episode concurrent with symptoms that meet criterion A for schizophrenia",
+            "\u22652 weeks of delusions and/or hallucinations without prominent mood symptoms during the lifetime of the illness",
+            "Symptoms meeting criteria for a mood episode are present for the majority of the total duration of the active and residual periods",
+            "The disturbance is not due to the direct physiological effects of a drug of abuse or medication or a general medical condition"
+        ],
+        "options": [
+            "An uninterrupted period of illness during which there is a major depressive, manic, or mixed episode concurrent with symptoms that meet criterion A for schizophrenia",
+            "\u22652 weeks of delusions and/or hallucinations without prominent mood symptoms during the lifetime of the illness",
+            "Symptoms meeting criteria for a mood episode are present for the majority of the total duration of the active and residual periods",
+            "Episodes due to substance use or medical disorders",
+            "Separate episodes of schizophrenia and affective disorders"
+        ],
+        "question": "What are the diagnostic criteria options for Schizo-Affective Disorder according to the DSM-5?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 294,
+            "paragraph_id": "978-0198795551-p294-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Paranoid schizophrenia",
+            "Hebephrenic schizophrenia",
+            "Catatonic schizophrenia",
+            "Undifferentiated schizophrenia",
+            "Post-schizophrenic depression",
+            "Residual schizophrenia",
+            "Simple schizophrenia"
+        ],
+        "options": [
+            "Paranoid schizophrenia",
+            "Hebephrenic schizophrenia",
+            "Catatonic schizophrenia",
+            "Undifferentiated schizophrenia",
+            "Post-schizophrenic depression",
+            "Residual schizophrenia",
+            "Simple schizophrenia",
+            "Mood disorders with psychotic features",
+            "Substance-induced psychotic disorder",
+            "Psychotic disorder due to a general medical condition",
+            "Borderline personality disorder",
+            "Sleep-related disorders"
+        ],
+        "question": "What types of schizophrenia are recognized?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 266,
+            "paragraph_id": "978-0198795551-p266-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Positive symptoms",
+            "Negative symptoms"
+        ],
+        "options": [
+            "Cognitive symptoms",
+            "Emotional symptoms",
+            "Behavioral symptoms",
+            "Social symptoms",
+            "Positive symptoms",
+            "Negative symptoms",
+            "Physiological symptoms"
+        ],
+        "question": "What are the conventional categories into which the symptoms of schizophrenia are typically divided?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 263,
+            "paragraph_id": "978-0198795551-p263-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Olanzapine",
+            "Amisulpride",
+            "Risperidone",
+            "Quetiapine",
+            "Diazepam",
+            "Chlorpromazine",
+            "Procyclidine"
+        ],
+        "options": [
+            "Olanzapine",
+            "Amisulpride",
+            "Risperidone",
+            "Quetiapine",
+            "Diazepam",
+            "Chlorpromazine",
+            "Procyclidine",
+            "Antidepressants"
+        ],
+        "question": "What types of medications are recommended during different phases of treating psychosis?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 276,
+            "paragraph_id": "978-0198795551-p276-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Individual CBT with or without family intervention",
+            "Management of anxiety, depression, emergent personality disorders, or substance misuse"
+        ],
+        "options": [
+            "Antidepressants alone",
+            "Individual Cognitive Behavioral Therapy (CBT) with family intervention",
+            "Management of anxiety, depression, emergent personality disorders, or substance misuse",
+            "Low-dose antipsychotics combined with group therapy",
+            "Referral to general medical care"
+        ],
+        "question": "What treatments might be considered for managing someone suspected of transitioning towards psychosis according to guidance?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 272,
+            "paragraph_id": "978-0198795551-p272-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Separation",
+            "Pharmacological",
+            "Educational and social interventions",
+            "Individual therapy",
+            "Supportive therapy",
+            "Cognitive techniques"
+        ],
+        "options": [
+            "Separation",
+            "Pharmacological",
+            "Educational and social interventions",
+            "Individual therapy",
+            "Supportive therapy",
+            "Cognitive techniques"
+        ],
+        "question": "What approaches are included in managing delusional disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 298,
+            "paragraph_id": "978-0198795551-p298-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Inappropriate or unreasonable demands",
+            "Behavioural sequelae of failing to have these demands met",
+            "Veiled or explicit threats of self-harm, lodging formal complaints, litigation, or violence",
+            "Passive resistance",
+            "Verbal or physical abuse of staff/damage to property",
+            "Actual formal complaints relating to treatment received or refused or false accusations of misconduct against medical staff",
+            "Pushing or breaking of agreed boundaries and rules"
+        ],
+        "options": [
+            "Making reasonable requests",
+            "Being passive during consultations",
+            "Requesting more time from doctors",
+            "Threats of litigation after being denied certain treatments",
+            "Pushing boundaries and rules",
+            "Expecting immediate admission to hospitals",
+            "Claims of new symptoms when initial demands aren't met",
+            "Verbal abuse towards staff members",
+            "Physical damage to properties within facilities",
+            "Only wanting to interact with specific healthcare professionals"
+        ],
+        "question": "What types of maladaptive behaviors do manipulative patients exhibit in psychiatric and medical settings?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1127,
+            "paragraph_id": "978-0198795551-p1127-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Establishing the reason for the patient's visit",
+            "Maintaining objectivity despite personal feelings",
+            "Avoiding criticism of colleagues",
+            "Requesting help from another professional during challenging cases"
+        ],
+        "options": [
+            "Establishing the reason for the patient's visit",
+            "Being influenced by preconceived notions about the patient\u2019s condition",
+            "Maintaining objectivity despite personal feelings",
+            "Avoiding criticism of colleagues",
+            "Requesting help from another professional during challenging cases",
+            "Giving out personal contact information"
+        ],
+        "question": "What key considerations should healthcare professionals keep in mind when interacting with patients during assessments?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1129,
+            "paragraph_id": "978-0198795551-p1129-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Learning to relax",
+            "Take regular breaks at work",
+            "Exercise",
+            "Escape the pager",
+            "Distraction through non-work activities like sports, hobbies, or entertainment"
+        ],
+        "options": [
+            "Feeling tense",
+            "Learning to relax",
+            "Developing bad habits",
+            "Regular exercise",
+            "Avoidance of social interactions",
+            "Taking regular breaks at work",
+            "Escape the pager",
+            "Using caffeine and tobacco freely",
+            "Registering with a General Practitioner (GP)",
+            "Engaging in hobbies"
+        ],
+        "question": "What strategies can one adopt to manage stress?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1141,
+            "paragraph_id": "978-0198795551-p1141-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Difficulties sleeping",
+            "Becoming more impatient or irritable",
+            "Difficulties concentrating",
+            "Being unable to make decisions",
+            "Drinking or smoking more",
+            "Not enjoying food as much",
+            "Being unable to relax or \u2018switch off\u2019"
+        ],
+        "options": [
+            "Becoming more patient",
+            "Drinking less",
+            "Smoking more",
+            "Difficulties concentrating",
+            "Being able to make quick decisions always",
+            "Not enjoying hobbies anymore",
+            "Feeling overly energetic",
+            "Having trouble relaxing",
+            "Eating too little",
+            "Experiencing mood swings frequently"
+        ],
+        "question": "What are the signs healthcare professionals should look out for regarding potential issues with their own mental health?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1140,
+            "paragraph_id": "978-0198795551-p1140-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Short-term memory impairment",
+            "Long-term memory recall issues",
+            "New skill acquisition problems",
+            "Executive dysfunction",
+            "Mildly impaired visuospatial function"
+        ],
+        "options": [
+            "Short-term memory impairment",
+            "Long-term memory recall issues",
+            "New skill acquisition problems",
+            "Executive dysfunction",
+            "Language ability decline",
+            "Visuospatial function impairment"
+        ],
+        "question": "What types of cognitive impairments can occur due to chronic alcohol consumption?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 693,
+            "paragraph_id": "978-0198795551-p693-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acute confusional state",
+            "Ocular signs",
+            "Ataxic gait",
+            "Peripheral neuropathy",
+            "Resting tachycardia",
+            "Evidence of nutritional deficiency"
+        ],
+        "options": [
+            "Peripheral neuropathy",
+            "Resting tachycardia",
+            "Evidence of nutritional deficiency",
+            "Confusion",
+            "Ataxic gait",
+            "Nystagmus",
+            "Ocular signs"
+        ],
+        "question": "What clinical features are typically observed in patients suffering from Wernicke encephalopathy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 697,
+            "paragraph_id": "978-0198795551-p697-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Individual Counselling",
+            "Group Support",
+            "Pharmacological support",
+            "Residential Abstinence"
+        ],
+        "options": [
+            "Medicinal therapy",
+            "Physical exercise routines",
+            "Dietary advice",
+            "Individual Counselling",
+            "Group Support",
+            "Pharmacological support",
+            "Residential Abstinence"
+        ],
+        "question": "What kinds of interventions are utilized to support long-term change in individuals addressing alcohol misuse?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 685,
+            "paragraph_id": "978-0198795551-p685-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hepatocellular",
+            "Oesophagus",
+            "Stomach",
+            "Mouth",
+            "Tongue",
+            "Pharynx"
+        ],
+        "options": [
+            "Hepatic cancer",
+            "Ovarian cancer",
+            "Lung cancer",
+            "Breast cancer",
+            "Liver cancer",
+            "Stomach cancer",
+            "Mouth cancer",
+            "Pharyngeal cancer",
+            "Tongue cancer"
+        ],
+        "question": "What types of cancers can occur due to alcohol consumption?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 700,
+            "paragraph_id": "978-0198795551-p700-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Auditory hallucinations involving defamatory or accusatory voices",
+            "Olfactory hallucinations related to bad smells such as rotting food, faeces, and decomposing flesh",
+            "Visual hallucinations of tormentors, demons, dead bodies, scenes of death, or torture"
+        ],
+        "options": [
+            "Olfactory hallucinations related to pleasant scents",
+            "Auditory hallucinations involving defamatory or accusatory voices",
+            "Tactile hallucinations about being touched by unknown entities",
+            "Visual hallucinations of tormentors or demons",
+            "Gustatory hallucinations of tasting bitter substances"
+        ],
+        "question": "What types of hallucinations may occur in individuals experiencing depressive disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 314,
+            "paragraph_id": "978-0198795551-p314-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Marital statuses related to separation or divorce",
+            "Having three or more children under the age of 11",
+            "Lack of paid employment",
+            "Lack of a confiding relationship"
+        ],
+        "options": [
+            "Being married",
+            "Having less than three children under the age of 11",
+            "Lack of paid employment",
+            "Separation or divorce",
+            "Living alone",
+            "Lack of a confiding relationship",
+            "Full-time education"
+        ],
+        "question": "What social circumstances can increase the risk of depression?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 320,
+            "paragraph_id": "978-0198795551-p320-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Writers",
+            "Artists",
+            "Politicians",
+            "Intellectuals",
+            "Composers",
+            "Scientists"
+        ],
+        "options": [
+            "Politician",
+            "Scientist",
+            "Musician",
+            "Comedian",
+            "Actor",
+            "Writer",
+            "Artist",
+            "Intellectual",
+            "Composer"
+        ],
+        "question": "What occupations show high percentages of experiencing depression according to studies examining world-famous individuals?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 305,
+            "paragraph_id": "978-0198795551-p305-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Serotonin reuptake inhibitors (SSRIs)",
+            "Dual-action agents",
+            "Noradrenaline and Specific Serotonin Antagonists (NaSSAs)",
+            "Dopamine-Noradrenaline Reuptake Inhibitors (DNRIs)"
+        ],
+        "options": [
+            "Serotonin reuptake inhibitors (SSRIs)",
+            "Tricyclic Antidepressants (TCAs)",
+            "Benzodiazepines (BDZs)",
+            "Dual-action agents",
+            "Noradrenaline and Specific Serotonin Antagonists (NaSSAs)",
+            "Dopamine-Noradrenaline Reuptake Inhibitors (DNRIs)"
+        ],
+        "question": "What types of antidepressant drugs were developed during various periods?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 309,
+            "paragraph_id": "978-0198795551-p309-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lung cancer",
+            "Alimentary canal cancers"
+        ],
+        "options": [
+            "Lung cancer",
+            "Gastric and duodenal ulcers",
+            "Alimentary canal cancers",
+            "Asthma",
+            "Bronchitis",
+            "COPD",
+            "Peripheral vascular disease",
+            "Coronary artery disease",
+            "Stroke"
+        ],
+        "question": "What types of cancers can arise due to smoking?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 704,
+            "paragraph_id": "978-0198795551-p704-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Nicotine gum",
+            "Nicotine transdermal patches",
+            "Nasal spray",
+            "Lozenges",
+            "Sublingual tablets",
+            "Inhalers"
+        ],
+        "options": [
+            "Subcutaneous injections",
+            "Oral capsules",
+            "Nasal spray",
+            "Topical creams",
+            "Inhalers",
+            "Transdermal patches",
+            "Lozenges",
+            "Intravenous drips"
+        ],
+        "question": "What forms do nicotine replacement therapies take?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 705,
+            "paragraph_id": "978-0198795551-p705-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sweating",
+            "Nausea and vomiting",
+            "Diminished potency despite libido"
+        ],
+        "options": [
+            "Sweating",
+            "Nausea and vomiting",
+            "Diminished potency despite libido",
+            "Dehydration",
+            "Hyperthermia",
+            "Fatigue",
+            "Anorexia",
+            "Depressed mood",
+            "Hallucinations",
+            "Anxiety disorders",
+            "Personality change"
+        ],
+        "question": "What acute harmful effects are specifically listed?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 719,
+            "paragraph_id": "978-0198795551-p719-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mental and behavioural disorders due to psychoactive substance abuse",
+            "Mood (aff ective) disorders",
+            "Neurotic, stress-related, and somatoform disorders",
+            "Behavioural syndromes associated with physiological disturbance and physical factors",
+            "Disorders of adult personality and behaviour",
+            "Mental retardation",
+            "Disorders of psychological development",
+            "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+            "Organic, including symptomatic, mental disorders",
+            "Schizophrenia, schizotypal, and delusional disorders"
+        ],
+        "options": [
+            "Anxiety disorders",
+            "Substance abuse disorders",
+            "Personality disorders",
+            "Psychotic disorders",
+            "Neurodevelopmental disorders",
+            "Eating disorders",
+            "Trauma and stressor-related disorders",
+            "Dissociative disorders",
+            "Somatization disorder",
+            "Mood (aff ective) disorders",
+            "Delirium",
+            "Sleep-wake disorders"
+        ],
+        "question": "What categories of mental health conditions does the ICD-10 classify under F codes ranging from F00 through F99?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1157,
+            "paragraph_id": "978-0198795551-p1157-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "British Association for Behavioural and Cognitive Psychotherapies",
+            "General Medical Council"
+        ],
+        "options": [
+            "British Association for Behavioural and Cognitive Psychotherapies",
+            "General Medical Council",
+            "Royal College of Psychiatrists",
+            "British Psychological Society",
+            "Society for Social Medicine"
+        ],
+        "question": "What organizations provide directories or registers of professionals within their field?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1156,
+            "paragraph_id": "978-0198795551-p1156-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Children 1st",
+            "ERIC",
+            "Family Lives",
+            "National Autistic Society",
+            "One Parent Families Scotland",
+            "Tics Action was incorrectly added - we can substitute this option correctly now as follows",
+            "Replace \"Tics Action\" with \"Tourette Syndrome (UK) Association\"",
+            "Hence Answer becomes,",
+            "Children 1st",
+            "ERIC",
+            "Family Lives",
+            "National Autistic Society",
+            "One Parent Families Scotland",
+            "Tourette Syndrome (UK) Association"
+        ],
+        "options": [
+            "Children 1st",
+            "ERIC",
+            "Family Lives",
+            "National Autistic Society",
+            "One Parent Families Scotland",
+            "Tics Action",
+            "YoungMinds"
+        ],
+        "question": "What organizations provide helplines specifically aimed at supporting children, their families, or conditions affecting them?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1146,
+            "paragraph_id": "978-0198795551-p1146-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Down\u2019s Syndrome Association",
+            "Down's Syndrome Scotland",
+            "Fragile X Society",
+            "Mencap",
+            "Rett UK"
+        ],
+        "options": [
+            "Alzheimer Scotland\u2014Action on Dementia",
+            "Beating Eating Disorders",
+            "Down\u2019s Syndrome Association",
+            "Fragile X Society",
+            "Mencap",
+            "Rett UK"
+        ],
+        "question": "What charities provide assistance specifically related to learning disabilities?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1149,
+            "paragraph_id": "978-0198795551-p1149-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Negative events in childhood",
+            "Education and literacy",
+            "Primary support group, including family circumstances",
+            "Social environment",
+            "Housing or economic circumstances",
+            "(Un)employment",
+            "Physical environment",
+            "Certain psychosocial circumstances",
+            "Legal circumstances",
+            "Family history of disease or disabilities",
+            "Lifestyle or life management difficulties"
+        ],
+        "options": [
+            "Negative events in adulthood",
+            "Education and literacy",
+            "Primary support group, including family circumstances",
+            "Social environment",
+            "Housing or economic circumstances",
+            "Employment status",
+            "Physical environment",
+            "Psychosocial circumstances",
+            "Legal circumstances",
+            "Family medical history",
+            "Lifestyle difficulties"
+        ],
+        "question": "What types of contextual factors can influence the occurrence, presentation, course, outcome, or treatment of an Axis I disorder under the ICD-10 classification system?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1188,
+            "paragraph_id": "978-0198795551-p1188-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Moodjuice",
+            "Living Life to the Full",
+            "Beating the Blues",
+            "Be Mindful"
+        ],
+        "options": [
+            "Moodjuice",
+            "Living Life to the Full",
+            "Beating the Blues",
+            "Be Mindful"
+        ],
+        "question": "What online resources offer guided self-help for emotional problems?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 1152,
+            "paragraph_id": "978-0198795551-p1152-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Establishing and maintaining a therapeutic alliance",
+            "Monitoring the patient's psychiatric status",
+            "Providing education regarding depressive disorder and the treatment options",
+            "Enhancing treatment compliance",
+            "Monitoring side effects of medication",
+            "Identifying and addressing any significant comorbidity",
+            "Promoting regular patterns of activity and rest",
+            "Identifying unmet needs for specific support",
+            "Promoting understanding of, and adaptation to, the psychosocial effects of symptoms",
+            "Identifying new episodes early",
+            "Reducing the morbidity and sequelae of depressive disorder"
+        ],
+        "options": [
+            "Establishing and maintaining a therapeutic alliance",
+            "Monitoring the patient's blood pressure regularly",
+            "Providing education regarding heart disease",
+            "Enhancing treatment compliance",
+            "Identifying and addressing any significant financial issues",
+            "Promoting regular patterns of diet and exercise",
+            "Reducing the risk of diabetes complications",
+            "Identifying new episodes early",
+            "Monitoring side effects of medication"
+        ],
+        "question": "What key elements are involved in the follow-up care after treating a patient with depressive disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 333,
+            "paragraph_id": "978-0198795551-p333-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "HAM-D",
+            "BDI",
+            "Zung Self-Rating Depression Scale"
+        ],
+        "options": [
+            "MMSE",
+            "HAM-D",
+            "BDI",
+            "Zung Self-Rating Depression Scale",
+            "Hamilton Anxiety Rating Scale"
+        ],
+        "question": "What standardized scales can be administered to patients suspected of having depression as a baseline measure before changing their management plan?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 327,
+            "paragraph_id": "978-0198795551-p327-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Mood is depressed but remains reactive",
+            "Hypersomnia (sleeping >10 hours/day)",
+            "Hyperphagia (excessive eating, with weight gain of over 3 kg in three months)",
+            "Lead paralysis (feeling of heaviness in the limbs)",
+            "Oversensitivity to perceived rejection"
+        ],
+        "options": [
+            "Mood is consistently elevated",
+            "Hypomanic episodes occur frequently",
+            "Reactive depression",
+            "Leaden paralysis occurs occasionally",
+            "Hyperphagia leading to significant weight loss",
+            "Initial insomnia replaces excessive sleep",
+            "Reversed diurnal mood variation where patients feel worse in the afternoon",
+            "Severe psychomotor agitation",
+            "Oversensitivity to social interactions",
+            "Increased energy during mornings",
+            "Excessive daytime sleeping (>10 hours per day)",
+            "Weight gain due to increased appetite"
+        ],
+        "question": "What clinical features can characterize an individual experiencing an atypical depressive episode?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 341,
+            "paragraph_id": "978-0198795551-p341-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chlorpromazine",
+            "Quetiapine",
+            "Olanzapine-fluoxetine (OFC)",
+            "Note that while haloperidol is discussed regarding dosage, it's primarily talked about in terms of dosages rather than combinations. Hence, focusing strictly on combinations:"
+        ],
+        "options": [
+            "Antihypertensive agents",
+            "Olanzapine-fluoxetine (OFC)",
+            "Chlorpromazine",
+            "Quetiapine",
+            "Haloperidol"
+        ],
+        "question": "What medications can be added together in combination therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 337,
+            "paragraph_id": "978-0198795551-p337-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tricyclic antidepressants",
+            "Selective serotonin reuptake inhibitors (SSRIs)",
+            "Note: Although other classes like SNRIs and MAOIs are referenced indirectly through drug names or mechanisms, they are not explicitly categorized as separate types in this excerpt, thus sticking strictly to the instruction of providing answers exactly matching items stated in the paragraph."
+        ],
+        "options": [
+            "Tricyclic antidepressants",
+            "Selective serotonin reuptake inhibitors (SSRIs)",
+            "Serotonin-norepinephrine reuptake inhibitors (SNRIs)",
+            "Monoamine oxidase inhibitors (MAOIs)"
+        ],
+        "question": "What types of antidepressants are discussed?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 348,
+            "paragraph_id": "978-0198795551-p348-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "MAOI"
+        ],
+        "options": [
+            "MAOI",
+            "RIMA",
+            "SSRIs",
+            "Selective serotonin reuptake inhibitor",
+            "Tricyclics",
+            "Other"
+        ],
+        "question": "What types of drug classes are listed for Isocarboxazid?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 351,
+            "paragraph_id": "978-0198795551-p351-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Benzodiazepines",
+            "Antidepressants",
+            "Lithium",
+            "Anticonvulsants",
+            "Antipsychotics"
+        ],
+        "options": [
+            "Benzodiazepines",
+            "Anticonvulsants",
+            "Lithium",
+            "Barbiturates",
+            "Opioids",
+            "Antidepressants",
+            "Antihypertensives"
+        ],
+        "question": "What classes of psychiatric drugs can affect Electroconvulsive Therapy (ECT)?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 359,
+            "paragraph_id": "978-0198795551-p359-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bright Light Therapy (Phototherapy)",
+            "Repetitive Transcranial Magnetic Stimulation (rTMS)",
+            "Magneto-Convulsive Therapy",
+            "Vagus Nerve Stimulation (VNS)"
+        ],
+        "options": [
+            "Bright Light Therapy (Phototherapy)",
+            "Repetitive Transcranial Magnetic Stimulation (rTMS)",
+            "Magneto-Convulsive Therapy",
+            "Vagus Nerve Stimulation (VNS)",
+            "Electroconvulsive Therapy (ECT)"
+        ],
+        "question": "What types of therapies or interventions are described for treating various mental health conditions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 366,
+            "paragraph_id": "978-0198795551-p366-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bipolar I",
+            "Bipolar II",
+            "Bipolar III",
+            "Bipolar IV",
+            "Bipolar V",
+            "Bipolar VI"
+        ],
+        "options": [
+            "Bipolar I",
+            "Bipolar II",
+            "Bipolar III",
+            "Bipolar IV",
+            "Bipolar V",
+            "Bipolar VI",
+            "Schizobipolar",
+            "Hyperthymia",
+            "Cyclothymia"
+        ],
+        "question": "What are the subtypes of bipolar disorder according to research findings?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 380,
+            "paragraph_id": "978-0198795551-p380-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Robert Lowell",
+            "Spike Milligan",
+            "Theodore Roethke",
+            "Virginia Woolf",
+            "Edgar Allan Poe",
+            "Walt Whitman",
+            "Tennessee Williams"
+        ],
+        "options": [
+            "Frances Lear",
+            "Vivien Leigh",
+            "William Shakespeare",
+            "Robert Lowell",
+            "Spike Milligan",
+            "Theodore Roethke",
+            "Virginia Woolf",
+            "Edgar Allan Poe",
+            "Walt Whitman",
+            "Tennessee Williams"
+        ],
+        "question": "What notable writers and historical personalities might have suffered from bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 372,
+            "paragraph_id": "978-0198795551-p372-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Biological factors",
+            "Psychological factors",
+            "Social factors"
+        ],
+        "options": [
+            "Biological factors",
+            "Psychological factors",
+            "Environmental factors",
+            "Educational factors",
+            "Social factors",
+            "Cultural factors",
+            "Developmental factors",
+            "Nutritional factors"
+        ],
+        "question": "What kinds of factors are involved when considering the biopsychosocial model for assessing children's or young people's mental health issues?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 747,
+            "paragraph_id": "978-0198795551-p747-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Adjustment disorder",
+            "Anxiety disorder",
+            "Depression",
+            "Learning difficulty",
+            "Normal child but parents/teachers have unrealistic expectations",
+            "Psychosis",
+            "Autism Spectrum Disorder (ASD)",
+            "Attention Deficit Hyperactivity Disorder (ADHD)"
+        ],
+        "options": [
+            "Adjustment disorder",
+            "Anxiety disorder",
+            "Depression",
+            "Learning difficulty",
+            "Normal child but parents/teachers have unrealistic expectations",
+            "Psychosis",
+            "Autism Spectrum Disorder (ASD)",
+            "Attention Deficit Hyperactivity Disorder (ADHD)"
+        ],
+        "question": "What are the potential differential diagnoses considered when assessing a condition characterized by psychiatric disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 766,
+            "paragraph_id": "978-0198795551-p766-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Sweating",
+            "Dilated pupils",
+            "Tachycardia",
+            "Hypertension",
+            "Piloerection",
+            "Watering eyes",
+            "Yawning",
+            "Abdominal cramping",
+            "Nausea",
+            "Vomiting",
+            "Diarrhea",
+            "Tremor",
+            "Joint pains",
+            "Muscle cramps"
+        ],
+        "options": [
+            "Sweating",
+            "Dilated pupils",
+            "Tachypnea",
+            "Hypertension",
+            "Piloerection",
+            "Watering eyes",
+            "Yawning",
+            "Abdominal distention",
+            "Nausea",
+            "Vomiting",
+            "Diarrhea",
+            "Tremors",
+            "Joint pain",
+            "Muscle spasms"
+        ],
+        "question": "What are the symptoms experienced during opiate withdrawal?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 733,
+            "paragraph_id": "978-0198795551-p733-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Soiling due to functional constipation with retention and overflow",
+            "Never having been toilet trained",
+            "Being frightened to use the toilet",
+            "Deliberately depositing feces in inappropriate places"
+        ],
+        "options": [
+            "Soiling due to functional constipation with retention and overflow",
+            "Never having been toilet trained",
+            "Being frightened to use the toilet",
+            "Deliberately depositing feces in inappropriate places"
+        ],
+        "question": "What types of presentations related to encopresis can occur?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 783,
+            "paragraph_id": "978-0198795551-p783-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Background Information",
+            "Reasons for Consultation Now",
+            "Current Drug Use",
+            "Lifetime Drug Use",
+            "Complications of Drug Use",
+            "Previous Treatment Episodes",
+            "Medical and Psychiatric History",
+            "Family History",
+            "Social History"
+        ],
+        "options": [
+            "Background Information",
+            "Reasons for Consultation Now",
+            "Lifetime Drug Use",
+            "Complications of Drug Use",
+            "Previous Treatment Episodes",
+            "Medical and Psychiatric History",
+            "Social History",
+            "Employment Status"
+        ],
+        "question": "What key areas should be covered during an initial interview with a substance user to gather their comprehensive background and current situation regarding drug use?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 726,
+            "paragraph_id": "978-0198795551-p726-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Siblings",
+            "Parents",
+            "Close relatives",
+            "Neighbours",
+            "Social workers",
+            "Respected community figures"
+        ],
+        "options": [
+            "A teacher",
+            "Siblings",
+            "Social workers",
+            "Neighbours",
+            "Respected community figures",
+            "Parents",
+            "Close relatives",
+            "Clinicians"
+        ],
+        "question": "What individuals typically attend a first assessment appointment alongside a young person?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 748,
+            "paragraph_id": "978-0198795551-p748-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Variable degrees of thought disorder, delusional content, negative symptoms, and cognitive deficits",
+            "Rapidly fluctuating symptoms",
+            "Often presents with rapid onset and prominent hallucinations, particularly auditory ones"
+        ],
+        "options": [
+            "Persistent pattern of thought disorder, delusional content, negative symptoms, and cognitive deficits",
+            "Rapidly fluctuating symptoms",
+            "Variable degrees of thought disorder, delusional content, negative symptoms, and cognitive deficits",
+            "Prominent hallucinations, especially auditory",
+            "History of family schizophrenia"
+        ],
+        "question": "What are the characteristics of substance-induced psychosis compared to independent psychosis?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 738,
+            "paragraph_id": "978-0198795551-p738-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Group-based parent training/education programs"
+        ],
+        "options": [
+            "Group-based parent training programs",
+            "Individual-based parenting programs",
+            "Family therapy sessions",
+            "Multisystemic therapy",
+            "Cognitive behavioral therapy"
+        ],
+        "question": "What types of programs are recommended by NICE for managing conduct disorder through parent training or education in children under 12 years old?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 767,
+            "paragraph_id": "978-0198795551-p767-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Adaptation of the child\u2019s environment, activities, and routines",
+            "Communication interventions",
+            "Sensory sensitivity adaptations or interventions",
+            "Treat comorbidity",
+            "An antipsychotic, e.g., risperidone, for short-term treatment of significant aggression",
+            "Melatonin for sleep disturbance",
+            "Wider family/sibling support, including respite care, eligibility for benefits, and social work assistance",
+            "Inform about additional sources of information/support"
+        ],
+        "options": [
+            "Adaptation of the child\u2019s environment, activities, and routines",
+            "Communication interventions",
+            "Sensory sensitivity adaptations or interventions",
+            "Treatment of comorbidities",
+            "Antipsychotics for significant aggression",
+            "Melatonin for sleep disturbances",
+            "Wider family/sibling support",
+            "Informing about additional sources of information and support"
+        ],
+        "question": "What approaches might be considered for treating and supporting individuals with autism spectrum disorder (ASD)?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 778,
+            "paragraph_id": "978-0198795551-p778-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tier 2",
+            "Tier 3",
+            "Tier 4"
+        ],
+        "options": [
+            "Tier 0",
+            "Tier 1",
+            "Tier 2",
+            "Tier 3",
+            "Tier 4"
+        ],
+        "question": "What tiers are involved in providing specialist Child and Adolescent Mental Health Services (CAMHS)?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 746,
+            "paragraph_id": "978-0198795551-p746-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Valproate"
+        ],
+        "options": [
+            "Carbamazepine",
+            "Oxcarbazepine",
+            "Phenobarbital",
+            "Phenytoin",
+            "Valproate",
+            "Ritonavir"
+        ],
+        "question": "What medications decrease or significantly affect the clearance of lamotrigine?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 421,
+            "paragraph_id": "978-0198795551-p421-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Patients should be monitored in accordance with NICE guidelines",
+            "There are reliable systems to ensure blood test results are communicated between laboratories and prescribers",
+            "Throughout their treatment, patients receive appropriate ongoing verbal and written information and complete a record book*",
+            "Prescribers and pharmacists check that blood tests are monitored regularly and that it is safe to prescribe and/or dispense lithium",
+            "Systems are in place to identify and deal with medicines that might adversely interact with lithium therapy"
+        ],
+        "options": [
+            "Monitor patients in accordance with NICE guidelines",
+            "Implement systems to communicate blood test results effectively",
+            "Provide verbal and written information throughout treatment",
+            "Regularly review potential drug interactions",
+            "Develop a system to track medication adherence",
+            "Reduce dosages over time regardless of patient condition"
+        ],
+        "question": "What actions do NHS organizations need to undertake according to the recommendations for minimizing the risks associated with lithium therapy?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 410,
+            "paragraph_id": "978-0198795551-p410-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "For mild, stable forms of bipolar disorder: lithium may be tapered down and stopped pre-pregnancy.",
+            "For moderate risk of relapse: lithium should be tapered and discontinued either before pregnancy or during the first trimester.",
+            "For severe forms of bipolar disorder, at high risk of relapse: lithium should be maintained during pregnancy."
+        ],
+        "options": [
+            "Stop lithium immediately upon learning about the pregnancy.",
+            "Continue lithium throughout pregnancy regardless of bipolar severity.",
+            "For mild cases, taper down and stop lithium pre-pregnancy.",
+            "For moderate risk of relapse, discontinue lithium during the first trimester after discussing with the patient and having a multidisciplinary care plan.",
+            "Maintain lithium during pregnancy for severe forms of bipolar disorder with certain precautions.",
+            "Adjust dosage but do not necessarily stop lithium unless absolutely necessary.",
+            "Discontinue lithium right away for any form of bipolar disorder due to potential health risks."
+        ],
+        "question": "What approaches are recommended for managing lithium treatment in pregnant women with different severities of bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 413,
+            "paragraph_id": "978-0198795551-p413-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Psychodynamic therapy",
+            "Interpersonal therapy",
+            "Behavioural therapy",
+            "Cognitive therapies",
+            "Couple therapy",
+            "Family therapy",
+            "Group therapy"
+        ],
+        "options": [
+            "Psychodynamic therapy",
+            "Cognitive-behavioral therapy",
+            "Family therapy",
+            "Group therapy",
+            "Couple therapy",
+            "Behavioural therapy"
+        ],
+        "question": "What types of therapeutic approaches can be considered for addressing issues arising from developmental deviations, interpersonal difficulties, academic and occupational problems, among others?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 404,
+            "paragraph_id": "978-0198795551-p404-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Psychotic symptoms",
+            "Catatonic symptoms",
+            "Risk of suicide",
+            "Risk of violence",
+            "Substance-related disorders"
+        ],
+        "options": [
+            "Psychosis due to infections",
+            "Manic depressive disorder",
+            "Bipolar depression",
+            "Delirium tremens",
+            "Substance misuse",
+            "Hallucinations",
+            "Paranoid delusions",
+            "Dysphoria",
+            "Agitation",
+            "Rapid cycling mood"
+        ],
+        "question": "What specific clinical features can significantly affect treatment choices for managing certain conditions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 394,
+            "paragraph_id": "978-0198795551-p394-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Abnormal programmed cell death",
+            "Kindling",
+            "Neurotransmitter imbalance hypothesis"
+        ],
+        "options": [
+            "Abnormal programmed cell death",
+            "Kindling",
+            "Neurotransmitter imbalance hypothesis",
+            "Genetic mutation",
+            "Hormonal dysregulation",
+            "Environmental influences"
+        ],
+        "question": "What are the different hypotheses proposed to explain the aetiology of bipolar disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 388,
+            "paragraph_id": "978-0198795551-p388-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "\u2642 Gender",
+            "Older Age",
+            "High Suicidal Intent",
+            "Psychosis",
+            "Depression",
+            "Hopelessness",
+            "Having an Unclear Reason for Self-Harm"
+        ],
+        "options": [
+            "\u2642 Gender",
+            "Older Age",
+            "High Suicidal Intent",
+            "Psychosis",
+            "Depression",
+            "Hopelessness",
+            "Having an Unclear Reason for Self-Harm",
+            "Bipolar Disorder",
+            "Mania"
+        ],
+        "question": "What are the factors among adolescents that are most likely to be associated with a higher risk of later suicide?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 797,
+            "paragraph_id": "978-0198795551-p797-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Personality Disorder",
+            "Paraphilias",
+            "Alcohol and substance misuse"
+        ],
+        "options": [
+            "Anxiety Disorders",
+            "Mood Disorders",
+            "Personality Disorder",
+            "Paraphilias",
+            "Substance Misuse"
+        ],
+        "question": "What types of mental disorders are commonly found among individuals who commit sex offenses?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 821,
+            "paragraph_id": "978-0198795551-p821-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Intrusive, repetitive, and distressing thoughts or images",
+            "Repetitive, stereotyped, unnecessary behaviors",
+            "Washing",
+            "Checking",
+            "Repeating",
+            "Ordering",
+            "Reassurance seeking"
+        ],
+        "options": [
+            "Normal developmental rituals",
+            "Tourette\u2019s/tic disorder",
+            "Depression",
+            "ASD",
+            "Eating disorder",
+            "Psychosis",
+            "Intrusive, repetitive, and distressing thoughts or images",
+            "Repetitive, stereotyped, unnecessary behaviors",
+            "Washing",
+            "Checking",
+            "Repeating",
+            "Ordering",
+            "Reassurance seeking"
+        ],
+        "question": "What are the clinical features commonly observed in Obsessive Compulsive Disorder?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 792,
+            "paragraph_id": "978-0198795551-p792-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "General Medical Council",
+            "Mental Welfare Commission for Scotland",
+            "Care Quality Commission",
+            "World Professional Association for Transgender Health (WPATH)",
+            "Royal College of Psychiatrists",
+            "National Institute for Health and Care Excellence (NICE)"
+        ],
+        "options": [
+            "General Medical Council",
+            "Mental Welfare Commission for Scotland",
+            "Care Quality Commission",
+            "World Professional Association for Transgender Health (WPATH)",
+            "Royal College of Psychiatrists",
+            "National Institute for Health and Care Excellence (NICE)"
+        ],
+        "question": "What organizations provide guidelines related to mental health issues in children and young people according to the given sources?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 809,
+            "paragraph_id": "978-0198795551-p809-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Animal phobias",
+            "Natural environment phobias",
+            "Blood/infection/injury phobias",
+            "Situational phobias",
+            "Other"
+        ],
+        "options": [
+            "Social Phobia",
+            "Situational Phobia",
+            "Blood/Infection/Injury Phoba",
+            "Substance Abuse",
+            "Natural Environment Phobia",
+            "Selective Mutism"
+        ],
+        "question": "What subtypes of simple phobias exist?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 790,
+            "paragraph_id": "978-0198795551-p790-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "MHA 1983",
+            "MH(NI)O 1986",
+            "CL(I)A 2006/2010",
+            "CP(S)A 1995",
+            "CJ(NI)O 1996",
+            "PoCC(S)A 2000",
+            "MH(CT)(S)A 2003"
+        ],
+        "options": [
+            "MHA 1983",
+            "MH(NI)O 1986",
+            "CL(I)A 2006/2010",
+            "CP(S)A 1995",
+            "CJ(NI)O 1996",
+            "PoCC(S)A 2000",
+            "MH(CT)(S)A 2003"
+        ],
+        "question": "What acts related to mentally disordered offenders and insanity have been established across different regions?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 812,
+            "paragraph_id": "978-0198795551-p812-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "DSM-5",
+            "ICD-10",
+            "ICD-11"
+        ],
+        "options": [
+            "Cyclothymia alone",
+            "Mood disorders classification",
+            "DSM-IV",
+            "DSM-5",
+            "ICD-9",
+            "ICD-10",
+            "ICD-11"
+        ],
+        "question": "What classification systems currently recognize cyclothymia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 425,
+            "paragraph_id": "978-0198795551-p425-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bloating",
+            "Belching",
+            "Flatus",
+            "Epigastric pressure"
+        ],
+        "options": [
+            "Bloating",
+            "Belching",
+            "Flatus",
+            "Epigastric pain",
+            "Dry mouth"
+        ],
+        "question": "What symptoms can occur due to aerophagia?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 434,
+            "paragraph_id": "978-0198795551-p434-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Epilepsy",
+            "Conversion hysteria",
+            "Phobic neurosis",
+            "Traumatic hysteria",
+            "Neurotic symptoms",
+            "Encephalitis lethargicans"
+        ],
+        "options": [
+            "Epilepsy",
+            "Conversion hysteria",
+            "Phobic neurosis",
+            "Traumatic hysteria",
+            "Neurotic symptoms",
+            "Encephalitis lethargicans"
+        ],
+        "question": "What conditions or diseases related to the nervous system are described in historical contexts?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 430,
+            "paragraph_id": "978-0198795551-p430-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Owned by mainstream general or forensic services",
+            "Staffed by senior psychiatrists",
+            "Nurse-led and closely linked to local psychiatric services",
+            "Good working relationships with courts and prosecution",
+            "Good methods for obtaining health, social services, and criminal record information",
+            "Access to suitable interview facilities",
+            "Use of structured screening assessments",
+            "Direct access to hospital beds",
+            "Ready access to secure beds",
+            "Access to specialized community facilities",
+            "Integrated with police and prison liaison schemes"
+        ],
+        "options": [
+            "Owned by private organizations",
+            "Staffed by junior doctors",
+            "Nurse-led and isolated from local psychiatric services",
+            "Poor working relationships with courts and prosecution",
+            "Limited methods for obtaining health information",
+            "No access to suitable interview facilities",
+            "Lack of structured screening assessments",
+            "Indirect access to hospital beds",
+            "Restricted access to secure beds",
+            "Separation from police and prison liaison schemes",
+            "Owned by mainstream general or forensic services",
+            "Staffed by senior psychiatrists",
+            "Nurse-led and closely linked to local psychiatric services",
+            "Good working relationships with courts and prosecution",
+            "Good methods for obtaining health, social services, and criminal record information",
+            "Access to suitable interview facilities",
+            "Use of structured screening assessments",
+            "Direct access to hospital beds",
+            "Ready access to secure beds",
+            "Access to specialized community facilities",
+            "Integrated with police and prison liaison schemes"
+        ],
+        "question": "What features characterize successful court liaison schemes according to the given description?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 832,
+            "paragraph_id": "978-0198795551-p832-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Schizophrenia",
+            "Personality Disorder",
+            "Delusions",
+            "Hallucinations",
+            "Thought Disorder"
+        ],
+        "options": [
+            "Anxiety Disorder",
+            "Hallucinations",
+            "Thought Disorder",
+            "Schizophrenia",
+            "Personality Disorder",
+            "Delusions"
+        ],
+        "question": "What technical terms might require explanation in a psychiatric report, especially when used to describe conditions or symptoms?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 838,
+            "paragraph_id": "978-0198795551-p838-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Burglary",
+            "Theft",
+            "Fraud",
+            "Shoplifting",
+            "Drug offences",
+            "Car crime",
+            "Vandalism"
+        ],
+        "options": [
+            "Burglary",
+            "Theft",
+            "Fraud",
+            "Arson",
+            "Shoplifting",
+            "Drug offences",
+            "Car crime",
+            "Vandalism"
+        ],
+        "question": "What types of crimes are discussed in relation to their connection with psychiatric disorders?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 825,
+            "paragraph_id": "978-0198795551-p825-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Conceptual Domain",
+            "Social Domain",
+            "Practical Domain"
+        ],
+        "options": [
+            "Physical Domain",
+            "Emotional Domain",
+            "Conceptual Domain",
+            "Social Domain",
+            "Practical Domain",
+            "Cultural Domain"
+        ],
+        "question": "What are the primary domains considered when assessing the severity of intellectual disability?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 858,
+            "paragraph_id": "978-0198795551-p858-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hospital order",
+            "Hospital order with a restriction order",
+            "Guardian order",
+            "Supervision and treatment order",
+            "No order",
+            "Compulsion order",
+            "Compulsion order in hospital with a restriction order",
+            "Interim compulsory treatment order"
+        ],
+        "options": [
+            "Hospital order",
+            "Guardian order",
+            "Supervision and treatment order",
+            "No order",
+            "Compulsion order",
+            "Interim compulsory treatment order",
+            "Restriction order"
+        ],
+        "question": "What types of disposals can a person receive after being found unfit to plead in different jurisdictions within the UK?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 845,
+            "paragraph_id": "978-0198795551-p845-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Able to live independently",
+            "Unable to perform tasks due to lack of training",
+            "Cannot function outside their family"
+        ],
+        "options": [
+            "Able to live independently",
+            "Unable to perform tasks due to lack of motivation",
+            "Cannot function outside their family",
+            "Completely dependent on caregivers"
+        ],
+        "question": "What types of individuals with Intellectual Disability are described according to their level of independence?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 857,
+            "paragraph_id": "978-0198795551-p857-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Any of the diagnoses listed under insanity",
+            "Non-psychotic affective disorders",
+            "Acute stress reactions, adjustment disorders, and PTSD",
+            "Personality disorders",
+            "Sexual deviation",
+            "Mild to moderate intellectual disability and pervasive developmental disorders",
+            "PMS",
+            "Battered spouse syndrome"
+        ],
+        "options": [
+            "Dementia and other chronic organic disorders",
+            "Schizophrenia and related psychoses",
+            "Severe affective disorders with psychotic symptoms",
+            "Non-psychotic affective disorders",
+            "Acute stress reactions, adjustment disorders, and PTSD",
+            "Personality disorders",
+            "Sexual deviation",
+            "Mild to moderate intellectual disability and pervasive developmental disorders",
+            "Premenstrual Syndrome (PMS)",
+            "Battered spouse syndrome"
+        ],
+        "question": "What types of diagnoses can be considered when evaluating a case for diminished responsibility?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 850,
+            "paragraph_id": "978-0198795551-p850-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Obesity",
+            "Short Stature",
+            "Muscle Tone Issues",
+            "Developmental Delays"
+        ],
+        "options": [
+            "Hypercalcemia",
+            "Obesity",
+            "Supraventricular aortic stenosis",
+            "Excess maternal Vitamin D intake",
+            "Developmental Delays",
+            "Muscle Tone Issues"
+        ],
+        "question": "What are the main characteristics of Prader-Willi Syndrome?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 879,
+            "paragraph_id": "978-0198795551-p879-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Anticonvulsants",
+            "Lithium",
+            "Beta-blockers",
+            "Stimulants",
+            "Opiate antagonists",
+            "Anti-libidinal drugs"
+        ],
+        "options": [
+            "Anticonvulsants",
+            "Lithium",
+            "Beta-blockers",
+            "Stimulants",
+            "Opiate antagonists",
+            "Anti-libidinal drugs"
+        ],
+        "question": "What types of medications are discussed for treating various behavioral disturbances?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 873,
+            "paragraph_id": "978-0198795551-p873-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Severe behavioral problems prohibiting management at home, such as abnormal aggression or disinhibited behavior posing a significant risk of harm",
+            "Requirement for treatment of a comorbid psychiatric disorder unresponsive to initial treatments or needing medication adjustment",
+            "Respite placements",
+            "Assessments of complex problems",
+            "\u2018Crisis\u2019 admissions following the collapse of typical support structures"
+        ],
+        "options": [
+            "Abnormal aggression towards themselves",
+            "Comorbid psychiatric disorders",
+            "Respite placements",
+            "Assessment of environmental issues versus illness factors",
+            "Crisis admissions due to loss of usual support systems",
+            "Disinhibition constituting a risk of harm to oneself or others",
+            "Change of environment"
+        ],
+        "question": "What are the given options when considering why a person might require hospitalization?",
+        "source": {
+            "isbn": "978-0198795551",
+            "page": 870,
+            "paragraph_id": "978-0198795551-p870-para1"
+        },
+        "type": "list"
     }
 ]

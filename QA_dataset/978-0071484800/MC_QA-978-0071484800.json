@@ -1150,5 +1150,1765 @@
             "paragraph_id": "978-0071484800-p1903-para1"
         },
         "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Calcium carbonate",
+            "B": "Calcium gluconate",
+            "C": "alcium carbonate\nB: Calcium gluconate\nC: Calcium citrate",
+            "D": "Calcium chloride"
+        },
+        "question": "What form of calcium salt is generally preferred in treating calcium channel blocker-induced toxicity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1344,
+            "paragraph_id": "978-0071484800-p1344-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Hypokalemia",
+            "B": "Lupus-like syndrome",
+            "C": "Cough",
+            "D": "Hyperkalemia"
+        },
+        "question": "What condition can arise in individuals taking ACE inhibitors due to increased levels of bradykinin?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1349,
+            "paragraph_id": "978-0071484800-p1349-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "25 - 75 micrograms/mL",
+            "B": "50 - 100 micrograms/mL",
+            "C": "80 - 120 micrograms/mL",
+            "D": "150 - 200 micrograms/mL"
+        },
+        "question": "What is the range of therapeutic valproate concentrations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1354,
+            "paragraph_id": "978-0071484800-p1354-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Complication includes only loss of radial pulse.",
+            "B": "Reduced ability to supinate and pronate, osteomyelitis, nonunion, malunion, neurovascular injury, and compartment syndrome.",
+            "C": "omplication includes only loss of radial pulse.  \nB: Reduced ability to supinate and pronate, osteomyelitis, nonunion, malunion, neurovascular injury, and compartment syndrome.  \nC: Only infection and nerve damage could potentially develop.",
+            "D": "Generally no serious complications arise from these kinds of fractures."
+        },
+        "question": "What kind of complications might arise following fractures of both the radius and ulna?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1923,
+            "paragraph_id": "978-0071484800-p1923-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Patient lying down with arms stretched upwards",
+            "B": "Prone with the affected limb hanging freely off the edge and a weight attached to the wrist",
+            "C": "Supine with both legs raised high in stirrups",
+            "D": "Seated upright with full back support"
+        },
+        "question": "What positioning does the Scapular Manipulation Technique involve?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1930,
+            "paragraph_id": "978-0071484800-p1930-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 50%",
+            "B": "Approximately 60%",
+            "C": "Approximately 40%",
+            "D": "Approximately 20%"
+        },
+        "question": "What percentage of cases of significant hemorrhage secondary to pelvic fractures are attributed to arterial bleeding?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1937,
+            "paragraph_id": "978-0071484800-p1937-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "5%",
+            "B": "15%",
+            "C": "40%",
+            "D": "60%"
+        },
+        "question": "What percentage increase in plasma volume typically occurs during pregnancy?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 753,
+            "paragraph_id": "978-0071484800-p753-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Approximately 40%",
+            "C": "Approximately 25% to 35%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of term deliveries commonly feature a nuchal cord?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 758,
+            "paragraph_id": "978-0071484800-p758-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Up to 50%",
+            "B": "About 60%",
+            "C": "Between 80% to 100%",
+            "D": "Around 85% to 90%"
+        },
+        "question": "What percentage of patients with a ruptured ectopic pregnancy will typically have a positive culdocentesis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 732,
+            "paragraph_id": "978-0071484800-p732-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Gestational Age",
+            "B": "Quantity of Ionizing Radiation Exposure",
+            "C": "Type of Imaging Study Ordered",
+            "D": "Previous Medical History"
+        },
+        "question": "What is the primary determinant of the degree of risk to the fetus when considering medical imaging involving ionizing radiation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 741,
+            "paragraph_id": "978-0071484800-p741-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Younger patient age, low doses of radiation, absence of prior adhesions",
+            "B": "Older age, high doses of radiation, combined treatment with chemotherapy, poor radiation technique, diabetes mellitus, and the presence of prior adhesions",
+            "C": "Low doses of radiation, no history of chemotherapy, excellent nutrition status",
+            "D": "Presence of prior infections, lack of proper post-radiation care, family history of gynecological disorders"
+        },
+        "question": "What factors increase the risk of developing radiation enteritis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 777,
+            "paragraph_id": "978-0071484800-p777-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "20%",
+            "B": "50%",
+            "C": "70%",
+            "D": "80%"
+        },
+        "question": "What percentage of women with tubal factor infertility have no history of PID but show scarring of the fallopian tubes and exhibit antibodies to N. gonorrhoeae or C. trachomatis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 769,
+            "paragraph_id": "978-0071484800-p769-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Taking analgesics and engaging in near-normal activities immediately.",
+            "B": "Applying an elastic bandage and resuming normal sports activities right away.",
+            "C": "Being given an ankle brace with follow-up by a healthcare professional.",
+            "D": "Immediate surgery to stabilize the joint further before recovery."
+        },
+        "question": "What treatment approach is typically recommended for patients who cannot bear weight due to an injury but still have a stable joint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1964,
+            "paragraph_id": "978-0071484800-p1964-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Upward traction and rotation in the same direction as the mechanism of injury.",
+            "B": "Downward traction and rotation in the opposite direction of the mechanism of injury with considerable force.",
+            "C": "Sideways traction and rotation in alignment with the body's midline.",
+            "D": "ownward traction and rotation in the opposite direction of the mechanism of injury with considerable force.  \nC: Sideways traction and rotation in alignment with the body's midline.  \nD: Downward traction and rotation in the opposite direction of the mechanism of injury with little force."
+        },
+        "question": "How should traction and rotation be applied during attempts at reducing a displaced ankle joint?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1966,
+            "paragraph_id": "978-0071484800-p1966-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Long Gamma Nail",
+            "B": "Cephalomedullary nail with proximal screw",
+            "C": "ephalomedullary nail with proximal screw\nC: Cephalomedullary nail with a helical blade",
+            "D": "Intertrochanteric fixation plate"
+        },
+        "question": "What type of device is specified for treating an unstable hip fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1979,
+            "paragraph_id": "978-0071484800-p1979-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Screws are placed at an angle to the long axis of the bone",
+            "B": "Screws can be inserted anywhere along the length of the plate",
+            "C": "Screws are placed perpendicularly to the long axis of the bone",
+            "D": "No screws are needed due to adhesive properties"
+        },
+        "question": "What feature do locking plates offer regarding screw placement in comparison to traditional methods?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1977,
+            "paragraph_id": "978-0071484800-p1977-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Computed Tomography (CT)",
+            "B": "Magnetic Resonance Imaging (MRI)",
+            "C": "omputed Tomography (CT)\nB: Magnetic Resonance Imaging (MRI)\nC: Conventional Radiography",
+            "D": "Radionuclide Scintigraphy"
+        },
+        "question": "Which diagnostic method offers nearly 100% sensitivity for detecting occult fractures, particularly around the hip and pelvis area?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1944,
+            "paragraph_id": "978-0071484800-p1944-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Complete separation of bones",
+            "B": "An incomplete breakage of the bone",
+            "C": "omplete separation of bones  \nB: An incomplete breakage of the bone  \nC: Bone healing process starts immediately",
+            "D": "No pain or discomfort is experienced by the patient"
+        },
+        "question": "What occurs during a nondisplaced fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1978,
+            "paragraph_id": "978-0071484800-p1978-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Muscle Strains",
+            "B": "Stress Fractures of the Tibia",
+            "C": "Stress Fractures of the Femoral Neck",
+            "D": "Knee Dislocations"
+        },
+        "question": "What kind of injury in athletes, particularly those involved in running and football, could lead to hip pain due to insidious onset?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1950,
+            "paragraph_id": "978-0071484800-p1950-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "They undergo the most rapid period of linear growth in childhood.",
+            "B": "Their body habitus becomes more muscular due to frequent physical activities.",
+            "C": "It represents the slowest period of linear growth in childhood.",
+            "D": "Obesity rates decrease dramatically among children aged 5 to 12."
+        },
+        "question": "What is notable about the physical aspects of children during the school years?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 792,
+            "paragraph_id": "978-0071484800-p792-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 20%",
+            "B": "More than 50%",
+            "C": "Less than 1%, specifically around 1.6 per 100 procedures",
+            "D": "Around 30%"
+        },
+        "question": "What percentage of females who undergo laparoscopic sterilization experience complications?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 783,
+            "paragraph_id": "978-0071484800-p783-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "The severity of the respiratory symptoms",
+            "B": "A careful history and distinguishing between inspiratory and expiratory noise",
+            "C": "The age of the neonate at the time of diagnosis",
+            "D": "The presence of fever"
+        },
+        "question": "What distinguishes between stertor, stridor, and wheezing in diagnosing noisy breathing in neonates?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 798,
+            "paragraph_id": "978-0071484800-p798-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Wood and fabric",
+            "B": "Metal and rubber",
+            "C": "Ceramic and leather",
+            "D": "Metal and plastic materials"
+        },
+        "question": "What primary materials make up the artificial components in Total Knee Arthroplasties?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1996,
+            "paragraph_id": "978-0071484800-p1996-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Application of smooth percutaneous pins",
+            "B": "Treatment with a screw and tension band construct",
+            "C": "Utilization of casts alone for stabilization",
+            "D": "Employment of physical therapy without surgical intervention"
+        },
+        "question": "What method was utilized to treat a certain case involving a patella fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1984,
+            "paragraph_id": "978-0071484800-p1984-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Anterior, posterior, two-incision",
+            "B": "Posterior, minimally invasive, anterior muscle sparing",
+            "C": "Minimally invasive, single incision, anterior/anterolateral",
+            "D": "Two-incision, anterior/anterolateral, anterior muscle sparing, posterior, single incision, minimally invasive, anterior"
+        },
+        "question": "What types of surgical approaches are considered controversial in hip replacement surgery according to Table considerations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1991,
+            "paragraph_id": "978-0071484800-p1991-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Repetitive motion leading to micro-fractures in weight-bearing areas.",
+            "B": "Constant loading of vertebral bodies.",
+            "C": "onstant loading of vertebral bodies.\nC: Strong ligamentous attachments pulling off pieces of bone.",
+            "D": "Existing diseases weakening bone structures."
+        },
+        "question": "What primarily causes avulsion fractures?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1992,
+            "paragraph_id": "978-0071484800-p1992-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Unconjugated hyperbilirubinemia occurs later in the neonatal period and is less common.",
+            "B": "Conjugated hyperbilirubinemia is associated with the breakdown of hemoglobin and presents early.",
+            "C": "onjugated hyperbilirubinemia is associated with the breakdown of hemoglobin and presents early.\nC: Unconjugated hyperbilirubinemia presents earlier in the neonatal period and is more commonly observed.",
+            "D": "Both types occur simultaneously, making differentiation unnecessary."
+        },
+        "question": "What distinguishes unconjugated hyperbilirubinemia from conjugated hyperbilirubinemia in terms of presentation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 803,
+            "paragraph_id": "978-0071484800-p803-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "Less than 1%",
+            "B": "Approximately 5%",
+            "C": "More than 10%",
+            "D": "Exactly 15%"
+        },
+        "question": "What percentage of patients meeting the low-risk criteria according to the Philadelphia Protocol had a missed Serious Bacterial Infection (SBI)?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 813,
+            "paragraph_id": "978-0071484800-p813-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Spinal curvature correction",
+            "B": "Disk fragmentation leading to nerve damage",
+            "C": "Extrusion of the disk causing acute back pain radiating down both legs",
+            "D": "isk fragmentation leading to nerve damage  \nC: Extrusion of the disk causing acute back pain radiating down both legs  \nD: Immediate improvement in spinal flexibility"
+        },
+        "question": "What complication may occur following disk replacement surgery where the patient feels a sudden onset of severe symptoms?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2008,
+            "paragraph_id": "978-0071484800-p2008-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "30%",
+            "B": "50%",
+            "C": "70%",
+            "D": "85%"
+        },
+        "question": "What percentage of patients who undergo surgery for a herniated disk typically experience relief from their back pain?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2020,
+            "paragraph_id": "978-0071484800-p2020-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 30%",
+            "B": "Approximately 50%",
+            "C": "Approximately 20%",
+            "D": "Approximately 80%"
+        },
+        "question": "What percentage of patients with lumbar spinal stenosis also experience cervical spinal stenosis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2016,
+            "paragraph_id": "978-0071484800-p2016-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Orthopedic consultation becomes unnecessary unless there's no improvement after 2 years.",
+            "B": "Follow-up appointments with the primary care provider occur less frequently over time.",
+            "C": "Close follow-up scheduled with the patient\u2019s primary care provider takes place.",
+            "D": "Surgical intervention immediately follows the initiation of exercises."
+        },
+        "question": "For patients diagnosed with bicepital tendinitis, after early mobilization with stretching exercises begins, what typically occurs next?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2027,
+            "paragraph_id": "978-0071484800-p2027-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Identifying the presence of osteoarthritis",
+            "B": "Determining whether the joint pain is migratory or localized and differentiating between monoarticular and polyarticular arthritis",
+            "C": "Recognizing the role of diet in causing joint pain",
+            "D": "etermining whether the joint pain is migratory or localized and differentiating between monoarticular and polyarticular arthritis\nC: Recognizing the role of diet in causing joint pain\nD: Understanding the history of trauma"
+        },
+        "question": "What is crucial in the initial steps of diagnosing acute joint pain?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2054,
+            "paragraph_id": "978-0071484800-p2054-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Dermatomyositis",
+            "B": "Giant Cell Arteritis",
+            "C": "ell Arteritis\nC: Polyarteritis nodosa",
+            "D": "ermatomyositis\nB: Giant Cell Arteritis\nC: Polyarteritis nodosa\nD: Relapsing Polychondritis"
+        },
+        "question": "What condition may present similarly to testicular torsion due to orchitis being one of its characteristic manifestations?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2046,
+            "paragraph_id": "978-0071484800-p2046-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Primarily upper extremity joints",
+            "B": "Lower extremities, especially the heels of the feet",
+            "C": "Symmetric involvement of the hands and wrists",
+            "D": "Isolated involvement of the knees"
+        },
+        "question": "What is typically involved in the joint manifestations of Reactive Arthritis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2060,
+            "paragraph_id": "978-0071484800-p2060-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "A",
+        "options": {
+            "A": "An imbalance between pro-inflammatory and anti-inflammatory responses",
+            "B": "Excessive physical exercise",
+            "C": "High dietary fiber intake",
+            "D": "Low socioeconomic status"
+        },
+        "question": "What factor contributes to the development of coronary atherosclerosis in patients with systemic rheumatic diseases?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2043,
+            "paragraph_id": "978-0071484800-p2043-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Administration of magnesium followed by IV fluids",
+            "B": "Inhaled SABA by Neb one time or up to 3 doses in the first hour",
+            "C": "Immediate initiation of mechanical ventilation",
+            "D": "Oxygen to achieve SpO2 >90% along with sedation and paralytics"
+        },
+        "question": "What is considered an appropriate initial treatment step for patients presenting with mild asthma exacerbation according to the given guidelines?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 865,
+            "paragraph_id": "978-0071484800-p865-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "50%",
+            "D": "1%"
+        },
+        "question": "What percentage of all neonatal conjunctivitis cases is attributed to viral neonatal ophthalmia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 829,
+            "paragraph_id": "978-0071484800-p829-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 10%",
+            "B": "Between 15% to 25%",
+            "C": "24% to 28%",
+            "D": "More than 50%"
+        },
+        "question": "What percentage of children develop \"baby bottle\" caries?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 843,
+            "paragraph_id": "978-0071484800-p843-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "60%",
+            "B": "50%",
+            "C": "40%",
+            "D": "70%"
+        },
+        "question": "What percentage of helium is typically combined with oxygen when administering heliox?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 852,
+            "paragraph_id": "978-0071484800-p852-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "20%",
+            "B": "30%",
+            "C": "40%",
+            "D": "10%"
+        },
+        "question": "What percentage of infants with an atrial septal defect (ASD) develop clinical symptoms?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 885,
+            "paragraph_id": "978-0071484800-p885-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "0.05 milligram/kg",
+            "B": "2.5 milligrams",
+            "C": "0.075 milligram/kg",
+            "D": "1.25 milligrams"
+        },
+        "question": "What is the minimum dose of Albuterol nebulizer solution given to pediatric patients every 20 minutes for the first three doses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 867,
+            "paragraph_id": "978-0071484800-p867-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of upper lobe infiltrates alone",
+            "B": "Hilar lymphadenopathy combined with upper lobe infiltrates on chest radiographs",
+            "C": "Lower lobe involvement exclusively",
+            "D": "Absence of classic findings"
+        },
+        "question": "What characteristic feature might distinguish tuberculosis from other types of infections in pediatric patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 877,
+            "paragraph_id": "978-0071484800-p877-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It decreases the volume of fluid available to the intravascular space and slows down mucosal recovery.",
+            "B": "It increases the progression of dehydration by reducing the amount of fluid absorbed by the gastrointestinal tract.",
+            "C": "It slows the progression of dehydration by increasing the volume of fluid available to the intravascular space and promotes mucosal recovery and improves fluid absorption.",
+            "D": "It leads to an immediate cessation of diarrhea due to the absence of pathogens in the gut after feeding commences."
+        },
+        "question": "What happens if you continue feeding instead of fasting during an episode of acute gastroenteritis?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 892,
+            "paragraph_id": "978-0071484800-p892-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 5%",
+            "B": "Just under 0.05%",
+            "C": "Less than 1%",
+            "D": "Around 25%"
+        },
+        "question": "What percentage of the global population is affected by schizophrenia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2077,
+            "paragraph_id": "978-0071484800-p2077-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "3.8%",
+            "B": "6.3%",
+            "C": "10.2%",
+            "D": "23.6%"
+        },
+        "question": "What percentage of all Emergency Department (ED) attendances have explicit mental health problems documented as the primary reason for the visit?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2067,
+            "paragraph_id": "978-0071484800-p2067-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 1%",
+            "B": "Approximately 10% to 15%",
+            "C": "Approximately 5% to 10%",
+            "D": "More than 20%"
+        },
+        "question": "What percentage of febrile infants with UTI may develop bacteremia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 917,
+            "paragraph_id": "978-0071484800-p917-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "8 to 10 mL/kg",
+            "B": "4 to 6 mL/kg",
+            "C": "2 to 3 mL/kg",
+            "D": "1 to 2 mL/kg"
+        },
+        "question": "What amount of 3% NaCl solution is typically administered per kilogram of body weight for rapid correction of hyponatremia in pediatric status epilepticus?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 939,
+            "paragraph_id": "978-0071484800-p939-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Less than 25%",
+            "B": "Approximately 50%",
+            "C": "Significantly higher compared to older populations",
+            "D": "Not specified"
+        },
+        "question": "What percentage of patients under 33 months old with focal seizures showed abnormal findings on an imaging study?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 934,
+            "paragraph_id": "978-0071484800-p934-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "30%",
+            "D": "50%"
+        },
+        "question": "What percentage of children with Henoch-Sch\u00f6nlein Purpura experience episodic abdominal pain and gastrointestinal symptoms?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 913,
+            "paragraph_id": "978-0071484800-p913-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Breastfed babies have 1 stool/day, and formula-fed babies have 2 stools/day.",
+            "B": "reastfed babies have 1 stool/day, and formula-fed babies have 2 stools/day.\nB: Both breastfed and formula-fed babies have around 2 stools/day on average.",
+            "C": "Breastfed babies have a mean of 2.9 stools/day, while formula-fed babies have approximately 2 stools/day.",
+            "D": "Formula-fed babies have 3 stools/day, and breastfed babies have 1.5 stools/day."
+        },
+        "question": "What is the approximate average number of stools per day for a breastfed baby compared to a formula-fed baby?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 907,
+            "paragraph_id": "978-0071484800-p907-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Decreased eye contact with some preservation of motor activity",
+            "B": "Being responsive to verbal stimuli but having difficulty with complex tasks",
+            "C": "Unresponsiveness to verbal or physical stimulation",
+            "D": "ecreased eye contact with some preservation of motor activity \nB: Being responsive to verbal stimuli but having difficulty with complex tasks \nC: Unresponsiveness to verbal or physical stimulation \nD: Having reduced awareness but still capable of following simple commands"
+        },
+        "question": "What characterizes the condition of being comatose?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 946,
+            "paragraph_id": "978-0071484800-p946-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Age alone",
+            "B": "Location and severity of pain",
+            "C": "Degree of deformity and presence of rotational deformity",
+            "D": "egree of deformity and presence of rotational deformity  \nD: Presence of swelling alone"
+        },
+        "question": "What determines the need for immediate referral and reduction for a child with a fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 961,
+            "paragraph_id": "978-0071484800-p961-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Abdominal pain and nausea",
+            "B": "Effortless vomiting but no gastrointestinal complaints",
+            "C": "Fever and focal neurological signs",
+            "D": "Photophobia and phonophobia"
+        },
+        "question": "What is characteristic of headaches indicative of elevated intracranial pressure?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 943,
+            "paragraph_id": "978-0071484800-p943-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Using a microscope",
+            "B": "Utilizing a stethoscope",
+            "C": "Employing a colposcope or handheld lens",
+            "D": "Applying X-ray technology"
+        },
+        "question": "What method might be used to visualize and photograph the external genital area during a medical examination for signs of abuse?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2105,
+            "paragraph_id": "978-0071484800-p2105-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Using neuroleptics as a primary method due to their effectiveness in controlling psychosis",
+            "B": "Administering sedative-hypnotic agents in sufficient doses to quickly control agitation",
+            "C": "Implementing physical restraints as the primary form of management",
+            "D": "Prescribing propofol infusion immediately upon presentation"
+        },
+        "question": "What is typically recommended for managing agitation in alcohol withdrawal delirium?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2097,
+            "paragraph_id": "978-0071484800-p2097-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "0.0% to 50%",
+            "B": "0.0% to 26.3%",
+            "C": "3.9% to 40%",
+            "D": "30% to 60%"
+        },
+        "question": "What percentage range was reported for Neisseria gonorrhoeae among populations studied regarding sexually transmitted infections?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2109,
+            "paragraph_id": "978-0071484800-p2109-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Reduced tolerance to benzodiazepines",
+            "B": "Increased efficacy of the medication",
+            "C": "Withdrawal syndrome similar to that with alcohol withdrawal",
+            "D": "Immediate relief from anxiety"
+        },
+        "question": "What is a potential consequence of abruptly stopping benzodiazepines after long-term use?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2083,
+            "paragraph_id": "978-0071484800-p2083-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Less than 5%",
+            "B": "Between 5% to 21%",
+            "C": "More than 25%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of patients with conversion disorder also exhibit dependent personality disorder?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2093,
+            "paragraph_id": "978-0071484800-p2093-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Strict adherence to a universal hemoglobin threshold",
+            "B": "Institutional protocols and the child's overall condition rather than a fixed lab value",
+            "C": "Severity of symptoms related to other aspects of their leukemia diagnosis",
+            "D": "Parental preference"
+        },
+        "question": "What typically determines whether a child with leukemia receives a blood transfusion for anemia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 991,
+            "paragraph_id": "978-0071484800-p991-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Oral temperature greater than 39\u00b0C (102.2\u00b0F) sustained over several hours",
+            "B": "Axillary temperature of more than 37.6\u00b0C (99.7\u00b0F) recorded twice in a row",
+            "C": "(102.2\u00b0F) sustained over several hours\nB: Axillary temperature of more than 37.6\u00b0C (99.7\u00b0F) recorded twice in a row\nC: Single oral temperature higher than 38.3\u00b0C (101\u00b0F), or a temperature of at least 38.0\u00b0C (100.4\u00b0F) for more than 1 hour",
+            "D": "Rectal temperature exceeding 38.8\u00b0C (101.8\u00b0F)"
+        },
+        "question": "What defines fever in a neutropenic episode according to conservative definitions?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 998,
+            "paragraph_id": "978-0071484800-p998-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Ottawa knee rules",
+            "B": "Toddler's fracture classification",
+            "C": "Salter-Harris classification system",
+            "D": "Proximal tibia fracture classification"
+        },
+        "question": "What classification system categorizes fractures involving the growth plate into different levels of severity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 965,
+            "paragraph_id": "978-0071484800-p965-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Pyelonephritis diagnosis",
+            "B": "Urinary tract infections detection",
+            "C": "Evaluation of renal graft function",
+            "D": "Assessment of liver enzyme activity"
+        },
+        "question": "What condition requires the measurement of cyclosporine or tacrolimus blood levels in patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2142,
+            "paragraph_id": "978-0071484800-p2142-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 10%",
+            "B": "Approximately 25%",
+            "C": "Approximately 40%",
+            "D": "Approximately 50%"
+        },
+        "question": "What percentage of injection drug use-related osteomyelitis cases involve the vertebral column?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2129,
+            "paragraph_id": "978-0071484800-p2129-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased level of immunosuppressive medications",
+            "B": "Hypoalbuminemia",
+            "C": "Reduced exercise tolerance",
+            "D": "Recent vaccination"
+        },
+        "question": "Which factor significantly contributes to peripheral edema in transplant patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2134,
+            "paragraph_id": "978-0071484800-p2134-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of high levels of urinary ketones along with hypoglycemia.",
+            "B": "Absence of urinary ketones alongside hypoglycemia.",
+            "C": "High levels of lactate and pyruvate.",
+            "D": "Significant elevation of plasma ammonia concentration."
+        },
+        "question": "What indicates a potential fatty acid oxidation defect in cases where there might be hypoglycemia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1012,
+            "paragraph_id": "978-0071484800-p1012-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "0.5 to 1 mg/kg/day for up to 2 weeks",
+            "B": "1 to 2 milligrams/kg/d for 2 to 4 weeks",
+            "C": "2 to 3 milligrams/kg/d for 4 to 6 weeks",
+            "D": "3 to 4 milligrams/kg/d for 6 to 8 weeks"
+        },
+        "question": "What is the typical dosage of prednisone administered to treat Childhood ITP?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1008,
+            "paragraph_id": "978-0071484800-p1008-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 20 and 25 mEq",
+            "B": "etween 20 and 25 mEq\nB: Between 30 and 40 mEq",
+            "C": "Between 45 and 55 mEq",
+            "D": "Between 60 and 70 mEq"
+        },
+        "question": "When managing diabetic ketoacidosis in children, what amount of potassium is generally added to each liter of maintenance fluids?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1022,
+            "paragraph_id": "978-0071484800-p1022-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Only the Delfi EMT tourniquet made by Delfi Medical Innovations, Inc.",
+            "B": "Both the Combat Application Tourniquet and the Delfi EMT tourniquet",
+            "C": "ombat Application Tourniquet and the Delfi EMT tourniquet\nC: Neither the Combat Application Tourniquet nor the Delfi EMT tourniquet",
+            "D": "elfi EMT tourniquet made by Delfi Medical Innovations, Inc.\nB: Both the Combat Application Tourniquet and the Delfi EMT tourniquet\nC: Neither the Combat Application Tourniquet nor the Delfi EMT tourniquet\nD: Just the Combat Application Tourniquet manufactured by Composite Resources"
+        },
+        "question": "What types of tourniquets are suggested for inclusion in a trauma pack?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2162,
+            "paragraph_id": "978-0071484800-p2162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 40% to 50%",
+            "B": "etween 40% to 50%\nB: From 20% to 30%",
+            "C": "More than 70%",
+            "D": "Less than 10%"
+        },
+        "question": "What percentage of Americans currently have completed some form of advance directive?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2157,
+            "paragraph_id": "978-0071484800-p2157-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Morbidly obese patients should always change into hospital-issued attire immediately upon arrival.",
+            "B": "They should never be allowed to wear their own clothes due to potential obstruction of care.",
+            "C": "Patients should be permitted to wear their own night clothing unless it interferes with treatment.",
+            "D": "Hospital policy dictates that all morbidly obese patients must undress completely before receiving care."
+        },
+        "question": "What is generally recommended regarding the handling of morbidly obese patients' attire during their visit to the emergency department?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2153,
+            "paragraph_id": "978-0071484800-p2153-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "It experiences significant enhancement due to the procedure.",
+            "B": "There is no change in the sympathetic and parasympathetic innervation.",
+            "C": "The denervated heart lacks sympathetic and parasympathetic innervation.",
+            "D": "Only the sympathetic innervation is affected while parasympathetic remains intact."
+        },
+        "question": "What happens to the denervated heart's sympathetic and parasympathetic innervation during a heart transplantation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2146,
+            "paragraph_id": "978-0071484800-p2146-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Between 1.2 and 1.6 mEq/L",
+            "B": "etween 1.2 and 1.6 mEq/L  \nB: Between 1.5 and 2.2 mEq/L",
+            "C": "Between 2.0 and 2.8 mEq/L",
+            "D": "Between 1.0 and 1.8 mEq/L"
+        },
+        "question": "What would be the typical range for normal serum magnesium levels?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1037,
+            "paragraph_id": "978-0071484800-p1037-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "5%",
+            "B": "11%",
+            "C": "18%",
+            "D": "22%"
+        },
+        "question": "What percentage of adolescents are estimated to use illicit drugs?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1031,
+            "paragraph_id": "978-0071484800-p1031-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "0.05%",
+            "B": "2.3%",
+            "C": "10%",
+            "D": "20%"
+        },
+        "question": "What percentage of all deaths in children is accounted for by sudden unexpected death?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1024,
+            "paragraph_id": "978-0071484800-p1024-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10%",
+            "B": "5%",
+            "C": "16%",
+            "D": "2%"
+        },
+        "question": "What percentage of complications occurred due to pediatric ear foreign-body removal in Brown et al.'s 2004 study?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1038,
+            "paragraph_id": "978-0071484800-p1038-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Limited availability of oxygen cylinders due to logistical challenges",
+            "B": "Potential danger posed by oxygen cylinders creating explosive fragmentation devices",
+            "C": "High cost of transporting oxygen cylinders to combat zones",
+            "D": "Lack of training among personnel in handling oxygen equipment"
+        },
+        "question": "What primary consideration limits the use of supplemental oxygen in a combat setting?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2172,
+            "paragraph_id": "978-0071484800-p2172-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Approximately 50%",
+            "B": "Approximately 60%",
+            "C": "Approximately 70%",
+            "D": "Approximately 80%"
+        },
+        "question": "What percentage of deaths from explosions are attributed to uncontrolled hemorrhage?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2168,
+            "paragraph_id": "978-0071484800-p2168-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of severe pain",
+            "B": "Presence of conditions impairing mental function",
+            "C": "History of successful treatments",
+            "D": "Ability to speak more than one language"
+        },
+        "question": "What factor indicates a potential barrier to assessing a patient's capacity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2176,
+            "paragraph_id": "978-0071484800-p2176-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Studying the application of tourniquets during surgical procedures.",
+            "B": "Evaluating the effectiveness of different types of tourniquets available in hospitals.",
+            "C": "Examining the impact of tourniquet use on patient recovery times following surgery.",
+            "D": "Assessing the role of tourniquets in controlling bleeding and their overall outcome in Operation Iraqi Freedom."
+        },
+        "question": "What was the primary focus regarding prehospital tourniquet use by Beekley and his team?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2175,
+            "paragraph_id": "978-0071484800-p2175-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Primarily on stroke volume",
+            "B": "Primarily on heart rate",
+            "C": "Mainly on blood pressure regulation",
+            "D": "Mostly on respiratory rate"
+        },
+        "question": "What characterizes cardiac output dependence in young infants?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1044,
+            "paragraph_id": "978-0071484800-p1044-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "The severity of the illness prior to death",
+            "B": "Whether the patient had insurance coverage",
+            "C": "The presence of a primary attending physician",
+            "D": "The location where the death occurred"
+        },
+        "question": "What typically determines whether an emergency physician or another healthcare professional fills out a death certificate?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2184,
+            "paragraph_id": "978-0071484800-p2184-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Magnetic Resonance Imaging (MRI)",
+            "B": "Positron Emission Tomography (PET)",
+            "C": "Multidetector Computed Tomography Angiography (MDCTA)",
+            "D": "CTA)\nD: Single Photon Emission Computed Tomography (SPECT)"
+        },
+        "question": "What modality is commonly utilized for the non-invasive detection of coronary artery stenoses?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2196,
+            "paragraph_id": "978-0071484800-p2196-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Patients at high risk for CAD with baseline arrhythmias.",
+            "B": "Young patients without cardiac risk factors and normal ECG findings.",
+            "C": "AD with baseline arrhythmias.\nB: Young patients without cardiac risk factors and normal ECG findings.\nC: Individuals with a known contrast allergy or renal insufficiency.",
+            "D": "with baseline arrhythmias.\nB: Young patients without cardiac risk factors and normal ECG findings.\nC: Individuals with a known contrast allergy or renal insufficiency.\nD: Elderly patients with multiple cardiac risk factors and significant coronary calcifications."
+        },
+        "question": "Which of the following patient profiles would most benefit from undergoing Coronary Computed Tomography Angiography (CCTA) as the initial step in assessing their cardiac condition?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2195,
+            "paragraph_id": "978-0071484800-p2195-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Ertapenem, 1 gram IV every 24 h",
+            "B": "Piperacillin/tazobactam, 4.5 grams IV every 6 h",
+            "C": "Azithromycin, 500 milligrams IV then 250 milligrams IV every 24 h",
+            "D": "Clindamycin, 600\u2013900 milligrams IV every 8 h"
+        },
+        "question": "What initial antibiotic selection would be suitable for treating severe sepsis caused by a suspected urinary source complicated by a urinary catheter in non-neutropenic adults?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1074,
+            "paragraph_id": "978-0071484800-p1074-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Painful defecation, jaundice, and hepatomegaly",
+            "B": "Diarrhea, abdominal cramps, and fever",
+            "C": "Rectal discharge, tenesmus, and diarrhea",
+            "D": "iarrhea, abdominal cramps, and fever\nC: Rectal discharge, tenesmus, and diarrhea\nD: Severe weight loss, night sweats, and lymphadenopathy"
+        },
+        "question": "What is the typical presentation of proctocolitis in AIDS patients?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1100,
+            "paragraph_id": "978-0071484800-p1100-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Greater than 37.5\u00b0C (99.5\u00b0F)",
+            "B": "Greater than 38.3\u00b0C (100.9\u00b0F)",
+            "C": "(99.5\u00b0F)\nB: Greater than 38.3\u00b0C (100.9\u00b0F)\nC: Greater than 39.5\u00b0C (103.1\u00b0F)",
+            "D": "Greater than 41.0\u00b0C (105.8\u00b0F)"
+        },
+        "question": "What is the typical temperature threshold above which a clinician might suspect septic shock in an adult?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1068,
+            "paragraph_id": "978-0071484800-p1068-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "An infection plus two or more criteria for Systemic Inflammatory Response Syndrome (SIRS)",
+            "B": "Persistent arterial hypotension unexplained by other causes",
+            "C": "A decrease in left and right ventricular ejection fractions with an increase in end-diastolic and end-systolic volume indices",
+            "D": "Mental status changes ranging from mild disorientation to confusion"
+        },
+        "question": "What defines septic shock according to the provided definitions?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1065,
+            "paragraph_id": "978-0071484800-p1065-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Administering local anesthesia to numb the area where the MRI machine makes contact with the body",
+            "B": "Placing a mirror inside the scanner bore to allow the patient to view outside the gantry and directing their gaze towards the open environment",
+            "C": "Increasing the volume of the music played during the scan to distract the patient from the enclosed space",
+            "D": "Completely enclosing the patient's head and torso in a blanket to reduce anxiety"
+        },
+        "question": "What approach is recommended for managing claustrophobia in patients undergoing an MRI exam?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2218,
+            "paragraph_id": "978-0071484800-p2218-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Radiograph",
+            "B": "T2-weighted MRI scan",
+            "C": "Coronary CT scan",
+            "D": "Coronal T1-weighted image"
+        },
+        "question": "What imaging modality is specifically described as being able to demonstrate a nondisplaced femoral neck fracture?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2213,
+            "paragraph_id": "978-0071484800-p2213-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Immediate postexposure prophylaxis is administered regardless of symptoms.",
+            "B": "The animal is quarantined for further evaluation but no immediate action is taken towards the person.",
+            "C": "The animal is confined and observed for 10 days, during which time postexposure prophylaxis begins only if the animal shows signs of rabies.",
+            "D": "Euthanasia is performed on the animal followed by testing for rabies virus."
+        },
+        "question": "What action is taken regarding a healthy dog, cat, or ferret that bites a person according to the CDC recommendation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1113,
+            "paragraph_id": "978-0071484800-p1113-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It is marked by a complete lack of neurological symptoms.",
+            "B": "It includes two forms - furious and paralytic rabies, with furious being more common.",
+            "C": "It typically starts with severe gastrointestinal issues.",
+            "D": "It is defined by an immediate onset of coma."
+        },
+        "question": "What characterizes the acute neurologic phase of rabies?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1116,
+            "paragraph_id": "978-0071484800-p1116-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "100 mg PO, 30 minutes before procedure",
+            "B": "250 mg PO, 30 minutes before procedure",
+            "C": "500 mg PO, 30 minutes before procedure",
+            "D": "2 grams PO, 30\u201360 min before procedure"
+        },
+        "question": "For patients at high risk of developing endocarditis undergoing dental procedures involving manipulation of either gingival tissue or the periapical region of teeth, what dose of amoxicillin is recommended if they are able to take oral antibiotics?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1107,
+            "paragraph_id": "978-0071484800-p1107-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Normal anatomy of the female reproductive system",
+            "B": "Presence of an ovarian cyst causing abdominal pain",
+            "C": "Imaging characteristics of a pelvic hematoma",
+            "D": "Diagnostic criteria for urinary tract infections"
+        },
+        "question": "What does Figure 299.4-4 illustrate regarding imaging findings related to a condition affecting the pelvic area?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2225,
+            "paragraph_id": "978-0071484800-p2225-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Presence of lung sliding sign and barcode sign together",
+            "B": "Absence of lung sliding sign combined with the presence of the barcode sign",
+            "C": "Barcode sign alone indicates healthy lung function",
+            "D": "Lung sliding sign is always absent regardless of the condition"
+        },
+        "question": "What is typically observed when performing ultrasonography to diagnose pneumothorax?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2224,
+            "paragraph_id": "978-0071484800-p2224-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Approximately 50%",
+            "B": "Approximately 80%",
+            "C": "Approximately 20%",
+            "D": "Approximately 90%"
+        },
+        "question": "What percentage of distal deep venous thrombosis cases are expected to progress proximally?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2238,
+            "paragraph_id": "978-0071484800-p2238-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "50%",
+            "B": "60%",
+            "C": "75%",
+            "D": "80%"
+        },
+        "question": "What percentage of patients can have a diagnosis of intrauterine pregnancy or ectopic pregnancy established via transvaginal sonography at the time of their initial presentation?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2230,
+            "paragraph_id": "978-0071484800-p2230-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Inhibition of prostacyclin synthesis leading to vasoconstriction.",
+            "B": "Uncoupling of oxidative phosphorylation resulting in metabolic acidosis.",
+            "C": "Interference with cellular respiration due to salicylate binding to cytochrome c oxidase.",
+            "D": "Direct inhibition of carbonic anhydrase enzyme activity."
+        },
+        "question": "What is the primary mechanism behind aspirin overdose and toxicity?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2247,
+            "paragraph_id": "978-0071484800-p2247-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "D",
+        "options": {
+            "A": "Between 0% and 4%",
+            "B": "etween 0% and 4%\nB: Between 10% and 12%",
+            "C": "Between 15% and 18%",
+            "D": "Between 5% and 8%"
+        },
+        "question": "What percentage range is projected for the fatality rate of Rocky Mountain Spotted Fever?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1132,
+            "paragraph_id": "978-0071484800-p1132-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Amoxicillin-clavulanate",
+            "B": "Doxycycline or ciprofloxacin",
+            "C": "Trimethoprim-sulfamethoxazole",
+            "D": "oxycycline or ciprofloxacin  \nC: Trimethoprim-sulfamethoxazole  \nD: Tetracycline"
+        },
+        "question": "What medication needs to be administered within 24 hours to treat Pulmonic Plague effectively?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1137,
+            "paragraph_id": "978-0071484800-p1137-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Giardia and Rhodococcus equi",
+            "B": "Salmonella and Campylobacter",
+            "C": "ampylobacter\nC: Bartonella and M. marinum",
+            "D": "T. gondii and Cryptosporidium"
+        },
+        "question": "What are the two most common infections that immunocompromised patients acquire from their pets?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1141,
+            "paragraph_id": "978-0071484800-p1141-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Non-bloody diarrhea in adults",
+            "B": "Mild to moderate non-bloody diarrhea in adults without fever",
+            "C": "Dysentery characterized by fever and bloody diarrhea",
+            "D": "ysentery characterized by fever and bloody diarrhea\nD: Severe dehydration"
+        },
+        "question": "What condition necessitates avoiding antimotility agents due to concerns about prolonging the illness?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1125,
+            "paragraph_id": "978-0071484800-p1125-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Pulmonary Embolism",
+            "B": "Cardiac dysfunction indicative of potential heart failure",
+            "C": "ardiac dysfunction indicative of potential heart failure\nC: Severe dehydration leading to hypovolemia",
+            "D": "Sepsis due to bacterial infection"
+        },
+        "question": "What is indicated by elevated B-type natriuretic peptide levels in patients presenting with suspected acute myocardial ischemia?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2294,
+            "paragraph_id": "978-0071484800-p2294-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Oseltamivir",
+            "B": "Atropine",
+            "C": "Ondansetron",
+            "D": "Oxycodone"
+        },
+        "question": "What medication may be administered during an overdose involving organophosphates?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2298,
+            "paragraph_id": "978-0071484800-p2298-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "To inhibit platelet aggregation.",
+            "B": "To activate protein C in the coagulation pathway.",
+            "C": "in the coagulation pathway.\nC: To stimulate thromboxane production.",
+            "D": "To regulate blood pressure."
+        },
+        "question": "What is the primary function of Protein S?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2305,
+            "paragraph_id": "978-0071484800-p2305-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "10% - 40%",
+            "B": "3% - 80%",
+            "C": "3% - 30%",
+            "D": "15% - 70%"
+        },
+        "question": "What percentage range of mortality rates is reported for Crimean-Congo Hemorrhagic Fever?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1146,
+            "paragraph_id": "978-0071484800-p1146-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Apply caustics or disinfectants directly into the wound",
+            "B": "Irrigate exposed wounds and skin sites with soap and water and flush mucous membranes with saline solution",
+            "C": "Wash exposed wounds and skin sites with soap and water and irrigate mucous membranes with water",
+            "D": "Cover the wound and wait for further instructions"
+        },
+        "question": "What should thoroughly be done immediately after occupational exposure to potentially infectious materials?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1156,
+            "paragraph_id": "978-0071484800-p1156-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "It should be administered immediately after birth for all newborns.",
+            "B": "It should be given as soon as possible after the exposure.",
+            "C": "There's no specified time frame for administering VZIG.",
+            "D": "It is administered annually along with flu vaccinations."
+        },
+        "question": "What measure is taken regarding Varicella-Zoster Immunoglobulin (VZIG) administration timing?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1162,
+            "paragraph_id": "978-0071484800-p1162-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "B",
+        "options": {
+            "A": "Profound invasion of the gastrointestinal walls by Vibrio cholerae",
+            "B": "Sodium pump inhibition in the GI tract by the cholera toxin",
+            "C": "Extensive inflammation of the stomach lining due to acidic pH imbalance",
+            "D": "Direct damage to the kidneys resulting from the infection"
+        },
+        "question": "What is typically involved in causing severe disease in cholera?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 1150,
+            "paragraph_id": "978-0071484800-p1150-para1"
+        },
+        "type": "multiple_choice"
+    },
+    {
+        "correct_answer": "C",
+        "options": {
+            "A": "Vitamin D",
+            "B": "Vitamin E",
+            "C": "Vitamin K",
+            "D": "B: Vitamin E \nC: Vitamin K \nD: Vitamin B"
+        },
+        "question": "What vitamin deficiency may lead to clotting issues due to dependency on this particular vitamin?",
+        "source": {
+            "isbn": "978-0071484800",
+            "page": 2326,
+            "paragraph_id": "978-0071484800-p2326-para1"
+        },
+        "type": "multiple_choice"
     }
 ]

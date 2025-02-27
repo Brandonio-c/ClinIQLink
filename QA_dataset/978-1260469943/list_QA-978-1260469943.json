@@ -1,0 +1,2411 @@
+[
+    {
+        "answer": [
+            "Oxygen atoms of phosphates",
+            "Alcohols",
+            "Carboxylic acids",
+            "Sulfur of thiols",
+            "Nitrogen atoms of amines",
+            "Nitrogen atoms of the imidazole ring of histidine",
+            "Water"
+        ],
+        "options": [
+            "Phosphates",
+            "Alcohols",
+            "Carboxylic acids",
+            "Thiols",
+            "Amines",
+            "Imidazole ring of histidine",
+            "Carbonyls"
+        ],
+        "question": "What types of molecules exhibit nucleophilicity?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 18,
+            "paragraph_id": "978-1260469943-p18-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Aldolase",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Phosphoglycerate kinase",
+            "Pyruvate kinase",
+            "Triose phosphate isomerase",
+            "Glucose-6-phosphate isomerase",
+            "Lactate dehydrogenase",
+            "Hexokinase/glucokinase",
+            "Phosphoglucose isomerase",
+            "Fructose-bisphosphatase",
+            "Dihydroxyacetonephosphate acyltransferase",
+            "Glycogen phosphorylase"
+        ],
+        "options": [
+            "Aldolase",
+            "Enzyme X",
+            "Gluconeogenesis enzyme",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Phosphoglycerate kinase",
+            "Pyruvate kinase",
+            "Triose phosphate isomerase",
+            "Glucose-6-phosphate isomerase",
+            "Lactate dehydrogenase",
+            "Hexokinase/glucokinase",
+            "Phosphoglucose isomerase",
+            "Fructose-bisphosphatase",
+            "Diacetyl-CoA transferase",
+            "Dihydroxyacetonephosphate acyltransferase",
+            "Glycogen phosphorylase"
+        ],
+        "question": "What are the different types of glycolytic enzymes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 2,
+            "paragraph_id": "978-1260469943-p2-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Covalent bonds",
+            "Hydrogen bonds"
+        ],
+        "options": [
+            "Covalent bonds",
+            "Ionic bonds",
+            "Hydrogen bonds",
+            "Peptide bonds",
+            "Disulfide bridges"
+        ],
+        "question": "What types of chemical bonds help stabilize biologic molecules?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 16,
+            "paragraph_id": "978-1260469943-p16-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acids",
+            "Bases"
+        ],
+        "options": [
+            "Strong acids",
+            "Bases",
+            "Salts",
+            "Conjugate bases",
+            "**Answer:**",
+            "Proton donors - Acids",
+            "Proton acceptors - Bases",
+            "Correcting Answer format requirement:"
+        ],
+        "question": "What types of substances act as proton donors or acceptors in chemical reactions involving hydrogen ions and hydroxide ions in water?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 19,
+            "paragraph_id": "978-1260469943-p19-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ion Exchange Chromatography",
+            "Size Exclusion Chromatography",
+            "Reversed Phase Chromatography",
+            "MudPIT"
+        ],
+        "options": [
+            "Ion Exchange Chromatography",
+            "Size Exclusion Chromatography",
+            "Reversed Phase Chromatography",
+            "Two-Dimensional Gel Electrophoresis",
+            "MudPIT",
+            "Mass Spectroscopy"
+        ],
+        "question": "What techniques are specifically utilized in second-generation proteomics?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 41,
+            "paragraph_id": "978-1260469943-p41-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pyrrolysine",
+            "Azetidine-2-carboxylic acid",
+            "Selenocysteine"
+        ],
+        "options": [
+            "Pyrrolysine",
+            "Azetidine-2-carboxylic acid",
+            "L-Cysteine",
+            "Selenocysteine"
+        ],
+        "question": "What types of amino acids are incorporated differently compared to standard amino acids during translation?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 27,
+            "paragraph_id": "978-1260469943-p27-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Enzymes",
+            "Substrates",
+            "Products",
+            "Cofactors",
+            "Inhibitors",
+            "Analogues"
+        ],
+        "options": [
+            "Enzymes",
+            "Substrates",
+            "Products",
+            "Cofactors",
+            "Inhibitors",
+            "Analogues"
+        ],
+        "question": "What are the different types of molecules involved when performing affinity chromatography?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 36,
+            "paragraph_id": "978-1260469943-p36-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carboxylic acid groups",
+            "OH groups",
+            "SH groups",
+            "Amino groups"
+        ],
+        "options": [
+            "Carboxylic acid groups",
+            "Hydroxide (--OH) groups",
+            "Sulfur-containing (--SH) groups",
+            "Amine (-NH2) groups",
+            "Guanidine groups"
+        ],
+        "question": "What types of functional groups exhibit characteristic chemical reactions in amino acids?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 30,
+            "paragraph_id": "978-1260469943-p30-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carbon, Oxygen, Hydrogen"
+        ],
+        "options": [
+            "Carbon, Nitrogen, Oxygen, Sulfur",
+            "Carbon, Oxygen, Hydrogen",
+            "Phosphorus, Sodium, Potassium",
+            "Manganese, Copper, Zinc",
+            "Iron, Calcium, Magnesium"
+        ],
+        "question": "What types of atomic elements do carbohydrate molecules typically consist of?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 23,
+            "paragraph_id": "978-1260469943-p23-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Proteins",
+            "Ribosomal RNAs",
+            "Other types of RNA molecules"
+        ],
+        "options": [
+            "Proteins",
+            "Ribosomal RNAs",
+            "Other types of RNA molecules",
+            "Chemical compounds",
+            "Biological cells"
+        ],
+        "question": "What types of molecules or entities serve as catalysts in chemical reactions according to the given description?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 68,
+            "paragraph_id": "978-1260469943-p68-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alpha Helix",
+            "Beta Sheet",
+            "Loops",
+            "Turns"
+        ],
+        "options": [
+            "Alpha Helix",
+            "Beta Sheet",
+            "Loops",
+            "Turns"
+        ],
+        "question": "What are the primary types of secondary structures found in proteins?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 45,
+            "paragraph_id": "978-1260469943-p45-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alpha Helix",
+            "Beta Sheets",
+            "Loops"
+        ],
+        "options": [
+            "Alpha Helix",
+            "Beta Sheets",
+            "Loops",
+            "Super Secondary Structures"
+        ],
+        "question": "What types of secondary structural elements do proteins consist of?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 46,
+            "paragraph_id": "978-1260469943-p46-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Serine 195",
+            "Histidine 57",
+            "Aspartate 102"
+        ],
+        "options": [
+            "Histidine 10",
+            "Aspartate 50",
+            "Glutamate",
+            "Serine 100",
+            "Histidine 57",
+            "Aspartate 102",
+            "Serine 195",
+            "Trytophan"
+        ],
+        "question": "What are the key residues identified in the catalytic mechanism of chymotrypsin?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 73,
+            "paragraph_id": "978-1260469943-p73-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Competitive inhibition",
+            "Noncompetitive inhibition"
+        ],
+        "options": [
+            "Competitive inhibition",
+            "Noncompetitive inhibition",
+            "Irreversible inhibition",
+            "Mechanism-based inhibition",
+            "Uncompetitive inhibition"
+        ],
+        "question": "What types of inhibition do mechanism-based inhibitors exhibit?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 90,
+            "paragraph_id": "978-1260469943-p90-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Competitive inhibitors acting through competition for the active site, specifically those referred to here as competitive inhibitors and their action mechanism"
+        ],
+        "options": [
+            "Competitive inhibitors acting through allosteric control mechanisms",
+            "Simple noncompetitive inhibitors affecting enzyme-substrate affinity indirectly",
+            "Substrate analogs competing for the active site",
+            "Double-Reciprocal Plot facilitators",
+            "Allosteric modulators"
+        ],
+        "question": "What types of inhibitors reduce the number of free enzyme molecules available to bind substrates?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 89,
+            "paragraph_id": "978-1260469943-p89-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Destroy or impair the growth, invasiveness, or development of invading pathogens",
+            "Stimulate endogenous defense mechanisms",
+            "Halt or impede aberrant molecular processes triggered by genetic, environmental, or biological stimuli with minimal perturbation of the host's normal cellular functions"
+        ],
+        "options": [
+            "Destroy pathogens",
+            "Stimulate endogenous defense mechanisms",
+            "Impair bacterial cell walls",
+            "Block viral replication",
+            "Reduce blood pressure"
+        ],
+        "question": "What goals does pharmacology aim to achieve?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 92,
+            "paragraph_id": "978-1260469943-p92-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chymotrypsin",
+            "Pro-chymotrypsin",
+            "Pi-chymotrypsin",
+            "Alpha-chymotrypsin"
+        ],
+        "options": [
+            "Chymotrypsin",
+            "Pro-chymotrypsin",
+            "Pi-chymotrypsin",
+            "Alpha-chymotrypsin"
+        ],
+        "question": "What enzymes undergo selective proteolytic cleavage events during their activation?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 100,
+            "paragraph_id": "978-1260469943-p100-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Iron (Fe)",
+            "Zinc (Zn)",
+            "Copper (Cu)",
+            "Nickel (Ni)",
+            "Manganese (Mn)",
+            "Molybdenum"
+        ],
+        "options": [
+            "Iron (Fe)",
+            "Zinc (Zn)",
+            "Copper (Cu)",
+            "Nickel (Ni)",
+            "Manganese (Mn)",
+            "Molybdenum",
+            "Cobalt"
+        ],
+        "question": "What metals are associated with biologically important metalloproteins?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 110,
+            "paragraph_id": "978-1260469943-p110-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Iron (Fe)",
+            "Manganese (Mn)",
+            "Zinc (Zn)",
+            "Cobalt (Co)",
+            "Copper (Cu)",
+            "Nickel (Ni)",
+            "Molybdenum (Mo)",
+            "Vanadium (V)",
+            "Chromium (Cr)"
+        ],
+        "options": [
+            "Iron (Fe)",
+            "Manganese (Mn)",
+            "Zinc (Zn)",
+            "Cobalt (Co)",
+            "Copper (Cu)",
+            "Nickel (Ni)",
+            "Molybdenum (Mo)",
+            "Vanadium (V)",
+            "Chromium (Cr)",
+            "Selenium"
+        ],
+        "question": "What transition metals are crucial for maintaining human health through ingestion at trace levels?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 105,
+            "paragraph_id": "978-1260469943-p105-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dioxygenases incorporating both atoms of molecular oxygen",
+            "Monooxygenases incorporating one atom of molecular oxygen"
+        ],
+        "options": [
+            "Dioxygenases incorporating one atom of molecular oxygen",
+            "Monooxygenases incorporating both atoms of molecular oxygen",
+            "Dioxygenases incorporating both atoms of molecular oxygen",
+            "Monooxygenases incorporating one atom of molecular oxygen"
+        ],
+        "question": "What types of molecular oxygen incorporation into a substrate molecule are facilitated by oxygenases?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 128,
+            "paragraph_id": "978-1260469943-p128-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Respiration",
+            "Incorporation of oxygen into various substrates through oxygenases"
+        ],
+        "options": [
+            "Dehydrogenations",
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation",
+            "Oxygen incorporation via oxygenases",
+            "Cytochrome P450 system activity",
+            "Superoxide dismutation",
+            "Cellular signaling"
+        ],
+        "question": "What biochemical processes depend absolutely on a supply of molecular oxygen?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 124,
+            "paragraph_id": "978-1260469943-p124-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Availability of ADP",
+            "Concentration of inorganic phosphate",
+            "Capacity of the respiratory chain becoming saturated",
+            "Decrease in PO2 below the Km for heme a3"
+        ],
+        "options": [
+            "Concentration of inorganic phosphate",
+            "Capacity of the respiratory chain becoming saturated",
+            "Decrease in PO2 below the Km for heme a3",
+            "Availability of ADP",
+            "Uncouplers affecting oxidative phosphorylation"
+        ],
+        "question": "What factors control the rate of functioning of the respiratory chain under various conditions according to biological principles?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 136,
+            "paragraph_id": "978-1260469943-p136-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Creatine phosphate",
+            "Arginine phosphate"
+        ],
+        "options": [
+            "Phosphocreatine",
+            "Arginine phosphate",
+            "Pyrimidine nucleotide",
+            "Glyceryl-3-phosphate",
+            "Lactate"
+        ],
+        "question": "What types of compounds serve as storage forms of group transfer potential?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 122,
+            "paragraph_id": "978-1260469943-p122-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins/Amino Acids",
+            "Alcohol",
+            "Fiber"
+        ],
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins/Amino Acids",
+            "Alcohol",
+            "Vitamins/Minerals",
+            "Fiber",
+            "Water",
+            "Fats/Oils"
+        ],
+        "question": "What types of nutrients provide calories in the human diet?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 142,
+            "paragraph_id": "978-1260469943-p142-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glycogenesis",
+            "Deamination",
+            "Gluconeogenesis",
+            "Lipolysis"
+        ],
+        "options": [
+            "Glycogenesis",
+            "Lipolysis",
+            "Deamination",
+            "Gluconeogenesis",
+            "Ureotelism",
+            "Oxidation"
+        ],
+        "question": "What processes occur after absorption of different types of nutrients?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 146,
+            "paragraph_id": "978-1260469943-p146-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Maltose",
+            "Sucrose",
+            "Lactose"
+        ],
+        "options": [
+            "Maltose",
+            "Sucrose",
+            "Lactose",
+            "Glucose",
+            "Fructose",
+            "Galactose"
+        ],
+        "question": "What types of disaccharides are specifically identified as important?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 160,
+            "paragraph_id": "978-1260469943-p160-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type 1 diabetes mellitus",
+            "Type II diabetes",
+            "Gestational diabetes"
+        ],
+        "options": [
+            "Insulin Resistance Diabetes",
+            "Type I Diabetes Mellitus",
+            "Hyperinsulinemia Diabetes",
+            "Lactic Acidosis Diabetes",
+            "Type II Diabetes",
+            "Gestational Diabetes"
+        ],
+        "question": "What types of diabetes are commonly identified?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 155,
+            "paragraph_id": "978-1260469943-p155-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Bisphosphoglycerate mutase",
+            "2,3-Bisphosphoglycerate phosphatase"
+        ],
+        "options": [
+            "Phosphoglycerate kinase",
+            "Bisphosphoglycerate mutase",
+            "Dihydrolipoyl transacetylase",
+            "Pyruvate dehydrogenase",
+            "2,3-Bisphosphoglycerate phosphatase"
+        ],
+        "question": "What enzymes are involved in converting 1,3-bisphosphoglycerate through to 3-phosphoglycerate in erythrocytes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 177,
+            "paragraph_id": "978-1260469943-p177-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hexokinase",
+            "Glucokinase",
+            "Phosphoglucose isomerase",
+            "Aldolase",
+            "Triose phosphate isomerase",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Phosphofructokinase",
+            "Fructose bisphosphatase",
+            "Phosphoglycerate kinase",
+            "Phosphoglyceromutase",
+            "Enolase",
+            "Pyruvate kinase",
+            "Lactate dehydrogenase"
+        ],
+        "options": [
+            "Hexokinase",
+            "Glucokinase",
+            "Phosphoglucose isomerase",
+            "Aldolase",
+            "Triose phosphate isomerase",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Phosphofructokinase",
+            "Fructose bisphosphatase",
+            "Dihydroxyacetone phosphate",
+            "Phosphoglycerate kinase",
+            "Phosphoglyceromutase",
+            "Enolase",
+            "Pyruvate kinase",
+            "Lactate dehydrogenase"
+        ],
+        "question": "What enzymes are involved in the process described?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 174,
+            "paragraph_id": "978-1260469943-p174-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Alanine",
+            "Cysteine",
+            "Glycine",
+            "Hydroxyproline",
+            "Serine",
+            "Threonine",
+            "Tryptophan"
+        ],
+        "options": [
+            "Asparagine",
+            "Cysteine",
+            "Glycine",
+            "Histidine",
+            "Hydroxyproline",
+            "Isoleucine",
+            "Serine",
+            "Threonine",
+            "Tryptophan"
+        ],
+        "question": "What substances contribute to gluconeogenesis by yielding pyruvate?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 169,
+            "paragraph_id": "978-1260469943-p169-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Changes in the rate of enzyme synthesis",
+            "Cova\ue03dent modification by reversible phosphorylation",
+            "Allosteric effects"
+        ],
+        "options": [
+            "Changes in the rate of enzyme synthesis",
+            "Cova\ue03dent modification by reversible phosphorylation",
+            "Allosteric effects",
+            "Hormone regulation alone",
+            "Feedback inhibition alone",
+            "Gene expression modulation"
+        ],
+        "question": "What mechanisms regulate the activity of enzymes concerned in carbohydrate metabolism?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 192,
+            "paragraph_id": "978-1260469943-p192-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glycogen phosphorylase",
+            "Glycogen synthase"
+        ],
+        "options": [
+            "Acetyl-CoA carboxylase",
+            "Glycogen synthase",
+            "Glycogen phosphorylase",
+            "Pyruvate kinase"
+        ],
+        "question": "What key enzymes are involved in the regulation of glycogen metabolism?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 184,
+            "paragraph_id": "978-1260469943-p184-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Autonomic and/or neuroglycopenic symptoms"
+        ],
+        "options": [
+            "Neurological symptoms",
+            "Autonomic and/or neuroglycopenic symptoms",
+            "Cardiovascular symptoms",
+            "Respiratory symptoms"
+        ],
+        "question": "What types of symptoms occur due to non-severe hypoglycemia events?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 187,
+            "paragraph_id": "978-1260469943-p187-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Impaired insulin secretion due to destruction of pancreatic cells",
+            "Reduced sensitivity of tissues to insulin action combined with relatively impaired insulin secretion"
+        ],
+        "options": [
+            "Impaired insulin secretion due to destruction of pancreatic cells",
+            "Reduced sensitivity of tissues to insulin action combined with relatively impaired insulin secretion",
+            "Increased glucose intake leading to excessive blood sugar levels",
+            "High birth weight babies having low adipose tissue",
+            "Frequent urination resulting from high glucose concentrations"
+        ],
+        "question": "What conditions lead to impaired glucose tolerance?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 198,
+            "paragraph_id": "978-1260469943-p198-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Glucose-6-phosphate dehydrogenase",
+            "Gluconolactone hydrolase",
+            "6-Phosphogluconate dehydrogenase"
+        ],
+        "options": [
+            "Glucose-6-phosphate dehydrogenase",
+            "Gluconolactone hydrolase",
+            "6-Phosphogluconate dehydrogenase",
+            "Ribulose-5-phosphate epimerase",
+            "Transaldolase"
+        ],
+        "question": "What enzymes participate in the oxidative phase of the described metabolic pathway?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 202,
+            "paragraph_id": "978-1260469943-p202-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pentose phosphate pathway",
+            "Entner-Doudoroff pathway",
+            "Embden-Meyerhof-Parnas pathway"
+        ],
+        "options": [
+            "Pentose phosphate pathway",
+            "Citric Acid Cycle",
+            "Entner-Doudoroff pathway",
+            "Embden-Meyerhof-Parnas pathway",
+            "Krebs cycle"
+        ],
+        "question": "What types of glycolytic pathways exist?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 219,
+            "paragraph_id": "978-1260469943-p219-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hereditary fructose intolerance",
+            "Galactosemia"
+        ],
+        "options": [
+            "Hereditary fructose intolerance",
+            "Diabetes mellitus",
+            "Gastritis",
+            "Hypertension",
+            "Galactosemia"
+        ],
+        "question": "What conditions result from hereditary disorders related to carbohydrate metabolism?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 209,
+            "paragraph_id": "978-1260469943-p209-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hexokinase and glucose-6-phosphatase",
+            "Phosphofructokinase and fructose 1,6-bisphosphatase"
+        ],
+        "options": [
+            "Hexokinase and glucose-6-phosphatase",
+            "Glucokinase and fructose 1,6-bisphosphatase",
+            "Glycogen synthase and glycogen phosphorylase",
+            "Pyruvate dehydrogenase and phosphofructokinase",
+            "Sucrase-isomaltase"
+        ],
+        "question": "What enzymes catalyze key steps in glycolysis and gluconeogenesis according to the given descriptions?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 211,
+            "paragraph_id": "978-1260469943-p211-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Malonyl acetyl transacylase",
+            "3-Ketoacyl synthase",
+            "3-Ketoacyl-reductase",
+            "Dehydratase",
+            "Enoyl reductase",
+            "Thioesterase (deacylase)"
+        ],
+        "options": [
+            "Malonyl acetyl transacylase",
+            "Carboxyl transferase",
+            "Thioesterase (deacylase)",
+            "3-Ketoacyl synthase",
+            "Dehydratase",
+            "Enoyl reductase",
+            "Biotin carboxylase",
+            "Biocatalyst",
+            "Lipooxygenase"
+        ],
+        "question": "What distinct enzymatic activities does the fatty acid synthase complex possess?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 236,
+            "paragraph_id": "978-1260469943-p236-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acetyl-CoA Carboxylase",
+            "Pyruvate Dehydrogenase"
+        ],
+        "options": [
+            "Pyruvate Dehydrogenase",
+            "Acetyl-CoA Carboxylase",
+            "Glucagon"
+        ],
+        "question": "What are the names of enzymes mentioned in the given chapter about biosynthesis of fatty acids & eicosanoids that play roles in regulating lipogenesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 240,
+            "paragraph_id": "978-1260469943-p240-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carnitine",
+            "CoA",
+            "Acylcarnitine",
+            "Carnitine Palmitoyltransferase-I",
+            "Carnitine-Acylcarnitine Translocase"
+        ],
+        "options": [
+            "Carnitine",
+            "CoA",
+            "Acetyl-CoA",
+            "Palmitoyltransferase-I",
+            "Acyl-CoA Synthetase",
+            "Pyruvate"
+        ],
+        "question": "What compounds are involved when transporting long-chain fatty acids across the inner mitochondrial membrane?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 227,
+            "paragraph_id": "978-1260469943-p227-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Triacylglycerol",
+            "Phosphatidycholine",
+            "Phosphatidylethanolamine",
+            "Phosphatidylinositol",
+            "Cardiolipin"
+        ],
+        "options": [
+            "Plasmalogen",
+            "Phosphatidycholine",
+            "Glycerol",
+            "Fatty Acids",
+            "Diacylglycerol",
+            "Cardiolipin",
+            "Triacylglycerol"
+        ],
+        "question": "What types of lipids are primarily derived from glycerol-3-phosphate?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 249,
+            "paragraph_id": "978-1260469943-p249-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Adipose Tissue",
+            "Heart",
+            "Muscle"
+        ],
+        "options": [
+            "Liver",
+            "Muscle",
+            "Skin",
+            "Lung",
+            "Spleen",
+            "Renal Medulla",
+            "Diaphragm",
+            "Lymph nodes",
+            "Adipose Tissue",
+            "Mammary Gland"
+        ],
+        "question": "What types of tissues receive the majority of fatty acids derived from chylomicron triacylglycerol?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 260,
+            "paragraph_id": "978-1260469943-p260-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Phospholipase A1",
+            "Phospholipase A2",
+            "Phospholipase B",
+            "Phospholipase C",
+            "Phospholipase D",
+            "Lysophospholipase",
+            "Glycerylphosphocholine hydrolase",
+            "Lysozyme was removed since there's no mention of this term within our given chapter content but we do find another name, thus adding - Acyltransferase",
+            "Also removing - sn-glycerol 3 phosphate and keeping - Hydrolase due to relevance as they modify compositions/breakdown"
+        ],
+        "options": [
+            "LCAT",
+            "Phospholipase A1",
+            "Phospholipase A2",
+            "Phospholipase B",
+            "Phospholipase C",
+            "Phospholipase D",
+            "Hydrolase"
+        ],
+        "question": "What kinds of enzymes participate in modifying the composition or breaking down phospholipids?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 252,
+            "paragraph_id": "978-1260469943-p252-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "\u03944 position",
+            "\u03945 position",
+            "\u03946 position",
+            "\u03949 position"
+        ],
+        "options": [
+            "\u03941 position",
+            "\u03944 position",
+            "\u03945 position",
+            "\u03946 position",
+            "\u03947 position",
+            "\u03948 position",
+            "\u03949 position",
+            "\u039411 position",
+            "\u039412 position",
+            "\u039413 position",
+            "\u039414 position",
+            "\u039415 position"
+        ],
+        "question": "At positions where double bonds can be introduced in animal fatty acids, what locations are possible?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 242,
+            "paragraph_id": "978-1260469943-p242-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Oxidation to CO2 via acetyl-CoA and the citric acid cycle",
+            "Oxidation in the pentose phosphate pathway",
+            "Conversion to long-chain fatty acids (via acyl-CoA)",
+            "Formation of acylglycerol via glycerol-3-phosphate"
+        ],
+        "options": [
+            "Oxidation to CO2 via acetyl-CoA and the citric acid cycle",
+            "Conversion to glycerol-3-phosphate",
+            "Formation of acylglycerol",
+            "Direct conversion to long-chain fatty acids without intermediates",
+            "Participation in the pentose phosphate pathway"
+        ],
+        "question": "What paths may glucose take once utilized by adipose tissue according to biological processes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 265,
+            "paragraph_id": "978-1260469943-p265-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acetyl-CoA",
+            "Mevalonate",
+            "Isopentenyl diphosphate",
+            "Dimethylallyl diphosphate",
+            "Geranyl diphosphate",
+            "Farnesyl diphosphate",
+            "Squalene",
+            "Lanosterol",
+            "Zymosterol",
+            "Desmosterol"
+        ],
+        "options": [
+            "Acetyl-CoA",
+            "Mevalonate",
+            "Isopentenyl diphosphate",
+            "Dimethylallyl diphosphate",
+            "Geranyl diphosphate",
+            "Farnesyl diphosphate",
+            "Squalene",
+            "Lanosterol",
+            "Zymosterol",
+            "Desmosterol"
+        ],
+        "question": "What are the main intermediates involved in the biosynthesis of cholesterol?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 269,
+            "paragraph_id": "978-1260469943-p269-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "As cholsterol",
+            "As bile acids"
+        ],
+        "options": [
+            "As cholesterin",
+            "As vitamin D",
+            "As glucose",
+            "As bile acids",
+            "As fatty acids"
+        ],
+        "question": "What forms does excess cholesterol get excreted as from the liver?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 278,
+            "paragraph_id": "978-1260469943-p278-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Lysosomes"
+        ],
+        "options": [
+            "Lysosomes",
+            "Peroxisomes",
+            "Mitochondria",
+            "Endoplasmic reticulum"
+        ],
+        "question": "What cellular structures are specifically involved in the process of protein degradation?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 289,
+            "paragraph_id": "978-1260469943-p289-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Proline",
+            "Lysine"
+        ],
+        "options": [
+            "Proline",
+            "Lysine",
+            "Tyrosine",
+            "Phenylalanine",
+            "Methionine"
+        ],
+        "question": "What amino acids can undergo post-translational modification through hydroxylation?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 285,
+            "paragraph_id": "978-1260469943-p285-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Marasmus due to calorie deficiency",
+            "Kwashiorkor resulting from a diet poor in protein",
+            "Menkes syndrome caused by a dietary deficiency of copper",
+            "Scurvy related to a dietary deficiency of vitamin C"
+        ],
+        "options": [
+            "Marasmus due to calorie deficiency",
+            "Kwashiorkor resulting from lack of starch in the diet",
+            "Menkes syndrome caused by low levels of iron",
+            "Scourge linked to insufficient zinc",
+            "Scurvy related to a dietary deficiency of vitamin D",
+            "Growth retardation because of excessive copper consumption",
+            "Short bowel syndrome leading to malabsorption issues",
+            "Poor wound healing attributed to high sugar intake",
+            "Bleeding gums connected to overconsumption of fatty foods"
+        ],
+        "question": "What conditions result from inadequate diets lacking sufficient calories, protein, or vitamins?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 282,
+            "paragraph_id": "978-1260469943-p282-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ammonia",
+            "Renal tubular cells",
+            "Glutamine"
+        ],
+        "options": [
+            "Glutamine",
+            "Ornithine",
+            "Citrulline",
+            "Argininuscinate",
+            "Ammonia",
+            "Carbon dioxide"
+        ],
+        "question": "What substances are involved in the process of maintaining acid-base balance through the formation and secretion of ammonia?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 294,
+            "paragraph_id": "978-1260469943-p294-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Type IA resulting from mutation in the E1\u03b1 gene",
+            "Type IB resulting from mutation in the E1\u03b2 gene",
+            "Type II resulting from mutation in the E2 gene",
+            "Type III resulting from mutation in the E3 gene"
+        ],
+        "options": [
+            "Type IA resulting from mutation in the E1\u03b1 gene",
+            "Type IB resulting from mutation in the E1\u03b2 gene",
+            "Type II resulting from mutation in the E2 gene",
+            "Type III resulting from mutation in the E3 gene",
+            "Isovaleric acidemia due to deficiency in isovaleryl-CoA dehydrogenase",
+            "Maple syrup urine disease caused by defects other than those listed"
+        ],
+        "question": "What types of metabolic disorders associated with branched chain keto acid decarboxylation result from mutations in different parts of the genetic code?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 309,
+            "paragraph_id": "978-1260469943-p309-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Histidine",
+            "Serine",
+            "Alanine",
+            "Glycine",
+            "Threonine",
+            "Hydroxyproline"
+        ],
+        "options": [
+            "Histidine",
+            "Serine",
+            "Alanine",
+            "Glycine",
+            "Threonine",
+            "Hydroxyproline"
+        ],
+        "question": "What amino acids undergo catabolism processes described in this chapter?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 302,
+            "paragraph_id": "978-1260469943-p302-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Tryptophan",
+            "Tyrosine",
+            "Serine"
+        ],
+        "options": [
+            "Tryptophan",
+            "Tyrosine",
+            "Serine",
+            "Glycine"
+        ],
+        "question": "What amino acids serve as precursors for other compounds?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 319,
+            "paragraph_id": "978-1260469943-p319-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "S-adenosylmethionine",
+            "Decarboxylated S-adenosylmethionine",
+            "Putrescine",
+            "Spermidine",
+            "Spermine",
+            "Methylthio-adenosine"
+        ],
+        "options": [
+            "S-adenosylmethionine",
+            "Putrescine",
+            "Ornithine",
+            "Decarboxylated S-adenosylmethionine",
+            "Methylthio-adenosine",
+            "Sperminidine",
+            "Spermadine"
+        ],
+        "question": "What substances are produced during the process described where methionine serves as a starting material?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 318,
+            "paragraph_id": "978-1260469943-p318-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Uroporphyrinogen I",
+            "Protoporphyrin IX",
+            "Uroporphyrinogen III",
+            "Coproporphyrinogen III",
+            "Protoporphyrinogen III"
+        ],
+        "options": [
+            "Hemoglobin",
+            "Myoglobin",
+            "Cytochrome c",
+            "Uroporphyrinogen I",
+            "Protoporphyrin IX",
+            "Uroporphyrinogen III",
+            "Coproporphyrinogen III",
+            "Protoporphyrinogen III"
+        ],
+        "question": "What substances are classified as porphyrin precursors?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 327,
+            "paragraph_id": "978-1260469943-p327-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Succinyl-CoA",
+            "Glycine",
+            "\u03b4-Aminolevulinate",
+            "Porphobilinogen",
+            "Hydroxymethylbilane",
+            "Uroporphyrinogen III",
+            "Pyridoxal phosphate"
+        ],
+        "options": [
+            "Succinyl-CoA",
+            "Glycine",
+            "\u03b4-Aminolevulinate",
+            "Porphobilinogen",
+            "Uroporphyrinogen I",
+            "Uroporphyrinogen III",
+            "Hydrogen peroxide",
+            "Hydroxymethylbilane",
+            "Pyridoxal phosphate"
+        ],
+        "question": "What are the key compounds involved in the initiation and progression of heme biosynthesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 325,
+            "paragraph_id": "978-1260469943-p325-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Uroporphyrinogen decarboxylase",
+            "Coproporphyrinogen oxidase",
+            "Protoporphyrinogen oxidase",
+            "Ferrochelatase"
+        ],
+        "options": [
+            "Uroporphyrinogen decarboxylase",
+            "Ferrochelatase",
+            "Prototoporhyrinogen oxidase",
+            "Coproporphyrinogen oxidase",
+            "Hydroxymethylbilane synthase"
+        ],
+        "question": "What enzymes catalyze the final four reactions in the process of heme biosynthesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 326,
+            "paragraph_id": "978-1260469943-p326-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Uridine",
+            "Cytidine",
+            "Thymidine",
+            "Deoxycytidine"
+        ],
+        "options": [
+            "Uridine",
+            "Cytidine",
+            "Thymidine",
+            "Deoxycytidine",
+            "Phosphoryltranseferases (kinases)",
+            "\u03b3-phosphoryl group of ATP",
+            "NDPs",
+            "dNDPs",
+            "AMP",
+            "IMP",
+            "Dihydrofolate",
+            "Tetrahydrofolate derivatives"
+        ],
+        "question": "What are the reactants involved when converting certain nucleosides to their respective nucleotides?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 352,
+            "paragraph_id": "978-1260469943-p352-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Deletions",
+            "Frame-shift mutations",
+            "Base substitutions",
+            "Aberrant mRNA splicing"
+        ],
+        "options": [
+            "Insertion mutations",
+            "Frameshift mutations",
+            "Splice site mutations",
+            "Point mutations",
+            "Gene duplication"
+        ],
+        "question": "What kinds of mutations can affect phosphoribosyltransferase activity?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 354,
+            "paragraph_id": "978-1260469943-p354-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Synthesis from amphibolic intermediates",
+            "Phosphoribosylation of purines",
+            "Phosphorylation of purine nucleosides"
+        ],
+        "options": [
+            "Phosphoribosylation of adenine",
+            "Synthesis from amphibolic intermediates",
+            "Oxidative decarboxylation of glucose",
+            "Phosphorylation of purine nucleosides"
+        ],
+        "question": "What are the main processes contributing to purine nucleotide biosynthesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 347,
+            "paragraph_id": "978-1260469943-p347-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Increasing temperature",
+            "Decreasing solution salt concentrations",
+            "Adding chaotropic agents"
+        ],
+        "options": [
+            "Increasing pH levels",
+            "Decreasing temperature",
+            "Adding chaotropic agents",
+            "Increasing solution salt concentrations",
+            "Decreasing solution salt concentrations"
+        ],
+        "question": "What methods can be employed to cause the denaturation of DNA?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 360,
+            "paragraph_id": "978-1260469943-p360-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "5S rRNA, 5.8S rRNA, and 28S rRNA in the large subunit",
+            "18S rRNA in the small subunit"
+        ],
+        "options": [
+            "Only 18S rRNA",
+            "Both 5S rRNA and 28S rRNA but no others",
+            "5S rRNA, 5.8S rRNA, and 28S rRNA in the large subunit and 18S rRNA in the small subunit",
+            "16S rRNA, 23S rRNA, and 5S rRNA"
+        ],
+        "question": "What are the different types of rRNA present within each subunit of a mammalian ribosome?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 365,
+            "paragraph_id": "978-1260469943-p365-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Unequal crossover",
+            "Transposition",
+            "Gene conversion"
+        ],
+        "options": [
+            "Unequal crossover",
+            "Transposition",
+            "Gene conversion",
+            "Mutation",
+            "Epigenetic modification"
+        ],
+        "question": "What mechanisms affect rapid changes in the genetic material?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 380,
+            "paragraph_id": "978-1260469943-p380-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acetylation of histones H3 and H4",
+            "Phosphorylation of histone H1",
+            "ADP-ribosylation of histones",
+            "Methylation of histones",
+            "Monoubiquitylation of histones",
+            "Sumoylation of histones",
+            "Replacement of H2A with alternative H2AZ",
+            "Alternative acylations of histones"
+        ],
+        "options": [
+            "Acetylation of histones H3 and H4",
+            "Phosphorylation of histone H1",
+            "ADP-ribosylation of histones",
+            "Methylation of histones",
+            "Monoubiquitylation of histones",
+            "Sumoylation of histones",
+            "Replacement of H2A with alternative H2AZ",
+            "Alternative acylations of histones"
+        ],
+        "question": "What kinds of post-translational modifications are specifically noted for the different core histones in relation to various biological processes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 372,
+            "paragraph_id": "978-1260469943-p372-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "GC box",
+            "CAAT box",
+            "TATA box",
+            "Inr",
+            "DPE"
+        ],
+        "options": [
+            "GC box",
+            "CAAT box",
+            "TATA box",
+            "Inr",
+            "DPE"
+        ],
+        "question": "What are the names of elements involved in regulating the frequency of transcription?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 401,
+            "paragraph_id": "978-1260469943-p401-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "rRNA",
+            "mRNA",
+            "tRNA",
+            "miRNA",
+            "snRNA",
+            "lncRNA"
+        ],
+        "options": [
+            "rRNA",
+            "mRNA",
+            "tRNA",
+            "miRNA",
+            "snRNA",
+            "lncRNA",
+            "Some other types of RNA",
+            "Other small nucleolar RNAs"
+        ],
+        "question": "What types of products do different forms of mammalian nuclear DNA-dependent RNA polymerases transcribe?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 397,
+            "paragraph_id": "978-1260469943-p397-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Chemical",
+            "Physical",
+            "Biological"
+        ],
+        "options": [
+            "Ionizing radiation",
+            "Environmental chemicals",
+            "Metabolic products",
+            "Ultraviolet light",
+            "X-rays",
+            "Gamma rays",
+            "Oxidative stress",
+            "Errors in replication/recombination/expression"
+        ],
+        "question": "What types of sources cause DNA damage according to the chapter?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 388,
+            "paragraph_id": "978-1260469943-p388-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Messenger RNA (mRNA)",
+            "Ribosomal RNA (rRNA)",
+            "Transfer RNA (tRNA)"
+        ],
+        "options": [
+            "Messenger RNA (mRNA)",
+            "Ribosomal RNA (rRNA)",
+            "Transfer RNA (tRNA)",
+            "Small nuclear RNA (snRNA)",
+            "Micro RNA (miRNA)",
+            "Silencing RNA (siRNA)"
+        ],
+        "question": "What types of RNA molecules are involved in protein synthesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 394,
+            "paragraph_id": "978-1260469943-p394-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "A nonsense codon appearing during transcription",
+            "Deletions of one or two nucleotides causing frameshifts",
+            "Insertions of one or two or non-multiples of three nucleotides"
+        ],
+        "options": [
+            "Frameshift mutations caused by insertions of multiples of three nucleotides",
+            "Missense mutations leading to abnormal function",
+            "Anonsense codon appearing during transcription",
+            "Deletions of one or more nucleotides causing frameshifts",
+            "Insertions of non-multiples of three nucleotides"
+        ],
+        "question": "What types of mutations can cause premature termination of translation due to changes in DNA?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 417,
+            "paragraph_id": "978-1260469943-p417-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Addition of a methyl group",
+            "Polyadenylation at the 3\u2019 terminus",
+            "Methylation of adenosine residues"
+        ],
+        "options": [
+            "Addition of a methyl group",
+            "Synthesis of tRNA molecules",
+            "Polyadenylation at the 3\u2019 terminus",
+            "Methylation of adenosine residues",
+            "Translation initiation factor binding",
+            "Splicing out introns"
+        ],
+        "question": "What types of modifications can occur to messenger RNA after transcription?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 409,
+            "paragraph_id": "978-1260469943-p409-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Nucleic acids"
+        ],
+        "options": [
+            "Nucleic acids",
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Amino acids"
+        ],
+        "question": "What types of molecules make up the genetic code according to the explanation given about their composition?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 413,
+            "paragraph_id": "978-1260469943-p413-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Genetic developmental cues or programs",
+            "Environmental challenges",
+            "Disease",
+            "Transcription control",
+            "Posttranscriptional modifications",
+            "Protein modification",
+            "Epigenetic gene regulation",
+            "Targeted modulation of gene copy number"
+        ],
+        "options": [
+            "Genetic developmental cues or programs",
+            "Environmental challenges",
+            "Disease",
+            "Transcription control",
+            "Posttranscriptional modifications",
+            "Protein modification",
+            "Epigenetic gene regulation",
+            "Targeted modulation of gene copy number",
+            "Nucleic acid sequencing"
+        ],
+        "question": "What methods does an organism utilize to modulate gene expression?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 429,
+            "paragraph_id": "978-1260469943-p429-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Enhancers",
+            "Silencers"
+        ],
+        "options": [
+            "Enhanceosomes",
+            "Enhancers",
+            "Silencers",
+            "Repressors"
+        ],
+        "question": "What types of cis-acting regulatory elements are involved in regulating gene expression?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 444,
+            "paragraph_id": "978-1260469943-p444-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Presence of glucose",
+            "Concentration of glycerol",
+            "Binding of CAP-cAMP complex",
+            "Absence of lactose",
+            "Mutations in the lacI gene"
+        ],
+        "options": [
+            "Presence of glucose",
+            "Concentration of glycerol",
+            "Binding of CAP-cAMP complex",
+            "Absence of lactose",
+            "Mutations in the lacI gene"
+        ],
+        "question": "What factors affect the activity of the lacoperon?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 434,
+            "paragraph_id": "978-1260469943-p434-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Initiation phase",
+            "Elongation phase",
+            "Termination phase"
+        ],
+        "options": [
+            "Initiation phase",
+            "Elongation phase",
+            "Termination phase",
+            "Attachment phase"
+        ],
+        "question": "What are the distinct stages involved in the process of protein biosynthesis?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 424,
+            "paragraph_id": "978-1260469943-p424-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "EcoRI from Escherichia coli",
+            "BamHI from Bacillus amyloliquefaciens",
+            "HindIII from Haemophilus influenzae",
+            "PstI from Providencia stuartii"
+        ],
+        "options": [
+            "EcoRI from Escherichia coli",
+            "BamHI from Bacillus amyloliquefaciens",
+            "HindIII from Haemophilus influenzae",
+            "PstI from Providencia stuartii"
+        ],
+        "question": "What are some examples of restriction enzymes and the bacteria from which they are derived?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 454,
+            "paragraph_id": "978-1260469943-p454-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Plasmid",
+            "Lambda charon 4A",
+            "Cosmids",
+            "BAC",
+            "PAC"
+        ],
+        "options": [
+            "Plasmid",
+            "Lambda charon 4A",
+            "Cosmids",
+            "Bacterial Artificial Chromosomes (BAC)",
+            "Yeast Artificial Chromosomes (YAC)",
+            "E. coli bacteriophage P1-derived artificial chromosomes (PAC)"
+        ],
+        "question": "What are the names of the vectors designed for propagation in bacterial cells?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 458,
+            "paragraph_id": "978-1260469943-p458-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Voltage-gated ion channels",
+            "Ligand-gated ion channels",
+            "Mechanically gated ion channels"
+        ],
+        "options": [
+            "Voltage-gated ion channels",
+            "Ligand-gated ion channels",
+            "Mechanically gated ion channels",
+            "Non-selective ion channels"
+        ],
+        "question": "What types of ion channels are there according to properties listed in TABLE 40\u20135?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 488,
+            "paragraph_id": "978-1260469943-p488-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cholesterol derivatives",
+            "Tyrosine derivatives",
+            "Peptides of various sizes",
+            "Glycoproteins"
+        ],
+        "options": [
+            "Cholesterol derivatives",
+            "Tyrosine derivatives",
+            "Steroid hormones",
+            "Polysaccharides",
+            "Proteins",
+            "Peptides of various sizes",
+            "Glycoproteins"
+        ],
+        "question": "What categories of chemical structures do hormones display?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 501,
+            "paragraph_id": "978-1260469943-p501-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Achondroplasia",
+            "Familial hypercholesterolemia",
+            "Cystic fibrosis",
+            "Congenital long QT syndrome",
+            "Wilson disease",
+            "I-cell disease",
+            "Hereditary spherocytosis",
+            "Metastasis of cancer cells",
+            "Paroxysmal nocturnal hemoglobinuria"
+        ],
+        "options": [
+            "Achondroplasia",
+            "Familial hypercholesterolemia",
+            "Cystic fibrosis",
+            "Congenital long QT syndrome",
+            "Wilson disease",
+            "I-cell disease",
+            "Hereditary spherocytosis",
+            "Metastasis of cancer cells",
+            "Paroxysmal nocturnal hemoglobinuria"
+        ],
+        "question": "What types of diseases result from abnormalities of membrane proteins?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 495,
+            "paragraph_id": "978-1260469943-p495-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Microarray techniques",
+            "High-throughput genomic DNA sequencing",
+            "RNA-Seq",
+            "Ribosome profiling",
+            "Chromatin immunoprecipitation (ChIP)",
+            "Mass spectrometry"
+        ],
+        "options": [
+            "Microarray techniques",
+            "High-throughput genomic DNA sequencing",
+            "Mass spectrometry",
+            "Chromatin immunoprecipitation (ChIP)",
+            "Ribosome profiling",
+            "Two-hybrid interaction test"
+        ],
+        "question": "What are the primary methods used in studying genomics and transcriptomics?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 464,
+            "paragraph_id": "978-1260469943-p464-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Neurotransmitters",
+            "Hormones",
+            "Immunoglobulins"
+        ],
+        "options": [
+            "Neurotransmitters",
+            "Hormones",
+            "Immunoglobulins",
+            "Cholesterol",
+            "Cyclic nucleotides"
+        ],
+        "question": "What are examples of specific biochemical signals transmitted across membranes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 492,
+            "paragraph_id": "978-1260469943-p492-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Phospholipids",
+            "Cholesterol",
+            "Glycosphingolipids"
+        ],
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Cholesterol",
+            "Fatty acids",
+            "Glycosphingolipids",
+            "DNA",
+            "RNA",
+            "ATP",
+            "Glycerides",
+            "Phospholipids"
+        ],
+        "question": "What types of lipids are primarily found in biological membranes?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 476,
+            "paragraph_id": "978-1260469943-p476-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reporter gene",
+            "Enhancer",
+            "\u201cBait\u201d fusion protein (DBD-X)",
+            "\u201cPrey\u201d protein (Y-AD)"
+        ],
+        "options": [
+            "Reporter gene",
+            "Transcription factor",
+            "Enhancer",
+            "Chimeric gene expressing a modular DNA-binding domain (DBD)",
+            "Fusion protein",
+            "Prey protein",
+            "Bait protein"
+        ],
+        "question": "What are the basic components involved in the two-hybrid system described?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 466,
+            "paragraph_id": "978-1260469943-p466-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Peroxisome proliferation",
+            "Lipid and carbohydrate metabolism"
+        ],
+        "options": [
+            "Peroxisome proliferation",
+            "Lipid and carbohydrate metabolism",
+            "Bile acid metabolism",
+            "Xenobiotic protection"
+        ],
+        "question": "What types of processes are affected when peroxisome proliferator-activated receptors (PPARs) and their partners bind fatty acids?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 530,
+            "paragraph_id": "978-1260469943-p530-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Proteins",
+            "Carbohydrates",
+            "Lipids"
+        ],
+        "options": [
+            "Proteins",
+            "Carbohydrates",
+            "Lipids",
+            "Nucleic Acids"
+        ],
+        "question": "What types of macronutrients undergo simultaneous digestion and absorption processes in the gastrointestinal tract?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 537,
+            "paragraph_id": "978-1260469943-p537-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reducing agents",
+            "Vitamin C",
+            "Alcohol",
+            "Fructose"
+        ],
+        "options": [
+            "Vitamin D",
+            "Calcium",
+            "Fructose",
+            "Fiber",
+            "Protein",
+            "Fat",
+            "Carbohydrates",
+            "Alcohol",
+            "Reducing agents",
+            "Vitamin E",
+            "Folate",
+            "Vitamin K",
+            "Iron supplements alone",
+            "Plant foods high in fiber",
+            "Animal products low in fat",
+            "Vitamin C"
+        ],
+        "question": "What factors enhance iron absorption?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 541,
+            "paragraph_id": "978-1260469943-p541-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "DNA synthesis",
+            "Early response gene transcription induction",
+            "Enzyme Activity modification",
+            "Gene Transcription",
+            "Translation",
+            "Cell growth",
+            "Protein Translocation"
+        ],
+        "options": [
+            "Cell death",
+            "DNA replication",
+            "Gluconeogenesis",
+            "Glycolysis",
+            "Lipid metabolism",
+            "Mitosis",
+            "Protein degradation",
+            "DNA synthesis",
+            "Early response gene transcription induction",
+            "Enzyme Activity modification",
+            "Gene Transcription",
+            "Translation",
+            "Cell growth",
+            "Protein Translocation"
+        ],
+        "question": "What biological effects can occur due to insulin signaling?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 526,
+            "paragraph_id": "978-1260469943-p526-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hormones",
+            "Neurotransmitters",
+            "Neuromodulators"
+        ],
+        "options": [
+            "Lipids",
+            "Carbohydrates",
+            "Proteins",
+            "Nucleic Acids",
+            "Hormones",
+            "Neurotransmitters",
+            "Neuromodulators",
+            "Metabolites"
+        ],
+        "question": "What categories of biological molecules comprise the Pro-Opiomelanocortin (POMC) family?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 513,
+            "paragraph_id": "978-1260469943-p513-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Zona glomerulosa",
+            "Zona fasciculata",
+            "Zona reticularis"
+        ],
+        "options": [
+            "Zona medullaris",
+            "Zona glomerulosa",
+            "Zona fasciculata",
+            "Zona reticularis"
+        ],
+        "question": "What are the primary zones within the adrenal gland responsible for synthesizing different types of steroid hormones?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 502,
+            "paragraph_id": "978-1260469943-p502-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cytokines",
+            "Interleukins",
+            "Growth factors",
+            "Metabolites"
+        ],
+        "options": [
+            "Growth factors",
+            "Interleukins",
+            "Metabolites",
+            "Enzymes",
+            "Transporter proteins",
+            "Channel proteins",
+            "Guanosine nucleotide-binding G-proteins",
+            "Second messengers",
+            "Protein posttranslational modification products",
+            "Hormone-modulated receptors"
+        ],
+        "question": "What types of signaling molecules facilitate changes in an organism's adaptation to environmental challenges besides hormones?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 517,
+            "paragraph_id": "978-1260469943-p517-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pteroylglutamate",
+            "Forms having up to seven glutamate residues linked by gamma-peptide bonds"
+        ],
+        "options": [
+            "Pteroylglutamate",
+            "Methylene-tetrahydrofolate",
+            "10-formyltetrahydrofolate",
+            "Leucovorin",
+            "Tetrahydrofolate"
+        ],
+        "question": "What forms of folate can be found in foods?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 554,
+            "paragraph_id": "978-1260469943-p554-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Vitamin A",
+            "Vitamin D",
+            "Vitamin E",
+            "Vitamin K"
+        ],
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E",
+            "Vitamin K"
+        ],
+        "question": "What are the names of fat-soluble vitamins mentioned?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 544,
+            "paragraph_id": "978-1260469943-p544-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pyridoxine",
+            "Pyridoxal",
+            "Pyridoxamine",
+            "Their respective phosphates"
+        ],
+        "options": [
+            "Riboflavin",
+            "Tryptophan",
+            "Nicotinic acid",
+            "Pyridoxine",
+            "Pyridoxal",
+            "Pyridoxamine"
+        ],
+        "question": "What are the six compounds that exhibit vitamin B6 activity?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 552,
+            "paragraph_id": "978-1260469943-p552-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Galactose",
+            "Glucose",
+            "Mannose",
+            "N-Acetylneuraminic acid",
+            "Fucose",
+            "N-Acetylgalactosamine",
+            "N-Acetylglucosamine",
+            "Xylose"
+        ],
+        "options": [
+            "Galactose",
+            "Mannose",
+            "Fructose",
+            "Sucrose",
+            "Glucose",
+            "Ribose",
+            "Lactose",
+            "N-Acetylneuraminic acid",
+            "Fucose",
+            "N-Acetylgalactosamine",
+            "N-Acetylglucosamine",
+            "Xylose"
+        ],
+        "question": "What are the different types of sugars found in human glycoproteins?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 565,
+            "paragraph_id": "978-1260469943-p565-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fertilization",
+            "Growth",
+            "Defense against pathogens",
+            "Maintenance of tissue structure",
+            "Development",
+            "Metabolic processes",
+            "Immune responses",
+            "Molecular recognition events",
+            "Structural support",
+            "Energy metabolism"
+        ],
+        "options": [
+            "Fertilization",
+            "Growth",
+            "Defense against pathogens",
+            "Maintenance of tissue structure",
+            "Development",
+            "Metabolic processes",
+            "Immune responses",
+            "Molecular recognition events",
+            "Structural support",
+            "Energy metabolism"
+        ],
+        "question": "What kinds of biological functions do glycoproteins participate in?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 563,
+            "paragraph_id": "978-1260469943-p563-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Urine sample",
+            "Whole blood",
+            "Plasma sample",
+            "Serum sample",
+            "Saliva sample",
+            "CSF sample",
+            "Feces sample"
+        ],
+        "options": [
+            "Urine sample",
+            "Whole blood",
+            "Plasma sample",
+            "Serum sample",
+            "Saliva sample",
+            "CSF sample",
+            "Feces sample"
+        ],
+        "question": "What types of samples can be analyzed in clinical biochemistry?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 580,
+            "paragraph_id": "978-1260469943-p580-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "A combination of toxic, immunological, and carcinogenic effects"
+        ],
+        "options": [
+            "Toxic effects alone",
+            "Immunological reactions alone",
+            "Carcinogenic effects alone",
+            "A combination of toxic, immunological, and carcinogenic effects"
+        ],
+        "question": "What types of effects can xenobiotics, including drugs, food additives, and environmental pollutants, cause?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 576,
+            "paragraph_id": "978-1260469943-p576-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Kwashiorkor",
+            "Undernutrition",
+            "Vitamin deficiency"
+        ],
+        "options": [
+            "Kwashiorkor",
+            "Marasmus",
+            "Undernutrition",
+            "Overnutrition",
+            "Vitamin deficiency"
+        ],
+        "question": "What types of nutritional deficiencies or issues could lead to negative health outcomes according to the given scenarios?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 586,
+            "paragraph_id": "978-1260469943-p586-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Endoplasmic reticulum (ER)",
+            "Golgi apparatus (GA)",
+            "Plasma membrane (PM)",
+            "Lysosomes"
+        ],
+        "options": [
+            "Mitochondria",
+            "Nuclei",
+            "Peroxisomes",
+            "Endoplasmic reticulum (ER)",
+            "Golgi apparatus (GA)",
+            "Plasma membrane (PM)",
+            "Lysosomes",
+            "Cytoplasm"
+        ],
+        "question": "What organelles can proteins synthesized through the RER branch be targeted towards?",
+        "source": {
+            "isbn": "978-1260469943",
+            "page": 591,
+            "paragraph_id": "978-1260469943-p591-para1"
+        },
+        "type": "list"
+    }
+]

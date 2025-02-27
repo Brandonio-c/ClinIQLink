@@ -1,0 +1,554 @@
+[
+    {
+        "answer": "Cytochrome P420",
+        "false_answer": "Cytochrome P420",
+        "incorrect_explanation": "The paragraph mentions that the primary enzymes involved in oxidative drug metabolism are cytochrome P450 enzymes, not Cytochrome P420. Therefore, the correct answer should be cytochrome P450, indicating a misunderstanding or misrepresentation of the key enzymatic component in human drug metabolism.",
+        "question": "What is the primary enzyme responsible for the majority of oxidative drug metabolism in humans?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 53,
+            "paragraph_id": "978-1264258086-p53-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "To minimize the amount of the active species that reaches its site of action.",
+        "false_answer": "To minimize the amount of the active species that reaches its site of action.",
+        "incorrect_explanation": "According to the paragraph, designing prodrugs actually aims to \"maximize the amount of the active species that reaches its site of action,\" not minimize it. This makes the statement incorrect as it contradicts the purpose of creating prodrugs as explained in the given text.",
+        "question": "What is the primary reason for designing prodrugs?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 49,
+            "paragraph_id": "978-1264258086-p49-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of new drugs approved by the FDA are therapeutic biological products.",
+        "false_answer": "Approximately 50% of new drugs approved by the FDA are therapeutic biological products.",
+        "incorrect_explanation": "The actual percentage given in the paragraph averages around 25%, not 50%. Therefore, the statement significantly overestimates the proportion of therapeutic biological products among newly approved drugs.",
+        "question": "What approximate percentage of newly approved drugs by the U.S. Food and Drug Administration are defined as therapeutic biological products?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 62,
+            "paragraph_id": "978-1264258086-p62-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50%.",
+        "false_answer": "Approximately 50%.",
+        "incorrect_explanation": "According to the provided text, Lesinurad actually has a bioavailability of about 100%, making the statement that it has an estimated bioavailability of approximately 50% inaccurate.",
+        "question": "What is the estimated bioavailability of Lesinurad?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 871,
+            "paragraph_id": "978-1264258086-p871-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Probenecid acts primarily by inhibiting the production of uric acid.",
+        "false_answer": "Probenecid acts primarily by inhibiting the production of uric acid.",
+        "incorrect_explanation": "According to the text, uricosuric agents like probenecid actually augment urate excretion, rather than inhibit uric acid production. Therefore, the correct understanding is that they help increase the removal of uric acid from the body rather than reducing its creation.",
+        "question": "What is the primary action through which uricosuric agents, specifically those such as probenecid, exert their effect in managing gout?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 866,
+            "paragraph_id": "978-1264258086-p866-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Upregulation of DHFR occurs mainly through post-translational modification.",
+        "false_answer": "Post-translational modification.",
+        "incorrect_explanation": "According to the given paragraph, upregulation of DHFR actually occurs through gene amplification or altered gene regulation, not post-translational modification, thus conferring resistance to methotrexate in cancer cells.",
+        "question": "What mechanism does upregulation of dihydrofolate reductase (DHFR) primarily employ to confer resistance to methotrexate in cancer cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 70,
+            "paragraph_id": "978-1264258086-p70-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "When the ligand concentration exceeds three times the KD, the receptor becomes completely saturated.",
+        "false_answer": "Complete saturation occurs when the ligand concentration exceeds three times the KD.",
+        "incorrect_explanation": "According to basic principles of biochemistry, if we consider the equation for fractional occupancy (which typically follows a Langmuir adsorption model), complete saturation doesn't necessarily happen exactly at any simple multiple of KD but rather approaches full saturation asymptotically as ligand concentrations increase significantly past KD. Furthermore, achieving 90%, 95%, etc., occupancy requires increasing amounts of ligand far exceeding mere multiples of KD due to the nature of the binding curve.\n- **Correct Approach Should Be:** Recognize that fractional occupancy increases towards unity as ligand concentration increases well past KD, but stating exact saturation points usually involves considering specifics not covered here.",
+        "question": "What happens to the fractional occupancy of a receptor when the concentration of the ligand exceeds twice the equilibrium dissociation constant (KD)?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 74,
+            "paragraph_id": "978-1264258086-p74-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "CD8+ cytotoxic T cells primarily orchestrate non-allergic asthma.",
+        "false_answer": "CD8+ cytotoxic T cells primarily orchestrate non-allergic asthma.",
+        "incorrect_explanation": "According to the given text, non-allergic asthma is actually orchestrated by TH2 and ILC2 cells, indicating that the statement about CD8+ cytotoxic T cells being primary orchestrators of non-allergic asthma is incorrect. Therefore, the correct answer regarding the types of lymphocytes involved in orchestrating non-allergic asthma would focus on TH2 cells and innate type 2 lymphocytes (ILC2).",
+        "question": "What types of lymphocytes play key roles in orchestrating non-allergic asthma?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 894,
+            "paragraph_id": "978-1264258086-p894-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately one hour.",
+        "false_answer": "Approximately one hour.",
+        "incorrect_explanation": "According to the given information, the actual half-life of kinins in plasma is approximately 15 seconds, with 80% to 90% of them potentially being destroyed in just a single pass through the lungs' vascular bed.\n- **Correct Information Based on Paragraph Content:** The half-life of kinins in human plasma is actually around 15 seconds.",
+        "question": "What is the half-life of kinins in human plasma?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 887,
+            "paragraph_id": "978-1264258086-p887-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Strathmann published these findings in 1989.",
+        "false_answer": "Strathmann published their findings in 1989.",
+        "incorrect_explanation": "The publication year given is incorrect; according to the provided sources, Strathmann MP and Simon MI actually defined this class in a paper titled \"G alpha 12 and G alpha 13 subunits define a fourth class of G protein alpha subunits,\" which was published in 1991, specifically in the journal *Proc Natl Acad Sci USA* with volume number 88 at pages 5582\u20135586.",
+        "question": "What year did Strathmann publish their findings defining a fourth class of G protein alpha subunits?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 96,
+            "paragraph_id": "978-1264258086-p96-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Caspase 9 is activated when the anti-apoptotic member Bcl-2 releases cytochrome c.",
+        "false_answer": "Caspase 9 is activated when the anti-apoptotic member Bcl-2 releases cytochrome c.",
+        "incorrect_explanation": "According to the text, it's actually the pro-apoptotic members of the Bcl-2 family (like Bax) overcoming the anti-apoptotic effects (not causing them) that leads to the release of cytochrome c. Then, cytochrome c combines with another protein, Apaf-1, and with caspase 9 to initiate its activation.",
+        "question": "What triggers the activation of caspase 9 during the intrinsic pathway of apoptosis?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 91,
+            "paragraph_id": "978-1264258086-p91-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Activating the GABAA receptor causes significant depolarization.",
+        "false_answer": "Activating the GABAA receptor causes significant depolarization.",
+        "incorrect_explanation": "According to the paragraph, activation of the GABAA receptor conducts Cl\u2013 and typically impedes the generation and propagation of action potentials rather than causing depolarization. Instead, it usually results in hyperpolarization because the equilibrium potential for Cl\u2013 is around \u201365 mV, moving the membrane potential further away from the threshold needed for generating an action potential.",
+        "question": "What is the primary effect of activating the GABAA receptor?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 83,
+            "paragraph_id": "978-1264258086-p83-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Codeine works primarily by suppressing gastric acid secretion.",
+        "false_answer": "Codeine works primarily by suppressing gastric acid secretion.",
+        "incorrect_explanation": "According to the given text, opiates, including codeine, work through a central mechanism of action on \u03bc opioid receptors in the medullary cough center, potentially having additional peripheral actions on cough receptors in the proximal airways. Suppressing gastric acid secretion is actually how certain treatments for gastroesophageal reflux-related cough operate, involving drugs like H2 receptor antagonists or proton pump inhibitors, not how codeine functions in treating cough.",
+        "question": "What is the primary mechanism of action of codeine when used to treat cough?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 912,
+            "paragraph_id": "978-1264258086-p912-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cytochrome P450 2C19",
+        "false_answer": "Cytochrome P450 2C19",
+        "incorrect_explanation": "According to the information provided, theophylline is primarily metabolized in the liver by CYP1A2, not Cytochrome P450 2C19. Therefore, the correct primary enzyme involved in this metabolic pathway would indeed involve enzymes within the cytochrome family but specifically points towards CYP1A2 rather than incorrectly stating another member of the same enzymatic group.",
+        "question": "What is the primary enzyme responsible for the liver's metabolism of theophylline according to pharmacological studies?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 903,
+            "paragraph_id": "978-1264258086-p903-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An initial dose of 2 mg/kg followed by a maintenance dose of 2 mg/kg every 6 hours.",
+        "false_answer": "An initial dose of 2 mg/kg followed by a maintenance dose of 2 mg/kg every 6 hours.",
+        "incorrect_explanation": "According to the provided information, the recommended initial dosage of hydrocortisone administered intravenously in cases of acute asthma is actually 4 mg/kg initially, followed by a maintenance dose of 3 mg/kg every 6 hours. Therefore, both the initial dose and the maintenance dose in the false answer are lower than what is specified.",
+        "question": "What is the recommended initial dosage of hydrocortisone administered intravenously in cases of acute asthma?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 907,
+            "paragraph_id": "978-1264258086-p907-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Uncompetitive inhibition results in this effect because it involves inhibitors that bind to the enzyme-substrate complex rather than competing with the substrate for the active site.",
+        "false_answer": "Uncompetitive inhibition increases the apparent Km value without affecting the Vmax value.",
+        "incorrect_explanation": "According to the text, it's actually competitive inhibition that increases the apparent Km value without altering the Vmax value because competitors and substrates share a common binding site. Uncompetitive inhibition affects both Km and Vmax, reducing them proportionally. Thus, the statement incorrectly attributes characteristics of competitive inhibition to uncompetitive inhibition.",
+        "question": "What type of inhibition increases the apparent Km value without affecting the Vmax value?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 103,
+            "paragraph_id": "978-1264258086-p103-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "MRP3 primarily transports glutathione conjugates back into the bloodstream.",
+        "false_answer": "MRP3 primarily transports glutathione conjugates back into the bloodstream.",
+        "incorrect_explanation": "While MRP3 does indeed handle glutathione conjugates among its substrates, stating it *primarily* transports them overlooks its broader function. According to the text, MRP3's key function involves returning toxic bile salts and bilirubin glucuronides into the blood circulation, particularly being induced under cholestatic conditions, which indicates a more nuanced role beyond just handling glutathione conjugates.",
+        "question": "What is the primary role of MRP3 when expressed on the sinusoidal side of hepatocytes?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 109,
+            "paragraph_id": "978-1264258086-p109-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "GM-CSF primarily acts through inhibition of the Jak/STAT signal transduction pathway.",
+        "false_answer": "GM-CSF primarily acts through inhibition of the Jak/STAT signal transduction pathway.",
+        "incorrect_explanation": "According to the paragraph, GM-CSF actually activates the Jak/STAT signal transduction pathway rather than inhibits it, leading to stimulation of proliferation, differentiation, and function of various myeloid cell lineages.",
+        "question": "What is the mechanism through which GM-CSF acts?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 923,
+            "paragraph_id": "978-1264258086-p923-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Twice-daily administration of ferrous sulfate 650 mg.",
+        "false_answer": "Twice-daily administration of ferrous sulfate 650 mg.",
+        "incorrect_explanation": "According to the paragraph, once-daily administration of ferrous sulfate 325 mg on an empty stomach maximizes absorption while maintaining high tolerance, contradicting both the suggested twice-daily schedule and the increased dosage amount of 650 mg.",
+        "question": "What is typically recommended regarding dosing frequency for administering ferrous sulfate to maximize absorption?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 929,
+            "paragraph_id": "978-1264258086-p929-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Megaloblastic anemia typically develops within 6 months.",
+        "false_answer": "Megaloblastic anemia typically develops within 6 months.",
+        "incorrect_explanation": "According to the paragraph, megaloblastic anemia resulting from folate deficiency appears much sooner than described in the given answer. Specifically, it mentions that a folate-deficiency state may appear in 1 to 4 weeks, reflecting limited body stores of folate.\n- **Correct Answer Should Be:** Between 1 to 4 weeks.",
+        "question": "What is the typical duration between folate deprivation onset and development of megaloblastic anemia?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 935,
+            "paragraph_id": "978-1264258086-p935-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Steroid hormones mainly work by binding to membrane receptors to initiate rapid changes within cells.",
+        "false_answer": "Steroid hormones mainly work by binding to membrane receptors to initiate rapid changes within cells.",
+        "incorrect_explanation": "According to the given information, steroid hormones actually operate by acting predominantly via nuclear receptors to modulate transcription in target cells, although they can also interact with membrane receptors. Thus, stating they \"mainly\" work through membrane receptors is inaccurate and overlooks their primary mode of action described.",
+        "question": "What mechanism do steroid hormones primarily utilize to affect cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 942,
+            "paragraph_id": "978-1264258086-p942-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60%",
+        "false_answer": "Approximately 60%",
+        "incorrect_explanation": "According to the paragraph, the ternary complex actually accounts for more than 80% of the circulating IGF-1, not approximately 60%. Thus, stating that it accounts for around 60% introduces a significant underestimation regarding how much of the circulating IGF-1 this complex represents.",
+        "question": "What fraction of circulating IGF-1 does the ternary complex account for?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 950,
+            "paragraph_id": "978-1264258086-p950-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary component of thyroid hormone is derived from phenylalanine.",
+        "false_answer": "The primary component of thyroid hormone is derived from phenylalanine.",
+        "incorrect_explanation": "According to the text, thyroid hormones are described as iodine-containing amino acid derivatives of thyronine, indicating they derive from thyronine rather than phenylalanine.\n- **Correct Answer Should Be:** The primary components of thyroid hormone are derived from thyronine.",
+        "question": "What amino acid derivative does the thyroid hormone primarily consist of?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 960,
+            "paragraph_id": "978-1264258086-p960-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The study was initially published in 2014.",
+        "false_answer": "The study was initially published in 2014.",
+        "incorrect_explanation": "According to the provided source, Jonklaas et al.'s study regarding evidence-based use of levothyroxine/lithyronine combinations in treating hypothyroidism was actually published in 2021, not 2014. Therefore, the statement claiming publication in 2014 is incorrect; the correct year of publication is indeed 2021.",
+        "question": "In what year was the study on evidence-based use of levothyroxine/lithyronine combinations in treating hypothyroidism first published?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 976,
+            "paragraph_id": "978-1264258086-p976-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Each gram of iodized salt contains 50 \u03bcg of iodine.",
+        "false_answer": "50 \u03bcg of iodine per gram of iodized salt.",
+        "incorrect_explanation": "According to the given information, iodized salt actually provides 100 \u03bcg of iodine per gram, making the statement that it contains 50 \u03bcg per gram incorrect. Therefore, the correct amount is twice what was falsely claimed.",
+        "question": "What amount of iodine is contained in each gram of iodized salt sold in the United States?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 965,
+            "paragraph_id": "978-1264258086-p965-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Synthetic progestins such as Medroxyprogesterone Acetate predominantly bind to Sex Hormone Binding Globulin.",
+        "false_answer": "Synthetic progestins such as Medroxyprogesterone Acetate predominantly bind to Sex Hormone Binding Globulin.",
+        "incorrect_explanation": "According to the paragraph, esters such as MPA actually bind primarily to albumin, not Sex Hormone Binding Globulin (SHBG). While some synthetic progestins do indeed interact with SHBG, the statement specifically regarding MPA's primary mode of binding being to SHBG is inaccurate.",
+        "question": "What protein do synthetic progestins such as Medroxyprogesterone Acetate predominantly bind to when they enter the bloodstream?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 990,
+            "paragraph_id": "978-1264258086-p990-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The two human estrogen receptors are 55% identical in overall amino acid sequence.",
+        "false_answer": "The two human estrogen receptors are 55% identical in overall amino acid sequence.",
+        "incorrect_explanation": "According to the paragraph, the actual percent identity between the amino acid sequences of the two human estrogen receptors, ER\u03b1 and ER\u03b2, is 44%, not 55%.",
+        "question": "What percent identity exists between the amino acid sequences of the two human estrogen receptors?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 984,
+            "paragraph_id": "978-1264258086-p984-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "High concentrations of iodine increase both the release and synthesis of thyroid hormones.",
+        "false_answer": "High concentrations of iodine increase both the release and synthesis of thyroid hormones.",
+        "incorrect_explanation": "According to the text, high concentrations of iodine actually decrease the release of thyroid hormones from the gland and may also decrease hormone synthesis. Therefore, the statement given in the answer is incorrect because it reverses the actual effects of high iodine levels on thyroid hormone production.",
+        "question": "What effect do high concentrations of iodine have on thyroid hormone production?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 969,
+            "paragraph_id": "978-1264258086-p969-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "About 80%",
+        "false_answer": "About 80%",
+        "incorrect_explanation": "According to the paragraph, albumin actually binds almost 60% of circulating testosterone with low affinity, making some of this fraction potentially available under certain conditions. Meanwhile, sex hormone-binding globulin binds about 38% of circulating testosterone with high affinity, rendering this portion largely unavailable for biological effects. Therefore, the total amount rendered unavailable due specifically to being bound with high affinity (to SHBG) plus that loosely bound (but considering the sum incorrectly implies a misunderstanding of how availability is affected by types of binding) leads to confusion. The actual issue here involves understanding what fractions are considered truly unavailable versus those that could become active depending on need and biochemical environment.",
+        "question": "What percent of circulating testosterone is rendered unavailable for biological effects because it is bound to albumin?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1010,
+            "paragraph_id": "978-1264258086-p1010-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Melanocytes.",
+        "false_answer": "Melanocytes.",
+        "incorrect_explanation": "According to the provided information, it's actually the corticotrophs that constitute about 20% of the anterior pituitary cells, not melanocytes. Corticotrophs are responsible for releasing several important substances, including ACTH, MSH, and lipotropin.",
+        "question": "What constitutes approximately 20% of the anterior pituitary cells?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1022,
+            "paragraph_id": "978-1264258086-p1022-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adding a hydroxide group to the 19\u03b2 position of testosterone.",
+        "false_answer": "Addition of a hydroxide group to the 19\u03b2 position allows for oral administration of testosterone.",
+        "incorrect_explanation": "According to the paragraph, adding an alkyl group to the 17\u03b1 position of testosterone retards its hepatic metabolism, thus enabling oral administration, contrary to stating a hydroxide addition at the 19\u03b2 position which isn't supported by the text.",
+        "question": "What modification was added to testosterone's molecular structure allowing oral administration?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1014,
+            "paragraph_id": "978-1264258086-p1014-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A standard regimen involves administering 150 mg of hydrocortisone parenterally every 8 hours.",
+        "false_answer": "Administering 150 mg of hydrocortisone parenterally every 8 hours.",
+        "incorrect_explanation": "According to the information provided, during surgery, a standard regimen actually involves hydrocortisone 100 mg parenterally every 8 h, aiming to approximate or exceed the maximal cortisol secretory rate. Therefore, the statement claiming a dosage of 150 mg every 8 hours is incorrect.",
+        "question": "What is the typical dosage recommendation for hydrocortisone during surgery for individuals with adrenal insufficiency?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1034,
+            "paragraph_id": "978-1264258086-p1034-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 60 minutes",
+        "false_answer": "Approximately 60 minutes",
+        "incorrect_explanation": "The given answer incorrectly states the half-life of ACTH following intravenous administration. According to the information provided, the actual half-life of ACTH averages around 10 minutes, significantly shorter than what was claimed.\n- **Correct Answer Should Be:** Around 10 minutes",
+        "question": "What is the average half-life of ACTH when administered intravenously?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1026,
+            "paragraph_id": "978-1264258086-p1026-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A typical dosage regimen of 400 to 600 mg/day.",
+        "false_answer": "A typical dosage regimen of 400 to 600 mg/day.",
+        "incorrect_explanation": "The actual dosage needed for effective inhibition of steroid hormone biosynthesis in patients with hypercortisolism ranges between 600 to 800 mg/day according to the provided text, indicating the importance of accurate dosing for therapeutic efficacy. Some patients might even need up to 1200 mg/day.",
+        "question": "What dose range of ketoconazole is typically required for effective inhibition of steroid hormone biosynthesis in patients with hypercortisolism?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1037,
+            "paragraph_id": "978-1264258086-p1037-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Renal clearance",
+        "false_answer": "Renal clearance",
+        "incorrect_explanation": "According to the paragraph, clearance of liraglutide is primarily through metabolic pathways of large plasma proteins, indicating that renal clearance plays a minor role in its elimination. Therefore, stating that the primary method of clearance for liraglutide is renal clearance introduces a subtle yet significant factual error regarding how liraglutide is processed within the body.",
+        "question": "What is the primary method of clearance for the drug liraglutide?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1058,
+            "paragraph_id": "978-1264258086-p1058-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Peak concentrations occur approximately 1 hour after administration.",
+        "false_answer": "Peak concentrations occur approximately 1 hour after administration.",
+        "incorrect_explanation": "According to the provided information, peak concentrations after an oral dose of metformin actually occur at about 2 hours, not 1 hour.\n- **Correct Information:** The bioavailability and pharmacokinetic properties of metformin indicate that peak concentrations are reached around 2 hours post-administration.",
+        "question": "What is the peak concentration timing after an oral dose of metformin?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1055,
+            "paragraph_id": "978-1264258086-p1055-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Caffeine blocks dopamine receptors.",
+        "false_answer": "Caffeine blocks dopamine receptors.",
+        "incorrect_explanation": "This statement incorrectly suggests that caffeine acts by blocking dopamine receptors. Instead, research shows that caffeine works by blocking adenosine receptors, thereby increasing alertness and enhancing certain aspects of cognition through heightened neuronal firing rates and neurotransmitter release. Dopamine levels can indirectly be influenced by this mechanism but stating that caffeine blocks dopamine receptors is inaccurate.",
+        "question": "What does caffeine do when ingested?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1044,
+            "paragraph_id": "978-1264258086-p1044-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Calcitriol induces production of collagen.",
+        "false_answer": "Calcitriol induces production of collagen.",
+        "incorrect_explanation": "According to the paragraph, calcitriol actually induces the production of several osteoblast proteins, including osteocalcin and IL-1, not specifically mentioning collagen among these induced products. Therefore, stating that calcitriol induces production of collagen introduces a subtle yet significant factual error regarding the effects of calcitriol on osteoblasts.",
+        "question": "What does calcitriol induce production of in osteoblasts?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1074,
+            "paragraph_id": "978-1264258086-p1074-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "In 2004.",
+        "false_answer": "In 2004.",
+        "incorrect_explanation": "According to the paragraph, Nathan published the findings in 2013, specifically mentioning the study's oversight group publication titled *Diabetes Care* within this timeframe, thus making the statement given in the answer inaccurate.",
+        "question": "What year did Nathan publish research findings regarding the Diabetes Control and Complications Trial?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1066,
+            "paragraph_id": "978-1264258086-p1066-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The volume of distribution for cinacalcet is approximately 500 liters.",
+        "false_answer": "Approximately 500 liters.",
+        "incorrect_explanation": "The actual volume of distribution for cinacalcet according to the given information is 1000 L, making this statement inaccurate.\n- **Correct Answer Should Be:** The volume of distribution for cinacalcet is actually around 1000 L.",
+        "question": "What is the volume of distribution for cinacalcet?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1082,
+            "paragraph_id": "978-1264258086-p1082-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Two hundred units daily will suffice to treat fully developed rickets.",
+        "false_answer": "Two hundred units daily.",
+        "incorrect_explanation": "The false answer underestimates the dose needed. According to the text, one thousand units daily is recommended to normalize plasma Ca2+ and phosphate concentrations in about 10 days when treating fully developed rickets. Thus, two hundred units would be insufficient based on the provided information.",
+        "question": "What is the typical daily dose of Vitamin D required to treat fully developed rickets?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1078,
+            "paragraph_id": "978-1264258086-p1078-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ranitidine reduces gastric acid secretion by stimulating muscarinic acetylcholine receptors in the stomach lining.",
+        "false_answer": "Ranitidine reduces gastric acid secretion by stimulating muscarinic acetylcholine receptors in the stomach lining.",
+        "incorrect_explanation": "The statement is incorrect because according to the paragraph, ranitidine actually works by inhibiting histamine H2 receptors, not stimulating muscarinic acetylcholine receptors. Therefore, the correct mechanism involves inhibition rather than stimulation and targets histamine H2 receptors specifically.",
+        "question": "How does the medication ranitidine reduce gastric acid secretion?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1090,
+            "paragraph_id": "978-1264258086-p1090-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Cimetidine's clearance decreases by approximately 40% in children.",
+        "false_answer": "A 40% decrease in cimetidine's clearance in children.",
+        "incorrect_explanation": "According to the information given, cimetidine's clearance actually reduces its t1/2 by about 30%, indicating a faster clearance rather than a slower one, contrary to what might initially seem implied. Thus, the statement regarding a 40% decrease in clearance is inaccurate. The correct interpretation should highlight an increased rate of clearance in children, reflected by a shorter half-life.",
+        "question": "What percentage decrease does cimetidine's clearance experience in children compared to adults?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1096,
+            "paragraph_id": "978-1264258086-p1096-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 120 minutes.",
+        "false_answer": "Approximately 120 minutes.",
+        "incorrect_explanation": "According to the paragraph, one MMC cycle actually lasts around 80 to 110 minutes, making the given answer incorrect because it exceeds the upper limit specified in the text.",
+        "question": "What is the duration of one complete migratory motor complex (MMC) cycle?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1104,
+            "paragraph_id": "978-1264258086-p1104-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Pectins",
+        "false_answer": "Pectins",
+        "incorrect_explanation": "Pectins are described as having good water solubility and being highly fermentable (90\u201395%), contrary to the characteristics of being poorly fermentable. Lignin is correctly identified in the text as poorly fermentable and effective in increasing stool bulk.",
+        "question": "Which type of dietary fiber is noted for being poorly fermentable yet effective in increasing stool bulk?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1111,
+            "paragraph_id": "978-1264258086-p1111-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Olanzapine is given orally, 20 mg twice daily for 3 to 5 days.",
+        "false_answer": "Olanzapine is given orally, 20 mg twice daily for 3 to 5 days.",
+        "incorrect_explanation": "According to the paragraph, olanzapine's dosages for preventing chemotherapy-associated delayed nausea or vomiting are actually 10 mg once daily for 3 to 5 days, beginning on day 1 of chemotherapy, or 5 mg once daily for 2 days before chemotherapy, followed by 10 mg once daily starting on the day of chemotherapy, indicating the provided dosage and frequency are inaccurate.",
+        "question": "What is the typical oral dosage of olanzapine when used off-label for preventing chemotherapy-associated delayed nausea or vomiting?",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1121,
+            "paragraph_id": "978-1264258086-p1121-para1"
+        },
+        "type": "short_inverse"
+    }
+]

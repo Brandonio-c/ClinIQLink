@@ -498,5 +498,865 @@
             "paragraph_id": "978-0071441988-p656-para1"
         },
         "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "HIV enters the body primarily through the gastrointestinal tract.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 216,
+            "paragraph_id": "978-0071441988-p216-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Using Acyclovir prophylaxis during pregnancy does reduce the occurrence of genital herpes outbreaks.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 204,
+            "paragraph_id": "978-0071441988-p204-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There was no association found between reported condom use and the incidence of sexually transmitted diseases in Malawi according to research published in 1996.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 209,
+            "paragraph_id": "978-0071441988-p209-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Ethylene glycol is primarily used in the production of anti-freeze solutions and hydraulic fluids, but never as a solvent.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 667,
+            "paragraph_id": "978-0071441988-p667-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Trinitrotoluene causes liver toxicity and nephropathy in rats.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 677,
+            "paragraph_id": "978-0071441988-p677-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acrylamide's metabolite glycidamide is primarily responsible for peripheral neurotoxicity rather than acrylamide itself.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 670,
+            "paragraph_id": "978-0071441988-p670-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Respiratory diphtheria reports in the United States between 1998-2004 included eight culture-confirmed cases.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 233,
+            "paragraph_id": "978-0071441988-p233-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hepatitis B virus (HBV) causes infections exclusively in humans.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 242,
+            "paragraph_id": "978-0071441988-p242-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Antiretroviral medications are effective in reducing the transmission of HIV from mother to child if administered correctly during pregnancy and childbirth.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 222,
+            "paragraph_id": "978-0071441988-p222-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bloodborne transmission of hepatitis E through the viremic stage of infection has been documented.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 254,
+            "paragraph_id": "978-0071441988-p254-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 90% of persons infected with HCV will develop chronic infection.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 249,
+            "paragraph_id": "978-0071441988-p249-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Heterophile antibodies characteristically agglutinate sheep and horse red blood cells, lyse beef red blood cells, and fail to bind to rabbit kidney cells.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 257,
+            "paragraph_id": "978-0071441988-p257-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 5\u201310% of newborns infected with Human Cytomegalovirus (CMV) have a multisystem disorder called \u201cCMV disease.\u201d",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 261,
+            "paragraph_id": "978-0071441988-p261-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Particles greater than 10 micrometers in size are typically filtered out by the nasal cavity's mucociliary lining.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 228,
+            "paragraph_id": "978-0071441988-p228-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Formaldehyde induces gene expression in F344 rat nasal respiratory epithelium according to research published in the journal Toxicology.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 697,
+            "paragraph_id": "978-0071441988-p697-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exposure to PCBs has been linked to an increase in the risk of breast cancer specifically in women with certain genetic polymorphisms.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 702,
+            "paragraph_id": "978-0071441988-p702-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exposure to propylene oxide vapors can cause eye irritation among humans.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 682,
+            "paragraph_id": "978-0071441988-p682-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Benzene causes genetic mutations through its interaction with DNA.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 687,
+            "paragraph_id": "978-0071441988-p687-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Example Statement Here Since There Is No Actual Data Provided For Creation Of Real Questions Based On Given Text Information.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 694,
+            "paragraph_id": "978-0071441988-p694-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Multiple Chemical Sensitivities (MCS) is characterized by a progressive deterioration of health over years.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 715,
+            "paragraph_id": "978-0071441988-p715-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Carbon monoxide is classified as an oxidant gas according to TABLE 32-1.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 719,
+            "paragraph_id": "978-0071441988-p719-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chlordane was banned for subterranean termite control in 1978.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 734,
+            "paragraph_id": "978-0071441988-p734-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Children are less affected by air pollution compared to adults due to lower exposure levels.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 727,
+            "paragraph_id": "978-0071441988-p727-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Glyphosate is more acutely toxic than paraquat.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 740,
+            "paragraph_id": "978-0071441988-p740-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Travelers' diarrhea affects approximately 100% of individuals traveling to low-risk countries.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 297,
+            "paragraph_id": "978-0071441988-p297-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Penicillin V is the first-line medication recommended for treating Group A beta-hemolytic streptococcal (GABHS) pharyngitis.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 266,
+            "paragraph_id": "978-0071441988-p266-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Household crowding and a person's high socioeconomic status are important factors that promote M. leprae transmission and the development of clinical leprosy.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 286,
+            "paragraph_id": "978-0071441988-p286-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Noroviruses require treatment involving antibiotics to manage acute gastroenteritis effectively.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 291,
+            "paragraph_id": "978-0071441988-p291-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Effective antiretroviral therapy always prevents the immune reconstitution phenomenon in TB patients with HIV.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 280,
+            "paragraph_id": "978-0071441988-p280-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Death due to Acute Post-Streptococcal Glomerulonephritis (APSGN) is extremely common among hospitalized children.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 271,
+            "paragraph_id": "978-0071441988-p271-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Hepatitis C virus infection is primarily transmitted through close personal contact.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 307,
+            "paragraph_id": "978-0071441988-p307-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There exists research focused specifically on the identification and treatment of streptococcal infections in pediatric populations compared to adults.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 312,
+            "paragraph_id": "978-0071441988-p312-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Neisseria meningitidis serotype W-135 was reported to cause significant disease outbreaks according to some studies listed here.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 317,
+            "paragraph_id": "978-0071441988-p317-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "People who do not wear ear protectors are more likely to experience significant hearing loss than those who wear them.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 786,
+            "paragraph_id": "978-0071441988-p786-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Low back pain affects more than half of the adults in industrialized countries during their lifetime.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 798,
+            "paragraph_id": "978-0071441988-p798-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Each step involving an exertion in the notebook-packing job is identified by the letter \"F\".",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 794,
+            "paragraph_id": "978-0071441988-p794-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exposure to magnetic fields above 3\u20134 mG increases the risk of childhood leukemia.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 774,
+            "paragraph_id": "978-0071441988-p774-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The Moon is the primary source of energy for Earth's climate system.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 778,
+            "paragraph_id": "978-0071441988-p778-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Exposure to as little as 0.25 Sv of ionizing radiation during critical stages of organogenesis causes malformations in laboratory animals.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 766,
+            "paragraph_id": "978-0071441988-p766-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Blood pressure in humans fluctuates seasonally and is generally highest in the spring.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 755,
+            "paragraph_id": "978-0071441988-p755-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Organophosphate pesticides do not cause long-term neurological sequelae in individuals exposed to them.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 744,
+            "paragraph_id": "978-0071441988-p744-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Noise-induced hearing loss typically peaks in the frequency range closest to where the damaging noise has its highest energy.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 782,
+            "paragraph_id": "978-0071441988-p782-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Daily prophylaxis with doxycycline prevents most travelers' diarrhea.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 335,
+            "paragraph_id": "978-0071441988-p335-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The number of publications listed in the given bibliography exceeds forty-five entries.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 322,
+            "paragraph_id": "978-0071441988-p322-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most healthcare-associated pneumonias require the use of mechanical ventilation.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 360,
+            "paragraph_id": "978-0071441988-p360-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Dracunculiasis was targeted for eradication by the end of 1995.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 348,
+            "paragraph_id": "978-0071441988-p348-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Acanthamoeba exists only in the trophozoite and flagellate forms.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 343,
+            "paragraph_id": "978-0071441988-p343-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately 80% of Shigella infections occur through person-to-person spread.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 330,
+            "paragraph_id": "978-0071441988-p330-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Venezuelan Hemorrhagic Fever's primary reservoir host is identified as the cane mouse, Zygodontomys brevicauda.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 381,
+            "paragraph_id": "978-0071441988-p381-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The book titled \u201cTo Err is Human: Building a Safer Health System\u201d was published before the year 2000.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 365,
+            "paragraph_id": "978-0071441988-p365-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dengue fever is primarily transmitted through the bites of female Anopheles mosquitoes.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 377,
+            "paragraph_id": "978-0071441988-p377-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The International Classification of Radiographs of Pneumoconiosis was published in 2002 by the International Labour Office.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 819,
+            "paragraph_id": "978-0071441988-p819-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Direct measurements of contaminants in the atmosphere allow for continuous reporting of results, enabling the examination of the pattern of exposure as it changes over time.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 810,
+            "paragraph_id": "978-0071441988-p810-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Isolation of workers from the contaminated environment prevents the release of the hazardous agent into the work environment?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 812,
+            "paragraph_id": "978-0071441988-p812-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Genetic variations in the CYP1A1 gene are more commonly found among blacks compared to whites.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 831,
+            "paragraph_id": "978-0071441988-p831-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "ChevronTexaco employees do not contribute to ensuring safe and environmentally friendly operations globally according to the company's public stance.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 838,
+            "paragraph_id": "978-0071441988-p838-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chagas' disease is exclusively limited to regions outside of North America.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 418,
+            "paragraph_id": "978-0071441988-p418-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Confirmed plague requires isolate identification as *Y. pestis* by phage lysis of cultures or a significant change in antibody titre to the F1 antigen in paired serum specimens.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 398,
+            "paragraph_id": "978-0071441988-p398-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Rapid diagnostic tests for malaria are capable of distinguishing between resolving infections and those resulting from treatment failures due to antimalarial drug-resistant parasites.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 404,
+            "paragraph_id": "978-0071441988-p404-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Hantavirus Pulmonary Syndrome (HPS) was first identified in the southwestern United States.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 388,
+            "paragraph_id": "978-0071441988-p388-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The incubation period of Q fever varies with the dose and may be as short as seven days or as long as five weeks.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 394,
+            "paragraph_id": "978-0071441988-p394-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Individuals with sickle cell disease or its heterozygous carrier state cannot develop malaria infections.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 408,
+            "paragraph_id": "978-0071441988-p408-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Kyasanur Forest Disease (KFD) has case-fatality rates ranging from 20% to 40%.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 384,
+            "paragraph_id": "978-0071441988-p384-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The genome of *B. burgdorferi* contains eleven circular plasmids.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 413,
+            "paragraph_id": "978-0071441988-p413-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Nearly six million women worked outside their home by 1900.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 857,
+            "paragraph_id": "978-0071441988-p857-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Listeria monocytogenes typically affects people who are immunocompetent and do not suffer from conditions like pregnancy, being a fetus, infancy, old age, or compromised immune system due to factors such as cancer, chemotherapy, and AIDS.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 877,
+            "paragraph_id": "978-0071441988-p877-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Most school systems do not regularly check if students comply with the terms of their work permits regarding academic performance.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 863,
+            "paragraph_id": "978-0071441988-p863-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Most hired farmworkers in the US have health insurance provided by their employers.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 850,
+            "paragraph_id": "978-0071441988-p850-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "By 2002, the share of U.S. farms directly hiring workers for at least 150 days had decreased compared to 1974 levels.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 846,
+            "paragraph_id": "978-0071441988-p846-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Vibrio vulnificus causes more hospitalizations than Clostridium perfringens according to reported illnesses in the United States.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 875,
+            "paragraph_id": "978-0071441988-p875-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cadmium's maximum contaminant level goal (MCLG) in drinking water is less than 0.01 mg/L.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 896,
+            "paragraph_id": "978-0071441988-p896-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Heating food at 120 \u00b0C (250\u00b0F) for 3 minutes ensures that the probability of survival for *C. botulinum* would be significantly reduced according to standard practices described.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 885,
+            "paragraph_id": "978-0071441988-p885-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Coagulation in water purification involves the addition of chemicals to remove finely divided suspended material, colloidal material, microorganisms, and some dissolved substances.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 912,
+            "paragraph_id": "978-0071441988-p912-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 50% of all public water systems in the United States are categorized as small.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 902,
+            "paragraph_id": "978-0071441988-p902-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Community water systems supply drinking water to over 90% of the U.S. population.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 906,
+            "paragraph_id": "978-0071441988-p906-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Street inlets in separate storm systems typically have traps to contain air in the sewer.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 918,
+            "paragraph_id": "978-0071441988-p918-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Trypanosoma cruzi causes Chagas disease through vector-borne transmission exclusively.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 440,
+            "paragraph_id": "978-0071441988-p440-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "A fourfold rise in IgG antibodies against C. psittaci detected by microimmunofluorescence (MIF) or complement fixation (CF) in paired acute- and convalescent-phase serum specimens confirms a positive human case of psittacosis.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 450,
+            "paragraph_id": "978-0071441988-p450-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Streptomycin is considered the first line treatment option due to its high efficacy rates and FDA approval for treating tularemia.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 453,
+            "paragraph_id": "978-0071441988-p453-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There were 47 cases of tularemia in Vermont in 1968, which were linked to contact with muskrats.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 478,
+            "paragraph_id": "978-0071441988-p478-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Praziquantel is recommended to be administered three times daily when treating human clonorchiasis or opisthorchiasis.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 472,
+            "paragraph_id": "978-0071441988-p472-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Pulsed-field gel electrophoresis (PFGE) has been thoroughly evaluated as a clinically relevant technique for identification and subtyping of leptospiral strains.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 460,
+            "paragraph_id": "978-0071441988-p460-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The RTS,S/AS02A vaccine targets Plasmodium vivax infection in adults.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 437,
+            "paragraph_id": "978-0071441988-p437-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "There were reported outbreaks of scrub typhus in Southern India during warmer months between 2000 and 2005.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 431,
+            "paragraph_id": "978-0071441988-p431-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Approximately half of all endemic countries had initiated national control programs for lymphatic filariasis by the year 2004.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 424,
+            "paragraph_id": "978-0071441988-p424-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Toxoplasmic encephalitis develops in approximately 30% of persons with AIDS in the United States who are seropositive for Toxoplasma.",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 468,
+            "paragraph_id": "978-0071441988-p468-para1"
+        },
+        "type": "true_false"
     }
 ]

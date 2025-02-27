@@ -1,0 +1,1086 @@
+[
+    {
+        "answer": [
+            "Cardiovascular system",
+            "Respiratory system",
+            "Gastrointestinal system",
+            "Genitourinary system",
+            "Musculoskeletal system",
+            "Endocrine system",
+            "Neurological system"
+        ],
+        "options": [
+            "Cardiovascular system",
+            "Respiratory system",
+            "Gastrointestinal system",
+            "Genitourinary system",
+            "Musculoskeletal system",
+            "Endocrine system",
+            "Neurological system"
+        ],
+        "question": "What systems require asking specific sets of questions regarding common symptoms in patients?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 25,
+            "paragraph_id": "978-0323847704-p25-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Asbestos dust",
+            "Silica dust",
+            "Fungus spores on mouldy hay",
+            "Decompression sickness upon surfacing from depths too quickly",
+            "Chromium chemicals leading to dermatitis",
+            "Excessive noise causing sensorineural hearing loss",
+            "Vibrations from vibrating tools resulting in vibration white finger",
+            "Flour dust triggering occupational asthma"
+        ],
+        "options": [
+            "Asbestos dust",
+            "Silica dust",
+            "Fungus spores on mouldy hay",
+            "Decompression sickness upon surfacing from depths too quickly",
+            "Chromium chemicals leading to dermatitis",
+            "Excessive noise causing sensorineural hearing loss",
+            "Vibrations from vibrating tools resulting in vibration white finger",
+            "Flour dust triggering occupational asthma"
+        ],
+        "question": "What are examples of factors associated with certain disorders among different occupations listed in medical texts?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 29,
+            "paragraph_id": "978-0323847704-p29-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Venous disease",
+            "Deep vein thrombosis",
+            "External pressure from a tumor or pregnancy",
+            "Previous thrombosis or surgery leading to venous valvular incompetence",
+            "Hemiparesis and forced immobility increasing venous pressure",
+            "Lymphatic disorders causing impaired fluid return",
+            "Filarial worm infestation resulting in elephantiasis",
+            "Congenital hypoplasia of leg lymphatics (Milroy\u2019s disease)",
+            "Radical mastectomy and/or irradiation for breast cancer",
+            "Tissue inflammation due to infection or injury",
+            "Acute allergic conditions",
+            "Angio-oedema"
+        ],
+        "options": [
+            "Venous disease",
+            "Deep vein thrombosis",
+            "External pressure from a tumor or pregnancy",
+            "Previous thrombosis or surgery leading to venous valvular incompetence",
+            "Hemiparesis and forced immobility increasing venous pressure",
+            "Lymphatic disorders causing impaired fluid return",
+            "Filarial worm infestation resulting in elephantiasis",
+            "Congenital hypoplasia of leg lymphatics (Milroy\u2019s disease)",
+            "Radical mastectomy and/or irradiation for breast cancer",
+            "Tissue inflammation due to infection or injury",
+            "Acute allergic conditions such as anaphylaxis",
+            "Angio-oedema"
+        ],
+        "question": "What are the causes of localized oedema?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 45,
+            "paragraph_id": "978-0323847704-p45-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Carotene",
+            "Bilirubin",
+            "Dapsone",
+            "Amiodarone",
+            "Phenothiazines",
+            "Mepacrine",
+            "Sulphaemoglobin",
+            "Methaemoglobin",
+            "Clofazimine"
+        ],
+        "options": [
+            "Carotene",
+            "Bilirubin",
+            "Melanin",
+            "Dapsone",
+            "Amiodarone",
+            "Phenothiazines",
+            "Mepacrine",
+            "Sulphaemoglobin",
+            "Methaemoglobin",
+            "Clofazimine"
+        ],
+        "question": "What substances or factors contribute to distinct changes in human skin color?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 40,
+            "paragraph_id": "978-0323847704-p40-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Hemiplegic gait",
+            "Ataxic gait",
+            "Marche \u00e0 petits pas ('walk of little steps') gait"
+        ],
+        "options": [
+            "Hemiplegic gait",
+            "Ataxic gait",
+            "Marche \u00e0 petits pas ('walk of little steps') gait",
+            "Normal gait"
+        ],
+        "question": "What types of gaits are identified as being characteristic of certain neurological or musculoskeletal diseases when observing a patient's walk?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 36,
+            "paragraph_id": "978-0323847704-p36-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Ketones",
+            "Fetor hepaticus",
+            "Uraemic fetor",
+            "Anaerobic skin infections"
+        ],
+        "options": [
+            "Ketones",
+            "Fetal alcohol syndrome",
+            "Fetor hepaticus",
+            "Uraemic fetor",
+            "Anaerobic skin infections",
+            "Gastrointestinal disorders"
+        ],
+        "question": "What types of distinctively smelling medical conditions related to odors are described?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 43,
+            "paragraph_id": "978-0323847704-p43-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Employment status",
+            "Type and condition of housing",
+            "Diet",
+            "Smoking habits",
+            "Alcohol consumption",
+            "Exercise routine",
+            "History of allergy to pollen",
+            "Support system at home",
+            "Bereavement status",
+            "Education level"
+        ],
+        "options": [
+            "Family history of severe reactions to medications",
+            "Employment status",
+            "Presence of first-degree relatives with genetic disorders",
+            "Type and condition of housing",
+            "Dietary preferences",
+            "Smoking habits",
+            "Alcohol consumption",
+            "Exercise routine",
+            "History of allergy to pollen",
+            "Support system at home",
+            "Bereavement status",
+            "Education level"
+        ],
+        "question": "What aspects of a patient's background should healthcare providers consider during an initial consultation?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 27,
+            "paragraph_id": "978-0323847704-p27-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Large pulse volume due to exercise",
+            "Large pulse volume due to pregnancy",
+            "Slow-rising pulse due to severe aortic stenosis",
+            "Collapsing pulse due to severe aortic regurgitation",
+            "Reduced-volume lower limb pulses due to coarctation"
+        ],
+        "options": [
+            "Large pulse volume due to exercise",
+            "Low pulse volume due to hypervolemia",
+            "Slow-rising pulse due to severe aortic stenosis",
+            "Collapsing pulse due to severe aortic regurgitation",
+            "High pulse volume due to pregnancy",
+            "Normal pulse volume",
+            "Reduced-volume lower limb pulses due to coarctation"
+        ],
+        "question": "What are the different types of abnormal pulse volumes and characters discussed?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 63,
+            "paragraph_id": "978-0323847704-p63-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Up-slanting palpebral fissures",
+            "Epicanthic folds",
+            "Small nose with a poorly developed bridge",
+            "Small, low-set ears"
+        ],
+        "options": [
+            "Up-slanting eyelids",
+            "Bilateral ptosis",
+            "Epicanthic folds",
+            "Short fourth finger",
+            "Low-set ears",
+            "Webbed fingers",
+            "Blue sclerae"
+        ],
+        "question": "What are the distinct facial features associated with Down's syndrome?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 50,
+            "paragraph_id": "978-0323847704-p50-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Rate of the pulse",
+            "Rhythm of the pulse",
+            "Volume of the pulse",
+            "Character of the pulse"
+        ],
+        "options": [
+            "Volume of the pulse",
+            "Rhythm of the pulse",
+            "Rate of the pulse",
+            "Character of the pulse"
+        ],
+        "question": "What characteristics of arterial pulses are assessed during examination?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 61,
+            "paragraph_id": "978-0323847704-p61-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Duration of onset",
+            "Background symptoms of exertional dyspnea and usual exercise tolerance",
+            "Associated symptoms: chest pain, syncope, palpitation or respiratory symptoms (such as cough, sputum, wheeze or haemoptysis)"
+        ],
+        "options": [
+            "Chest pain",
+            "Syncope",
+            "Cough",
+            "Wheeze",
+            "Haemoptysis",
+            "Relationship between symptoms and exertion",
+            "Degree of limitation caused by symptoms",
+            "Effect of posture on symptoms",
+            "Episodes of nocturnal breathlessness",
+            "Ankle swelling",
+            "Background symptoms of exertional dyspnea",
+            "Duration of onset",
+            "Usual exercise tolerance",
+            "Associated respiratory symptoms"
+        ],
+        "question": "What symptoms are typically asked about in patients presenting with acute dyspnea?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 56,
+            "paragraph_id": "978-0323847704-p56-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Osteoarthritis",
+            "Neurogenic claudication",
+            "Venous claudication"
+        ],
+        "options": [
+            "Osteoarthritis",
+            "Neurogenic claudication",
+            "Venous claudication",
+            "Arterial Insufficiency"
+        ],
+        "question": "What types of conditions cause lower limb pain besides intermittent claudication due to arterial insufficiency?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 80,
+            "paragraph_id": "978-0323847704-p80-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Diastolic murmurs",
+            "Mid-Diastolic murmurs",
+            "Systolic murmurs",
+            "Continuous murmurs"
+        ],
+        "options": [
+            "Diastolic murmurs",
+            "Mid-Diastolic murmurs",
+            "Systolic murmurs",
+            "Continuous murmurs",
+            "Ischemic murmurs"
+        ],
+        "question": "What are the different categories of murmurs identified based on the timing within the heart cycle?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 75,
+            "paragraph_id": "978-0323847704-p75-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acute Viral Bronchitis",
+            "Asthma",
+            "Congestive Cardiac Failure",
+            "Gastro-Oesophageal Reflux Disease(GERD)",
+            "Tuberculosis",
+            "Pneumonia",
+            "Hypersensitivity Pneumonitis",
+            "Interstitial Lung Disease",
+            "Malignancies"
+        ],
+        "options": [
+            "Acute Viral Bronchitis",
+            "Asthma",
+            "Congestive Cardiac Failure",
+            "Gastro-Oesophageal Reflux Disease(GERD)",
+            "Tuberculosis",
+            "Pneumonia",
+            "Hypersensitivity Pneumonitis",
+            "Interstitial Lung Disease",
+            "Malignancies",
+            "New onset of asthma",
+            "Pulmonary Embolism",
+            "Myocardial Infraction"
+        ],
+        "question": "What are the possible causes of chronic cough listed?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 95,
+            "paragraph_id": "978-0323847704-p95-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Eczema",
+            "Childhood asthma",
+            "Whooping cough",
+            "Measles",
+            "Pneumonia",
+            "Pleurisy",
+            "Tuberculosis",
+            "Aspergilloma",
+            "Connective tissue disorders",
+            "Previous malignancy",
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer",
+            "Recent travel",
+            "Surgery",
+            "Immobility",
+            "Loss of consciousness",
+            "Neuromuscular disorders"
+        ],
+        "options": [
+            "Eczema",
+            "Whooping cough",
+            "Pneumonia",
+            "Tuberculosis",
+            "Connective tissue disorders",
+            "Previous malignancy",
+            "Neuromuscular disorders",
+            "Hay fever"
+        ],
+        "question": "What types of previous illnesses are noted as being particularly relevant when taking a respiratory history?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 99,
+            "paragraph_id": "978-0323847704-p99-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Varicose veins",
+            "Deep venous thrombosis",
+            "Chronic venous insufficiency and ulceration",
+            "Superficial thrombophlebitis"
+        ],
+        "options": [
+            "Varicose veins",
+            "Deep venous thrombosis",
+            "Chronic venous insufficiency and ulceration",
+            "Superficial thrombophlebitis"
+        ],
+        "question": "What are the primary forms through which lower limb venous disease manifests?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 87,
+            "paragraph_id": "978-0323847704-p87-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Scars",
+            "Chest shape",
+            "Asymmetry",
+            "Pattern of breathing",
+            "Accessory muscle use"
+        ],
+        "options": [
+            "Scars",
+            "Chest shape",
+            "Asymmetry",
+            "Pattern of breathing",
+            "Accessory muscle use",
+            "Clubbing",
+            "Tar staining"
+        ],
+        "question": "What signs can be observed when examining Mr. Tate's respiratory system by observing him from the end of the bed?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 111,
+            "paragraph_id": "978-0323847704-p111-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Infection",
+            "Malignancy",
+            "Pulmonary fibrosis",
+            "Pleural effusion",
+            "Pulmonary embolism",
+            "Asthma"
+        ],
+        "options": [
+            "Pulmonary embolism",
+            "Asthma",
+            "COPD",
+            "Malignancy",
+            "Pleural effusion",
+            "Infection"
+        ],
+        "question": "What categories of respiratory problems are suggested during the diagnosis process?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 108,
+            "paragraph_id": "978-0323847704-p108-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Straining due to chronic constipation",
+            "Chronic cough",
+            "Heavy manual labor",
+            "Relationship with micturition"
+        ],
+        "options": [
+            "Straining due to chronic constipation",
+            "Chronic cough",
+            "Heavy manual labor",
+            "Relationship with micturition",
+            "Long periods of standing or activity"
+        ],
+        "question": "What are the possible precipitating/exacerbating factors related to the development or worsening of symptoms described in the context of hernias and other gastrointestinal issues?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 124,
+            "paragraph_id": "978-0323847704-p124-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Migraine",
+            "Cluster headache",
+            "Stabbing headache"
+        ],
+        "options": [
+            "Migraine",
+            "Cluster headache",
+            "Stabbing headache",
+            "Meningitis",
+            "Subarachnoid haemorrhage",
+            "Temporal arteritis"
+        ],
+        "question": "What categories of primary headache syndromes are identified based on their clinical characteristics?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 144,
+            "paragraph_id": "978-0323847704-p144-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "The liver edge below the right costal margin",
+            "The aorta as a pulsatile swelling above the umbilicus",
+            "The lower pole of the right kidney in the right flank",
+            "Faecal scybala in the sigmoid colon in the left iliac fossa",
+            "A full bladder arising out of the pelvis in the suprapubic region"
+        ],
+        "options": [
+            "The liver edge below the right costal margin",
+            "The aorta as a pulsatile swelling above the umbilicus",
+            "The lower pole of the right kidney in the right flank",
+            "Faecal scybala in the sigmoid colon in the left iliac fossa",
+            "A full bladder arising out of the pelvis in the suprapubic region",
+            "Hepatic enlargement"
+        ],
+        "question": "What can typically be felt or identified through percussion or palpation in the normal abdomen?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 130,
+            "paragraph_id": "978-0323847704-p130-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Expressive (motor) dysphasia",
+            "Receptive (sensory) dysphasia",
+            "Global dysphasia",
+            "Note - Changed the term \"aphasia\" to \"dysphasia\", since the question specifically refers to dysphasias rather than general terms for disorders involving issues related to speech and language understanding."
+        ],
+        "options": [
+            "Expressive (motor) aphasia",
+            "Receptive (sensory) aphasia",
+            "Global aphasia",
+            "Dyslexia"
+        ],
+        "question": "What types of dysphasias are characterized by disturbances in language processing?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 148,
+            "paragraph_id": "978-0323847704-p148-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Weakness of both upper and lower facial muscles",
+            "Impairment of taste",
+            "Hyperacusis"
+        ],
+        "options": [
+            "Weakness of both upper and lower facial muscles",
+            "Impairment of taste",
+            "Hyperacusis",
+            "Incomplete eye closure resulting in corneal exposure",
+            "Loss of nasolabial fold",
+            "Bilateral facial palsies",
+            "Sarcoidosis"
+        ],
+        "question": "What are the clinical manifestations associated with Bell's palsy?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 155,
+            "paragraph_id": "978-0323847704-p155-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Dystonia",
+            "Chorea",
+            "Athetosis",
+            "Ballism",
+            "Tics",
+            "Myoclonic jerks"
+        ],
+        "options": [
+            "Dystonia",
+            "Chorea",
+            "Athetosis",
+            "Ballism",
+            "Tics",
+            "Parkinson's disease-related tremor",
+            "Essential tremor",
+            "Intention tremor",
+            "Myoclonic jerks"
+        ],
+        "question": "What types of involuntary movements related to neurological conditions are described?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 161,
+            "paragraph_id": "978-0323847704-p161-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Cholinesterase inhibitors",
+            "Memantine"
+        ],
+        "options": [
+            "Cholinesterase inhibitors",
+            "Memantine",
+            "Antipsychotics",
+            "Anti-anxiety medications",
+            "Beta-blockers"
+        ],
+        "question": "What are the main types of pharmacological interventions used in the management of dementia?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 175,
+            "paragraph_id": "978-0323847704-p175-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Snout reflex",
+            "Grasp reflex",
+            "Palmomental reflex",
+            "Glabellar tap"
+        ],
+        "options": [
+            "Snout reflex",
+            "Grasp reflex",
+            "Palmomental reflex",
+            "Glabellar tap",
+            "Cremasteric reflex"
+        ],
+        "question": "What reflexes are considered primitive reflexes?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 166,
+            "paragraph_id": "978-0323847704-p166-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Retina",
+            "Optic nerve",
+            "Optic chiasm",
+            "Lateral geniculate bodies",
+            "Optic radiations",
+            "Visual cortex"
+        ],
+        "options": [
+            "Retina",
+            "Optic nerve",
+            "Optic chiasm",
+            "Lateral geniculate bodies",
+            "Optic radiations",
+            "Visual cortex",
+            "Superior colliculus",
+            "Edinger-Westphal nucleus"
+        ],
+        "question": "What structures make up the visual pathway connecting the eye to the brain?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 180,
+            "paragraph_id": "978-0323847704-p180-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Myasthenia gravis",
+            "VI nerve palsy",
+            "IV nerve palsy",
+            "III nerve palsy",
+            "Internuclear ophthalmoplegia",
+            "Thyroid eye disease",
+            "Complex or combined palsy",
+            "Severe orbital cellulitis or orbital inflammation"
+        ],
+        "options": [
+            "High astigmatism",
+            "Corneal opacity",
+            "Abnormal lens",
+            "Iris defect",
+            "Myasthenia gravis",
+            "VI nerve palsy",
+            "IV nerve palsy",
+            "III nerve palsy",
+            "Internuclear ophthalmoplegia",
+            "Thyroid eye disease",
+            "Complex or combined palsy",
+            "Severe orbital cellulitis or orbital inflammation",
+            "Bacterial conjunctivitis",
+            "Viral conjunctivitis"
+        ],
+        "question": "What are the binocular causes of double vision?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 186,
+            "paragraph_id": "978-0323847704-p186-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Usually causes loss of superior or inferior hemi-field",
+            "Painless",
+            "Associated cardiovascular risk factors (hypertension, diabetes, poor lipid profile)",
+            "Age usually >50"
+        ],
+        "options": [
+            "Reduced colour vision",
+            "Orbital pain",
+            "Relative afferent pupillary defect",
+            "Sudden onset visual loss",
+            "Age usually <30",
+            "Painless",
+            "Associated cardiovascular risk factors (e.g., hypertension, diabetes)"
+        ],
+        "question": "What are the distinguishing clinical features of non-arteritic anterior ischemic optic neuropathy?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 194,
+            "paragraph_id": "978-0323847704-p194-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Benign (adenoma)",
+            "Malignant (papillary, follicular, medullary, anaplastic)",
+            "Note: Since you asked me to preserve the original terminology, I maintained \"(benign)\" and \"(malignant)\" exactly as they appear related to adenomas and various carcinomas in your instruction."
+        ],
+        "options": [
+            "Papillary tumor",
+            "Follicular tumor",
+            "Medullary tumor",
+            "Anaplastic tumor",
+            "Adenocarcinoma"
+        ],
+        "question": "What types of thyroid tumors are associated with thyroid lobe swellings?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 220,
+            "paragraph_id": "978-0323847704-p220-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Granulomatosis with polyangiitis",
+            "Cocaine abuse",
+            "Congenital syphilis",
+            "Trauma",
+            "Iatrogenic factors"
+        ],
+        "options": [
+            "Granulomatosis with polyangiitis",
+            "Acne vulgaris",
+            "Cocaine abuse",
+            "Congenital syphilis",
+            "Trauma",
+            "Iatrogenic factors"
+        ],
+        "question": "What conditions are associated with causes of nasal deformity?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 213,
+            "paragraph_id": "978-0323847704-p213-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Horizontal nystagmus",
+            "Vertical nystagmus",
+            "Rotatory nystagmus"
+        ],
+        "options": [
+            "Horizontal nystagmus",
+            "Vertical nystagmus",
+            "Rotatory nystagmus"
+        ],
+        "question": "What types of nystagmus can be identified during the examination for nystagmus?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 209,
+            "paragraph_id": "978-0323847704-p209-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Pituitary",
+            "Thyroid",
+            "Adrenals",
+            "Gonads (including testes and ovaries)",
+            "Parathyroids",
+            "Endocrine pancreas"
+        ],
+        "options": [
+            "Pituitary",
+            "Pancreatic islets",
+            "Testes",
+            "Ovaries",
+            "Parathyroids",
+            "Endocrine pancreas",
+            "Liver"
+        ],
+        "question": "What are the names of the main endocrine glands?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 227,
+            "paragraph_id": "978-0323847704-p227-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Acromegaly",
+            "Cushing's syndrome"
+        ],
+        "options": [
+            "Hypothyroidism",
+            "Hyperthyroidism",
+            "Haemochromatosis",
+            "End-stage renal failure",
+            "Acromegaly",
+            "Cushing's syndrome"
+        ],
+        "question": "What are some examples of endocrinopathies causing diabetes listed in this medical context?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 240,
+            "paragraph_id": "978-0323847704-p240-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Colloid cyst",
+            "Follicular adenoma",
+            "Dominant nodule in a multinodular goitre",
+            "Thyroid carcinoma (including papillary, follicular, medullary, anaplastic)"
+        ],
+        "options": [
+            "Colloid cyst",
+            "Follicular adenoma",
+            "Simple goiter",
+            "Papillary thyroid cancer",
+            "Medullary thyroid cancer"
+        ],
+        "question": "What types of conditions can cause solitary thyroid nodules?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 230,
+            "paragraph_id": "978-0323847704-p230-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Spatula",
+            "Plastic broom",
+            "Glass slide",
+            "Specimen container"
+        ],
+        "options": [
+            "Spatula",
+            "Plastic broom",
+            "Glass slide",
+            "Specimen container"
+        ],
+        "question": "What tools are utilized when collecting cervical samples?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 259,
+            "paragraph_id": "978-0323847704-p259-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Reproductive medicine specialist",
+            "Obstetrician gynaecologist",
+            "Community midwife",
+            "GP"
+        ],
+        "options": [
+            "Reproductive medicine specialist",
+            "Obstetrician gynaecologist",
+            "Community midwife",
+            "GP",
+            "Surgeon",
+            "Psychologist"
+        ],
+        "question": "What types of healthcare professionals might care for someone during pregnancy?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 263,
+            "paragraph_id": "978-0323847704-p263-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Fat pads, called labia majora, covered with hair",
+            "Labia minora",
+            "Vulval vestibule",
+            "Vaginal orifice",
+            "Urethral opening",
+            "Clitoris",
+            "Fourchette"
+        ],
+        "options": [
+            "Labia minora",
+            "Clitoris",
+            "Prepuce",
+            "Perineum",
+            "Urethra"
+        ],
+        "question": "What parts constitute the vulva?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 252,
+            "paragraph_id": "978-0323847704-p252-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Skin color change",
+            "Nipple retraction",
+            "Discharge from single or multiple ducts",
+            "Blood presence via urine dipstick test",
+            "Swelling",
+            "Redness",
+            "Ulceration",
+            "Nipple inversion",
+            "Texture abnormalities",
+            "Consistency issues",
+            "Tenderness",
+            "Mobility problems"
+        ],
+        "options": [
+            "Skin color change",
+            "Nipple retraction",
+            "Discharge from single or multiple ducts",
+            "Blood presence via urine dipstick test",
+            "Swelling",
+            "Redness",
+            "Ulceration",
+            "Nipple inversion",
+            "Texture abnormalities",
+            "Consistency issues",
+            "Tenderness",
+            "Mobility problems"
+        ],
+        "question": "What signs do healthcare professionals look out for while examining patients?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 250,
+            "paragraph_id": "978-0323847704-p250-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Time of onset and duration",
+            "Severity of pain",
+            "Exacerbating/relieving factors",
+            "Constant or intermittent nature",
+            "Radiation to groin or loin",
+            "Any precipitating event such as trauma",
+            "Associated urinary symptoms, urethral discharge, swelling, fever, nausea or weight loss",
+            "Sexual history",
+            "Past medical history, including undescended testes"
+        ],
+        "options": [
+            "Time of onset",
+            "Severity of pain",
+            "Exacerbating/relieving factors",
+            "Constant or intermittent nature",
+            "Radiation to other areas",
+            "Associated urinary symptoms",
+            "Past medical history",
+            "Sexual history"
+        ],
+        "question": "What are the key elements included when exploring the symptoms presented by Mr. Atkins?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 276,
+            "paragraph_id": "978-0323847704-p276-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Immunoglobulin A (IgA) nephropathy",
+            "Bladder tumors",
+            "Renal cell carcinoma",
+            "Urinary tract infections",
+            "Stones",
+            "Schistosomiasis",
+            "Glomerulonephritis"
+        ],
+        "options": [
+            "Immunoglobulin A (IgA) nephropathy",
+            "Bladder tumors",
+            "Renal cell carcinoma",
+            "Urinary tract infections",
+            "Stones",
+            "Schistosomiasis",
+            "Glomerulonephritis",
+            "Prostate cancer"
+        ],
+        "question": "What conditions are responsible for hematuria?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 280,
+            "paragraph_id": "978-0323847704-p280-para1"
+        },
+        "type": "list"
+    },
+    {
+        "answer": [
+            "Muehrcke's lines",
+            "Lindsay's (half-and-half) nails"
+        ],
+        "options": [
+            "Pallor of the palmar creases",
+            "Hiccupping",
+            "Yellowish discoloration of the skin",
+            "Bruising",
+            "Scratch marks",
+            "Excoriations",
+            "Purpura",
+            "Petechiae",
+            "Ecchymoses",
+            "Easy bruising",
+            "Purpuric lesions around the eyes",
+            "Tophi formation",
+            "Rheumatoid nodules",
+            "Muehrcke's lines",
+            "Lindsay's (half-and-half) nails"
+        ],
+        "question": "What types of nail abnormalities might suggest chronic kidney disease?",
+        "source": {
+            "isbn": "978-0323847704",
+            "page": 284,
+            "paragraph_id": "978-0323847704-p284-para1"
+        },
+        "type": "list"
+    }
+]

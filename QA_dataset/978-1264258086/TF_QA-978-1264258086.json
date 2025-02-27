@@ -1,0 +1,592 @@
+[
+    {
+        "answer": "True",
+        "question": "The fourteenth edition of the book titled \"The Pharmacological Basis Of Therapeutics\" contains chapters regarding drug discovery, clinical trials, and post-marketing surveillance among other things.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 4,
+            "paragraph_id": "978-1264258086-p4-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Drug concentrations in plasma may be lower in individuals with normal perfusion than they would be if perfusion were poorer due to conditions such as shock.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 54,
+            "paragraph_id": "978-1264258086-p54-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Aspirin's peak concentration in the blood occurs after 2 hours.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 856,
+            "paragraph_id": "978-1264258086-p856-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Febuxostat lowers serum uric acid to similar levels as 300 mg/day allopurinol at a dose of 80 mg/day.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 869,
+            "paragraph_id": "978-1264258086-p869-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Activation of H4 receptors has been associated with suppression of appetite and inhibition of convulsions.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 880,
+            "paragraph_id": "978-1264258086-p880-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Efficacy relates to the ability of a ligand to bind to the receptor and evoke a measurable response.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 71,
+            "paragraph_id": "978-1264258086-p71-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "There are exactly 422 olfactory receptors among the total number of GPCRs.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 78,
+            "paragraph_id": "978-1264258086-p78-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Amphetamines displace dopamine from vesicular stores and engage the trace amine-associated receptor TAAR1.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 63,
+            "paragraph_id": "978-1264258086-p63-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The therapeutic window is the range of plasma concentrations or doses of a drug that provides minimal toxicity with optimal therapeutic efficacy in most patients.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 73,
+            "paragraph_id": "978-1264258086-p73-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Infusion of bradykinin causes vasoconstriction and increases blood pressure.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 888,
+            "paragraph_id": "978-1264258086-p888-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary mechanism through which roflumilast exerts its anti-inflammatory effects is the selective inhibition of PDE4B.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 902,
+            "paragraph_id": "978-1264258086-p902-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "\u03b22 agonists prevent mediator release from isolated human lung mast cells via \u03b21 receptors.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 898,
+            "paragraph_id": "978-1264258086-p898-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cyproheptadine HCl has an action duration of less than 4 hours.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 883,
+            "paragraph_id": "978-1264258086-p883-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Corticosteroids suppress inflammation in most patients with asthma.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 895,
+            "paragraph_id": "978-1264258086-p895-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Levothyroxine acts as a therapeutic agent specifically targeting the thyroid hormone receptor subtypes THR-alpha and THR-beta.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 88,
+            "paragraph_id": "978-1264258086-p88-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "NOS produces NO by oxidizing the amino group of l-arginine, producing l-citrulline and NO.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 84,
+            "paragraph_id": "978-1264258086-p84-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Membrane transport proteins control the influx of waste products out of cells.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 98,
+            "paragraph_id": "978-1264258086-p98-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Norepinephrine binds to alpha-1 adrenergic receptors on vascular smooth muscle cells (VSMCs).",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 92,
+            "paragraph_id": "978-1264258086-p92-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Erythropoietin is produced mainly in the liver.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 920,
+            "paragraph_id": "978-1264258086-p920-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Air pollution exposure is linked to worsening of asthma.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 911,
+            "paragraph_id": "978-1264258086-p911-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fluticasone furoate has the shortest duration of action compared to other ICS options.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 908,
+            "paragraph_id": "978-1264258086-p908-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Noncompetitive inhibition assumes that the inhibitor affects the enzyme's ability to bind to the substrate.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 104,
+            "paragraph_id": "978-1264258086-p104-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Bosentan is taken up in the liver by OATP1B1 alone.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 112,
+            "paragraph_id": "978-1264258086-p112-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "MRP4 is found ubiquitously, including in the BBB and BCSFB, and transports nucleotide analogues among other substances.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 110,
+            "paragraph_id": "978-1264258086-p110-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Transporters play a crucial role in determining variations in therapeutic and adverse drug reactions due to their involvement in drug disposition and action.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 117,
+            "paragraph_id": "978-1264258086-p117-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Thrombopoietin receptor agonists (TRA) are FDA-approved exclusively for treating patients with Immune Thrombocytopenia Purpura (ITP).",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 925,
+            "paragraph_id": "978-1264258086-p925-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The maximum cumulative dose of iron sucrose for treating iron deficiency is 1500 mg.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 930,
+            "paragraph_id": "978-1264258086-p930-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Daily intramuscular injections of 100 \u03bcg of cyanocobalamin and 1 to 5 mg of folic acid for 1 to 2 weeks are always followed by a single dose of folic acid after two weeks.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 934,
+            "paragraph_id": "978-1264258086-p934-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Dopamine stimulates prolactin secretion.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 945,
+            "paragraph_id": "978-1264258086-p945-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Somatostatin decreases the production of both Growth hormone and Thyroid-stimulating hormone.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 943,
+            "paragraph_id": "978-1264258086-p943-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Methimazole inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosines on thyroglobulin.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 961,
+            "paragraph_id": "978-1264258086-p961-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Menotropins provide substantial Follicle Stimulating Hormone (FSH) activity to promote follicle maturation.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 954,
+            "paragraph_id": "978-1264258086-p954-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Levothyroxine is the hormone of choice for thyroid hormone replacement therapy in hypothyroidism due to its consistent potency and prolonged duration of action.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 968,
+            "paragraph_id": "978-1264258086-p968-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "More than 90% of patients are cured of hyperthyroidism by two doses of radioactive iodine treatment.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 973,
+            "paragraph_id": "978-1264258086-p973-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Clomiphene citrate induces ovulation in roughly 75% of women who take it.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 997,
+            "paragraph_id": "978-1264258086-p997-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The one-year failure rate for combination oral contraceptive pills under perfect use conditions is higher than 1%.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 993,
+            "paragraph_id": "978-1264258086-p993-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Insulin lowers glucose levels in the bloodstream by facilitating the uptake of glucose into muscles and adipose tissue.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 983,
+            "paragraph_id": "978-1264258086-p983-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Toremifene has therapeutic actions identical to tamoxifen.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 988,
+            "paragraph_id": "978-1264258086-p988-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Chronic autoimmune thyroiditis causing Hashimoto's disease is the primary reason behind most cases of hypothyroidism worldwide regardless of iodine availability.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 966,
+            "paragraph_id": "978-1264258086-p966-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Testosterone's effect on increasing lean mass and muscle strength requires conversion to estradiol.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1012,
+            "paragraph_id": "978-1264258086-p1012-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Flutamide blocks the action of adrenal androgens by stimulating higher serum testosterone concentrations.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1016,
+            "paragraph_id": "978-1264258086-p1016-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Estrogen therapy in postmenopausal women does not increase the risk of thromboembolic disease.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1003,
+            "paragraph_id": "978-1264258086-p1003-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Aldosterone primarily acts on the proximal convoluted tubule to affect electrolyte balance.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1029,
+            "paragraph_id": "978-1264258086-p1029-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Cortisol is produced in the zona glomerulosa of the adrenal cortex.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1023,
+            "paragraph_id": "978-1264258086-p1023-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Glucocorticoids inhibit the production and release of arachidonic acid derivatives in basophils.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1031,
+            "paragraph_id": "978-1264258086-p1031-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Human insulin, produced through recombinant DNA technology, contains a U.S. Pharmacopeia unit defined as the amount needed to reduce blood glucose concentration to exactly 49 mg/dL in rabbits fasted for 18 hours.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1050,
+            "paragraph_id": "978-1264258086-p1050-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Production of glucose is completely inhibited by an insulin concentration of exactly 240 pmol/L.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1043,
+            "paragraph_id": "978-1264258086-p1043-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "The administration of thiazolidinediones requires the absence of endogenous insulin for pharmacological activity.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1056,
+            "paragraph_id": "978-1264258086-p1056-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Metformin and lifestyle changes are recommended as initial treatments before considering other options for managing type 2 diabetes.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1061,
+            "paragraph_id": "978-1264258086-p1061-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Fibroblast growth factor 23 (FGF23) suppresses the production of active vitamin D by promoting urinary phosphate excretion and does not influence bone turnover rates even after long periods following systemic administration of recombinant human FGF23.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1072,
+            "paragraph_id": "978-1264258086-p1072-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Elemental calcium is essential for blood coagulation and maintaining the continuous remodeling of the skeleton.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1068,
+            "paragraph_id": "978-1264258086-p1068-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Denosumab is a human monoclonal antibody directed against RANKL.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1079,
+            "paragraph_id": "978-1264258086-p1079-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Potassium-competitive acid blockers include revaprazan, tegoprazan, and vonoprazan.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1097,
+            "paragraph_id": "978-1264258086-p1097-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The presence of Helicobacter pylori infection disrupts normal mucosal defenses leading to potential formation of ulcers in the stomach or duodenum.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1092,
+            "paragraph_id": "978-1264258086-p1092-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Continuous use of water containing about 1 ppm of fluoride may result in very mild mottling in less than 10% of children.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1083,
+            "paragraph_id": "978-1264258086-p1083-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Proton pump inhibitors may increase the risk of diarrhea.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1102,
+            "paragraph_id": "978-1264258086-p1102-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "The primary metabolic pathway for rolipitant involves the enzyme CYP3A4 to produce an active metabolite called M19.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1122,
+            "paragraph_id": "978-1264258086-p1122-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "True",
+        "question": "Constipation is sometimes defined by patients as difficulty in initiating or passing firm/small-volume feces, rather than just decreased frequency.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1109,
+            "paragraph_id": "978-1264258086-p1109-para1"
+        },
+        "type": "true_false"
+    },
+    {
+        "answer": "False",
+        "question": "Castor oil's laxative effect typically requires more than 60 mL for adults to produce a noticeable impact.",
+        "source": {
+            "isbn": "978-1264258086",
+            "page": 1113,
+            "paragraph_id": "978-1264258086-p1113-para1"
+        },
+        "type": "true_false"
+    }
+]

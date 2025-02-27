@@ -1,0 +1,232 @@
+[
+    {
+        "answer": "Carriers of drugs targeted to specific organs.",
+        "question": "What do liposomes serve as in clinical settings?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 43,
+            "paragraph_id": "978-9389859751-p43-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "pK1 is approximately 2 and pK2 is approximately 9.",
+        "question": "What is the value of pK1 and pK2 for the alpha-carboxyl and alpha-amino groups of amino acids?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 98,
+            "paragraph_id": "978-9389859751-p98-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Specific geometric patterns, or motifs formed by combining secondary structural elements.",
+        "question": "What is typically found at the interior of a globular protein?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 109,
+            "paragraph_id": "978-9389859751-p109-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Procollagen secretion occurs through the Golgi apparatus into the extracellular matrix.",
+        "question": "What process happens after the formation of intrachain and interchain disulfide bonds?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 142,
+            "paragraph_id": "978-9389859751-p142-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Carboxyhemoglobin.",
+        "question": "What forms when carbon monoxide (CO) binds tightly but reversibly to the hemoglobin iron?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 126,
+            "paragraph_id": "978-9389859751-p126-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Elevated levels of insulin resulting from high blood glucose levels.",
+        "question": "What causes an increase in the synthesis of key enzymes involved in glucose metabolism?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 162,
+            "paragraph_id": "978-9389859751-p162-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Malate dehydrogenase (MD)",
+        "question": "What enzyme catalyzes the conversion of malate to OAA?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 235,
+            "paragraph_id": "978-9389859751-p235-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They are deposited as fat via de novo synthesis.",
+        "question": "What happens to carbohydrates consumed through meals if the liver's glycogen capacity is reached?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 252,
+            "paragraph_id": "978-9389859751-p252-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Adding double bonds decreases the melting temperature of a fatty acid.",
+        "question": "What happens to the melting temperature of a fatty acid when double bonds are added?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 315,
+            "paragraph_id": "978-9389859751-p315-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Phosphotransferase.",
+        "question": "What enzyme deficiency results in I-Cell disease?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 290,
+            "paragraph_id": "978-9389859751-p290-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "High-density lipoproteins pick up cholesterol accumulating in blood vessels, activate LCAT to convert it to cholesterol esters, and deliver it to the liver and steroidogenic tissues.",
+        "question": "What is the primary role of high-density lipoproteins?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 366,
+            "paragraph_id": "978-9389859751-p366-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Corticosteroid-binding globulin (transcortin)",
+        "question": "What transports cortisol?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 376,
+            "paragraph_id": "978-9389859751-p376-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "5%\u201310%",
+        "question": "What percentage of glucose metabolized by the liver is accounted for by the pentose phosphate pathway?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 469,
+            "paragraph_id": "978-9389859751-p469-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Cellular respiration.",
+        "question": "What process involves breaking down carbohydrates into simpler sugars like glucose?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 477,
+            "paragraph_id": "978-9389859751-p477-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "They carry them inside pouches for further development.",
+        "question": "What do marsupials typically do with their undeveloped young?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 488,
+            "paragraph_id": "978-9389859751-p488-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately 69%.",
+        "question": "What percentage of US adults are considered overweight?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 505,
+            "paragraph_id": "978-9389859751-p505-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "The RDA of vitamin B12 is 1 \u03bcg for adults.",
+        "question": "What is the recommended daily requirement of vitamin B12?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 543,
+            "paragraph_id": "978-9389859751-p543-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "50%",
+        "question": "What percentage of normal serum calcium is ionized?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 568,
+            "paragraph_id": "978-9389859751-p568-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Approximately 90%.",
+        "question": "What percentage of secreted thyroid hormone under normal conditions is T4?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 577,
+            "paragraph_id": "978-9389859751-p577-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Aspartate transcarbamoylase.",
+        "question": "What is the enzyme responsible for converting carbamoyl phosphate to carbamoylaspartate?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 600,
+            "paragraph_id": "978-9389859751-p600-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "Xanthine oxidase",
+        "question": "What enzyme does allopurinol inhibit during the treatment of gout?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 604,
+            "paragraph_id": "978-9389859751-p604-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "DnaA protein initiates replication by binding to specific nucleotide sequences, causing an AT-rich region to melt and resulting in a short, localized region of ssDNA.",
+        "question": "What is the function of DnaA protein in initiating DNA replication in E. coli?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 611,
+            "paragraph_id": "978-9389859751-p611-para1"
+        },
+        "type": "short_answer"
+    },
+    {
+        "answer": "It initiates strand synthesis on the leading strand and at the start of each Okazaki fragment on the lagging strand.",
+        "question": "What function does the primase subunit of Pol \u03b1 perform?",
+        "source": {
+            "isbn": "978-9389859751",
+            "page": 618,
+            "paragraph_id": "978-9389859751-p618-para1"
+        },
+        "type": "short_answer"
+    }
+]

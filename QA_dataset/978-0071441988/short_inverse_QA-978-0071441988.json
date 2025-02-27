@@ -406,5 +406,737 @@
             "paragraph_id": "978-0071441988-p661-para1"
         },
         "type": "short_inverse"
+    },
+    {
+        "answer": "Fairley et al. concluded that there is strong evidence supporting hand-genital transmission of genital warts.",
+        "false_answer": "That Fairley et al. concluded there is strong evidence supporting hand-genital transmission of genital warts.",
+        "incorrect_explanation": "Because the actual conclusion drawn by Fairley et al. was an analysis of prevalence data which did not necessarily confirm hand-genital transmission strongly but rather analyzed the possibility. The correct interpretation should reflect their findings accurately, indicating they were assessing if hand-genital contact could explain some cases of genital warts transmission, not conclusively proving it through their work alone.",
+        "question": "What was the reported finding regarding hand-genital transmission of genital warts according to Fairley et al.'s analysis of prevalence data?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 214,
+            "paragraph_id": "978-0071441988-p214-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The boiling temperature of Carbon Disul\ufb01de is approximately 55\u00b0C.",
+        "false_answer": "The boiling temperature of Carbon Disul\ufb01de is approximately 55\u00b0C.",
+        "incorrect_explanation": "The statement is incorrect because according to the given information, the actual boiling temperature of Carbon Disul\ufb01de (CS2) is 46\u00b0C, not 55\u00b0C.",
+        "question": "What is the boiling temperature of Carbon Disul\ufb01de?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 675,
+            "paragraph_id": "978-0071441988-p675-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Concentration levels of dimethylnitrosamine ranged between 10-20 parts per million (ppm).",
+        "false_answer": "Dimethylnitrosamine concentrations ranging between 10-20 ppm.",
+        "incorrect_explanation": "According to the text, the actual detection range of dimethylnitrosamine levels in the scenario described was significantly higher, specifically noted as being within the range of 30\u2013100 ppm.",
+        "question": "What concentration level of dimethylnitrosamine was detected when the presence of this compound became apparent in relation to the preservation method involving fish meal?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 681,
+            "paragraph_id": "978-0071441988-p681-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At 500 ppm, methanol exposure starts contributing substantially to endogenous formate quantities.",
+        "false_answer": "At 500 ppm, methanol exposure starts contributing substantially to endogenous formate quantities.",
+        "incorrect_explanation": "According to the given information, it's actually noted that at 200 ppm, methanol exposure does not contribute substantially to endogenous formate quantities, indicating that there might be some threshold around or slightly higher than this amount before contributions become significant. Therefore, stating that 500 ppm is specifically identified as the starting point for substantial contribution to endogenous formate quantities is inaccurate based on the provided data.",
+        "question": "What concentration level of methanol exposure contributes significantly to endogenous formate quantities?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 666,
+            "paragraph_id": "978-0071441988-p666-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Around 75%.",
+        "false_answer": "Around 75%",
+        "incorrect_explanation": "According to the given information, individuals with genotype 1 HCV actually achieve around 50% SVR rates with 48 weeks of treatment, making the statement incorrect. The correct answer should reflect this specified rate rather than stating a different percentage.",
+        "question": "What percentage of individuals with genotype 1 HCV experience sustained virological response (SVR) after receiving 48 weeks of treatment?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 252,
+            "paragraph_id": "978-0071441988-p252-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 17 cases per 100,000 persons annually are attributed to Streptococcus pneumoniae bacteremia.",
+        "false_answer": "Approximately 17 cases per 100,000 persons annually are attributed to Streptococcus pneumoniae bacteremia.",
+        "incorrect_explanation": "The paragraph actually mentions that the annual incidence of pneumococcal bacteremia is 23 cases per 100,000 persons, making the statement in the answer incorrect.",
+        "question": "What is the approximate number of cases per 100,000 persons annually attributed to Streptococcus pneumoniae bacteremia?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 232,
+            "paragraph_id": "978-0071441988-p232-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "An anti-HBs response of 5 milli-International Units per milliliter (mIU/mL) or more 1 month after the vaccination series defines seroprotection to HBV infection.",
+        "false_answer": "An anti-HBs response of 5 milli-International Units per milliliter (mIU/mL) or more 1 month after the vaccination series.",
+        "incorrect_explanation": "The paragraph actually specifies that seroprotection to HBV infection is defined as an anti-HBs response of 10 mIU/mL or more 1\u20132 months after the vaccination series, not 5 mIU/mL one month after.",
+        "question": "What level of anti-HBs response is defined as providing seroprotection to HBV infection?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 246,
+            "paragraph_id": "978-0071441988-p246-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 85% of the dioxin-like toxicity in Yusho came from PCDFs.",
+        "false_answer": "Approximately 85% of the dioxin-like toxicity in Yusho came from PCDFs.",
+        "incorrect_explanation": "According to the paragraph, more than 90% of the dioxin-like toxicity in Yusho was actually considered to have originated from PCDFs, specifically stating that \"more than 90% of the dioxin-like toxicity in Yusho was considered to have originated from PCDFs,\" making the statement of approximately 85% inaccurate.",
+        "question": "What percentage of the dioxin-like toxicity in Yusho was attributed to PCDFs?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 707,
+            "paragraph_id": "978-0071441988-p707-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A dose of approximately 500 mL/kg body weight.",
+        "false_answer": "Approximately 500 mL/kg body weight of carbon tetrachloride.",
+        "incorrect_explanation": "There's no mention in the given sources indicating administration volumes specifically around 500 mL/kg body weight for inducing liver fibrosis in mice. Most studies cited focus on biochemical interactions rather than specifying exact doses in milliliters per kilogram. Correct information would involve understanding actual dosage ranges typically discussed in scientific literature regarding carbon tetrachloride hepatotoxicity experiments, usually measured in mg/kg or other units reflecting standard toxicological practices.",
+        "question": "What volume of carbon tetrachloride was administered to induce liver fibrosis in mice according to studies referenced?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 690,
+            "paragraph_id": "978-0071441988-p690-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 6%",
+        "false_answer": "Approximately 6%",
+        "incorrect_explanation": "According to the paragraph, Meggs actually found that slightly under 4% of surveyed North Carolinians claimed to be chemically sensitive. \n- **Correct Answer Should Be:** Slightly under 4%.",
+        "question": "What percentage of surveyed North Carolinians claimed to be chemically sensitive according to Meggs?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 714,
+            "paragraph_id": "978-0071441988-p714-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Dimethylnitrosamine.",
+        "false_answer": "Dimethylnitrosamine.",
+        "incorrect_explanation": "While dimethylnitrosamine does indeed play a role in inducing mutations and is associated with various cancers, the actual compound specifically noted in the given texts for transforming hamster pancreatic duct cells is 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK).\n- **Correct Answer Should Be:** 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), as per reference number 591, indicating this compound's ability to transform hamster pancreatic duct cells in vitro.",
+        "question": "What chemical substance was found to induce micronucleus formations in rat pancreatic duct cells according to research conducted?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 699,
+            "paragraph_id": "978-0071441988-p699-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Concentration of 66 ppm.",
+        "false_answer": "Concentration of 66 ppm.",
+        "incorrect_explanation": "According to the paragraph, the concentrations leading to significantly increased occurrences of certain health issues in animals differ. Specifically, the statement mentions that concentrations of 33 ppm resulted in significant increases in mononuclear cell leukemias and peritoneal mesotheliomas in rats, making the claim of 66 ppm incorrect.",
+        "question": "What concentration of ethylene oxide exposure led to significant increases in mononuclear cell leukemias and peritoneal mesotheliomas in rats?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 684,
+            "paragraph_id": "978-0071441988-p684-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Infectious droplet nuclei typically measure around 6-10 \u00b5m in diameter.",
+        "false_answer": "Infectious droplet nuclei typically measure around 6-10 \u00b5m in diameter.",
+        "incorrect_explanation": "According to the given information, infectious droplet nuclei actually measure approximately 1\u20135 \u00b5m in diameter, not 6-10 \u00b5m. Therefore, the statement provided as an answer contains a factual error regarding the size of infectious droplet nuclei.",
+        "question": "What is typically considered the approximate diameter range of infectious droplet nuclei?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 275,
+            "paragraph_id": "978-0071441988-p275-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "More than 50%.",
+        "false_answer": "More than 50%.",
+        "incorrect_explanation": "According to the paragraph, bacteria were found in less than 6% of fecal samples, implying that more than 94% did not test positive for bacteria, suggesting a higher likelihood of finding viral infections among the remaining samples. However, there's no explicit statement supporting the claim that over 50% specifically tested positive for viral infections. Instead, the focus was on identifying common causes rather than percentages of positives for viral infections.",
+        "question": "What percentage of non-bacterial fecal samples tested positive for viral infections in prospective studies identified in the given text?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 296,
+            "paragraph_id": "978-0071441988-p296-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A daily dose of 250 mg of clarithromycin.",
+        "false_answer": "A daily dose of 250 mg of clarithromycin.",
+        "incorrect_explanation": "According to the provided information, the actual dosage of clarithromycin administered to patients with lepromatous leprosy is 500 mg daily, significantly higher than what was incorrectly stated. Therefore, the correct dosage should reflect this amount to ensure accurate representation of the treatment protocol.",
+        "question": "What dosage of clarithromycin is administered daily to patients with lepromatous leprosy?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 288,
+            "paragraph_id": "978-0071441988-p288-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20% of patients.",
+        "false_answer": "Approximately 20% of patients.",
+        "incorrect_explanation": "According to the provided paragraph, the statement regarding the percentage of patients experiencing Adult Respiratory Distress Syndrome (ARDS) is inaccurate. Specifically, the paragraph mentions that ARDS occurs in approximately 55% of patients with streptococcal TSS, not 20%.\n- **Correct Answer Should Be:** Around 55%.",
+        "question": "What percentage of patients with streptococcal toxic shock syndrome experience Adult Respiratory Distress Syndrome?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 267,
+            "paragraph_id": "978-0071441988-p267-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Joseph Lister introduced practical aseptic techniques in 1850.",
+        "false_answer": "1850",
+        "incorrect_explanation": "According to the provided text, Joseph Lister introduced practical aseptic techniques for the prevention of surgical infection, but the exact year specified in the paragraph is not 1850; instead, it mentions events happening after 1874, suggesting a timeline but does not specify Lister's introduction precisely within the paragraphs' detailed historical accounts.\n- **Correct Answer Should Be:** Based on general historical knowledge outside the scope of this task, Joseph Lister indeed introduced antisepsis practices during surgeries in the late 1860s, specifically starting around 1865, marking significant improvements in surgical hygiene. However, since our instructions limit us to information found within the given paragraph, we cannot accurately determine the exact year from the provided text alone, making any specific year cited potentially inaccurate unless derived from broader contextual understanding beyond what is presented here.",
+        "question": "What year did Joseph Lister introduce practical aseptic techniques for the prevention of surgical infection?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 263,
+            "paragraph_id": "978-0071441988-p263-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "8\u201315 days.",
+        "false_answer": "8\u201315 days.",
+        "incorrect_explanation": "According to the table under the epidemiological features for Norovirus, the inoculum duration required for shedding is actually listed as \"Enteric (until 48 h normal stool)\" indicating a much shorter timeframe than what was given in the false answer; specifically, the correct answer mentions nothing beyond a 48-hour window following recovery which implies less than 8 days total when considering typical illness durations.",
+        "question": "What duration range is specified for Norovirus shedding?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 292,
+            "paragraph_id": "978-0071441988-p292-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Improved treatments leading to better outcomes.",
+        "false_answer": "Improved treatments leading to better outcomes.",
+        "incorrect_explanation": "According to the paragraph, the actual reason given for the decrease in healthcare-associated tuberculosis transmission risk recognized by the new guidelines issued in 2005 is attributed to several factors including a change in healthcare practices since 1994 and better scientific data on transmission and control being applicable, rather than specifically improved treatments alone.",
+        "question": "What was the primary factor driving the decrease in healthcare-associated tuberculosis transmission between 1994 and 2005?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 282,
+            "paragraph_id": "978-0071441988-p282-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The lack of strict hand hygiene protocols among healthcare staff was found to be the leading reason behind these outbreaks.",
+        "false_answer": "Lack of strict hand hygiene protocols among healthcare staff being the primary factor.",
+        "incorrect_explanation": "While maintaining proper hand hygiene is crucial in preventing the spread of infectious agents, the provided texts do not specifically mention this as the primary factor identified by researchers in relation to outbreaks of hepatitis B virus infection among hemodialysis patients in those regions. Instead, they highlight issues more closely related to blood exposure risks and potential lapses in infection control practices rather than focusing exclusively on hand hygiene.\n- **Correct Approach Should Be:** To accurately determine the primary factors contributing to hepatitis B outbreaks in specified locations according to the referenced studies would require examining each individual study's findings which may point towards factors such as contaminated equipment, improper sterilization techniques, or breaches in standard precautions regarding blood handling and patient contact.",
+        "question": "What was the primary factor identified by researchers studying outbreaks of hepatitis B virus infection among hemodialysis patients in California, Nebraska, and Texas?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 305,
+            "paragraph_id": "978-0071441988-p305-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The first edition.",
+        "false_answer": "The first edition.",
+        "incorrect_explanation": "According to the given sources, the chapter written by Shulman ST and Tanz RR titled \"Streptococcus pyogenes\" was included in the second edition (\"Long: Principles and Practice of Pediatric Infectious Diseases\") edited by Long SS, Pickering LK, and Prober CG.\n- **Correct Answer Should Be:** Second edition.",
+        "question": "Which edition of \"Principles and Practice of Pediatric Infectious Diseases\" edited by Long includes the chapter written by Shulman ST and Tanz RR titled \"Streptococcus pyogenes\"?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 311,
+            "paragraph_id": "978-0071441988-p311-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The report was published in 2002.",
+        "false_answer": "The report was published in 2002.",
+        "incorrect_explanation": "According to reference number 184, the publication actually occurred in 2004 following a meeting held in 2001, indicating the answer given contains a factual error regarding the year of publication.\n- **Correct Answer Should Be:** The World Health Organization's report *Rheumatic Fever and Rheumatic Heart Disease: Report of a WHO Expert Consultation, Geneva, 29 October-1 November, 2001.* was published in 2004.",
+        "question": "What year did the World Health Organization publish their expert consultation report titled *Rheumatic Fever and Rheumatic Heart Disease*?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 315,
+            "paragraph_id": "978-0071441988-p315-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The book titled *Hearing: Physiology and Disorders of the Auditory System* was published in 2007.",
+        "false_answer": "The publication year given for the book *Hearing: Physiology and Disorders of the Auditory System* was 2007.",
+        "incorrect_explanation": "According to the paragraph, this book by Moller AR was actually published in 2006, making the statement incorrect because it incorrectly specifies the publication year as one later than what is documented.",
+        "question": "What year was the book titled *Hearing: Physiology and Disorders of the Auditory System* published?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 787,
+            "paragraph_id": "978-0071441988-p787-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The estimated pinch force required to move a bundle of notebooks to the case was approximately 15N.",
+        "false_answer": "Approximately 15N.",
+        "incorrect_explanation": "According to the given information, the actual force needed to move a bundle of notebooks to the case (\"Pinch/move notebooks to case\") was 25N per hand, which makes the statement regarding 15N inaccurate.",
+        "question": "What is the estimated pinch force required to handle a bundle of notebooks during the step described as moving them to the case?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 795,
+            "paragraph_id": "978-0071441988-p795-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Vinclozolin",
+        "false_answer": "Vinclozolin",
+        "incorrect_explanation": "According to the given information, two pesticides, chlordecone (Kepone) and DBCP (dibromochloropropane), are documented causes of sterility in male factory workers. While vinclozolin acts as an antiandrogen in animal studies, there's no mention of it causing sterility among male factory workers.",
+        "question": "What chemical specifically caused sterility among male factory workers?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 746,
+            "paragraph_id": "978-0071441988-p746-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The variation in ear canal length determines how susceptible someone is to noise-induced hearing loss.",
+        "false_answer": "The variation in ear canal length determines how susceptible someone is to noise-induced hearing loss.",
+        "incorrect_explanation": "While the paragraph does mention that the length of the ear canal influences the resonance frequency of amplified sounds, thereby affecting the frequency of maximum hearing loss (around 4 kHz), it indicates that susceptibility to NIHL varies widely among individuals due to various factors, not just ear canal length. Other factors discussed include genetic predispositions (like high blood pressure) and variations in cochlear blood flow, suggesting that susceptibility is multifactorial rather than being primarily determined by ear canal length alone.",
+        "question": "What is the primary factor determining the variability in hearing loss among individuals exposed to identical noise conditions?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 783,
+            "paragraph_id": "978-0071441988-p783-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 20%.",
+        "false_answer": "Approximately 20%.",
+        "incorrect_explanation": "The actual percentage estimated to be attributable to natural background radiation is less than 3%, indicating that the false answer significantly overestimates the contribution of natural background radiation to cancer incidence.",
+        "question": "What percentage of all cancers in the general population is estimated to be attributable to natural background radiation according to extrapolations based on the linear-nonthreshold model?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 765,
+            "paragraph_id": "978-0071441988-p765-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5% of those surveyed had hypothermic morning deep-body temperatures.",
+        "false_answer": "Approximately 5% of those surveyed had hypothermic morning deep-body temperatures.",
+        "incorrect_explanation": "According to the given information, actually, only 0.5% of the 1020 persons aged 65 and over surveyed in Great Britain during winter had hypothermic morning deep-body temperatures (<35\u00b0C), not 5%.",
+        "question": "What percentage of individuals surveyed in a wintertime survey conducted in Great Britain who were 65 years old or over had hypothermic morning deep-body temperatures?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 757,
+            "paragraph_id": "978-0071441988-p757-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "EPEC accounts for approximately 20% of all episodes of diarrhea in hospitalized children.",
+        "false_answer": "Approximately 20%",
+        "incorrect_explanation": "According to the paragraph, EPEC actually causes 15.6% of diarrhea in hospitalized children, making the statement of accounting for 20% incorrect.",
+        "question": "What percentage of diarrhea cases does enteropathogenic Escherichia coli (EPEC) account for in hospitalized children according to the given data?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 334,
+            "paragraph_id": "978-0071441988-p334-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "From 1991 to 2004, the prevalence of MRSA in NNIS hospitals decreased from 40% to 35%, showing a decline in antibiotic-resistant infections during this period.",
+        "false_answer": "A decrease in MRSA prevalence from 40% to 35%.",
+        "incorrect_explanation": "According to the provided information, the actual percentages indicate an increase rather than a decrease. Specifically, MRSA in NNIS hospitals increased from 29% of HAIs in ICUs in 1991 to 64% in 2004, which shows a substantial rise in the prevalence of MRSA, contrary to the claim of a decrease.",
+        "question": "What percentage increase occurred in the prevalence of methicillin-resistant *Staphylococcus aureus* (MRSA) in NNIS hospitals from 1991 to 2004?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 361,
+            "paragraph_id": "978-0071441988-p361-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of the earth's population is estimated to be infected with *Entamoeba histolytica*.",
+        "false_answer": "Approximately 50% of the earth's population is estimated to be infected with *Entamoeba histolytica*.",
+        "incorrect_explanation": "The statement claims that 50% of the earth's population is infected with *Entamoeba histolytica*, whereas according to the given information, *E. histolytica* and non-pathogenic *Entamoeba dispar* together infect 10% of the earth's population, with the actual prevalence of *E. histolytica* specifically not quantified separately but implied to be a portion of this 10%.",
+        "question": "What percentage of the earth's population is estimated to be infected with *Entamoeba histolytica*?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 339,
+            "paragraph_id": "978-0071441988-p339-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Heating at 60\u00b0C for 30 minutes.",
+        "false_answer": "Heating at 60\u00b0C for 30 minutes.",
+        "incorrect_explanation": "According to the control measures described, preventing food-borne outbreaks requires heating at 71.7\u00b0C for 15 seconds, among other methods. Therefore, the statement regarding 60\u00b0C for 30 minutes is inaccurate.",
+        "question": "What temperature does food need to reach to prevent Giardia outbreaks?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 346,
+            "paragraph_id": "978-0071441988-p346-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 50% of fetuses survive.",
+        "false_answer": "Approximately 50% of fetuses survive.",
+        "incorrect_explanation": "According to the paragraph, about 95% of fetuses of infected mothers may die during the third trimester of pregnancy, implying that around 5% might survive, not 50%.",
+        "question": "What percentage of fetuses of infected mothers typically survive Lassa fever during the third trimester of pregnancy?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 379,
+            "paragraph_id": "978-0071441988-p379-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The guidelines were published in 2002.",
+        "false_answer": "The guidelines were published in 2002.",
+        "incorrect_explanation": "According to the information provided, the publication actually occurred in 2004, not 2002, under the title \"Guidelines for preventing health care-associated pneumonia.\"\n- **Correct Answer Should Be:** The correct year when the Centers for Disease Control and Prevention published the guidelines for preventing health-care associated pneumonia was indeed 2004, as indicated by the reference mentioning \"Recommendations... 2003: recommendations of CDC and the Healthcare Infection Control Practices Advisory Committee,\" which aligns with a release in 2004 following these guidelines' development in 2003.",
+        "question": "What year did the Centers for Disease Control publish guidelines for preventing health-care associated pneumonia?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 364,
+            "paragraph_id": "978-0071441988-p364-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The World Health Organization facilitates common encryption standards for digital storage of medical records.",
+        "false_answer": "The World Health Organization facilitates common encryption standards for digital storage of medical records.",
+        "incorrect_explanation": "The paragraph actually mentions that the World Health Organization disseminates an International Classification of Diseases, which facilitates common coding of medical records, not encryption standards for digital storage.\n- **Correct Answer Should Be:** The World Health Organization facilitates common coding of medical records through the dissemination of the International Classification of Diseases.",
+        "question": "What does the World Health Organization primarily facilitate regarding medical records?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 818,
+            "paragraph_id": "978-0071441988-p818-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The Coalition proposed striving to eliminate all environmental, health, and safety risks completely.",
+        "false_answer": "Striving to eliminate all environmental, health, and safety risks completely.",
+        "incorrect_explanation": "According to the paragraph, the Coalition's actual commitment under the Ceres Principles includes minimizing the environmental, health, and safety risks to employees and communities through safe technologies, facilities, and operating procedures, rather than eliminating them completely.",
+        "question": "What principle did the Coalition for Environmentally Responsible Economics propose to minimize the environmental, health, and safety risks?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 833,
+            "paragraph_id": "978-0071441988-p833-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "As an advocate and counselor, the physician advises the patient primarily on legal matters surrounding benefits claims.",
+        "false_answer": "The physician's primary advisory role as an advocate and counselor focuses on legal aspects of benefit claims.",
+        "incorrect_explanation": "According to the provided text, the physician acts as an advocate and counselor by advising the patient of disease-specific issues related to initiating or returning to work, outlining the rehabilitation process, discussing possible accommodations, providing information about compensation and rehabilitation programs, and making referrals to services. There is no mention of focusing primarily on legal matters surrounding benefits claims.\n- **Correct Answer Should Be:** As an advocate and counselor, the physician advises the patient on disease or injury-specific issues, rehabilitation processes, and discusses possible accommodations and program options.",
+        "question": "What role does the physician assume when acting as an advocate and counselor to the patient during the rehabilitation process?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 826,
+            "paragraph_id": "978-0071441988-p826-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The book titled *Patty's Industrial Hygiene* edited by Harrison was published in 1996.",
+        "false_answer": "1996",
+        "incorrect_explanation": "According to the given information, the actual publication year of *Patty's Industrial Hygiene* edited by Harrison is listed under reference number 6 as being published in 2003, not 1996.",
+        "question": "What year was the publication titled *Patty's Industrial Hygiene* edited by Harrison?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 813,
+            "paragraph_id": "978-0071441988-p813-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary factor determining the hazard associated with airborne particulate matter is the color of the material.",
+        "false_answer": "The primary factor determining the hazard associated with airborne particulate matter is the color of the material.",
+        "incorrect_explanation": "According to the paragraph, the hazard associated with airborne particulate matter is determined by three main factors: \"(a) the biological activity of the material, (b) concentration of the airborne material, and (c) airborne particle size.\" Color is not listed among these factors; therefore, stating that the color of the material determines the hazard is incorrect.",
+        "question": "What is the primary factor determining the hazard associated with airborne particulate matter?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 808,
+            "paragraph_id": "978-0071441988-p808-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Children start getting involved in the extraction of gold using liquid mercury at the age of ten.",
+        "false_answer": "Children start getting involved in the extraction of gold using liquid mercury at the age of ten.",
+        "incorrect_explanation": "According to the text, children become miners as early as the age of five, indicating that the involvement starts earlier than the stated age of ten.",
+        "question": "How old are children when they start being involved in the extraction of gold through the use of liquid mercury in Nambija?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 836,
+            "paragraph_id": "978-0071441988-p836-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ticks",
+        "false_answer": "Ticks",
+        "incorrect_explanation": "According to the provided information, the primary vectors responsible for transmitting diseases caused by *Leishmania* species are actually sand flies, not ticks. Sand flies are specifically mentioned throughout the text as being involved in the transmission of various forms of leishmaniasis.",
+        "question": "What is the primary vector responsible for transmitting diseases caused by *Leishmania* species?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 421,
+            "paragraph_id": "978-0071441988-p421-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The fever in Murine typhus lasts for approximately three to four weeks.",
+        "false_answer": "The fever in Murine typhus lasts for approximately three to four weeks.",
+        "incorrect_explanation": "According to the paragraph, the fever in Murine typhus actually lasts for 1\u20132 weeks, often accompanied by persistent headache, myalgia, vomiting, abdominal pains, conjunctivitis, splenomegaly, and pneumonitis.",
+        "question": "What is the typical duration of the fever associated with Murine typhus?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 392,
+            "paragraph_id": "978-0071441988-p392-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "P. falciparum",
+        "false_answer": "P. falciparum",
+        "incorrect_explanation": "According to the paragraph, P. falciparum is actually capable of infecting both mature and immature red blood cells, unlike P. vivax and P. ovale, which selectively infect immature red blood cells and reticulocytes. Thus, the statement that P. falciparum causes selective infections primarily in immature red blood cells is false.",
+        "question": "What type of malaria tends to cause selective infections primarily in immature red blood cells?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 403,
+            "paragraph_id": "978-0071441988-p403-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Murine typhus bacterium",
+        "false_answer": "Murine typhus bacterium",
+        "incorrect_explanation": "According to TABLE 15-7, Epidemic Typhus (louse-borne human typhus) is actually caused by *Rickettsia prowazekii*. Murine typhus, also listed in the table, is caused by *Rickettsia typhi* and transmitted via the oriental rat flea (*Xenopsylla cheopis*) among rats and other animals. Therefore, stating that murine typhus bacterium causes epidemic typhus introduces a significant factual error regarding both the causative agent and the transmission dynamics between these distinct types of typhus.",
+        "question": "What organism causes Epidemic Typhus?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 389,
+            "paragraph_id": "978-0071441988-p389-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The 17D vaccine confers immunity for approximately 5 years.",
+        "false_answer": "The 17D vaccine confers immunity for approximately 5 years.",
+        "incorrect_explanation": "According to the text, the 17D vaccine actually confers long-lasting, perhaps lifetime immunity, though international travel requirements suggest re-immunization every 10 years. Therefore, the statement about 5 years of immunity is incorrect.",
+        "question": "What is the duration of immunity conferred by the 17D yellow fever vaccine?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 383,
+            "paragraph_id": "978-0071441988-p383-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Poisonings were responsible for 10% of deaths among 16- and 17-year-olds in the workforce.",
+        "false_answer": "Poisonings accounted for 10% of deaths among 16- and 17-year-olds in the workforce.",
+        "incorrect_explanation": "According to the study by Castillo et al., poisonings actually constituted 3.0% of deaths among 16- and 17-year-olds, making the statement of 10% significantly inaccurate.",
+        "question": "What percentage of deaths among 16- and 17-year-olds in the workforce was attributed to poisonings, according to the study by Castillo et al.?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 864,
+            "paragraph_id": "978-0071441988-p864-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "San Sebastian published this research in 2001.",
+        "false_answer": "2001",
+        "incorrect_explanation": "While San Sebastian indeed conducted research on outcomes of pregnancy among women living near oil fields in the Amazon basin of Ecuador, according to reference 248, they actually published their findings in 2002, specifically looking at \"Outcomes of pregnancy among women living in the proximity of oil fields in the Amazon basin of Ecuador.\"",
+        "question": "What year did San Sebastian publish research on outcomes of pregnancy among women living in the proximity of oil fields in the Amazon basin of Ecuador?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 843,
+            "paragraph_id": "978-0071441988-p843-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 35% of female farmworkers engaged in binge drinking.",
+        "false_answer": "Approximately 35% of female farmworkers engaged in binge drinking.",
+        "incorrect_explanation": "The paragraph mentions binge drinking statistics specifically for male workers, stating that more than one-fourth (28%) of them engaged in binge drinking, but does not provide corresponding data for female farmworkers.",
+        "question": "What percentage of female farmworkers experienced binge drinking according to the CAWHS study?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 849,
+            "paragraph_id": "978-0071441988-p849-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The MCLG for Antimony is 0.05 mg/L.",
+        "false_answer": "The MCLG for Antimony is 0.05 mg/L.",
+        "incorrect_explanation": "According to TABLE 48-5, the actual MCLG for Antimony is listed as 0.006 mg/L, which indicates that the given answer contains a significant increase over the specified limit, thereby being incorrect.",
+        "question": "What is the Maximum Contaminant Level Goal (MCLG) for Antimony?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 895,
+            "paragraph_id": "978-0071441988-p895-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Ultraviolet light treatment.",
+        "false_answer": "Ultraviolet light treatment.",
+        "incorrect_explanation": "According to the paragraph, the primary method for eliminating Clostridium botulinum in canned goods is actually the terminal heat process applied after filling and sealing the cans, not ultraviolet light treatment.",
+        "question": "What method is primarily used to eliminate Clostridium botulinum in canned goods?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 883,
+            "paragraph_id": "978-0071441988-p883-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The first publication titled *Drinking Water and Health* appeared in 1968.",
+        "false_answer": "The first publication titled *Drinking Water and Health* appeared in 1968.",
+        "incorrect_explanation": "According to the paragraph, the first edition of *Drinking Water and Health* was actually published in 1977, not 1968, making the given answer incorrect.",
+        "question": "What year did the first publication titled *Drinking Water and Health* appear?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 901,
+            "paragraph_id": "978-0071441988-p901-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The most recent MMWR Surveillance Summary detailing water-borne disease outbreaks associated with drinking water was published in 2010.",
+        "false_answer": "The CDC published the most recent MMWR Surveillance Summary detailing water-borne disease outbreaks associated with drinking water in 2010.",
+        "incorrect_explanation": "According to the given information, the most recent MMWR Surveillance Summary detailing water-borne disease outbreaks associated with drinking water was actually published in 2004, which covers the data collection period of 2001-2002. Therefore, the publication year stated in the answer is incorrect.",
+        "question": "What year did the CDC publish the most recent MMWR Surveillance Summary detailing water-borne disease outbreaks associated with drinking water?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 905,
+            "paragraph_id": "978-0071441988-p905-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 35% of recreational water outbreaks were associated with untreated freshwater.",
+        "false_answer": "Approximately 35% of recreational water outbreaks were associated with untreated freshwater.",
+        "incorrect_explanation": "The actual percentage of recreational water outbreaks associated with untreated freshwater was 32.3%, not 35%. Therefore, the statement is incorrect because it inaccurately represents the data provided in the paragraph.",
+        "question": "What percentage of recreational water outbreaks reported in 2001-2002 was associated with untreated freshwater?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 910,
+            "paragraph_id": "978-0071441988-p910-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "At temperatures below 9.5\u00b0C, chlorine becomes significantly lighter than air, making it easier to handle but potentially leading to unexpected dispersion patterns.",
+        "false_answer": "Chlorine becomes significantly lighter than air at temperatures below 9.5\u00b0C.",
+        "incorrect_explanation": "According to the paragraph, chlorine actually forms chlorine hydrate or \"chlorine ice\" when combined with water at temperatures below 9.5\u00b0C, not becoming lighter than air. Moreover, chlorine is inherently heavier than air, regardless of temperature changes around this point.",
+        "question": "What happens if the temperature drops below 9.5\u00b0C during chlorine handling?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 915,
+            "paragraph_id": "978-0071441988-p915-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Approximately 5-6% of the original wastewater flow.",
+        "false_answer": "Approximately 5-6%",
+        "incorrect_explanation": "According to the paragraph, the sludge produced by trickling filter treatment represents approximately 0.05\u20130.1% of the original wastewater flow under treatment, not 5-6%.",
+        "question": "What percentage of the original wastewater flow does the sludge produced by trickling filter treatment typically represent?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 920,
+            "paragraph_id": "978-0071441988-p920-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Clinically rabid domestic animals often recover completely if treated promptly.",
+        "false_answer": "Clinically rabid domestic animals often recover completely if treated promptly.",
+        "incorrect_explanation": "According to the given information, ordinary clinically rabid domestic animals, such as dogs, cats, and ferrets, typically succumb within 3\u20137 days of illness, indicating they do not recover but instead die from the disease.",
+        "question": "What typically happens to a clinically rabid domestic animal?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 447,
+            "paragraph_id": "978-0071441988-p447-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The report was published in 2002.",
+        "false_answer": "2002",
+        "incorrect_explanation": "According to the given information, the actual publication year of the report is different. \n- **Correct Answer Should Be:** 2004, which matches the year listed in the referenced document from the World Health Organization regarding the role of parasitologic diagnosis in supporting malaria disease management.",
+        "question": "What year did the report titled \"Report of a Technical Consultancy to review the role of parasitologic diagnosis to support malaria disease management: Focus on use of RDT in areas of high transmission deploying ACT\" get published?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 435,
+            "paragraph_id": "978-0071441988-p435-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The primary determinant of the geographic distribution of lymphatic filariasis is the availability of suitable hosts among local wildlife populations.",
+        "false_answer": "The primary determinant of the geographic distribution of lymphatic filariasis is the availability of suitable hosts among local wildlife populations.",
+        "incorrect_explanation": "According to the paragraph, the geographic distribution of lymphatic filariasis is actually primarily determined by the ability of the parasite to adapt to different mosquito vectors, not by the availability of suitable hosts among local wildlife populations. While certain animal species can act as reservoirs for some types of filarial infections, such as *B. malayi* in parts of Malaysia, the main factor influencing the spread and presence of lymphatic filariasis globally is the adaptation capability of the parasite within various mosquito species.",
+        "question": "What is the primary method through which the geographic distribution of lymphatic filariasis is determined?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 425,
+            "paragraph_id": "978-0071441988-p425-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "The first reported outbreak occurred in 1995.",
+        "false_answer": "The first reported outbreak occurred in 1995.",
+        "incorrect_explanation": "According to the given sources, there were reports of Ebola hemorrhagic fever before 1995, specifically mentioning an international commission's report in 1978 regarding an outbreak in Zaire in 1976.\n- **Correct Answer Should Be:** Based on the information available, the first reported outbreak actually refers to the event documented in Zaire in 1976, making the correct year of occurrence 1976 rather than 1995.",
+        "question": "What year did the first reported outbreak of Ebola hemorrhagic fever occur?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 428,
+            "paragraph_id": "978-0071441988-p428-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "A woman becoming infected with *Toxoplasma* shortly before conception guarantees that her child will be born infected.",
+        "false_answer": "The statement claims that being infected just before conception always results in the birth of an infected child.",
+        "incorrect_explanation": "According to the provided information, evidence actually suggests that if a woman becomes infected a few weeks before conception, it is unlikely that the infant will be born infected. Therefore, the guarantee implied in the answer does not align with what is presented.",
+        "question": "What typically happens if a woman becomes infected with *Toxoplasma* just before conception?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 467,
+            "paragraph_id": "978-0071441988-p467-para1"
+        },
+        "type": "short_inverse"
+    },
+    {
+        "answer": "Adult Echinococcus species are approximately 20-50 cm in length.",
+        "false_answer": "Adult Echinococcus species are approximately 20-50 cm in length.",
+        "incorrect_explanation": "According to the paragraph, the actual length range of adult Echinococcus species is about 2\u201312 mm, not centimeters. Thus, the statement significantly exaggerates their size.",
+        "question": "What is the typical length range of adult Echinococcus species?",
+        "source": {
+            "isbn": "978-0071441988",
+            "page": 475,
+            "paragraph_id": "978-0071441988-p475-para1"
+        },
+        "type": "short_inverse"
     }
 ]
