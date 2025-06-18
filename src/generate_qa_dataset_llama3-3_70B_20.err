@@ -1,64 +1,0 @@
-[+] Loading gcc  11.3.0  ... 
-[+] Loading CUDA Toolkit  12.1.0  ... 
-[+] Loading cuDNN/8.9.2/CUDA-12 libraries...
-Device set to use cuda:0
-Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [00:15<07:28, 15.46s/it]Loading checkpoint shards:   7%|▋         | 2/30 [00:31<07:28, 16.02s/it]Loading checkpoint shards:  10%|█         | 3/30 [00:49<07:33, 16.80s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [01:06<07:22, 17.03s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [01:22<06:50, 16.43s/it]Loading checkpoint shards:  20%|██        | 6/30 [01:38<06:29, 16.24s/it]Loading checkpoint shards:  23%|██▎       | 7/30 [01:53<06:07, 15.96s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [02:12<06:12, 16.95s/it]Loading checkpoint shards:  30%|███       | 9/30 [02:30<06:02, 17.25s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [02:47<05:45, 17.29s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [03:04<05:21, 16.91s/it]Loading checkpoint shards:  40%|████      | 12/30 [03:20<05:00, 16.67s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [03:39<04:56, 17.47s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [04:00<04:59, 18.70s/it]Loading checkpoint shards:  50%|█████     | 15/30 [04:21<04:47, 19.20s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [04:40<04:29, 19.24s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [05:01<04:14, 19.59s/it]Loading checkpoint shards:  60%|██████    | 18/30 [05:23<04:05, 20.48s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [05:44<03:46, 20.58s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [06:02<03:19, 19.95s/it]Loading checkpoint shards:  70%|███████   | 21/30 [06:20<02:52, 19.19s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [06:37<02:29, 18.68s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [06:56<02:11, 18.82s/it]Loading checkpoint shards:  80%|████████  | 24/30 [07:17<01:56, 19.43s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [07:37<01:37, 19.45s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [07:56<01:17, 19.39s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [08:16<00:58, 19.44s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [08:37<00:40, 20.01s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [08:59<00:20, 20.61s/it]Loading checkpoint shards: 100%|██████████| 30/30 [09:08<00:00, 16.98s/it]Loading checkpoint shards: 100%|██████████| 30/30 [09:08<00:00, 18.27s/it]
-Device set to use cuda:0
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-/data/coleloughbc/miniconda3/envs/ClinIQLink/lib/python3.10/site-packages/spacy/pipeline/lemmatizer.py:211: UserWarning: [W108] The rule-based lemmatizer did not find POS annotation for one or more tokens. Check that your pipeline includes components that assign token.pos, typically 'tagger'+'attribute_ruler' or 'morphologizer'.
-  warnings.warn(Warnings.W108)
-slurmstepd: error: *** JOB 48825939 ON cn0104 CANCELLED AT 2025-02-24T17:20:07 DUE TO TIME LIMIT ***

@@ -5,8 +5,8 @@
 #SBATCH --cpus-per-task=32               # Allocate 4 CPU cores for the task
 #SBATCH --mem=32G                       # Allocate 16 GB of memory
 #SBATCH --time=01:00:00                 # Set a time limit of 1 hour
-#SBATCH --job-name=preprocess_textbook_2  # Name the job
-#SBATCH --output=preprocess_textbook_2.out # Redirect output to a file
+#SBATCH --job-name=preprocess_textbook  # Name the job
+#SBATCH --output=preprocess_textbook.out # Redirect output to a file
 
 # Set temporary directories
 export TMPDIR=/data/coleloughbc/tmp
@@ -26,8 +26,8 @@ cd /data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink
 BASEDIR="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink"
 SCRIPT_DIR="$BASEDIR/include"
 # DATA_DIR="$BASEDIR/data"
-DATA_DIR="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink/data/anatomy"
-OUTPUT_DIR="$BASEDIR/preprocessed_dataset/anatomy"
+DATA_DIR="/data/coleloughbc/NIH_ACL_shared-task_LLM-lie-detector/ClinIQLink/data/pharmacology"
+OUTPUT_DIR="$BASEDIR/preprocessed_dataset/pharmacology"
 
 # Ensure the output directory exists
 # mkdir -p "$OUTPUT_DIR"
