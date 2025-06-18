@@ -5,9 +5,9 @@ data
 GPT-api_key_tester.sh
 GPT-api_key_tester.py
 generation_bash_scripts
-preprocessed_dataset
 bash_scripts_process_textbook
 QA_dataset/
+preprocessed_dataset/
 
 
 # Byte-compiled / optimized / DLL files
