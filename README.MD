@@ -56,7 +56,7 @@ ClinIQLink/
 Clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/yourusername/ClinIQLink.git
+git clone https://github.com/Brandonio-c/ClinIQLink.git
 cd ClinIQLink
 ```
 ### B. Set Up the Python Environment
