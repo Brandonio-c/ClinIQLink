@@ -32,19 +32,45 @@ The QA generation process uses Named Entity Recognition (NER), semantic entropy,
 
 ``` bash
 ClinIQLink/
-├── data/                    # Contains the raw medical textbook files
-├── include/                 # Preprocessing scripts directory
-│   ├── preprocess_textbook_paragraph.py   # Script for paragraph-level preprocessing
-│   ├── preprocess_textbook_sentence.py    # Script for sentence-level preprocessing
-│   └── preprocess_textbook.sh             # Bash script for running preprocessing steps
-├── preprocess_dataset/      # Preprocessed dataset storage
-│   └── QA_Dataset/          # Final generated QA pair datasets
-├── src/                     # Source code directory for QA dataset generation
-│   └── generate_QA_dataset.py   # Main script for generating QA pairs
-├── prompt_templates/        # Templates for generating different QA types
-├── requirements.txt         # Project dependencies
-├── post_install.py          # Script to download SpaCy model
-└── README.md                # Project documentation
+├── include/
+│   ├── bash_scripts_process_textbook/
+│   ├── preprocess_textbook_paragraph.py
+│   ├── preprocess_textbook_sentence.py
+│   └── preprocess_textbook.sh
+├── LICENSE
+├── post_install.py
+├── post_processing/
+│   ├── nCloze
+│   ├── optimize_extracted_qa_dataset.py
+│   ├── optimize_extracted_qa_dataset_llama_3.py
+│   ├── requirements_optimize.txt
+│   ├── run_optimize_extracted_qa_dataset_fix_clean.sh
+│   ├── run_optimize_extracted_qa_dataset_LF.sh
+│   ├── run_optimize_extracted_qa_dataset_llama_3.sh
+│   ├── run_optimize_extracted_qa_dataset_llama_3_small.sh
+│   ├── split_mc_json.py
+│   └── split_mc_json.sh
+├── pre_processing/
+│   ├── preprocess_textbook_paragraph.py
+│   ├── preprocess_textbook_sentence.py
+│   └── preprocess_textbook.sh
+├── prompt_templates/
+│   ├── QA_LIST.prompt
+│   ├── QA_MC.prompt
+│   ├── QA_MULTI-HOP-Inverse.prompt
+│   ├── QA_MULTI-HOP.prompt
+│   ├── QA_SHORT-Inverse.prompt
+│   ├── QA_SHORT.prompt
+│   └── QA_TF.prompt
+├── README.MD
+├── requirements.txt
+└── src/
+    ├── generate_QA_dataset_multi_processing.py
+    ├── generate_QA_dataset_multi_processing.sh
+    ├── generate_QA_dataset.sh
+    ├── generate_QA_dataset.py
+    ├── model_parameter_testing.py
+    └── model_parameter_testing.sh
 ```
 
 ---
